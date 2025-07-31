@@ -1,0 +1,66 @@
+[03ED]
+[OpenMidLeft][LoadFace][0x112][OpenMidRight][LoadFace][0x12A][OpenMidRight][ToggleSmile]You're the Sword Saint...?[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[ToggleMouthMove][ToggleSmile]...They gave me that name against
+my will.[A]
+Just call me Karel.[A]
+[OpenMidRight][ToggleSmile]Master Karel, I am a Dragon
+Knight of Bern.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]...You're not going to say
+anything?[A]
+My father said you fought against
+Bern in the past.[A]
+He saw you in a rain of blood,
+slicing all those who crossed[A]
+through your path...[A]
+[OpenMidLeft][ToggleSmile]...I am through with this world.[A]
+Bern, Etruria...[A]
+They are meaningless words to
+me now.[A]
+I am only here for my family.[A]
+[OpenMidRight][ToggleSmile]...I see.[A]
+If only I could think like that...
+But I can't...[A]
+Not even after Bern has fallen...[A]
+
+[F4]
+[OpenMidLeft][LoadFace][0x140][OpenMidRight][LoadFace][0x1D7]
+[OpenMidLeft][ToggleSmile]Pourquoi cela prend-t-il autant de temps ?![A]
+Les forces de la resistance posent-elles
+autant de problemes ?![A]
+[OpenMidRight]L'armee de la federation de Lycia ![A]
+Ils soutiennent les forces de
+la resistance...[A]
+[OpenMidLeft]Comment ?![A]
+La federation de Lycia
+se retournerait contre Etruria ?[A]
+[OpenMidRight]Nous venons juste de recevoir un
+message du capitole, a Djuto ![A]
+Il dit...[A]
+"L'armee de la federation de Lycia
+est responsable du meurtre du duc Nord.[A]
+Il est aussi possible qu'elle se soit
+retournee contre Etruria.[A]
+Nous pensons qu'elle s'est alliee
+avec les bandits.[A]
+Capturez-les, ou tuez-les,
+si necessaire."[A]
+[OpenMidLeft]Alors ils ont tue le duc Nord...[A]
+[ToggleSmile]En tous cas, ils ont sorti
+une bonne excuse pour se debarrasser[A]
+de l'armee de la federation de Lycia.
+Ah ah ah... Alliee avec les bandits[A]
+hein ?
+Comme c'est ironique...[A]
+[OpenMidRight][ToggleSmile]Lord Arcard a aussi fourni quelques
+renforts pour nous aider[A]
+a capturer l'armee de la federation de Lycia.
+Ils devraient arriver d'ici peu.[A]
+[OpenMidLeft][ToggleSmile]Comme c'est genereux !
+Il a dit "capturez-les", mais il
+projette surement de les tuer de[A]
+toute maniere.[A]
+Alors faisons le travail a sa place.
+Tuez-les tous ![A]
+[OpenMidRight][ToggleSmile]Bien, monsieur ![A]
