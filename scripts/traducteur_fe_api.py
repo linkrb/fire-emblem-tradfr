@@ -11,12 +11,13 @@ load_dotenv()
 API_KEY = os.getenv("OPENAI_API_KEY")
 FICHIER_ENTREE = "echantillon.txt"
 FICHIER_SORTIE = "echantillon_traduit.txt"
-MODEL = "gpt-4-1106-preview"
+MODEL = "gpt-4"
 MAX_TOKENS_PAR_BLOC = 2048
 
 TRANSCODAGE = {
     "ê": "^", "à": "<", "é": ">", "è": "{",
-    "ù": "}", "ô": "_", "î": "|", "â": "["
+    "ù": "}", "ô": "_", "î": "|", "â": "[",
+    "À": "A", "É": "E"
 }
 
 client = OpenAI(api_key=API_KEY)
@@ -51,7 +52,7 @@ def translate_block(lines):
     response = client.chat.completions.create(
         model=MODEL,
         messages=[
-            {"role": "system", "content": "Tu es un traducteur professionnel. Traduis fidèlement chaque ligne de ce dialogue de jeu vidéo en français, sans toucher aux balises de type [A], [xxx] ou autres."},
+            {"role": "system", "content": "Tu es un traducteur professionnel. Traduis fidèlement chaque ligne de ce dialogue de jeu vidéo en français, sans toucher aux balises de type [A], [xxx] ou autres. Utilise toujours un E au lieu de É, et un A au lieu de À, même en majuscule."},
             {"role": "user", "content": joined}
         ],
         temperature=0.2,
