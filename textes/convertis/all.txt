@@ -1,0 +1,3640 @@
+﻿[8D]
+[OpenMidRight][LoadFace][0x12C][ToggleSmile]Bien, se faufiler < l'int>rieur
+>tait facile, mais il n'y a
+aucun objet de valeur < voler ![A]
+Hmm, la pi{ce au nord semble
+contenir des tr{sors, mais les[A]
+mesures de s>curit> sont
+trop grandes...[A][Clear]
+[OpenMidRight][NormalPrint]... Des bruits de pas ?[A][ClearFace][LoadOverworldFaces][......]
+[OpenMidRight][LoadFace][0x1E3][OpenMidLeft][LoadFace][0x1D7]
+[OpenMidRight][FastPrint]J'esp}re que tout va bien.[A]
+[OpenMidLeft]Oui, nos soldats se sont positionn>s
+tout autour de cette zone.[A]
+[OpenMidRight][CloseSpeechFast]Menons-les dans le ch[teau
+et attirons-les dans une embuscade,[A]
+exactement comme nous l'avons
+fait pour Lord Orun.[A]
+[OpenMidLeft]Oui, sire.[A]
+[OpenMidRight]Je veux la princesse Guinevere en vie.[A]
+Pour le reste, faites-en
+ce que vous voulez.[A]
+Maintenant, partez.[A]
+[OpenMidLeft][ClearFace]
+[OpenMidRight][NormalPrint]Ah ah ah ah ah...[A]
+[CloseSpeechFast][ToggleSmile]La petite-fille du "Loup d'Argent",
+et maintenant la princesse Guinevere...[A]
+Si nous avions tout ca < offrir,
+Biran nous accepterait surement[A]
+dans leur camp.[A]
+[OpenMidRight][ClearFace][......]
+[OpenFarFarRight][LoadFace][0x12C][MoveMidRight]Hmmm...
+ca va devenir int>ressant < pr>sent.[A]
+
+[8E]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft]He bien, pour une fois,
+nous allons pouvoir prendre
+une bonne nuit de repos, Messire Roy ![A]
+[OpenMidRight][ToggleSmile]Je me demandais.[A]
+Cet homme qui disait ^tre
+le conseiller de Lord Orun...[A]
+[OpenMidLeft]Wagner ?
+Vous l'avez trouv> suspect ?[A]
+[OpenMidRight]Il semblait tout contr_ler,
+comme si cet endroit lui appartenait.[A]
+Et nous ne pouvons m^me pas nous
+approcher de Lord Orun parce
+qu'il est "malade" ?[A]
+Il y a quelque chose qui cloche...[A]
+[OpenMidLeft]Hmm... en y r>fl>chissant, vous
+marquez un point, Messire Roy.[A][ClearFace]
+[OpenLeft][LoadFace][0x10E][CloseSpeechFast]Excusez-moi, Messire Roy.[A]
+Il semblerait qu'il y ait un
+grand nombre de soldats
+patrouillant dans cette zone.[A]
+[OpenFarLeft][LoadFace][0x10C]Je pense que nous sommes espionn>s.[A][SendToBack]
+[OpenMidRight][NormalPrint]Quoi ?
+Non...[A][SendToBack]
+[OpenFarFarLeft][LoadFace][0x12C][CloseSpeechFast]Vous avez remarqu> ?
+Impressionnant.[A]
+[OpenFarLeft][ClearFace][OpenLeft][ClearFace][OpenMidRight][MoveRight][NormalPrint] ?!
+Montrez-vous, vermine ![A]
+[OpenFarFarLeft][MoveMidLeft][ToggleSmile]Salut ![A]
+[OpenRight][FastPrint][ToggleSmile]Et... peut-on savoir
+qui vous ^tes ?[A]
+[OpenMidLeft][CloseSpeechFast]Oh, nous pourrons parler
+de moi plus tard.[A]
+Vous voyez, j'ai surpris une
+conversation de ce type, Wagner,[A]
+dans le vestibule, et ils
+disaient qu'ils allaient vous
+tendre une embuscade.[A]
+[OpenRight][NormalPrint]Lord Orun ne ferait jamais ca ![A]
+[OpenMidLeft]Ah oui, cette personne est morte.[A]
+Ce magicien des t>n}bres l'a
+assassin> ou je ne sais quoi.[A]
+[OpenRight]Quoi ?![A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Et il projette de vous capturer
+et de vous livrer < Biran pour[A]
+s'allier < eux.[A]
+[OpenFarRight][ClearFace][LoadFace][0x154][ToggleSmile]Attendez, Messire Roy ![A]
+Ne faites pas confiance
+< ce genre de gens
+si facilement ![A]
+[OpenMidLeft][ToggleSmile]Vous pouvez me croire ou non,
+c'est < vous de d>cider.[A]
+Mais n'allez pas venir me
+pleurer dessus quand vous
+aurez des ennuis ![A][SendToBack]
+[OpenFarRight][ClearFace][LoadFace][0x157][NormalPrint][ToggleSmile]Roy...
+Si ce qu'elle dit est vrai...[A][SendToBack]
+[OpenRight][CloseSpeechFast]Tendons-leur un pi{ge.
+Nous allons faire semblant
+de partir.[A]
+Si Wagner en a apr{s nous,
+il cherchera < nous retenir
+d'une facon ou d'une autre.[A]
+[OpenMidLeft][ToggleSmile]Si vous sortez,
+allez < la pi{ce du nord ![A]
+Cette pi{ce m{ne < la cour.[A]
+Ainsi, vous pourrez sortir
+en un rien de temps.[A]
+Bonne chance ![A]
+
+[8F]
+[OpenMidLeft][LoadFace][0x1E3][OpenFarRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Oh, Messire Roy !
+O} allez-vous ?[A]
+Nous allions vous escorter
+< l'int>rieur du ch_teau.[A]
+Venez par ici, je vous prie.[A]
+[OpenFarRight][NormalPrint]Toutes mes excuses, monsieur,[A]
+mais je viens de recevoir
+un rapport de la
+plus haute importance.[A]
+Excusez-nous, mais nous devons
+partir sur-le-champ.[A]
+[OpenMidLeft]Oh... Mais je ne peux certainement pas
+vous laisser partir sans[A]
+vous avoir pr>sent> mes respects
+ni vous avoir offert un endroit
+o} loger ![A]
+Lord Orun ne me le
+pardonnerait jamais ![A]
+S'il vous plait, Messire Roy,
+ne voulez-vous pas passer
+une seule nuit ici ?[A]
+[OpenFarRight]Ne vous en faites pas,
+je pr>viendrai moi-m^me Lord Orun
+que ce n'>tait pas
+de votre faute.[A]
+Je lui pr>senterai
+mes hommages.[A]
+Menez-nous < sa chambre,
+je vous prie.[A]
+[OpenMidLeft]Comme je l'ai dit, Messire Roy, Lord
+Orun est "malade" et ne peut
+vous voir.[A]
+[OpenFarRight]Je suis d>sol>, monsieur, mais si
+nous ne pouvons pas le voir,[A]
+nous n'avons plus aucune raison
+de rester. Nous avons
+affaire ailleurs.[A]
+Excusez-nous,
+mais nous devons partir.[A]
+[OpenMidLeft][MoveLeft][NormalPrint]Vous allez partir...
+quoi que je fasse ?[A]
+[OpenRight][ToggleMouthMove]... ...[A]
+[OpenLeft][CloseSpeechFast][ToggleMouthMove]Dans ce cas, je n'ai pas d'autre
+choix que de vous tuer maintenant ![A]
+Soldats ! Attaquez ![A]
+Tuez-les tous, sauf
+la Princesse Guinevere ![A][ClearFace]
+[OpenRight]Diantre !
+Ils s'en prenaient donc
+< nous ![A]
+[OpenMidLeft][LoadFace][0x10E]Messire Roy ![A]
+M^me si nous fuions
+par ici,
+ils nous attaqueraient par derri}re ![A]
+[OpenRight]Dans ce cas, prenons
+ce ch[teau d'assaut !
+Tout le monde, en avant ![A]
+
+[90]
+[OpenMidRight][LoadFace][0x12C][FastPrint]Ouaah,
+ils sont en train[A]
+de se battre.[A]
+[CloseSpeechFast]Je devrais prendre
+ce que je peux,[A]
+tant que je le peux encore.[A]
+
+[91]
+[OpenMidRight][LoadFace][0x106][FastPrint][ToggleSmile]Tout ce vacarme...[A][Clear]
+Une bataille ?
+Que se passe-t-il dehors ?[A]
+
+[92]
+[OpenMidLeft][LoadFace][0x106][OpenMidRight][LoadFace][0x102][OpenMidLeft][NormalPrint][ToggleSmile]Qui ^tes-vous ?[A]
+[OpenMidRight][FastPrint]Quoi ?
+Qu'est-ce qu'une fille
+peut bien faire ici ?[A]
+[OpenMidLeft] ? ...
+Vous n'^tes pas du ch[teau ?[A]
+[OpenMidRight]Qui ^tes-vous ?
+Oh, je m'appelle Roy.[A]
+[OpenMidLeft]Je suis Sue.
+C'est vous qui faites autant de bruit ?[A]
+[OpenMidRight][NormalPrint]Du bruit ?[A]
+[OpenMidLeft]Le vacarme de la bataille.[A]
+[OpenMidRight][CloseSpeechFast]Oh, oui.[A]
+Nous combattons les occupants
+de ce ch[teau.[A]
+C'est une longue histoire...[A]
+[OpenMidLeft][FastPrint]Je vois.
+Dans ce cas, je suis avec vous.[A]
+[OpenMidRight][NormalPrint]?[A]
+[OpenMidLeft][FastPrint]Les occupants de ce ch[teau
+sont aussi mes ennemis.[A]
+[OpenMidRight]Quoi ?
+Que voulez-vous dire... ?[A]
+[OpenMidLeft]Donnez-moi un arc,
+s'il vous plait.[A]
+Je me battrai < vos c_t>s.[A]
+
+[93]
+[LoadFace][0x1E3][ToggleSmile]Soyez maudits,
+bande de subordonn>s inutiles ![A]
+Bien,
+je n'ai plus le choix.[A][Clear]
+Admirez ma magie...[A]
+Et inclinez-vous devant
+sa puissance ![A]
+
+[94]
+[LoadFace][0x1E3]
+[ToggleSmile]Non...
+Mon plan...
+>tait parfait...[A]
+
+[95]
+[OpenMidLeft][LoadFace][0x106][OpenMidRight][LoadFace][0x102][OpenMidRight][CloseSpeechFast][ToggleSmile]... Donc vous ^tes la petite-fille
+du chef d'un des clans de Sacae ?[A]
+[OpenMidLeft]Mon grand-p{re est le guerrier le
+plus puissant de Sacae.A]
+On l'appelle
+le "Loup d'Argent."[A]
+[OpenMidRight]Le Loup d'Argent...
+J'en ai entendu parler.[A]
+Mais qu'est-ce que vous faites < Lycia ?
+Sacae se trouve < l'est, non ?[A]
+[OpenMidLeft]Biran a envahi Sacae, donc
+nous, les Kutolah,
+avons d>cid> de nous battre.[A]
+Mon grand-p{re a fait partir
+les femmes et les enfants
+< Lycia, mais...[A]
+[OpenMidRight][NormalPrint]Mais ?[A]
+[OpenMidLeft][FastPrint]Il y avait un tra|tre.[A]
+[CloseSpeechFast]Le clan des Djute, all> < Biran,
+nous a tendu un pi{ge.[A]
+[OpenMidRight][NormalPrint][ToggleMouthMove]... ...[A]
+[OpenMidLeft][CloseSpeechFast][ToggleMouthMove]Nous avons tous >t> s>par>s.[A]
+Je me suis retrouv>e dans ces
+contr>es et j'ai >t>
+secourue par Lord Orun.[A]
+Mais Wagner, son conseiller,
+l'a assassin> et a pris
+possession du ch[teau.[A]
+[OpenMidRight]Et c'est ainsi que vous
+vous ^tes fait capturer...[A]
+[OpenMidLeft][FastPrint]Votre arm>e combat Biran ?[A]
+[OpenMidRight]Oui, Biran a aussi envahi
+nos terres.[A]
+[OpenMidLeft]Alors laissez-moi vous rejoindre.[A]
+Combattre Biran me permettra
+de sauver mon grand-p{re.[A]
+Je veux aussi venger
+Lord Orun.[A]
+[OpenMidRight]Nous nous dirigeons vers Ositia.[A]
+C'est la direction oppos>e
+< Sacae, ca vous va ?[A]
+[OpenMidLeft][CloseSpeechFast]Ca ne me g^ne pas.
+Peu importe o} je suis,[A]
+ma m{re, la Terre,
+et mon p{re, le Ciel[A]
+ne dispara|tront pas.[A]
+
+[96]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Messire Roy ![A]
+L'espion que j'ai envoy> < Ositia
+vient de revenir, et il dit[A]
+que c'est le chaos l<-bas ![A]
+[OpenMidRight][MoveRight]Comment ?![A]
+[OpenMidLeft][CloseSpeechFast]Il y a eu une r>bELLion
+parmi ceux qui voulaient capituler
+devant Biran.[A]
+[OpenRight][FastPrint]Lilina va-t-elle bien ?[A]
+[OpenMidLeft][CloseSpeechFast]D'apr{s l'espion, elle a >t> prise
+en otage.[A]
+Actuellement, les rebelles
+tiennent le ch[teau d'Ositia[A]
+et se battent contre les soldats
+qui cherchent < secourir
+Lady Lilina.[A]
+[OpenMidLeft][ClearFace]
+[OpenRight][FastPrint]Nous devons nous d>p^cher
+d'aller < Ositia !
+Lilina, tiens bon ![A]
+
+[97]
+[OpenMidLeft][LoadFace][0x12C][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]He ! C'est toi ![A]
+[OpenMidLeft][ToggleSmile]Oups...[A]
+[OpenMidRight]Attends ![A]
+[OpenMidLeft]He ! Qu'est-ce que
+tu me veux ![A]
+L[che-moi ![A]
+Aie ! Ca fait mal ![A]
+[OpenMidRight]Oh, d>sol>.[A]
+Mais...
+que fais-tu ici ?[A]
+[OpenMidLeft][ToggleSmile]He bien, hum,
+c'est compliqu>.[A]
+J'ai des choses < faire, tu vois ?
+Ah ah ah...[A]
+[OpenMidRight][ToggleSmile]Des choses < faire ? Ici ?
+Sur un champ de bataille ?[A]
+[OpenMidLeft][ToggleSmile]Andouille, c'est justement parce que
+c'est un champ de bataille...[A]
+... Oups, j'aurais d} faire
+attention < ce que je disais...[A]
+[OpenMidRight][ToggleSmile]Aurais-tu une raison
+que nous ne connaissons pas ?[A]
+[OpenMidLeft]Gloups...[A]
+[OpenMidRight]Attends, c'est pour ca
+que tu nous as indiqu>
+le chemin de sortie... ?[A]
+[OpenMidLeft]Hein, quoi ?[A]
+Je ne vois vraiment pas
+de quoi tu parles ![A]
+[OpenMidRight]Qui es-tu... ?[A]
+[OpenMidLeft]Allons, allons, ne te prends pas
+la t^te avec des choses
+si futiles ![A][Clear]
+Oh, je dois filer. Salut ![A][ClearFace]
+[OpenMidRight]H, attends ![A]
+
+[98]
+[OpenMidLeft][LoadFace][0x12C][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]C'est encore toi ![A]
+[OpenMidLeft][ToggleSmile]Zut...
+He, c'>tait une co|ncidence ![A]
+Ah ah ah...[A]
+[OpenMidRight][ToggleSmile]... Si tu es ici seulement
+pour voler, ce n'est pas normal.[A]
+[OpenMidLeft][ToggleSmile]Ne t'inqui{te pas.[A]
+Je ne vole que les riches
+qui ont des montagnes d'argent.[A]
+Pas ceux qui sont
+au bord de la mis{re.[A]
+[OpenMidRight][ToggleSmile]Ce n'est pas une bonne raison.[A]
+[OpenMidLeft]Oh vraiment ?
+Alors laisse-moi te demander un truc.[A]
+Vous, les nobles,
+prenez la nourriture de ceux[A]
+qui sont sur vos terres.[A]
+Mais qui a dit que c'>tait vos terres ?[A]
+Et vous dites collecter des taxes,[A]
+mais c'est la m^me chose :
+du vol ![A]
+[OpenMidRight]Quoi ?!
+Mais nous prot>geons notre peuple...[A]
+[OpenMidLeft]Faux ![A]
+Vous massacreZ votre peuple
+en d>clenchant une guerre ![A]
+[OpenMidRight]Au contraire... Biran nous a envahis,
+alors nous devons d>fendre[A]
+nos gens...[A]
+[OpenMidLeft]Donc vous faites
+ce que vous voulez,
+et appelez ca "prot>ger",
+c'est ca ?[A]
+Vous pouvez bruler nos villages
+et ruiner nos terres ?[A]
+[OpenMidRight]Bruler ?
+Jamais ![A]
+Attends une minute,
+ton village... ?[A]
+[OpenMidLeft]... Mon village a >t> brul>
+par le Duc.[A]
+Il a pr>tendu ne pas avoir
+d'autre choix pour pr>parer[A]
+la r>plique contre Biran.[A]
+[OpenMidRight]C'est... [A]
+[OpenMidLeft]On avait juste de quoi survivre,
+et on nous a tout vol>.[A]
+Nos maisons... nos plantations...[A]
+Et tu dis ne rien prendre
+< autrui ?[A]
+Ah ! Ferme-la !
+Vous n'^tes que des chiens
+de la noblesse ![A]
+Vous vivez dans le luxe
+pendant que nous on cr{ve ![A]
+[OpenMidRight]Je...
+ne sais pas quoi dire.[A]
+[OpenMidLeft]Pfff. C'est juste d>primant.[A]
+Je n'aime pas dire
+"Je suis pauvre, ayez piti>"[A]
+comme un argument.[A]
+Mais c'est la r>alit> : vous ^tes
+en partie responsables.[A]
+[OpenMidRight]Je...[A]
+[OpenMidLeft]Bon, bref,
+c'est pas marrant < discuter.[A]
+Allez, je file.[A][Clear]
+Ciao ![A][ClearFace]
+[OpenMidRight][ToggleMouthMove]... ...[A]
+
+[99]
+[OpenMidLeft][LoadFace][0x12C][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Oh ! C'est toi ![A]
+[OpenMidLeft][ToggleSmile]Hum ? ... Encore toi ?
+Tu apparais tout le temps pour
+contrecarrer mes projets.[A]
+T'aurais quelque chose contre moi ?[A]
+[OpenMidRight]Non !
+Je... voulais simplement
+m'excuser.[A]
+[OpenMidLeft]... T'excuser ?[A]
+[OpenMidRight]La derni{re fois qu'on s'est vus,
+j'ai dit des choses dures.[A]
+Comme te traiter de bandit alors
+que j'ignorais
+ce que tu avais subi...[A]
+[OpenMidLeft][ToggleSmile]Oh, ca ? C'est bon,
+ca ne m'a pas vraiment bless>e.[A]
+[OpenMidRight][ToggleSmile]Mais je pense toujours que[A]
+ce que tu fais n'est pas juste.[A]
+[OpenMidLeft]Heh, t'es sacr>ment audacieux
+de me dire ca, tu sais ?[A]
+[OpenMidRight]Alors, pourrais-tu me
+laisser une chance ?[A]
+[OpenMidLeft]Une chance ?[A]
+[OpenMidRight]Une fois la guerre termin>e,
+je promets de reconstruire
+les villages d>truits[A]
+pendant le conflit.[A]
+J'utiliserai mieux les
+taxes qu'ils paieront.[A]
+Jusque-l<, j'aimerais
+que tu arr^tes de voler.[A]
+[OpenMidLeft]...
+Et ca va durer combien de temps ?[A]
+[OpenMidRight]Jusqu'< la fin de la guerre.
+Je ne peux pas dire exactement quand...[A]
+[OpenMidLeft]Et tu esp{res que j'attendrai
+tranquillement jusque-l< ?[A]
+[OpenMidRight]Oui.
+C'est bon ?[A]
+[OpenMidLeft]Pourquoi ?
+Pourquoi t'obstiner
+< m'aider ainsi ?[A]
+Pourquoi te soucier tant
+d'une voleuse comme moi ?[A]
+Tu ferais mieux de me laisser
+m>morcher seule.[A]
+[OpenMidRight]Sans toi, nous n'aurions jamais
+r>ussi < fuir le ch[teau de Wagner.[A]
+M^me si tu ne voulais pas
+nous aider, tu l'as fait,
+et tu nous as sauv> la vie.[A]
+On ne peut pas oublier
+celle qui nous a
+sauv>s.[A]
+[OpenMidLeft][ToggleSmile]Heh, < ce rythme...
+je sens que tu seras
+toujours dans mes pattes,
+o} que j'aille.[A]
+[OpenMidRight]Tant que tu croiseras notre route.[A]
+[OpenMidLeft]Ok, tu gagnes.[A]
+J'arr^te de venir voler
+sur les champs de bataille.[A]
+[OpenMidRight]Vraiment ?
+Je t'en suis reconnaissant.[A]
+[OpenMidLeft]Mais, tu dois me laisser
+rester < tes c_t>s.[A]
+[OpenMidRight]Hein ?
+Pourquoi ?[A]
+[OpenMidLeft]Parce que les actes comptent
+plus que les mots.[A]
+Je veux voir si tu iras vraiment
+au bout de ce que tu dis.[A]
+[OpenMidRight]Tr_s bien ![A]
+
+[9A]
+[OpenMidLeft][LoadFace][0x13C][OpenMidRight][LoadFace][0x144][CloseSpeechFast][ToggleSmile]Devias, comment
+la ville se porte-t-elle ?[A]
+[OpenMidLeft]Tout est calme, monsieur.[A]
+Mais ces mercenaires d'Ilia
+qu'Hector a engag>s refusent
+de se soumettre.[A]
+[OpenMidRight]Hum ! Quel est leur probl>me ?
+On leur a promis un meilleur salaire ![A]
+[OpenMidLeft]Oui, mais les Chevaliers Mercenaires
+d'Ilia sont connus pour ne
+jamais trahir ceux qui les emploient.[A]
+[OpenMidRight][MoveRight]Espece d'imb>cile ![A]
+[OpenMidLeft][MoveFarLeft]
+[OpenRight]Je le sais, voyons ![A]
+Le g>n>ral Narshen, un
+des trois Seigneurs Wyvernes,
+arrivera bient_t ![A]
+Si nous n'avons pas encore
+pris Ositia
+quand il sera l<,[A]
+il se moquera de nous ![A]
+[OpenFarLeft][FastPrint]Bien... bien sur, monsieur.[A]
+[OpenRight][CloseSpeechFast]On pourrait se servir de Lilina
+pour n>gocier avec les Chevaliers
+d'Ilia, en la prenant
+en otage...[A]
+Mais il vaut mieux garder ca
+en dernier recours.[A]
+On les combattra nous-m^mes avec[A]
+l'appui des Chevaliers Wyvernes
+envoy>s par Biran, pour
+>craser les troupes d'Ilia !!![A]
+Devias, fais >vacuer
+la ville et tiens
+la porte du ch[teau.[A]
+Moi, je d>fendrai l'int>rieur.[A]
+[OpenFarLeft][MoveMidLeft][NormalPrint]Oui, monsieur ![A]
+
+[9B]
+[OpenMidLeft][LoadFace][0x154][OpenRight][LoadFace][0x102][CloseSpeechFast][ToggleSmile]Merlinus !
+A peu pr{s combien de gens[A]
+ont rejoint la r>bELLion ?[A]
+[OpenMidLeft]Tr{s peu.[A]
+Ils ont oubli> leur loyaut>
+envers Lord Hector,[A]
+et ont pr>f>r> se rallier
+< la plus grande puissance : Biran.[A]
+Quelle honte ![A]
+[OpenMidRight][NormalPrint]Je vois...[A]
+[OpenMidLeft][CloseSpeechFast]Mais il y a aussi une bonne nouvelle,
+Messire Roy !
+Un groupe de Chevaliers d'Ilia[A]
+propose de s'allier
+< nous et d'attaquer les rebelles.[A][SendToBack]
+[OpenFarRight][LoadFace][0x157]Des Chevaliers d'Ilia ?[A][SendToBack]
+[OpenMidLeft][CloseSpeechFast]Oui.[A]
+Ils ont dit avoir sign>
+un contrat avec Lord Hector,
+et qu'ils combattront Biran
+aux c_t>s d'Ositia.[A]
+[OpenMidRight]C'est une chance.[A]
+Pourtant, quand ils ont su
+que Lord Hector >tait mort,[A]
+le contrat aurait d> sonner la fin
+de leur engagement, non ?[A]
+Croyez-vous qu'on puisse
+officialiser leurs services ?[A]
+[OpenMidLeft]C'est aussi
+ce que je me suis dit,
+Messire Roy.[A]
+Cependant, ils savaient d>j<
+que Lord Hector >tait tomb>.
+Mais ils proposent quand m^me
+de combattre < nos c_t>s.[A][SendToBack]
+[OpenFarRight]Pourquoi iraient-ils jusque-l< ?
+Ce ne sont que des mercenaires, non ?[A][SendToBack]
+[OpenMidLeft]Ilia est un pays enneig>
+au climat rude, la terre
+n'y est gu{re fertile.[A]
+C'est pourquoi envoyer
+des mercenaires se battre
+est une de leurs principales
+sources de revenus.[A]
+J'ai aussi entendu dire que
+les mercenaires d'Ilia se
+vantent d'^tre de fiables partenaires
+qui ne trahissent jamais
+leurs employeurs.[A]
+Il para|t que c'est vrai,
+au vu de la situation.[A]
+
+[9C]
+[OpenMidLeft][LoadFace][0x131][OpenMidRight][LoadFace][0x132][CloseSpeechFast][ToggleSmile]On dirait que l'arm>e
+de Lycia a commenc> < attaquer
+les rebelles.[A]
+Tr{s bien, on y va
+nous aussi.[A]
+Allons d>loger
+ces ren>gats ![A]
+[OpenMidLeft][NormalPrint]Oui, monsieur.[A]
+[OpenMidRight][CloseSpeechFast]Attends,
+o} est Noah ?[A]
+[OpenMidLeft]Euh, je crois qu'il
+est parti < l'ar{ne,
+il y a un moment d>j<.[A]
+Il disait vouloir entra|ner
+une jeune fille
+< l'art de l'>p>e.[A]
+[OpenMidRight]Noah, en ma|tre d'armes
+C'est bizarre...[A]
+Mais peu importe.[A]
+D{s qu'il saura
+qu'on attaque les rebelles,[A]
+il nous rejoindra.[A]
+[OpenMidLeft][NormalPrint]Gloups.[A]
+[OpenMidRight]Allons-y.[A]
+
+[9D]
+[OpenMidLeft][LoadFace][0x113][OpenMidRight][LoadFace][0x130][CloseSpeechFast][ToggleSmile]On dirait qu'ils ont d>j<
+commenc> < affronter
+les rebelles.[A]
+Bon, dans ce cas, je vais
+m'y mettre aussi. Fir...[A]
+[OpenMidLeft][CloseSpeechFast]Merci de m'avoir
+entra|n>e, Sire Noah.[A]
+[OpenMidRight]Pas de quoi.
+Mais tu m'as surpris.
+[A]
+Tu es arriv>e soudainement
+en disant: "Je veux vous
+d>fier !"[A]
+[OpenMidLeft][ToggleSmile]Je... je suis d>sol>e,
+Sire Noah.
+C'est la premi{re fois
+que je viens < l'ar{ne...[A]
+[OpenMidRight][ToggleSmile]Si tu t'>tais adress>e < quelqu'un
+d'autre, tu aurais pu
+y laisser la vie.[A]
+Il faut toujours juger
+attentivement l'adversaire
+avant de l'affronter.[A]
+[OpenMidLeft]Et on ne doit pas h>siter
+< se rendre quand on voit qu'on
+va perdre.[A]
+C'est ca ?[A]
+[OpenMidRight][NormalPrint]Exactement.[A]
+[CloseSpeechFast]Tu pourras toujours r>cup>rer ton argent,
+mais si tu perds la vie,[A]
+c'est fini.[A]
+[OpenMidLeft][NormalPrint]Oui ![A]
+[OpenMidRight][CloseSpeechFast]Alors, qu'est-ce
+que tu vas faire maintenant ?[A]
+Tu vas rester ici pour am>liorer
+tes comp>tences < l'>p>e ?[A]
+[OpenMidLeft]Non. Je pr>vois d'aller
+aux |les occidentales.[A]
+[OpenMidRight]Les |les occidentales ?
+Pourquoi ?[A]
+[OpenMidLeft]On y construit une nouvelle mine,
+j'ai entendu dire qu'il y
+avait du travail
+pour beaucoup de gens.[A]
+Et s'ils sont assez robustes
+pour la mine, ce seront
+d'excellents adversaires
+< affronter pour
+am>liorer mon niveau.[A]
+Et puis...[A]
+[OpenMidRight][NormalPrint]Et puis ?[A]
+[OpenMidLeft][CloseSpeechFast]Les |les occidentales, c'est
+l'endroit o} mes parents
+se sont rencontr>s.[A]
+Ma m{re est morte,
+mais quand elle avait mon [ge,[A]
+elle voyageait aussi
+< travers le monde pour
+am>liorer sa technique
+< l'>p>e.[A]
+[OpenMidRight][NormalPrint]Je vois...
+Encore une surprise de ta part.[A]
+[OpenMidLeft][ToggleMouthMove]?[A]
+[OpenMidRight][CloseSpeechFast][ToggleMouthMove]Au d>but, tout ce que tu
+disais, c'>tait :
+"Je veux devenir plus forte,
+je veux devenir plus forte."[A]
+Je pensais que manier l'>p>e
+>tait ta seule passion.[A]
+Mais en fait, tu t'entra|nais
+pour ressembler < ta m{re ?
+Je suis content de voir
+que tu as un c_t> plus doux ![A]
+[OpenMidLeft]Quoi ?! ... Sire Noah !
+Ne vous moquez pas de moi, s'il vous plait ![A]
+[OpenMidRight][NormalPrint]Ah ah ah ah ![A]
+
+[9E]
+[OpenMidLeft][LoadFace][0x13C][CloseSpeechFast][ToggleSmile]Les renforts
+devraient arriver d'un moment < l'autre,
+depuis le sud.[A]
+Hehe... Cette arm>e de Lycia va ^tre
+bien d>concert>e quand ils se feront
+prendre < revers ![A]
+
+[9F]
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x132][FastPrint][OpenMidRight][ToggleSmile]Excusez-moi, monsieur, ^tes-vous
+le fameux Sire Zealot des[A]
+Chevaliers Mercenaires d'Ilia ?[A]
+[OpenMidLeft][NormalPrint]Et vous ^tes ?[A]
+[OpenMidRight][FastPrint]Je m'appelle Roy.[A]
+Je commande l'arm>e qui affronte
+les rebelles.[A]
+[OpenMidLeft][CloseSpeechFast]Vous ?[A]
+[OpenMidLeft][FastPrint]Impressionnant...
+Je m'attendais < quelqu'un
+d'un peu plus [g>.[A]
+[OpenMidRight][CloseSpeechFast]Je suis l< pour r>aliser
+la volont> de Lord Hector.[A]
+[OpenMidLeft]Lord Hector...
+Un grand homme nous a quitt>s.
+C'>tait un v>ritable guerrier.[A]
+[OpenMidRight]Oui, et je tiens < reprendre Ositia,
+en m>moire de Lord Hector !
+Et pour Lilina...[A]
+[OpenMidLeft]Tr{s bien.
+Dans ce cas, nous vous aiderons[A]
+autant que possible.[A]
+[OpenMidRight]Merci pour votre aide.[A]
+[OpenMidLeft]Vous me remercierez
+apr{s qu'on aura
+r>cup>r> le ch[teau.[A]
+En attendant, on doit se concentrer
+sur l'ennemi ![A]
+[OpenMidRight]Oui ![A]
+
+[A0]
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x130][OpenMidRight][FastPrint][ToggleSmile]Vous ^tes l'un des
+mercenaires d'Ilia ?[A]
+[OpenMidLeft][NormalPrint]Oui.[A]
+Que me voulez-vous ?[A]
+[OpenMidRight][FastPrint]Je me nomme Roy.[A]
+Je commande l'arm>e
+de la f>d>ration de Lycia.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Ah ! On m'a parl> de vous...[A]
+Puis-je me joindre < vous ?[A]
+[OpenMidRight][NormalPrint][ToggleSmile]Vous en ^tes sur ?[A]
+[OpenMidLeft]Pourquoi pas ?[A]
+[OpenMidRight][FastPrint]Ne devez-vous pas demander
+< votre commandant s'il accepte... ?[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Il nous a dit de rejoindre
+l'arm>e de la f>d>ration de Lycia.
+Ca me suffit.[A]
+[OpenMidRight][NormalPrint][ToggleSmile]Mais peut-^tre qu'il envisageait
+autre chose ?[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]On est sur un champ de bataille,
+pas le temps d'aller tout v>rifier
+avec le chef.[A]
+Si je tardais, je risquerais
+d'^tre tu>e.[A]
+De plus, je n'enfreins pas
+ses ordres.[A]
+[OpenMidRight][ToggleMouthMove]... Tr{s bien.[A]
+
+[A1]
+[OpenMidRight][LoadFace][0x132][NormalPrint]Noah ![A]
+[OpenMidLeft][LoadFace][0x130]
+[OpenMidRight][A]
+[OpenMidLeft][FastPrint][ToggleSmile]Sire Zealot,
+pardonnez mon retard.[A]
+[OpenMidRight][CloseSpeechFast]J'ai appris
+que tu entra|nais
+une jeune fille < l'art de l'>p>e ?[A]
+[OpenMidLeft]Oui...
+Elle semblait innocente,
+alors je n'ai pas pu m'en emp^cher.[A]
+[OpenMidRight][FastPrint]Elle est avec toi ?[A]
+[OpenMidLeft][CloseSpeechFast]Non, elle a dit
+qu'elle partait
+vers les |les occidentales.[A]
+[OpenMidRight]Je vois.[A]
+C'est dommage, j'aurais bien aim>
+qu'elle se joigne < nous.
+D'habitude, tu ne t'occupe pas
+des affaires des autres,
+donc ^tre un "entra|neur"
+sort de l'ordinaire.[A]
+[OpenMidLeft][FastPrint]Vous croyez ?[A]
+[OpenMidRight][NormalPrint]Oui.[A]
+[CloseSpeechFast][ToggleSmile]Treck et moi rigolions,
+on pensait que tu ^tais
+tomb> amoureux d'elle.
+Mais si c'>tait < l'ar{ne,
+ca n'a probablement rien
+< voir.[A]
+[OpenMidLeft][NormalPrint][ToggleMouthMove]... ...[A]
+
+[A2]
+[OpenMidLeft][LoadFace][0x132][OpenMidRight][LoadFace][0x131][OpenMidRight][FastPrint][ToggleSmile]
+Treck, nous entrons officiellement
+au service de l'arm>e de Lycia.[A]
+[OpenMidLeft]Bien, monsieur.[A]
+[OpenMidRight]Hum, cette r>action manque
+d'enthousiasme. T'es pas chaud ?[A]
+[OpenMidLeft]Hein ? Non, ca ne me d>range pas.[A]
+[OpenMidRight]Ah, bon. Je voulais juste
+^tre sur.[A][ClearFace]
+[OpenMidLeft]Lycia...
+Non, il ne devrait pas y avoir
+de probl{me.[A]
+
+[A3]
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x131][OpenMidRight][FastPrint][ToggleSmile]
+Vous ^tes un mercenaire d'Ilia ?
+Je me nomme Roy. Je dirige l'arm>e
+de la f>d>ration de Lycia...[A]
+[OpenMidLeft][NormalPrint]Hmm ? Et donc ?[A]
+[OpenMidRight][FastPrint]Souhaitez-vous vous joindre
+< nous ?[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]D>sol>, je ne connais pas
+vos intentions, alors
+laissez-moi clarifier:
+C'est le g>n>ral Zealot
+qui nous a ordonn> de vous aider.[A]
+[OpenMidRight][NormalPrint][ToggleSmile]Je vois. Merci alors.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]N'en faites pas trop.
+On est sur le champ de bataille,
+je ne v>rifie pas tout
+avec le chef, c'est tout.
+Et je n'enfreins pas ses ordres.[A]
+[OpenMidRight][ToggleMouthMove]... Bien, tr{s bien.[A]
+
+[A4]
+[OpenMidLeft][LoadFace][0x132][OpenMidRight][LoadFace][0x130]
+[OpenMidRight][ToggleSmile]G>n>ral Zealot ![A]
+[OpenMidLeft]Ah, c'est Noah.
+Tu >tais < l'ar{ne,
+non ?[A]
+[OpenMidRight]Oui.
+D>sol>, je suis en retard.[A]
+[OpenMidLeft]Il n'y a pas de probl{me...
+On vient juste de commencer.[A]
+Je n'ai pas encore discut>
+avec l'arm>e de la f>d>ration de Lycia.[A]
+[OpenMidRight]Ah ?[A]
+Ne t'en fais pas, je viens de
+m'entretenir avec leur chef.[A]
+[OpenMidLeft]Ah, parfait !
+Bon, alors on se met
+< leur service tout de suite.[A]
+Noah, c'est < toi
+de n>gocier avec Lycia.[A]
+[OpenMidRight]Oui, monsieur ![A]
+
+[A5]
+[OpenMidLeft][LoadFace][0x132][OpenMidRight][LoadFace][0x131]
+[OpenMidRight][ToggleSmile]G>n>ral Zealot ?[A]
+[OpenMidLeft]Treck,
+un probl{me ?[A]
+[OpenMidRight]Je viens de rencontrer
+le chef de la f>d>ration de Lycia.[A]
+[OpenMidLeft]Ah, tu aurais d} me le dire
+imm>diatement, non ?[A]
+[OpenMidRight]Ben, je viens
+tout juste de le voir.[A]
+[OpenMidLeft]Entendu.[A]
+Dans ce cas, nous allons
+nous placer sous ses ordres.[A]
+Treck, occupe-toi
+des n>gociations
+avec Lycia.[A]
+[OpenMidRight]Oui, monsieur ![A]
+
+[A6]
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x132][FastPrint][OpenMidRight][ToggleSmile]
+Excusez-moi, ^tes-vous
+le g>n>ral Zealot
+des Chevaliers Mercenaires d'Ilia ?[A]
+[OpenMidLeft][NormalPrint]Et qui ^tes-vous ?[A]
+[OpenMidRight][FastPrint]Je me nomme Roy. Je commande
+l'arm>e qui combat les rebelles.[A]
+[OpenMidLeft][CloseSpeechFast]Vous ?[A]
+[OpenMidLeft][FastPrint]Impressionnant...
+Je m'attendais plut_t < quelqu'un
+d'un peu plus [g>.[A]
+[OpenMidRight][CloseSpeechFast]Je suis l< pour respecter
+la volont> de Lord Hector.[A]
+[OpenMidLeft]Lord Hector...
+Nous avons perdu un grand homme.[A]
+C'>tait un v>ritable guerrier.[A]
+[OpenMidRight]Oui, et je veux reconqu>rir Ositia,
+en hommage < Lord Hector !
+Et pour Lilina...[A]
+[OpenMidLeft]Tr{s bien. Dans ce cas,
+nous vous aiderons
+autant que nous le pourrons.[A]
+[OpenMidRight]Merci
+pour votre aide.[A]
+[OpenMidLeft]Vous me remercierez
+apr{s la reprise du ch[teau.[A]
+Allons-y, on doit
+se concentrer
+sur l'ennemi ![A]
+[OpenMidRight]D'accord ![A]
+
+[A7]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x15E]
+Regardez cette invention
+remarquable que j'ai faite ![A]
+Elle tire des fl{ches BIEN
+plus loin qu'un arc ordinaire ![A]
+C'est tr{s utile, non ?[A]
+Bon, comme je suis sympa,
+je vais vous la donner.
+Je veux juste qu'elle soit
+entre de bonnes mains.[A]
+
+[A8]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x161]
+[OpenMidRight][ToggleSmile]Tenez, c'est...
+c'est un sceptre "torche" ![A]
+Il projette de la lumi{re
+dans le brouillard ![A]
+Quand il y a de la brume,
+on ne voit rien ![A]
+C'est super pratique
+pour ^tre sur
+de ne pas se faire surprendre.[A]
+
+[A9]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x15C]
+[OpenMidRight]Un rem{de ! Un rem{de !
+Ca soigne tout ![A]
+Peu importe vos blessures,
+vous ^tes gu>ris ![A]
+Ses composants sont secrets,[A]
+bien sur...
+Si je vous les disais,
+j'aurais des ennuis.
+Hmm ?[A]
+Vous ne voulez pas de rem{de ?[A]
+Ah, prenez-le gratuitement,
+mais achetez-en la prochaine fois ![A]
+
+[AA]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x160][ToggleSmile]
+Cette ville appartenait < Lycia !
+Mais maintenant, regardez-la...[A]
+Vous ^tes l< pour rendre
+< Ositia sa gloire pass>e, c'est ca ?[A]
+Alors prenez cette gemme.
+Si vous la vendez,[A]
+vous en tirerez un bon prix !
+S'il vous plait, aidez Ositia ![A]
+
+[AB]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x167]
+[OpenMidRight][ToggleSmile]Vous allez aider Lady Lilina ?
+Voici quelque chose qui peut
+soigner < distance ![A]
+Si Lady Lilina est bless>e,
+faites-la soigner, je vous en prie...[A]
+
+[AC]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x15F]
+[OpenMidRight][ToggleSmile]R>cemment, il y avait un >tranger
+mort dans la rue.[A]
+En l'aidant, il m'a donn>
+cette >p>e.[A]
+C'>tais un dr_le de gars,
+mais plut_t gentil...
+Hein ? Voici l'>p>e.[A]
+Prenez-la ! Prenez-en soin.[A]
+
+[AD]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x152][ToggleSmile]Faites attention.[A]
+Le g>n>ral Leygance s'est alli>
+< Biran ![A]
+Il est venu massacrer
+tous ceux qui lui r>sistaient...[A]
+Heureusement, j'ai pu fuir.
+Tenez, prenez ceci :
+c'est un symbole
+pour les h>ros.[A]
+Donnez-leur,
+et continuez < vous battre
+pour prot>ger Ositia...[A]
+
+[AE]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x15E]
+Cavaliers, paladins, nomades...
+Ils montent tous des chevaux...[A]
+Cette lance, la "caballucide",
+leur fait tr{s mal.[A]
+Il y a beaucoup de cavaliers
+dans l'arm>e rebelle.[A]
+Alors utilisez-la contre eux ![A]
+
+[AF]
+[LoadFace][0x13C][ToggleSmile]Vous... vous avez vaincu
+les Chevaliers Wyvernes de Biran ?![A][Clear]
+Erf...
+Je ne vous laisserai pas passer ![A]
+
+[B0]
+[LoadFace][0x13C][ToggleSmile]G>n>ral Leygance...
+Faites attention...[A][Clear]
+Je vous en supplie...
+ces gens sont... forts.[A]
+
+[B1]
+[OpenMidRight][LoadFace][0x102][CloseSpeechFast][ToggleSmile]Bien, il ne devrait plus
+y avoir de probl{me en ville.[A]
+[OpenMidRight][MoveRight]Maintenant, il faut reprendre
+le ch[teau d'Ositia
+et sauver Lilina ![A]
+[OpenMidLeft][LoadFace][0x154]Messire Roy, on est
+en train de d>foncer la porte
+pour p>n>trer dans le ch[teau.[A]
+Je sais que vous voulez faire vite,[A]
+mais c'est l'affaire de quelques minutes ![A]
+[OpenRight][MoveMidRight]... Lilina.[A]
+[OpenMidLeft][CloseSpeechFast]En parlant de Lady Lilina...[A]
+Qu'en pensez-vous, Messire Roy,
+de toute l'histoire racont>e
+par Lord Hector ?[A]
+[OpenMidRight]Vous voulez parler des dragons ?
+C'>tait donc pas juste une l>gende...
+C'>tait vrai...[A]
+Lord Hector >tait l'un
+des meilleurs combattants de Lycia.[A]
+Et son arm>e a >t> balay>e
+en un rien de temps...[A]
+[OpenMidLeft]C'est vrai que l'arm>e de Biran
+est l'une des plus fortes
+d'Elibe.[A]
+Leurs Chevaliers Wyvernes
+sont redoutables.[A]
+[OpenMidRight]Oui, ce sont des ennemis coriaces.
+Mais de "vrais" dragons...
+J'ose m^me pas imaginer
+leur force.[A]
+Et ces fameuses armes efficaces
+contre les dragons...[A]
+Je me demande ce que c'est ?[A]
+[OpenMidLeft]Je suppose que ce sont
+les Armes Divines.[A]
+[OpenMidRight]Donc, si on utilise ces armes,
+on pourra combattre les dragons
+plus efficacement.[A]
+Mais pourquoi une Arme Divine
+se trouverait < Ositia ?[A]
+[OpenMidLeft]Peut-^tre que Lady Lilina le sait.
+Hmm, ca m'int>resse aussi.[A]
+Oh !
+Messire Roy, nos hommes ont
+enfin abattu la porte.[A]
+On peut entrer ![A]
+[OpenMidRight][MoveRight]Tr{s bien ! En avant !
+On doit sauver Lilina
+quoi qu'il en coute ![A]
+
+[B2]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x144][ToggleSmile]
+[MoveMidRight]Comment ?!
+Ils sont d>j< dans le ch[teau ?![A]
+Que faisait Devias dehors ?![A]
+Ces chevaliers d'Ilia
+>taient donc si forts ?[A]
+... Ou alors l'arm>e de Lycia
+>tait plus grande
+que ce que je croyais...[A]
+Dans tous les cas, ils viennent
+de r>ussir < rentrer dans l'"imprenable"
+ch[teau d'Ositia ![A][OpenMidLeft][ClearFace]
+[OpenMidRight]On doit les repousser,
+sinon Biran va nous tourner
+en ridicule...[A]
+[Clear]
+Toi, l<-bas ![A]
+[OpenMidLeft][LoadFace][0x1D7]Oui, monsieur ![A]
+[OpenMidRight]Renforcez la garde du ch[teau ![A]
+Surtout autour de
+la salle du tr_ne ![A]
+Pr>parez la d>fense !
+On ne doit pas laisser[A]
+l'arm>e de Lycia progresser
+plus avant ![A]
+[OpenMidLeft]Compris, monsieur ![A]
+[OpenMidRight][MoveRight]Encore un truc.[A]
+Tu devras aller tuer Lilina
+sans faire de bruit
+pendant la bataille.[A]
+[OpenMidLeft][MoveFarLeft]Quoi ?!
+Mais... Monsieur, on devait
+la garder en vie, non ?[A]
+[OpenRight]J'avais pens> l'utiliser
+comme otage.[A]
+Mais il reste pas mal de rebelles
+qui ont foi en elle.
+Si on s'en sert comme otage,
+ils pourraient se retourner
+contre nous.[A]
+[OpenFarLeft]Mais dans ce cas, monsieur,
+ils risquent tous
+de se r>volter contre nous.[A]
+[OpenRight][MoveRight]Je t'ai dit
+de le faire en secret ![A]
+Occupe-toi de l'>liminer
+sans bruit, et dis qu'elle
+a "pris une fl{che perdue".[A][Clear]
+Ensuite, on fera
+porter le chapeau
+< nos adversaires ![A]
+Maintenant, va ![A]
+[OpenFarLeft]Oui, monsieur...[A]
+
+[B3]
+[OpenMidLeft][LoadFace][0x102][OpenMidRight][LoadFace][0x11C]
+[OpenMidRight]Sire Roy, je persiste < penser
+qu'on devrait mettre en place
+des r{gles plus strictes.[A]
+[OpenMidLeft]Plus strictes ?[A]
+[OpenMidRight]Oui.[A]
+Et on renverra ceux qui ne font pas
+leur job correctement.[A]
+[OpenMidLeft][ToggleMouthMove]... ...[A]
+[OpenMidRight][ToggleMouthMove]M^me si notre arm>e est petite,
+on aurait une unit> d'>lite.[A]
+On pourrait ^tre plus efficace
+au combat.[A]
+[OpenMidLeft]Non, Marcus.[A]
+C'est pas une bonne id>e.[A]
+[OpenMidRight][ToggleSmile]Ah...
+Pourquoi ?[A]
+[OpenMidLeft][ToggleSmile]Qui va juger qui fait bien
+son travail ?[A]
+[OpenMidRight]Euh... Vous, Sire Roy.[A]
+[OpenMidLeft]Mais certains travaillent dur
+sans que je le sache.[A]
+[OpenMidRight][ToggleSmile]Oh...
+Bon, dans ce cas...[A]
+[OpenMidLeft][ToggleSmile]Et puis, y a tous ceux qui nous soutiennent
+en coulisses, hors du champ de bataille,
+et ceux que je n'ai pas encore
+eu l'occasion d'utiliser,
+alors qu'ils sont peut-^tre utiles.[A]
+Vous voulez juste les virer ?[A]
+Beaucoup nous ont rejoints
+avec de fortes convictions.[A]
+On peut pas juste leur dire "Partez" ![A]
+[OpenMidRight][ToggleMouthMove]... ...[A]
+[OpenMidLeft][ToggleMouthMove]Marcus, on doit aussi leur faire confiance.
+Ce sont nos camarades, non ?[A]
+[OpenMidRight]... Vous avez raison.[A]
+Je me trompais, Sire Roy.
+Vous ^tes plus noble
+que je ne le pensais.[A]
+[OpenMidLeft]Eh, c'est surprenant
+que vous m'>coutiez comme ca.[A]
+G>n>ralement, vous me rousp>tez
+plut_t souvent.[A]
+[OpenMidRight]Ah bon ?
+Moi ?[A]
+[OpenMidLeft]Oui.[A][ClearFace]
+[OpenMidRight]Sire Roy...
+Il est devenu si confiant...
+Il est capable de se d>brouiller
+tout seul, maintenant.[A]
+Mon r_le est presque termin>...[A]
+
+[B4]
+[OpenMidRight][LoadFace][0x122][CloseSpeechFast][ToggleSmile]Pourquoi tout ce vacarme,
+tout d'un coup ?[A]
+Y aurait-il une bataille ?[A]
+Je me demande ce qui
+se trame dehors...[A]
+
+[B5]
+[OpenFarRight][LoadFace][0x116][CloseSpeechFast][ToggleSmile]Commandant Barth,
+c'est un cul-de-sac ![A]
+[OpenMidLeft][LoadFace][0x108][CloseSpeechFast]Pas de panique.
+Ce mur est fissur>.[A]
+On peut s'ouvrir un passage
+en le d>truisant.[A]
+[OpenRight][LoadFace][0x1BD]Je me demande o} est
+Lady Lilina en ce moment.[A]
+[OpenMidLeft]J'ai ma petite id>e l<-dessus.[A]
+On conna|t ce ch[teau
+depuis longtemps.[A]
+Hmm, je me demande quand m^me
+ce qui fait tout ce bruit...[A]
+[OpenRight]L'arm>e de la f>d>ration ?
+Dans ce cas, mon fr}re
+est peut-^tre avec eux...[A]
+[OpenMidLeft]... On ne sait pas
+s'il est vivant ou non.
+Ne te fais pas trop d'id>es.[A]
+[OpenRight][FastPrint]Oh... Oui.[A]
+[OpenFarRight][CloseSpeechFast]Commandant Barth, vous
+n'avez pas besoin
+d'^tre si froid.[A]
+C'est quand m^me
+le fr{re de Wendy.[A]
+[OpenMidLeft][FastPrint]On ne doit pas
+se d>tourner
+de la r>alit>.[A]
+[OpenFarRight][NormalPrint]Oui, mais...[A]
+[OpenRight][FastPrint]C'est bon, Oujay.
+Le commandant Barth a raison...[A]
+[OpenMidLeft][CloseSpeechFast]En tant que Chevalier d'Ositia,
+tu ne dois jamais paniquer[A]
+[.....]peu importe la situation.
+C'est clair, Wendy ?[A]
+[OpenRight][NormalPrint]... Oui.[A]
+
+[B6]
+[OpenMidLeft][LoadFace][0x12C]Ouais !
+Comme je le pensais,
+ils sont encore en train de se battre.[A]
+J'veux dire,
+jusqu'o} ira la stupidit>
+de ces nobles ?[A]
+Je comprendrai jamais
+ce qu'ils trouvent < faire la guerre
+en permanence.[A]
+Enfin bon, je crois
+que je vais piquer
+ce que je peux.[A]
+
+[B7]
+[OpenMidRight][LoadFace][0x102][NormalPrint]Lilina ![A]
+[OpenMidLeft][LoadFace][0x122]... Roy ?
+C'est bien toi ?[A]
+[OpenMidRight]Oui ![A]
+[OpenMidLeft]Tu es venu !
+Merci infiniment.[A]
+[OpenMidRight][CloseSpeechFast]Dieu merci, tu vas bien.
+Tiens, prends ce livre de magie.[A]
+Pour l'instant, utilises-le
+pour te prot>ger.[A]
+[OpenMidLeft][FastPrint]Merci... Merci.[A]
+
+[B8]
+[OpenMidLeft][LoadFace][0x1BD][NormalPrint]Bors !
+Ca va ?![A]
+[OpenMidRight][LoadFace][0x109][FastPrint]Oh, est-ce Wendy ?
+Je suis content de voir que
+tu vas bien aussi.[A]
+[ToggleSmile]... ?!
+C'est quoi... [A]
+C'est quoi cette tenue ?![A]
+Tu veux devenir
+Chevalier d'Ositia ou quoi ?[A]
+[OpenMidLeft][ToggleSmile]En fait... oui.
+J'ai >t> adoub>e hier.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Qu'est-ce que tu fais...
+Je croyais t'avoir dit
+de nous laisser le combat ?[A]
+Et de vivre ta vie
+comme tu l'entends ![A]
+T'avais pas besoin
+de devenir Chevalier...[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Oui, j'y ai r>fl>chi,
+et ce que je veux vraiment
+c'est ^tre Chevalier.[A]
+[OpenMidRight][NormalPrint][ToggleSmile]Mais...[A]
+[OpenMidLeft][CloseSpeechFast]Je ne veux plus attendre
+ton retour apr{s chaque bataille.[A]
+Je veux me battre
+avec toi.[A]
+[OpenMidRight][NormalPrint][ToggleMouthMove]... ...[A]
+[OpenMidLeft][ToggleMouthMove]... Bors ?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]T'es toujours
+aussi t^tue, hein, Wendy ?[A]
+[OpenMidLeft][NormalPrint][ToggleSmile]Bors...[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Vis ta vie
+comme tu veux.[A]
+Si m{re et p{re
+>taient toujours l<,[A]
+ils te diraient la m^me chose.[A]
+Mais sache que la voie
+du Chevalier,
+c'est pas si facile ![A]
+[OpenMidLeft][FastPrint][ToggleSmile]Je sais, je suis pr^te ![.....]
+Je n'abandonnerai jamais ![A]
+
+[B9]
+[OpenMidLeft][LoadFace][0x122][OpenMidRight][LoadFace][0x109]
+Lady Lilina !
+Vous ^tes sauv>e ![A]
+[OpenMidLeft]Bors, pardon de t'avoir
+inqui>t>.[A]
+[OpenMidRight]Je vous en prie,
+Madame !
+Vous ^tes en vie...[A]
+Et ca...[A]
+[OpenMidLeft]Merci, Bors.[A]
+Et tu as tenu ta
+promesse :
+tu as prot>g> Roy
+< ma place.[A]
+Je savais qu'en[A]
+faisant appel < toi,
+c'>tait le bon choix.[A]
+[OpenMidRight]Merci, madame ![A]
+
+[BA]
+[OpenMidLeft][LoadFace][0x122][OpenMidRight][LoadFace][0x108]
+[OpenMidLeft]Barth ![A]
+[OpenMidRight]Lady Lilina ![A]
+Je suis heureux de voir
+que vous n'avez rien.[A]
+[OpenMidLeft][ToggleSmile]Barth, tu avais raison.
+Leygance pr>parait bel et bien
+une reb>LLion.[A]
+[OpenMidRight][ToggleMouthMove]... ...[A]
+[OpenMidLeft][ToggleMouthMove]Je suis d>sol>e...
+Si je t'avais cru d{s le d>but,
+ca ne serait pas arriv>...[A]
+[OpenMidRight]Non...[A]
+Lady Lilina, vous n'avez pas
+< vous excuser de quoi que ce soit.[A]
+Le seul coupable, c'est
+ce tra|tre de Leygance,
+qui a m>pris>
+votre grand coeur
+aux yeux de tous.[A]
+[ToggleSmile]Votre gentillesse est justement[A]
+ce que nous respectons le plus,
+Madame.[A]
+[OpenMidLeft]Barth...[A]
+
+[BB]
+[LoadFace][0x144][ToggleSmile]Sales vermines de
+la f>d>ration de Lycia... [A]
+Approchez... [A][......][Clear]
+Je vais tous vous balayer ![A]
+
+[BC]
+[LoadFace][0x144][ToggleSmile]Pourquoi ? Vous allez...
+tout simplement[A]
+^tre d>vor>s par Biran...[A]
+Comment pouvez-vous...
+vous battre...[A]
+[Clear]
+avec une telle... ardeur... ?[A]
+
+[BD]
+[OpenMidLeft][LoadFace][0x122][OpenMidRight][LoadFace][0x102]
+[OpenMidRight]On a enfin r>cup>r> le ch[teau,
+Lilina.[A]
+[OpenMidLeft]Merci infiniment, Roy.[A]
+Je suis contente que mon p{re
+n'ait pas d} r>gler ca lui-m^me.[A]
+[OpenMidRight][ToggleSmile]![A]
+[OpenMidLeft][ToggleSmile]Roy, mon p{re est toujours
+< Araphen ?[A]
+J'ai entendu parler d'une grande
+bataille, l<-bas.[A]
+Ca va encore durer longtemps ?[A]
+[OpenMidRight][ToggleSmile]Lilina...
+On te l'avait pas dit ?[A]
+[OpenMidLeft][ToggleSmile]Hein ?[A]
+[LoadOverworldFaces][OpenMidRight][ToggleSmile]Lord Hector...
+est tomb>.[A]
+[OpenMidLeft]Comment... ?[A]
+[OpenMidRight]Je suis d>sol>...
+Quand on est arriv>s
+au Ch[teau d'Araphen...[A]
+il >tait sous le contr_le de Biran.[A]
+[OpenMidLeft]C'est pas ta faute...
+T'as pas < t'excuser.[A]
+[OpenMidRight]Lord Hector >tait gri{vement bless>
+quand on l'a trouv>.
+Si seulement on avait ^t> plus rapides,
+on l'aurait peut-^tre sauv>...[A]
+[OpenMidLeft][ToggleSmile]Non... c'est bon.
+J... J'y >tais pr>par>e... [A]
+Je suis la fille d'un grand guerrier.[A]
+On m'a appris < ne pas paniquer
+dans ces moments-l<.[A]
+[OpenMidRight][ToggleSmile]Lilina...[A]
+[OpenMidLeft]Tout le monde ne me disait rien...
+Ils voulaient me pr>server...
+Ils sont tous si gentils...[A]
+Mais moi aussi, je suis forte...[A]
+[OpenMidRight]Lilina, tu n'as pas <
+retenir tes larmes
+devant moi.[A]
+[OpenMidLeft]Roy... Je...[A]
+[OpenMidRight]C'est bon...
+Je suis l<.[A]
+
+[BE]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102][OpenMidLeft][CloseSpeechFast][ToggleSmile]Messire Roy !
+Les Chevaliers Wyvernes de Biran
+sont apparus < Ositia ![A]
+[OpenMidRight][MoveRight]Comment ?!
+D>j< ?![A]
+
+[BF]
+[OpenFarLeft][LoadFace][0x142][OpenFarRight][LoadFace][0x102][OpenFarLeft][ToggleMouthMove]He he he...
+[ToggleMouthMove]C'est toi, Roy ?[A]
+Je dois te remercier de m'avoir
+d>barrass> de ce cr>tin
+de Leygance.[A]
+[OpenFarLeft][MoveMidLeft]A pr>sent, tu vas
+me c>der Ositia.[A]
+[OpenFarRight][MoveRight][ToggleSmile]Ne sois pas ridicule !
+Qui c>derait Ositia
+< des gens comme vous... ![A]
+[OpenMidLeft][ToggleSmile]Oh ?[A]
+Tu veux peut-^tre te battre
+avec ce mis>rable groupe ?[A]
+Ca m'arrange.
+Je vais vous an>antir
+comme j'ai an>anti Hector ![A]
+[OpenMidRight][NormalPrint][ToggleSmile]Sale mis>rable ![A]
+[OpenFarFarRight]Ca suffit ![A]
+
+[C0]
+[OpenMidLeft][LoadFace][0x142]
+[OpenRight][LoadFace][0x1D7][CloseSpeechFast][ToggleSmile]G>n>ral Narshen !
+Une l>gion d'Etruria approche ![A]
+[OpenRight][ClearFace][OpenMidLeft]Je ne suis pas aveugle, imb>cile !
+Que...[A]
+[OpenMidRight][LoadFace][0x11A][FastPrint]Je suis Percival,
+G>n>ral de la Chevalerie d'Etruria.[A]
+[CloseSpeechFast]Hier, le G>n>ral en
+Sorcellerie m'a inform>
+qu'Ositia[A]
+avait demand> la protection d'Etruria.[A]
+[OpenMidLeft][NormalPrint]Quoi... ![A][SendToBack]
+[OpenMidRight][ClearFace][OpenMidRight][LoadFace][0x134][CloseSpeechFast][ToggleSmile]Vous n'avez pas l'air heureux.
+Pourtant, on est pr^ts < se battre.
+Mais vos Chevaliers Wyvernes ont-ils
+une chance contre nous tous ?[A]
+[OpenMidLeft][ToggleSmile]Sale... ![A]
+[OpenMidRight]Je m'appelle Cecilia,
+G>n>rale en Sorcellerie d'Etruria ![A]
+Ositia est d>sormais sous notre
+protection.[A]
+[OpenMidLeft][MoveLeft]Grr...
+Esp{ce... d'idiots ![A]
+[OpenFarLeft][LoadFace][0x1D7][CloseSpeechFast]G>n>ral Narshen,
+je vous en prie,
+contr_lez-vous ![A]
+Le G>n>ral Percival est l'un des
+plus vaillants d'Etruria ![A]
+Et la G>n>rale Cecilia
+est l<, elle aussi,
+on va se faire massacrer ![A]
+[OpenLeft]Je sais !
+On se retire ![A]
+[OpenFarLeft][ClearFace][OpenLeft][MoveFarLeft]Cecilia, hein ?
+A partir de maintenant,
+faites attention
+< vos arri}res ![A]
+
+[C1]
+[OpenMidLeft][LoadFace][0x11A][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Vous ^tes donc Roy,
+chef de l'arm>e de la f>d>ration de Lycia ?[A]
+[OpenMidRight]O... Oui !
+Je dirige l'arm>e
+< la place de Lord Hector.[A]
+[OpenMidLeft]Je vois.
+Lycia a des moments difficiles.[A]
+Notre roi nous a aussi
+exprim> ses regrets
+concernant la perte de Lord Hector.[A]
+[OpenMidRight]Merci pour vos pens>es.[A]
+Sans Etruria, Ositia serait tomb>e
+< Biran.
+Nous vous devons beaucoup.[A]
+[OpenMidLeft]Ce n'est pas moi
+qu'il faut remercier.
+J'ai seulement ex>cut> les ordres
+de notre roi.[A]
+Vous devriez plut^t remercier
+Cecilia, qui a brav>
+l'interdiction du roi
+pour vous aider.[A]
+[OpenMidRight]Elle a...
+d>sob>i au roi ?[A]
+[OpenMidLeft]Oui,
+c'est surprenant, non ?[A]
+Enfin, je dois partir.[A]
+Deux des trois G>n>raux d'Etruria
+ne peuvent s'absenter
+trop longtemps.[A]
+Cecilia,[A]
+[OpenMidRight][ClearFace][OpenMidRight][LoadFace][0x134]
+[OpenMidLeft]je te laisse la suite ?[A]
+[OpenMidRight]Oui, merci, Percival.
+Je m'en occupe.[A]
+
+[C2]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]Ouah...
+Le G>n>ral Percival...
+Quelle prestance ![A]
+[OpenMidLeft][LoadFace][0x134][ToggleSmile]Tu semblais impressionn>,
+n'est-ce pas ?[A]
+[OpenMidRight]G>n>rale Cecilia !
+Ravi de vous revoir.[A]
+[OpenMidLeft]Comment vas-tu, Roy ?
+Tu as l'air un peu fatigu>,
+mais ca peut aller.[A]
+[OpenMidRight]Oui. Gr[ce < Etruria,
+on a >vit> un gros d>sastre.[A]
+[OpenMidLeft]Contente qu'on soit arriv>s
+< temps.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Je suis d>sol>.
+Je vous ai caus> bien des soucis.[A]
+[OpenMidLeft]Non.[A]
+Au contraire, ca arrange Etruria
+de prendre Ositia sous notre tutelle.[A]
+[OpenMidRight]Ca vous arrange ?[A]
+[OpenMidLeft]Oui.[A]
+Biran devient trop agressif
+depuis quelque temps,
+tu l'as vu aussi.[A]
+On aimerait bien
+faire quelque chose,
+mais ils ne nous ont pas
+attaqu>s directement.[A]
+Donc on n'avait aucune raison
+de leur faire la guerre.[A]
+Mais si Biran s'agrandit encore,
+l'>quilibre des forces
+sera bris>.[A]
+[OpenMidRight]Donc, quand Ositia
+a demand> votre aide,[A]
+vous avez vu l'occasion
+de d>clarer la guerre < Biran ?[A]
+[OpenMidLeft]Exact.[A]
+On s'est donc content> de faire
+ce qui nous int>ressait.
+Ne te sens pas redevable envers nous.[A]
+[OpenMidRight][FastPrint]D'accord.[A]
+[OpenMidLeft][ToggleSmile]Inutile aussi
+de nous dire "merci".[A]
+[OpenMidRight]Compris. Je ne le dirai pas.[A]
+Maintenant, venez rencontrer
+le reste de notre arm>e, G>n>rale.[A]
+
+[C3]
+[OpenMidLeft][LoadFace][0x134]... Il a pris
+tellement d'assurance
+ces derniers temps.
+Il est encore jeune,
+mais il progresse vite.[A]
+Bah, c'est un garcon, apr{s tout.[A]
+
+[C4]
+[LoadFace][0x108][ToggleSmile]Montrons-leur
+la force de nos G>n>raux ![A]
+Attaque Triangle !![A]
+
+[C5]
+[LoadFace][0x109][ToggleSmile]Pr^ts ?[.....]
+En avant ![A]
+Attaque Triangle !![A]
+
+[C6]
+[LoadFace][0x1BD][ToggleSmile]Heu...
+Allons-y ![A]
+Attaque Triangle !![A]
+
+[C7]
+[OpenMidLeft][LoadFace][0x151][OpenMidRight][LoadFace][0x13E]
+[OpenMidLeft][ToggleSmile]Chef ! Ces types de
+Lycia sont l<.[A]
+[OpenMidRight][FastPrint]T'es sur ?[A]
+[OpenMidLeft][CloseSpeechFast]Ouais, on vient de les voir
+d>barquer sur la petite |le
+< l'est.[A]
+[OpenMidRight][CloseSpeechFast]Exactement comme les autres l'avaient dit...[A]
+Bien, ils doivent probablement
+^tre d>sorient>s par le brouillard,[A]
+incapables de voir quoi que ce soit.
+Glissez-vous derriere eux et[A]
+exterminez-les, tout simplement.[A]
+[OpenMidLeft][NormalPrint]Pour sur, chef.[A]
+
+[C8]
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x134]
+[OpenMidLeft][ToggleSmile]Roy, je suis d>sol>e de n'avoir ^t> d'aucune utilit>.[A]
+[OpenMidRight]Ne vous en faites pas, je vous en prie.
+Ce n'est pas de votre faute, Lady Cecilia.[A]
+[OpenMidLeft]Oui. Mais m^me < Etruria,
+beaucoup se plaignent de la facon dont
+le conseiller vous traite.[A]
+[OpenMidRight]Le conseiller ? Je pensais que
+c'>tait le roi qui avait d>cid> d'envoyer[A]
+Lycia d>barrasser ces |les des bandits.[A]
+[OpenMidLeft]Non. C'est le conseiller Roartz
+qui s'est arrang> avec Lord Arcard,
+le responsable de l'exploitation mini{re
+dans les |les occidentales,[A]
+et ils ont pris cette d>cision seuls,
+sans consulter le roi.[A]
+[OpenMidRight]Comment peuvent-ils agir ainsi ?[A]
+[OpenMidLeft]... Vous vous souvenez de ce drame
+arriv> < Etruria l'an dernier ?[A]
+[OpenMidRight]Bien sur.
+L'h>ritier du tr_ne d'Etruria,[A]
+le prince Mildain,
+est mort tragiquement l'ann>e derni{re.[A]
+[OpenMidLeft]Exact.[A]
+[OpenMidRight]Je n'ai jamais eu la chance
+de le rencontrer,
+mais on le disait
+extr^mement brillant.[A]
+[OpenMidLeft]Oui... Si le prince >tait encore en vie,
+Etruria ne serait pas dans cet >tat.[A]
+Le roi Mordred n'a pas support>
+la mort de son fils.[A]
+Le choc a >t> tel qu'il ne s'en est
+jamais vraiment remis.[A]
+Maintenant, on dirait qu'il est
+d>connect> de la r>alit>,[A]
+et qu'il ne fait plus attention
+< ce qui se passe autour de lui,
+ou au sein de son pays...[A]
+Roartz en a profit>.[A][Clear]
+Il g{re < pr>sent la plupart des affaires.
+Il nous maintient, nous trois G>n>raux
+(Lord Douglas, Percival et moi),[A]
+< distance du roi, sauf urgence absolue.[A]
+
+[CB]
+[OpenMidRight][LoadFace][0x13E]
+[OpenMidLeft][LoadFace][0x113][NormalPrint][ToggleSmile]Sire Scott ![A]
+[OpenMidRight][FastPrint][ToggleSmile]Oh, c'est Fir.
+D>sol> de t'avoir fait venir.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Pourquoi tout ce raffut ?[A]
+[OpenMidRight]Eh bien, vois-tu, des brigands
+ont attaqu> l'|le.[A]
+Et les habitants sont en grave danger.[A]
+[OpenMidLeft][MoveLeft][FastPrint]Quoi ?![A]
+[OpenMidRight][CloseSpeechFast]J'ai d>j< envoy> quelques hommes
+pour les arr^ter, mais ils sont coriaces.[A]
+La situation n'a pas l'air fameuse.[A]
+[OpenMidLeft][NormalPrint]Je n'arrive pas < y croire...[A]
+[OpenMidRight][CloseSpeechFast]Si seulement je pouvais y aller...
+mais je ne peux pas quitter le ch[teau.[A]
+Donc, Fir, d>sol>...
+mais je compte sur toi.[A]
+[OpenMidLeft][CloseSpeechFast]Oui. J'irai les chasser.
+Je ne peux pas tol>rer qu'ils
+s'attaquent < des innocents ![A]
+[OpenMidRight][FastPrint][ToggleSmile]Merci.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Laissez-moi faire !
+Attaquer des gens sans d>fense...[A]
+C'est impardonnable ![A]
+[OpenMidRight][FastPrint]J'ai aussi demand> de l'aide < un gars,
+un nomade nomm> Shin.
+Tu pourras t'allier < lui.[A]
+[OpenMidLeft][NormalPrint]Un autre ?[A]
+[OpenMidRight][CloseSpeechFast]Oui, un nomade, plut_t fr^le
+mais dou> < l'arc.[A]
+
+[CC]
+[OpenMidRight][LoadFace][0x13E]
+[OpenMidLeft][LoadFace][0x151][ToggleSmile]Chef, vous ^tes sur ? Je veux dire,
+envoyer une fille comme elle se battre[A]
+dehors...[A]
+[OpenMidRight][ToggleSmile]Ouais, j'ai mon plan.
+Une fois qu'elle se fera buter,[A]
+on pourra r>cup>rer son >p>e.[A]
+[OpenMidLeft][ToggleSmile]Son >p>e ?
+La dr_le d'>p>e qu'elle a ?[A]
+[OpenMidRight][ToggleSmile]Ce n'est pas une arme banale.
+C'est le "Wo Dao", un katana c>l>bre.[A]
+Si on la lui vole pour la revendre,
+ca rapportera gros, hehe...[A]
+[OpenMidLeft]Je vois.
+[CloseSpeechFast]C'est pour ca que vous >tiez si[A]
+sympa avec elle.[A]
+[OpenMidRight]Je ne pouvais rien tenter avant,
+mais l<, c'est une chance.[A]
+Ecoute, suis-la discr{tement.
+D{s que t'en as l'occasion,[A]
+prends-lui son >p>e ![A]
+[OpenMidLeft][NormalPrint]Entendu, chef ![A]
+
+[CD]
+[OpenMidRight][LoadFace][0x105][OpenMidLeft][LoadFace][0x113][NormalPrint][ToggleSmile]Es-tu...
+Shin ?[A]
+[OpenMidRight][FastPrint]C'est moi.
+J'ai entendu Scott parler.[A]
+Allons-y.[A]
+[OpenMidLeft][NormalPrint][ToggleMouthMove]... ...[A]
+[OpenMidRight][NormalPrint]... ...[ToggleMouthMove][A]
+[OpenMidLeft][NormalPrint][ToggleMouthMove]Euh...[A]
+[OpenMidRight][CloseSpeechFast]Quoi ?[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Tu t'engages toi aussi
+pour prot>ger les habitants ?[A]
+[OpenMidRight][ToggleSmile]Non...
+Ca ne m'int>resse pas.[A]
+[OpenMidLeft][FastPrint]Alors pourquoi ?[A]
+[OpenMidRight][CloseSpeechFast]Je suis pay> pour me battre.
+C'est tout.[A]
+[OpenMidLeft][NormalPrint][ToggleMouthMove]... ...[A]
+[OpenMidRight][NormalPrint]... ...[ToggleMouthMove][A]
+[OpenMidRight][ClearFace][OpenMidLeft][FastPrint]... Je dois continuer < parler
+pour pas qu'on s'arr^te ?[A]
+[Clear]
+[OpenMidRight][LoadFace][0x105][OpenMidLeft][ToggleSmile]Hum... Tu viens de Sacae,
+hein ?[A]
+[OpenMidRight][NormalPrint][ToggleSmile]Ouais.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Qu'est-ce qui t'am{ne ici ?[A]
+[OpenMidRight][FastPrint][ToggleSmile]Rien de sp>cial. Toi aussi,
+t'as l'air de Sacae, et tu es l<.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Je parcours Elibe
+pour m'entra|ner < l'>p>e,
+et...[A]
+Oh, c'>tait pas une question,
+c'est ca ?[A]
+[OpenMidRight][NormalPrint][ToggleSmile][ToggleMouthMove]... ...[A]
+[OpenMidLeft][NormalPrint][ToggleMouthMove]... Pfff.[A]
+[OpenMidRight][CloseSpeechFast]... Je recherche quelqu'un.[A]
+[OpenMidLeft][CloseSpeechFast]Qui donc ?[A]
+[OpenMidRight]Mon clan a >t> balay>
+par Biran lorsqu'ils ont envahi Sacae.[A]
+[OpenMidRight]Le chef de mon clan m'a laiss> fuir,
+et il m'a demand>[A]
+de retrouver et de protger
+sa petite-fille.[A]
+J'ai donc quitte les plaines[OpenMidLeft][FastPrint][ToggleSmile]A present...
+que faisons-nous ?[A]
+[OpenMidRight][CloseSpeechFast]Et si nous nous dirigions vers
+le nord, le long des c_tes ?[A]
+[OpenMidLeft]Au nord...
+en direction des mines ?[A]
+[OpenMidRight]Exact. J'ai entendu dire que[A]
+les habitants des |les sont
+contraints de travailler l<-bas.[A]
+[OpenMidLeft]Nous devons les secourir
+en premier.[A]
+[OpenMidRight]Oui. Peut ^tre saurons-nous
+ensuite qui se cache[A]
+derri{re tout ca.[A]
+[OpenMidLeft]Bien, nous devrions bien
+commencer quelque part.[A]
+[OpenMidRight]He bien...
+Allons au Nord ![A]
+
+[CE]
+[OpenMidLeft][LoadFace][0x113][OpenMidRight][LoadFace][0x130]
+[OpenMidRight][CloseSpeechFast]Fir !
+C'est toi ![A]
+[OpenMidLeft][FastPrint]Sire Noah ?!
+Que faites-vous ici ?![A]
+[OpenMidRight][CloseSpeechFast]J'ai rejoint cette arm>e
+il y a peu de temps... Ouah ![A][ClearFace]
+[OpenMidRight][LoadFace][0x130][ToggleSmile]A quoi penses-tu ?!
+Abaisse ton ep>e ![A]
+[OpenMidLeft]Sire Noah ! Je pensais que vous >tiez
+plus noble que cela ![A]
+[OpenMidRight][NormalPrint]Comment ?[A]
+[OpenMidLeft][CloseSpeechFast]Simplement parce que vous
+n'^tes qu'un chevalier mercenaire...[A]
+Offrir vos services a des pirates ?!
+Vous devriez avoir honte ![A]
+[OpenMidRight][NormalPrint]... Hein ?[A]
+[OpenMidLeft][CloseSpeechFast]Parlez !
+Vous travaillez pour une bande[A]
+de pirates juste pour attaquer les
+habitants de cette |le ![A]
+Et ca se dit chevalier ?![A]
+[OpenMidRight][ToggleSmile]Hum, pourrais-je parler une seconde ?
+Je pense qu'il y a un gros malentendu...[A]
+[OpenMidLeft][ToggleSmile]Un malentendu ?!
+Vous vous obstinez encore...[A]
+[OpenMidRight][ToggleSmile]Nous essayons d'aider
+les villageois.[A]
+Nous sommes suppos>s ^tre ici pour
+vaincre le chef d'un groupe de pirates.[A]
+Je crois que son nom >tait Scott
+ou quelque chose comme ca.[A]
+[OpenMidLeft][ToggleSmile]Quoi ? Scott est le chef
+d'un groupe de pirates ?[A]
+[OpenMidRight][ToggleSmile]Si tu penses que je mens, pourquoi
+ne pas demander au pirate, l<-bas ?[A]
+Il est juste derriere toi,
+cache dans les fourr>s.[A]
+[OpenMidLeft][ToggleSmile]Un pirate ?
+Quel pirate...[A]
+[OpenMidRight][ClearFace][OpenMidLeft][ClearFace][OpenMidRight][LoadFace][0x113][OpenMidLeft][LoadFace][0x151]
+[OpenMidLeft][CloseSpeechFast]Mince ! Je ferais mieux
+de prevenir le chef ![A][ClearFace]
+[OpenMidRight][NormalPrint]H> !
+Attendez ![A][ClearFace]
+[OpenMidLeft][LoadFace][0x113][OpenMidRight][LoadFace][0x130][OpenMidRight][ToggleSmile]... Tu ne le soupconnais
+vraiment pas ?[A]
+[OpenMidLeft]Non ! Scott etait toujours
+tr{s gentil avec moi...[A]
+[OpenMidRight]Vraiment ? Les rumeurs disent que
+c'est un homme tr{s cruel...[A]
+[OpenMidLeft][ToggleSmile]
+Ma m{re me disait toujours
+qu'il ne fallait pas juger [A]
+les gens sur leur apparence...[A]
+[OpenMidRight][ToggleSmile]He bien, c'est vrai,
+mais...[A]
+[OpenMidLeft][ToggleSmile]... J'ai offert mes services
+< des pirates...[A]
+Que faire maintenant ?[A]
+[OpenMidRight][ToggleSmile]Dans ce cas,
+tu veux venir avec nous ?[A]
+[OpenMidLeft][FastPrint]Quoi ?
+Cela ne vous derange pas ?[A]
+[OpenMidRight][CloseSpeechFast]Nous sommes toujours < la
+recherche de personnes qui[A]
+pourront renforcer notre arm>e.[A]
+J'en parlerai a Roy.[A]
+[OpenMidLeft][FastPrint]Merci ![A]
+
+[CF]
+[OpenMidLeft][LoadFace][0x106][OpenMidRight][LoadFace][0x105]
+[OpenMidRight][NormalPrint]Lady Sue ![A]
+[OpenMidLeft][FastPrint][ToggleSmile]Shin...
+Que faites-vous ici ?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Je vous cherchais.[A]
+[OpenMidLeft][NormalPrint][ToggleSmile]Moi ?[A]
+[OpenMidRight][ToggleSmile]Oui.
+C'>tait les ordres du chef de clan.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]... Qu'est-il arriv> < notre clan
+apr{s que je sois partie ?[A]
+[OpenMidRight]Je suis desol>, nous n'avons eu
+aucune chance contre Biran...[A]
+[OpenMidLeft][NormalPrint]... Nous avons perdu.[A]
+[OpenMidRight][ToggleMouthMove]... ...[ToggleMouthMove][A]
+[OpenMidLeft][FastPrint]Qu'en est-il de
+mon grand-p{re ?[A]
+[OpenMidRight][CloseSpeechFast]Il continue de lutter
+contre Biran...[A]
+[OpenMidLeft][NormalPrint]Je vois...[A]
+[OpenMidRight][NormalPrint]J'ai >t> envoy> ici par le chef
+pour vous retrouver.[A]
+[OpenMidLeft][FastPrint]Dans ce cas, combattras-tu
+< nos c_t>s ?[A]
+[OpenMidRight]Avec vous ?[A]
+[OpenMidLeft][CloseSpeechFast]Nous aiderons grand-pere puisque
+cette arm>e se bat contre Biran.[A]
+Cette arm>e m'a
+egalement sauv> la vie.[A]
+[OpenMidRight][FastPrint]C'est compris, madame.
+Si c'est ce que vous avez pr>vu,[A]
+alors je suis a votre disposition.[A]
+[OpenMidLeft][ToggleSmile]Merci.[A]
+
+[D0]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x187]
+[ToggleSmile] Cette region appartient
+globalement aux pirates.[A]
+Ils ne font que nous voler
+la plupart du temps.[A]
+S'y opposer ?
+C'est inutile.[A]
+Ils peuvent faire ce qu'ils
+veulent car ils ont[A]
+>normement de soutiens.[A]
+Nous ne pouvons pas nous battre
+contre eux comme le fait
+la r>sistance.[A]
+
+
+[D1]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x18A]
+[Clear]Vous nous avez sauv{s ![A]
+Vous faites partie de la r{sistance ?
+Non ?[A]
+Alors vous <tes de braves gens ordinaires ?[A]
+Comme vous l'avez vu, cette |le est infest{e
+de pirates et de bandits ![A]
+Mais... que va-t-on devenir ?[A]
+On raconte qu'il y a une grosse bataille
+plus loin < l'ouest.[A]
+Partez devant et dites leur
+que nous quittons cette |le...[A]
+
+[D2]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x185]
+[ToggleSmile]He...[A]
+Ici, il ne reste que les femmes
+et les enfants.[A]
+Tous les autres sont partis
+vers le nord, aux mines.[A]
+Ils ne les laissent m^me pas dormir ;
+ils travaillent sans fin...[A]
+jusqu'< l'>puisement.[A]
+Mon fr{re, qui a voulu s'<chapper,
+est revenu maigrichon
+comme un vieux squelette.[A]
+Et ce jour-l<,
+il a rendu son dernier soupir.[A]
+Maintenant que je vous ai tout racont{...
+Pourriez-vous... oh, pardon...[A]
+J'en ai trop dit.
+Oubliez tout ca.[A]
+On quitte cette |le d{s maintenant.[A]
+
+[D3]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x15C]
+Gah, ce brouillard est trop dense...[A]
+Dans ces conditions, on peut m^me pas
+voir si quelqu'un se cache tout pr{s ![A]
+Le sceptre torche est utile,
+m^me pour les voleurs
+dot{s d'une bonne vue.[A]
+
+[D4]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x188]
+La r{sistance se bat bien.[A]
+Que ce soit au nord ou < l'est,[A]
+ils sont toujours
+en pleine bataille.[A]
+Vous comptez prendre quel chemin ?[A]
+
+[D5]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x186]
+Parmi les pirates, il y a
+un nomade tres habile...[A]
+Bien que dans le brouillard, vous ne le
+verriez sans doute pas...[A]
+Ces gars-l< montent < cheval
+et ce gamin est accompagn{ d'une fille...[A]
+
+[D6]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x188]
+Les villages voisins...
+tout le monde fuit.[A]
+C'est triste, vraiment.[A]
+Si vous voulez en visiter,
+faites vite.[A]
+Vous n'aurez pas le temps
+d'en faire deux.[A]
+Choisissez bien.[A]
+
+[D7]
+[LoadFace][0x13E][ToggleSmile]
+Donc, le brouillard
+ne vous a pas arr^t{s...[A]
+Mais vous devez ^tre pas mal
+amoch{s, maintenant ![A]
+Je vais vous achever ![A]
+
+[D8]
+[LoadFace][0x13E][ToggleSmile]
+Mais qui ^tes-vous ?[A]
+Vous n'avez rien d'une
+arm>e ordinaire...[A]
+
+[D9]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Merlinus, on dirait
+que l'ennemi a tent>
+un pi{ge...[A]
+[OpenMidLeft]Ils savaient d{j< qu'on arrivait.[A]
+[OpenMidRight][FastPrint]Quelque chose se trame
+en coulisses...[A]
+[OpenMidLeft]Oui. Se d{barrasser
+des bandits pourrait
+^tre plus dur que pr{vu.[A]
+Depuis que Biran
+a lanc{ son invasion,[A]
+il s'est pass{ bien des choses
+bizarres en Elibe.[A]
+[OpenMidRight]Je me demande
+comment tout ca va finir...[A]
+La r{apparition des dragons,
+la soudaine invasion de Biran,
+l'effondrement de la f>d>ration...[A]
+Tout se produit d'un coup.[A]
+Malgr> tout, on doit assumer
+chaque chose en son temps,[A]
+m^me si c'est fatigant.[A]
+
+[DA]
+[OpenMidLeft][FastPrint][ToggleSmile]Maintenant...
+qu'est-ce qu'on fait ?[A]
+[OpenMidRight][CloseSpeechFast]Et si on allait vers
+le nord, le long de la c_te ?[A]
+[OpenMidLeft]Au Nord...
+du c<t{ des mines ?[A]
+[OpenMidRight]Exact. J'ai entendu dire que[A]
+les habitants des |les sont
+contraints de travailler la-bas.[A]
+[OpenMidLeft]Nous devons les secourir
+en premier.[A]
+[OpenMidRight]Oui. Peut ^tre saurons-nous
+ensuite qui se cache[A]
+derriere tout ca.[A]
+[OpenMidLeft]Bien, nous devrions bien
+commencer quelque part.[A]
+[OpenMidRight]Eh bien...
+Allons au Nord ![A]
+
+[DB]
+[OpenMidLeft][FastPrint][ToggleSmile]Et maintenant... 
+on va o} apr{s ca ?[A]
+[OpenMidRight][CloseSpeechFast]Allons < l'ouest.[A]
+[OpenMidLeft]L'ouest ?[A]
+[OpenMidRight]On m'a dit qu'un groupe de
+rebelles s'>tait install> l<-bas.[A]
+Ils combattent les bandits pour prot>ger
+les villageois.[A]
+[OpenMidLeft]Je vois. On pourra les rencontrer
+et glaner des informations
+sur ce qui se passe
+dans ces |les.[A]
+[OpenMidRight]Exact. Si on se contente
+de chercher au hasard,
+on n'ira nulle part.[A]
+[OpenMidLeft]Je n'y vois pas d'inconv{nient,
+Messire Roy.[A]
+[OpenMidRight]Bien, dans ce cas,
+en route vers l'ouest.[A]
+
+[DC]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Maintenant... on va o} ?
+Il faut choisir.[A]
+[OpenMidRight][FastPrint]Vous avez une id{e ?[A]
+[OpenMidLeft][CloseSpeechFast]Si on suit la c_te nord,
+on arrivera aux plus grandes
+mines de l'|le.
+Peut-^tre qu'elles regorgent
+de bandits.[A]
+[OpenMidRight]Ah, je vois.[A]
+[OpenMidLeft]Notre mission est de tous
+les {radiquer.[A]
+On n'a pas de temps < perdre.[A]
+[OpenMidRight][FastPrint]Vous avez raison.
+En route vers le nord ![A]
+
+[DD]
+[OpenMidRight][LoadFace][0x1E4][ToggleSmile]Comment se porte cette espionne
+des forces de la r>sistance ?[A]
+[OpenFarLeft][LoadFace][0x1D7]Vous voulez parler de cette
+danseuse nomm>e Lalum ?[A]
+Nous l'avons jet>e
+dans le donjon, sire.[A]
+[OpenMidRight][FastPrint]Alors, a-t-elle parl{ ?[A]
+[OpenFarLeft][CloseSpeechFast]Non, elle r>p{te juste
+qu'il y a m{prise,
+et qu'elle n'a rien < voir
+avec la r>sistance.[A][ClearFace]
+[OpenMidRight][ToggleSmile]Tsk, elle croit nous
+rouler comme ca ?[A]
+Peut-^tre que je devrais
+moi-m^me l'interroger...[A]
+[OpenMidLeft][LoadFace][0x1D7][FastPrint][ToggleSmile]Duc Nord ![A]
+[OpenMidRight][NormalPrint]Quoi ?[A]
+[OpenMidLeft][CloseSpeechFast]Un messager de l'arm>e
+de la f>d>ration de Lycia arrive.[A]
+[OpenMidRight][MoveRight][NormalPrint]Ah, c'est l'arm>e qu'Etruria
+a envoy>e pour nettoyer
+ces |les, n'est-ce pas ?[A]
+[OpenMidLeft][CloseSpeechFast]Oui, apparemment,
+ils veulent un droit de passage
+pour aller au Mont Ebrakhm.[A]
+[OpenRight]... Lord Arcard a bien dit de se
+[ToggleSmile]d>barrasser d'eux si ils se trouvaient[A]
+encore ici... He he he...
+Voila une belle occasion de ravir[A]
+Lord Arcard et de percevoir
+une partie de ses richesses.[A]
+[ToggleSmile]Envoie quelques troupes,
+et tuez-les ![A]
+[OpenMidLeft]Bien, sire...[A][Clear]
+Et le messager ?[A]
+[OpenRight]Tuez-le aussi.[A]
+[OpenMidLeft][NormalPrint]Compris, sire.[A]
+[OpenRight]N'oubliez pas
+de pr>parer les balistes.[A]
+Ce sont d'excellentes armes
+< longue port>e.[A]
+Servez-vous-en pour
+harceler l'arm>e
+de la f>d{ration ![A]
+[OpenMidLeft][FastPrint]Bien, sire.[A]
+[OpenRight][CloseSpeechFast]Et veille < ce qu'ils
+ne s'en emparent pas ![A]
+
+[DE]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Messire Roy, des soldats
+sortent du ch[teau.[A]
+[OpenMidRight][FastPrint]Il y aurait des bandits,
+ici ?[A]
+[OpenMidLeft][CloseSpeechFast]Non, ils ont l'air
+de vouloir nous attaquer.[A]
+[OpenMidRight]... Et le messager ?
+Pas encore revenu, donc...[A]
+[OpenMidLeft]En effet, ce qui implique...[A]
+[OpenMidRight]Que nous sommes attaqu>s par Nord.
+Mais pourquoi ?[A]
+[OpenMidLeft]Ils avancent...
+Messire Roy, que fait-on ?[A]
+[OpenMidRight]... On n'a pas le choix,
+il faut se battre.[A]
+Quoi qu'il en soit,
+il faut atteindre ce ch[teau
+pour en savoir plus.[A]
+[OpenMidLeft]D'accord.[A]
+[OpenMidRight]En avant, prenons d'assaut
+le ch[teau ![A]
+Essayez de faire le moins
+de victimes possible ![A]
+
+[DF]
+[OpenMidRight][LoadFace][0x1E4][ToggleSmile]Gonzales !
+O} est Gonzales ?![A]
+[OpenMidLeft][LoadFace][0x12F][FastPrint]Ici... je ici...[A]
+[OpenMidRight][CloseSpeechFast]Il y a un village au nord,
+pr{s de la montagne.[A]
+Tu comprends ?[A]
+[OpenMidLeft][NormalPrint]Comprends.[A]
+[OpenMidRight][CloseSpeechFast]Possiblement un repaire secret
+de la r{sistance.[A]
+Va l<-bas, détruis
+le village et tout
+ce qu'il contient.[A]
+[OpenMidLeft][NormalPrint]Village... tout...[A]
+[OpenMidRight][FastPrint]Exact ! Maintenant, vas-y ![A]
+Une brute >paisse telle que toi
+n'est utile que dans ces moments-ci.[A]
+A present, mets toi en route.[A]
+[OpenMidLeft][NormalPrint]Je... je...[A]
+[OpenMidRight][CloseSpeechFast]Tu as un probl{me ?[A]
+[OpenMidLeft][NormalPrint]N-Non...[A][ClearFace]
+[OpenMidRight][CloseSpeechFast]Hmph, il est laid comme tout
+et malheureusement il a bon coeur.[A]
+Il devrait apprendre qu'>craser un
+simple village n'est rien ![A]
+
+[E1]
+[OpenMidLeft][LoadFace][0x135][OpenMidRight][LoadFace][0x184]
+[OpenMidRight][ToggleSmile]Alors, Geese...
+Vous partez vraiment ?[A]
+[OpenMidLeft]Oui.[A]
+Mes camarades ont {t{ tu{s
+par le propri{taire du ch[teau.[A]
+Je dois les venger.[A]
+[OpenMidRight]Ces personnes qui >taient
+toujours avec vous...[A]
+[OpenMidLeft]Oui... Alors que je n'>tais pas l<,
+ils ont >t> emmen>s aux mines[A]
+convaincus qu'on leur donnerait
+du travail.[A]
+Mais ils ont fini en esclavage,
+jusqu'< mourir...[A]
+[OpenMidRight][ToggleMouthMove]... ...[A]
+[OpenMidLeft][ToggleMouthMove]Ils >taient peut-^tre pas tr{s malins,
+mais c'>taient de braves types...[A]
+Et Nord les a tu>s...
+comme ca... !!![A]
+[OpenMidRight]Donc vous partez
+les venger seul ?[A]
+[OpenMidLeft]Y a un souci avec ca ?[A]
+[OpenMidRight]Non...
+Mais vous ne reprendrez pas
+votre commerce ?[A]
+[OpenMidLeft]... Une fois que j'aurai veng>
+mes potes, et qu'avec la guerre
+ca aura explos> partout,
+j'y songerai.[A]
+[OpenMidRight][ToggleSmile]... Nous ne vous oublierons pas.
+Si vous avez besoin de quoi
+que ce soit,
+revenez simplement nous voir.[A]
+[OpenMidLeft]Oui, si je suis encore en vie.
+... Merci.[A]
+
+[E2]
+[OpenMidLeft][LoadFace][0x120][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Vous travaillez
+pour Etruria ?![A]
+[OpenMidRight][FastPrint]O... Oui...[A]
+[OpenMidLeft][CloseSpeechFast]Nous, on se bat pour lib{rer
+les habitants qui souffrent[A]
+de votre tyrannie ! Mourez ![A]
+[OpenMidRight][FastPrint]Attendez !
+Nous ne sommes pas vos ennemis ![A]
+[OpenMidLeft][CloseSpeechFast]Comment ca ? Vous n'^tes pas
+avec ceux du ch[teau ?[A]
+[OpenMidRight]Non.[A]
+On est l< pour prendre
+le ch[teau d'assaut.[A]
+[OpenMidLeft]Oh !
+Alors je me suis tromp>.[A]
+[OpenMidRight]Je suis Roy,
+chef de l'arm>e
+de la f>d>ration de Lycia.[A]
+[OpenMidLeft]La Lycia ?
+Vous venez de loin...[A]
+[OpenMidRight]Etruria nous a envoy>s ici
+pour nettoyer l'|le
+de ces bandits.[A]
+[OpenMidLeft]?! Donc vous ^tes
+du c_t> d'Etruria ![A]
+[OpenMidRight]Calmez-vous !
+On a le m^me but que vous.[A]
+On veut aider les gens
+qui vivent ici
+< retrouver la paix.[A]
+[OpenMidLeft]... Vous allez peut-^tre finir
+par vous opposer
+< la noblesse d'Etruria...[A]
+[OpenMidRight]... Notre mission, c'est de d>busquer
+et de d>truire le mal,
+le statut social n'a pas
+d'importance.[A]
+[OpenMidLeft][FastPrint]Quelle grande volonte !
+J'aime cette qualit> chez un homme ![A]
+Tr{s bien, je me battrai
+avec vous ![A]
+[OpenMidRight][FastPrint]Vous nous aideriez ?
+Merci ![A]
+
+[E3]
+[OpenMidLeft][LoadFace][0x120][OpenMidRight][LoadFace][0x113]
+[OpenMidRight][FastPrint][ToggleSmile]P{re ?
+Que faites-vous ici ?[A]
+[OpenMidLeft][ToggleSmile]Ah, Fir !
+Je te cherchais.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]P{re,
+j'ai pris ma d>cision.[A]
+Je veux devenir
+une c>l{bre bretteuse comme m{re...[A]
+[OpenMidLeft][ToggleSmile]Je vois.
+Je n'ai pas l'intention de te
+ramener a la maison.[A]
+En fait, je veux t'assister
+dans ton voyage.[A]
+[OpenMidRight][FastPrint][ToggleSmile]M'assister ?[A]
+[OpenMidLeft][CloseSpeechFast]Je sais qu'un p{riple
+comme celui-ci
+est sem> d'embuches.[A]
+Je pourrai te soutenir
+dans ces situations...[A]
+[OpenMidRight]Mais p{re, si tu me soutiens
+sans cesse,[A]
+mon entra|nement
+n'a plus de sens.[A]
+[OpenMidLeft][NormalPrint]N'importe quoi.[A]
+[CloseSpeechFast]Ne serais-tu pas capable d'>xercer
+tes techniques a l'>p>e en
+pr>sence de ton p{re ?[A]
+Ou tu ne comprends pas
+l'amour d'un p{re
+qui s'inquiete pour sa fille ?[A]
+[OpenMidRight][FastPrint]Non ! Ce n'est pas ca...
+[A]
+[OpenMidLeft][ToggleSmile]Bien, alors on se comprend.[A]
+Mais d'abord, il faut qu'on
+s'empare de ce ch[teau.[A]
+[ClearFace][OpenMidRight][NormalPrint][ToggleSmile]Pfff...[A]
+[CloseSpeechFast]Je vais dire < Roy
+qu'on a un nouveau membre...[A]
+
+[E4]
+[OpenMidLeft][LoadFace][0x12F][OpenMidRight][LoadFace][0x122]
+[OpenMidRight][NormalPrint][ToggleSmile]Pardonnez-moi ![A]
+[OpenMidLeft][FastPrint]V... Vous ^tes quoi ?
+Je suis un ennemi !![A]
+[OpenMidRight][CloseSpeechFast]Je suis d>sol>e...
+mais votre regard >tait[A]
+si triste.[A]
+[OpenMidLeft]... Il y a un village pr{s
+des montagnes, vous savez ?[A]
+[OpenMidRight][FastPrint]Oui, je sais.[A]
+[OpenMidLeft]Laissez les gens fuir.[A]
+J'ai recu ordre,
+je d>truis village...[A]
+Alors...[A]
+[OpenMidRight][CloseSpeechFast]Quoi ? Non !
+Les habitants sont innocents...[A]
+[OpenMidLeft][FastPrint]Non.
+Je peux pas d>sob>ir ordres.[A]
+[OpenMidRight][CloseSpeechFast]Ne pouvez-vous pas quitter
+les gens qui vous donnent des
+ordres comme ca ?[A]
+[OpenMidLeft]Quitter ?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Je sais !
+Vous devriez vous battre avec nous.[A]
+Nous prot>geons les villageois.[A]
+[OpenMidLeft][ToggleSmile]... Non...
+Je suis un monstre...[A]
+Je peux pas ^tre avec autres gens...
+Les gens jettent pierres...[A]
+Ils disent "va t'en" < moi...
+Je suis un monstre...[A]
+Pas humain...[A]
+[OpenMidRight]Non !
+Bien sur que vous ^tes humain ![A]
+Vous avez meme bon coeur.[A]
+Je peux le dire.
+Venez avec nous.[A]
+N'ayez pas peur.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Pas peur...
+
+[E5]
+[OpenMidLeft][LoadFace][0x135][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Hum ? Quoi ?
+Vous avez quelque chose < me dire ?[A]
+[OpenMidRight]Non, je me demandais simplement
+pourquoi vous vous attaquiez[A]
+seul aux soldats du ch[teau.[A]
+[OpenMidLeft]Qui ^tes-vous ?[A]
+[OpenMidRight]Je suis Roy,
+chef de l'arm{e de la f>d>ration de Lycia.[A]
+Nous sommes ici < la demande
+d'Etruria...[A]
+[OpenMidLeft]Vous ^tes avec Etruria ?!
+Donc vous ^tes mes ennemis !
+Mourez ![A]
+[OpenMidRight]A... Attendez !
+Nous combattons aussi les[A]
+troupes du ch[teau.[A]
+[OpenMidLeft]Quoi ? Qu'est-ce que ca veut dire ?[A]
+[OpenMidRight]Je l'ignore moi-m^me.
+Nous avons >t> envoy>s ici par[A]
+Etruria pour d>barrasser les |les
+de ces bandits,
+mais...[A]
+[OpenMidLeft]... Vous disiez combattre
+les soldats du ch[teau...[A]
+Dans ce cas, vous
+vouliez m'engager ?[A]
+[OpenMidRight]Comment ?[A]
+[OpenMidLeft][ToggleSmile]Je suis pirate,
+je connais bien le coin.[A]
+Visiblement, vous ^tes nouveaux
+dans cette r{gion, donc[A]
+vous avez besoin d'un guide, non ?[A]
+[OpenMidRight][ToggleSmile]Ca pourrait nous servir,
+mais pourquoi nous aider ?[A]
+[OpenMidLeft]Je veux vous aider
+dans votre mission.[A]
+[ToggleSmile]Je suis un pirate, je fais donc
+probablement partie des "bandits"[A]
+dont vous parlez, mais
+je ne m'attaque g>n>ralement qu'aux[A]
+riches qui ont bien assez pour
+vivre de toute mani{re.[A]
+[OpenMidRight]Tr{s bien,
+dans ce cas, je vous
+demande de nous aider.[A]
+Nous ne connaissons pas tr{s bien
+les environs,
+et nous avons eu des probl{mes.[A]
+[OpenMidLeft]D'accord !
+Laissez-moi faire ![A]
+[OpenMidRight][ClearFace]
+[OpenMidLeft][ToggleSmile]... Ca y est, mes gars.
+Je vais vous venger
+de toutes mes forces ![A]
+Apr{s ca, je pense que je pourrai
+suivre ce Roy...[A]
+
+
+
+
+
+
+[E6]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x184]
+[ToggleSmile]Je m'inqui{te pour Lalum...
+Elle s'est donn{ tant de mal,
+nous portant des armes.[A]
+On a eu beau lui dire
+de se cacher,
+elle a continu{ < aider.[A][Clear]
+Tenez, voici une hache
+qu'elle nous a apport{e.
+Elle est un peu sp{ciale...[A]
+Elle a l'avantage sur les >p>es,
+mais se fait {craser
+par les lances ![A]
+Pourtant, j'aurais tant aim>
+la voir danser de nouveau...[A]
+
+[E7]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x188]
+[ToggleSmile]Les bandits, les pirates...
+Quand ils naissent,
+ils sont si mignons.[A]
+Peut-^tre qu'en leur parlant,
+je trouverais un arrangement.[A]
+
+[E8]
+[LoadFace][0x1E4]Vous ^tes donc arriv>s
+jusqu'ici.[A][Clear]
+Je vais vous enlever
+la vie...[A]
+
+[E9]
+[LoadFace][0x1E4][ToggleSmile]... La mort ?[A][Clear]
+Je sens... que... ma... vie...
+m'>chappe...[A]
+
+[EA]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Messire Roy...
+On n'a toujours pas compris
+pourquoi Nord nous a attaqu>s.[A]
+[OpenMidRight]Mais maintenant, pas de doute,
+quelqu'un nous en veut.[A]
+[OpenMidLeft]Hum, je propose
+qu'on avertisse Etruria...[A]
+[OpenMidRight]Oui. J'en parlerai
+< la g>n>rale Cecilia.[A]
+[OpenMidLeft][ClearFace]
+[OpenFarLeft][LoadFace][0x152]
+Excusez-moi, Messire Roy.[A]
+Il y a une jeune fille
+qu'on a trouv>e enferm>e
+dans le cachot.[A]
+Elle veut vous voir.[A]
+[OpenMidRight]Moi ?
+Faites-la entrer.[A]
+[OpenFarLeft][NormalPrint]Oui, sire.[A][ClearFace]
+[OpenMidLeft][LoadFace][0x126][CloseSpeechFast][SendToBack]C'est vous, Messire Roy ?
+Celui qui est venu
+d>truire ces bandits ?[A][SendToBack]
+[OpenMidRight][FastPrint]Oui.[A]
+[OpenMidLeft][MoveRight][SendToBack][CloseSpeechFast]Roy, je vous en supplie !
+Sauvez mes amis ![A][SendToBack]
+[OpenMidRight][MoveFarRight]Ouah ![A]
+[OpenFarLeft][LoadFace][0x154][MoveLeft][CloseSpeechFast]He !
+L[che-le ![A]
+[OpenFarRight]T... Tout d'abord, calmez-vous
+et parlons.[A]
+Vos amis sont en danger ?[A][OpenLeft][ClearFace]
+[OpenRight][MoveMidLeft]Je m'appelle Lalum.[A]
+Je fais partie des forces de la
+r>sistance de cette |le.[A]
+[OpenFarRight][FastPrint]La r>sistance qui lutte
+contre les bandits
+pour prot>ger les habitants ?[A]
+[OpenMidLeft][NormalPrint]Oui.
+... Non ![A]
+[OpenFarRight]Non ?[A]
+[OpenMidLeft]Bien sur, c'est aussi notre t[che,
+mais notre v>ritable ennemi,
+c'est Etruria ![A]
+Ils s'allient aux bandits
+pour piller
+les gens et leurs ressources ![A]
+[OpenFarRight][MoveMidRight]Quoi ?
+Est-ce vrai ?![A]
+[OpenMidLeft]Les ducs et les seigneurs qui
+vivent ici entrainent les gens dans [A]
+les mines et les font travailler
+jusqu'a la mort !!![A]
+Ils ne les laissent jamais se
+reposer,
+meme s'ils sont malades ou bl>sses.[A]
+[OpenFarRight][MoveRight]... Affreux...[A]
+[OpenMidLeft][CloseSpeechFast][ToggleMouthMove]Nous nous battons
+donc contre le gouvernement Etrurien
+pour protester contre eux ![A]
+Notre prochain projet >tait
+d'attaquer la mine du mont
+Ebrakhm et de secourir[A]
+les personnes s'y trouvant ![A]
+[OpenMidRight][FastPrint]Qu'est-ce qui ne va pas ?
+Calmez-vous.[A]
+[OpenMidLeft]Un villageois a parl>
+sous la torture !
+Je pensais pas qu'il parlerait...[A]
+[OpenMidLeft][CloseSpeechFast][SendToBack]Je dois courir aux mines
+avant qu'ils ne capturent
+tout le monde ![A][SendToBack]
+[OpenMidRight]D'accord, alors on y va ![A]
+Il faut secourir
+la r>sistance et les gens
+forc>s au travail ![A]
+[SendToBack][OpenMidLeft][MoveRight][FastPrint][ToggleSmile]Vraiment ?!
+Merci, Roy ![A][SendToBack]
+[OpenMidRight][MoveFarRight][CloseSpeechFast][ToggleSmile]Ouah !
+M... Mademoiselle Lalum ![A]
+[OpenFarLeft][LoadFace][0x154][MoveLeft]Hey !
+Je vous ai dit de le lacher ![A][ClearFace][SendToBack]
+[OpenRight][MoveMidLeft][ToggleSmile]Tenez, Roy.
+Utilisez cette >p>e.[A]
+[OpenFarRight][MoveMidRight][ToggleSmile]Qu'est-ce que c'est ?[A]
+[OpenMidLeft][ToggleSmile]Elle appartient < Echidna.[A]
+Je ne pense pas qu'elle se fachera[A]
+si vous l'utilisez.
+C'est une "Dracocide".[A]
+
+[EB]
+[OpenMidLeft][LoadFace][0x140][OpenMidRight][LoadFace][0x12E]
+[OpenMidRight][FastPrint][ToggleSmile]Je vois.[A]
+[CloseSpeechFast]Alors la princesse Guinevere n'est
+pas sur les |les occidentales ?[A]
+Nous avons cherch> < travers ces |les,[A]
+et nous avons aussi envoy> des
+espions qui ont infiltr>
+l'arm>e de la f>d>ration de Lycia,
+mais nous n'avons trouv>[A]
+la princesse nulle part.
+Je suis d>sol>.[A]
+
+[OpenMidRight]Je comprends.
+Je suppose que je vais devoir
+faire des recherches ailleurs.[A]
+Ev{que Oro, je vous remercie d'avoir
+coop>r> avec Biran.[A]
+
+[OpenMidLeft][ToggleSmile]Je vais prier pour vous permettre de
+retrouver la princesse Guinevere
+le plus vite possible.[A]
+
+[OpenMidRight]Merci.[A][ClearFace]
+
+[EC]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x140]
+[OpenMidLeft][FastPrint]Ev{que Oro,
+qui >tait-ce ?[A]
+[OpenMidRight][CloseSpeechFast]Une chevali{re dragon de Biran.
+Son nom est Miledy.
+Elle >tait < la recherche de la princesse
+Guinevere, qui est sa ma|tresse.[A]
+
+[OpenMidLeft]Lui avez-vous dit o} se trouvait
+la princesse ?[A]
+[OpenMidRight]Bien sur que non.
+Guinevere est un otage pr>cieux.[A]
+Quand le conseiller Roartz a entendu dire
+que le g>n>ral Cecilia cachait Guinevere[A]
+< Aquleia, il >tait aussi excit>
+que lorsqu'on lui avait annonc> que[A]
+l'assassinat du prince Mildain avait
+>t> un succ{s.[A]
+
+[OpenMidLeft]Ev{que Oro !
+Ne me dites pas qu'il
+a >t> assassin>...[A]
+[OpenMidRight]Oh, je devrais me taire.
+En tout cas, Guinevere a autant
+de valeur.[A]
+
+[OpenMidLeft]Je vois...[A]
+[OpenMidRight]Et < pr>sent,
+pourquoi es-tu l< ?[A]
+N'avais-tu pas quelque chose
+< me dire ?[A]
+[OpenMidLeft]Si, monsieur.[A]
+C'est au sujet du village o}
+se cache le chef de la r>sistance.[A]
+Nous sommes maintenant pr^ts
+< attaquer, je suis venu ici pour[A]
+vous le signaler.[A]
+
+[OpenMidRight]Tr{s bien, bon travail.[A]
+Dans ce cas, attaquez imm>diatement,
+pour >viter toute interruption[A]
+impr>vue...[A]
+
+
+[ED]
+[OpenMidLeft][LoadFace][0x126][OpenRight][LoadFace]
+[0x102][ToggleSmile]La cachette des r>sistants
+se trouve donc ici dans l'un des villages ?[A]
+[OpenMidLeft]Oui.[A]
+Mais il est possible que les troupes du
+propri>taire de la mine aient d>j< attaqu>.[A]
+
+[OpenFarRight][LoadFace][0x154]Je dois dire que
+cet Oro est un homme bien m>prisable.[A]
+Un >v{que devrait enseigner la parole de
+Dieu pour
+aider les gens.[A]
+Mais en fait, il torture ses sujets.[A]
+Ceci est loin d'^tre pardonnable ![A]
+[SendToBack]
+
+[OpenRight]Nous devrions probablement attendre la
+r>ponse du g>n>ral Cecilia, mais…[A]
+[SendToBack][OpenMidLeft][ClearFace]
+
+[OpenFarLeft][LoadFace][0x152][CloseSpeechFast]
+Messire Roy ![A]
+Les troupes du ch[teau sont en train
+d’attaquer
+les villages ![A]
+
+
+[EE]
+[OpenMidLeft][LoadFace][0x12E][OpenMidRight]
+[LoadFace][0x136]
+[OpenMidRight][ToggleSmile]Miledy, as-tu d>couvert
+o} se trouvait la
+Princesse Guinevere ?[A]
+[OpenMidLeft]Non...[A]
+Il semblerait qu'elle ait quitt>
+l'arm>e de la f>d>ration
+de Lycia.[A]
+Juste quand je pensais
+l'avoir retrouv>e...[A]
+[OpenMidRight]Alors il est inutile de la
+rechercher ici.[A]
+[OpenMidLeft][CloseSpeechFast]Gale...
+Je suis d>sol>e.[A]
+Le roi Zephiel voulait garder
+l'affaire de la princesse
+Guinevere secr^te.[A]
+C'est pour cela qu'il a affect>
+mon groupe pour la
+retrouver.[A]
+Je suis d>sol>e de t'avoir
+m>l>e < ca...[A]
+[OpenMidRight]Tu ne devrais pas t'inqui>ter
+< propos de ce genre
+de choses.[A]
+[OpenMidLeft]Mais tu es un des capitaines
+servant directement sous
+les ordres du g>n>ral
+Murdock.[A]
+[OpenMidRight]Le g>n>ral Murdock m'a autoris>
+< t'aider.[A]
+Quoi qu'il en soit,
+la princesse Guinevere doit
+toujours se trouver sur
+le continent.[A]
+Bien, dans ce cas,
+je crois que nous allons
+demander de l'aide
+au g>n>ral Narshen.[A]
+[OpenMidLeft][FastPrint]Tu vas te soumettre
+au g>n>ral Narshen ?[A]
+[OpenMidRight][CloseSpeechFast]Hum ?
+Bien sur.[A]
+Il est l'un des trois
+seigneurs wyvernes,
+et il est en charge
+des arm>es qui
+attaquent Lycia et Etruria.[A]
+[OpenMidLeft][FastPrint]Gale,
+es-tu... en col{re ?[A]
+[OpenMidRight][NormalPrint]A quel sujet ?[A]
+[OpenMidLeft][CloseSpeechFast]Je veux dire...
+Techniquement, tu devrais ^tre
+l'un des trois seigneurs
+wyvernes.[A]
+Mais Narshen a critiqu>
+le fait que tu n'>tais pas
+un natif de Biran et il t'a
+arrach> la place qui
+te revenait.[A]
+Et tu vas aller te soumettre
+< lui et lui demander
+de l'aide ?[A]
+[OpenMidRight][FastPrint]H> bien, ce qu'il dit
+est vrai...
+Je ne suis pas n<
+< Biran.[A]
+[OpenMidLeft][NormalPrint]Mais...[A]
+[OpenMidRight][CloseSpeechFast]Je suis heureux de la place que j'ai
+maintenant.[A]
+Et le roi Zephiel et le g>n>ral
+Murdock ont plac> leur confiance[A]
+en moi bien que je ne sois pas
+originaire de Biran.
+Que pourrais-je demander de plus ?[A]
+[OpenMidLeft][NormalPrint]Gale...[A]
+
+[EF]
+[OpenMidLeft][LoadFace][0x1D7][ToggleSmile]Echidna !
+Nous avons encercl> tout le secteur ![A]
+Nous savons que vous vous cachez
+< l'int>rieur ![A]
+D>posez vos armes et
+sortez imm>d>atement ![A]
+
+[F0]
+[OpenMidRight][LoadFace][0x133][NormalPrint][ToggleSmile][ToggleMouthMove]... ...[A]
+[OpenMidLeft][LoadFace][0x1D7][ToggleMouthMove]Vous ^tes Echidna,
+chef des forces de la r>sistance ?[A]
+[OpenMidLeft][ClearFace][OpenFarLeft][LoadFace][0x189][CloseSpeechFast]Mademoiselle Echidna, je suis d>sol> !
+Ils ont pris ma famille en otage...[A]
+[OpenMidRight]Je comprends.
+Laissez-moi m'en charger.[A]
+D>p>chez-vous de retrouver votre famille
+< pr>sent.[A]
+[OpenFarLeft][NormalPrint]D>sol>...
+Vraiment.[A][ClearFace]
+[OpenMidLeft][LoadFace][0x1D7][CloseSpeechFast]Si vous vous rendez sans r>sister,
+peut-^tre que l'>v{que Oro aura[A]
+piti> de vous.[A]
+[OpenMidRight][FastPrint][ToggleSmile]D>sol>e, mais je suis
+plut>t du genre t^tue.[A]
+[OpenMidLeft]Vous allez r>sister ?
+Dans ce cas, nous n'avons pas le choix ![A][Clear]
+Tuez-la ![A]
+
+[F1]
+[OpenMidRight][LoadFace][0x140]Ah Ah Ah...
+J'ai une id>e... Soldat ![A]
+[OpenMidLeft][LoadFace][0x1D7][FastPrint][ToggleSmile]Oui, monsieur ?[A]
+[OpenMidRight][CloseSpeechFast]Dites aux bandits que les
+villages sont dans un >tat de confusion.[A]
+Je veux qu'ils pillent les villages
+et qu'ils rassemblent tout[A]
+l'argent et les tr>sors.[A]
+[OpenMidLeft][FastPrint]Bien.
+Mais... en ^tes-vous sur ?[A]
+Si cela se savait...[A]
+[OpenMidRight][CloseSpeechFast]Tu oublies que je suis le repr>sentant
+de Dieu lui-m^me.[A]
+Si quiconque tente de me discr>diter,
+il ira < l'encontre de Dieu ![A]
+Par cons>quent, il n'y a personne sur
+cette |le qui puisse me diffamer ![A]
+Maintenant, h[te-toi.
+Ce ne sera plus d'aucune utilit>[A]
+si la crise qui a frapp> les villages
+s'att>nue.[A]
+[OpenMidLeft][NormalPrint]Bien.[A]
+
+[F2]
+[OpenMidRight][LoadFace][0x151]Alors, vous ^tes sur que nous[A]
+pouvons piller les villages
+autant que nous le voulons ?[A]
+[OpenMidLeft][LoadFace][0x1D7][ToggleSmile]Oui.
+Mais en retour...[A]
+[OpenMidRight][ToggleSmile]Ouais ouais, nous sommes suppos>s
+rapporter la moiti> du butin au ch[teau,
+exact ?[A]
+C'est un foutu >v{que que vous avez l<.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]...
+Merci pour votre coop>ration ![A][ClearFace]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Tr{s bien les gars !
+Pillez les villages ![A]
+R>cup>rez tous les tr>sors ![A]
+
+[F3]
+[OpenMidLeft][LoadFace][0x152][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Messire Roy, des bandits viennent
+de la montagne < l'est.[A]
+[OpenMidRight]Ils pensent attaquer les villages en
+pleine confusion...[A]
+Nous devons les arr^ter et
+secourir les habitants ![A]
+
+[F4]
+[OpenMidLeft][LoadFace][0x140][OpenMidRight][LoadFace][0x1D7]
+[OpenMidLeft][ToggleSmile]Pourquoi cela prend-t-il autant
+de temps ?![A]
+Les forces de la r>sistance posent-elles
+autant de probl{mes ?![A]
+[OpenMidRight]L'arm>e de la f>d>ration de Lycia ![A]
+Ils soutiennent les forces de
+la r>sistance...[A]
+[OpenMidLeft]Comment ?![A]
+La f>d>ration de Lycia
+se retournerait contre Etruria ?[A]
+[OpenMidRight]Nous venons juste de recevoir un
+message du capitole, < Djuto ![A]
+Il dit...[A]
+"L'arm>e de la f>d>ration de Lycia
+est responsable du meurtre du duc Nord.[A]
+Il est aussi possible qu'elle se soit
+retourn>e contre Etruria.[A]
+Nous pensons qu'elle s'est alli>e
+avec les bandits.[A]
+Capturez-les, ou tuez-les,
+si n>cessaire."[A]
+[OpenMidLeft]Alors ils ont tu> le duc Nord...[A]
+[ToggleSmile]En tous cas, ils ont sorti
+une bonne excuse pour se d>barrasser[A]
+de l'arm>e de la f>d>ration de Lycia.
+Ah ah ah... Alli>e avec les bandits[A]
+hein ?
+Comme c'est ironique...[A]
+[OpenMidRight][ToggleSmile]Lord Arcard a aussi fourni quelques
+renforts pour nous aider[A]
+< capturer l'arm>e de la f>d>ration de Lycia.
+Ils devraient arriver d'ici peu.[A]
+[OpenMidLeft][ToggleSmile]Comme c'est g>n>reux !
+Il a dit "capturez-les", mais il
+projette s>rement de les tuer de[A]
+toute mani{re.[A]
+Alors faisons le travail < sa place.
+Tuez-les tous ![A]
+[OpenMidRight][ToggleSmile]Bien, monsieur ![A]
+
+[F5]
+[OpenMidLeft][LoadFace][0x140][OpenMidRight][LoadFace][0x1D7]
+[OpenMidRight]>v{que Oro,
+des renforts vont[A]
+bient_t arriver.[A]
+[OpenMidLeft]Bien...
+J'esp>re que ca suffira.[A]
+Ils se battent mieux que je
+ne l'aurais pens>...[A]
+
+[F6]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x126]
+[OpenMidRight][FastPrint]Echidna ![A]
+[OpenMidLeft][CloseSpeechFast]Lalum ?
+Tu n'as rien ?[A]
+Bien... si quelque chose t'>tait arriv>,
+je n'aurais pas su quoi dire[A]
+< Elphin.[A]
+[OpenMidRight][ToggleSmile]Je suis d>sol>e... Si je n'avais pas
+>t> attrap>e, j'aurais pu t'en parler
+plus t_t...[A]
+[OpenMidLeft][ToggleSmile]C'est bon.
+Ne t'inqui{te pas.[A]
+[OpenMidRight][ToggleSmile]Mais...[A]
+[OpenMidLeft][ToggleSmile]Ce qui est fait est fait.
+Cela ne te ressemble pas.[A]
+Et en plus,
+je suis en un seul morceau.[A]
+C'est une bonne nouvelle, non ?[A]
+[OpenMidRight][NormalPrint][ToggleSmile]... Oui.[A]
+Quoi qu'il en soit, quelle est l'arm>e
+qui attaque le ch[teau en ce moment ?[A]
+[OpenMidRight]Roy et l'arm>e de la f>d>ration de Lycia !
+Ils sont venus ici pour vaincre[A]
+les bandits.[A]
+[OpenMidLeft]Lycia, hein ?
+Ils ont certainement fait un sacr>
+bout de chemin
+pour arriver jusqu'ici...[A]
+[OpenMidLeft]Et ont-ils vraiment l'air
+de nous aider ?[A]
+[OpenMidRight][FastPrint]Oui !
+Ils m'ont aid>e, moi aussi.[A]
+[OpenMidLeft][CloseSpeechFast]Tr{s bien,
+dans ce cas, je crois que je vais
+les rejoindre moi aussi ![A]
+Ca ne pose pas de probl{mes,
+n'est-ce pas ?[A]
+[OpenMidRight]Vraiment ?
+Ca serait g>nial ![A]
+Je suis sure que Roy
+sera heureux aussi.[A]
+
+[F7]
+
+[F8]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x182]
+Oh ! Vous ^tes de la r>sistance, hein ?[A]
+[OpenMidRight]Eh ? Eh ? Ahhh, je vois...
+On dirait que les ennemis sont[A]
+partout...[A]
+Tenez, prenez ceci !
+Nous croyons vraiment en vous.[A]
+
+[F9]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x189]
+[ToggleSmile]Je suis cens> donner ce sceptre
+a Oro...[A]
+Il ach{te toutes ces choses avec l'argent
+qu'il nous vole.[A]
+Mais je vais plut_t vous
+le donner ![A]
+Je vous en prie, ne perdez pas...
+Pour nous.[A]
+
+[0100]
+[LoadFace][0x140][ToggleSmile]Se dresser contre moi...
+c'est la m^me chose que de[A]
+se dresser contre Dieu ![A][Clear]
+Recevez votre punition de
+mes propres mains ![A]
+
+[0101]
+[LoadFace][0x140][ToggleSmile]Sales...
+sales paiens...[A][Clear]
+... Je... repr>sente... Dieu...
+Gah... !![A]
+
+[0102]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Messire Roy, il y a un jeune homme ici qui
+dit ^tre
+un des membres des forces de la r>sistance.[A]
+[OpenMidRight][ToggleSmile]Je vais le voir, laissez-le passer.[A][OpenMidLeft][ClearFace]
+[OpenFarLeft][LoadFace][0x12B]Ah, vous ^tes donc Roy ?
+Enchant>[A]
+mon nom est Elphin.[A]
+Je suis un membre des forces
+de la r>sistance.[A]
+[OpenMidRight]Je suis Roy
+de l'arm>e de la f>d>ration de Lycia.[A]
+[OpenFarLeft]Tous mes remerciements
+pour avoir sauv> nos villages.[A]
+[OpenMidRight]Non, nous avons simplement fait ce
+que nous avons cru ^tre juste.[A]
+[OpenFarLeft][ToggleSmile]Mais < pr>sent,
+vous vous ^tes rebell>s contre Etruria.[A]
+Vous avez certainement pens> < ceci
+avant d'agir ?[A]
+[OpenMidRight]Oui, mais nous avons quand m^me
+fait ce que nous pensions ^tre juste.[A]
+Bien que ce que nous ayons fait est
+un signe de r>volte contre Etruria,[A]
+si la v>rit> sur ces ^les est rendue
+publique, alors ils comprendront.[A]
+J'ai envoy> une lettre < un membre de
+la noblesse d'Etruria en qui j'ai
+confiance.[A]
+Si elle prend les mesures appropri>es,
+je pense que nous pourrons faire[A]
+pencher la balance en notre faveur.[A]
+[OpenFarLeft]Je ne serais pas aussi
+sur de cela...[A]
+[OpenMidRight]Que voulez-vous dire ?[A]
+[OpenFarLeft]N'avez-vous jamais pens> qu'il
+>tait >trange qu'Etruria vous envoie[A]
+ici pour vous d>barrasser des bandits ?[A]
+[OpenMidRight]Si...
+En fait, bien sur.[A]
+[OpenFarLeft]Voici ma th>orie...
+Mais je crois que ceux qui vous ont [A]
+demand> votre aide sont le conseiller
+Roartz et Lord Arcard.[A]
+[OpenMidRight]... Comment savez-vous cela ?[A]
+[OpenFarLeft]Pourquoi ces deux-l< voudraient-ils >carter
+votre arm>e du continent ?[A]
+Pourrait-il y avoir quelconque sorte
+de probl{me si vous >tiez rest> < Lycia ?[A]
+
+[0103]
+[OpenMidLeft][LoadFace][0x182][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft]Ah,
+^tes-vous le g>n>ral Roy ?[A]
+[OpenMidRight]Oui.[A]
+[OpenMidLeft]Vous avez sauv> nos villages.[A]
+Veuillez prendre ceci en signe
+de notre gratitude.[A]
+
+[0104]
+[OpenMidLeft][LoadFace][0x146][OpenMidRight][LoadFace][0x13F]
+[OpenMidLeft][MoveMidLeft][ToggleSmile]G... G>n>ral Flaer ![A]
+[OpenMidRight][ToggleSmile]Ah, Lord Arcard.
+Pourquoi vous inqui>tez-vous ainsi ?[A]
+[OpenMidLeft][MoveMidLeft][ToggleSmile]C'est l'arm>e de la f>d>ration de Lycia ![A]
+Ils approchent d'ici pour prendre
+ma t^te ![A]
+[OpenMidRight][ToggleSmile]Oh, eux.[A]
+Ils sont une nuisance pour nous aussi
+qui venons de Biran...[A]
+Nous pensions que les choses deviendraient
+difficiles si elle nouait des liens
+avec Etruria.[A]
+C'est pour cela que nous vous avons
+demand> de les envoyer ici...[A]
+Bien... ils se battent mieux que
+je ne l'avais imagin>.[A]
+[OpenMidLeft][MoveMidLeft][ToggleSmile]Qu'est-ce que vous racontez !
+Avez-vous une id>e de tout ce que[A]
+j'ai perdu < cause d'eux ?
+Toutes les richesses que j'ai acquises[A]
+sur ces ^les... N... Non !
+Ma vie avant tout ![A]
+Ma vie est en danger ![A]
+S'ils arrivent jusqu'ici,
+je suis perdu ![A]
+Que dois-je faire...[A]
+[OpenMidRight][ToggleSmile]Si vous ^tes si angoiss>,
+vous devriez fuir cette capitale[A]
+et vous enfuir < Etruria.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]^tes-vous sur ?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]La guerre est ce
+< quoi Biran est le plus fort.[A]
+Et en plus, nous avons notre arme
+secr{te < port>e de main.[A]
+Nous devrions en finir avec cette
+arm>e une bonne fois pour toute.[A]
+[OpenMidLeft][NormalPrint][ToggleSmile]Mais...[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Lord Arcard.[A]
+Si Biran et Etruria s'allient,
+il n'y a rien que nous ayons < craindre[A]
+sur ce continent.
+N'est-ce pas vrai ?[A]
+[OpenMidLeft][FastPrint]Oui... oui !
+Vous avez raison.[A]
+Dans ce cas, je demande
+votre aide.[A][ClearFace]
+
+[0105]
+[OpenMidRight][LoadFace][0x13F][ToggleSmile]Pfff, la faiblesse de ces
+nobles d'Etruria.[A]
+Mais si nous pouvons nous d>barrasser de
+[ToggleSmile]cette arm>e ici,[A]
+ces ^les seront < nous
+pour toujours...[A]
+
+[0106]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]C'est la capitale...
+D{s que nous l'aurons prise,[A]
+nous pourrons rentrer chez nous.[A]
+[OpenMidLeft][LoadFace][0x12B]Messire Roy,[A]
+j'ai entendu d'>tranges rumeurs des
+gens qui vivent dans les environs.[A]
+Ils disent qu'un "humain pas humain"
+r>side dans le ch[teau.[A]
+[OpenMidRight]Qu'est-ce que cela signifie ?[A]
+[OpenMidLeft]Ils ont dit qu'il se transformait...
+en dragon.[A]
+[OpenMidRight][MoveRight]Un humain ?
+Se transformant en dragon ?[A]
+[OpenMidLeft]Je ne peux encore rien avancer
+pour le moment.
+Nous devons agir avec pr>caution.[A]
+
+
+[0107]
+[OpenRight][LoadFace][0x102][ToggleSmile]C'est la capitale...
+[ToggleSmile]D{s que nous l'aurons prise,[A]
+nous pourrons rentrer chez nous.[A]
+[SendToBack][OpenFarRight][LoadFace][0x12B][ToggleSmile]J'ai envoy> quelqu'un devant
+pour ouvrir le portail...[A][OpenFarLeft][LoadFace][0x126]
+[OpenFarRight]Oh,
+la voil<.[A][SendToBack]
+[OpenRight]La personne l<-bas,
+habill>e comme une danseuse ?[A]
+[SendToBack][OpenFarRight]Oui.[A][SendToBack]
+[OpenFarLeft][ToggleSmile]Votre Majest> !
+[MoveFarLeft]Over[MoveFarLeft] Par ici ![A]
+[OpenRight][ToggleSmile]Votre Majest> ?[A]
+[SendToBack][OpenFarRight]... Je ne vois pas de quoi
+elle veut parler.[A]
+[OpenFarLeft][MoveLeft][ToggleSmile]Votre Majest> !
+Vous ^tes en retard.[A]
+[OpenFarRight][ToggleSmile]Lalum,
+qui appelles-tu "Majest>" ?[A][SendToBack]
+[OpenLeft]?... Oh !
+Ah... euh...[A]
+[OpenLeft][MoveMidLeft]Vous savez bien, vous ressemblez,
+tellement[A]
+[ToggleSmile]< un prince,
+que je vous ai donn> un surnom ![A]
+[SendToBack][OpenFarRight][ToggleMouthMove]... ...[A][SendToBack]
+[OpenRight]... ...[ToggleMouthMove][A]
+[SendToBack][OpenFarRight][ToggleSmile]Mes excuses,
+Messire Roy.[A]
+Voici Lalum,
+un membre de la r>sistance.[A]
+[SendToBack]
+[OpenMidLeft][ToggleSmile]Vous ^tes Roy ?[A]
+Tout le monde sur ces |les a entendu
+parler de vous ![A]
+On vous appelle
+"le sauveur venu de l'Est".[A]
+[OpenMidLeft][MoveLeft]Enchant>e de vous rencontrer,
+je suis Lalum.[A]
+[OpenRight][MoveRight][ToggleSmile]Ouah !
+Gardez vos distances, je vous prie ![A]
+[OpenLeft][ToggleSmile]Roy, votre visage est tout rouge.
+Comme c'est mignon ![A][SendToBack]
+[OpenFarRight][ToggleSmile]... Lalum...[A][SendToBack]
+[OpenLeft][MoveMidLeft]Oh ! T... Tr{s bien...
+J'ai entendu d'>tranges rumeurs.[A]
+Les gens d'ici disent qu'un "humain
+pas humain" r>side dans le ch[teau.[A]
+[OpenRight]Un humain pas humain... ?[A]
+[OpenMidLeft]Oui.[A]
+Ils ont dit qu'il se transformait
+en une cr>ature que personne n'avait vue auparavant.[A]
+Certains ont dit qu'il ressemblait < un de
+ces l>gendaires dragons ![A]
+[OpenRight]Un humain ?
+Se transformant en dragon ?![A]
+[OpenMidLeft]Je ne sais pas...
+mais peut-^tre.[A]
+[SendToBack][OpenFarRight]Nous devons agir avec
+beaucoup de pr>caution.[A][SendToBack]
+
+
+[0108]
+[OpenMidLeft][LoadFace][0x141][OpenMidRight][LoadFace][0x13F]Ah, te voila,
+Aine.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]J'ai entendu votre appel...[A]
+[OpenMidRight][CloseSpeechFast]Je vais faire mon rapport sur
+l'arm>e de la f>d>ration de Lycia
+au general Narshen.[A]
+Je veux que tu d>fendes ce ch[teau
+pendant mon absence.[A]
+[OpenMidLeft][NormalPrint]... Compris.[A]
+[OpenMidRight][FastPrint]Hum ?
+Qui est la ?![A][Clear][......]
+[ToggleMouthMove]... ... Ce n'est que le vent...[A][Clear]
+[ToggleMouthMove]Bien, dans ce cas, j'y vais.
+Je te laisse te charger du reste.[A]
+[OpenMidLeft][NormalPrint]... Compris.[A][ClearFace]
+[OpenMidRight][CloseSpeechFast]Ah ah... La federation de Lycia
+n'a aucune chance face < ce dragon.[A]
+Ils ne seront meme pas capables
+de l'>gratigner avec des armes ordinaires.[A]
+Ces manaketes...
+Ce sont vraiment des b^tes t>rrifiantes.[A]
+
+[0109]
+[OpenMidRight][LoadFace][0x125]... Voila donc ce qu'est
+"l'humain pas humain".[A]
+Alors Biran a v>ritablement ramen>
+les dragons en ce monde.[A]
+... Que puis-je donc faire < present...[A]
+[ToggleSmile]Je crois que je vais me faire passer
+pour un soldat et observer la puissance[A]
+du dragon.[A]
+
+[010A]
+[OpenMidRight][LoadFace][0x12C]Tout ce chemin fait
+dans les |les de l'ouest,[A]
+des gens suant pour les nobles
+tapis dans leur forteresse ![A]
+Et si cela est vrai, ce ch|teau doit
+^tre rempli de tresors ![A]
+Le butin n'a pas du ^tre gagn> l>gitimement
+par les nobles de toute mani{re.[A]
+Alors je crois que je vais
+tout prendre pour moi ![A]
+
+[010B]
+[OpenMidLeft][LoadFace][0x141][OpenMidRight][LoadFace][0x1D7]Les renforts arriveront bient_t
+du Sud ![A]
+[OpenMidLeft][ToggleMouthMove]... ...[A]
+[OpenMidRight][ToggleMouthMove]... ...C... C'est tout,
+monsieur.[A]
+[OpenMidLeft][ClearFace][OpenMidRight]Ce type me fout la trouille...[A]
+
+[010C]
+[OpenMidRight][LoadFace][0x1D7][ToggleSmile]
+Vous vous ^tes occup>s de la grotte
+< la peripherie ?[A]
+[OpenMidLeft][LoadFace][0x1DB]
+Oui, monsieur.[A]
+Nous avons engag> les bandits pour
+bloquer l'entr>e.[A]
+Plus personne ne sera capable
+de r>cup>rer l'arme divine < present.[A]
+[OpenMidRight]G>nial ![A]
+Maintenant, tout ce que nous avons <
+faire est de nous d>barrasser de
+l'arm>e de la f>d>ration de Lycia.[A]
+
+[010D]
+[OpenMidLeft][LoadFace][0x125][OpenMidRight][LoadFace][0x121]
+[OpenMidRight][FastPrint]Ray ? Ray !
+C'est bon de te revoir ![A]
+[OpenMidLeft][ToggleSmile]Lugh... !
+Que fais-tu ici ?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Je suis heureux de voir
+que tu as l'air en forme.[A]
+Nous >tions inquiets.
+Un jour, tu es parti comme ca,[A]
+en disant que tu "partais en voyage
+pour perfectionner ta magie".[A]
+[OpenMidLeft]Je n'aurais pas pu apprendre la magie
+efficacement en restant sans rien faire[A]
+dans cet orphelinat.[A]
+C'est etonnant tout ce que
+j'ai pu apprendre.[A]
+[OpenMidRight][FastPrint][ToggleSmile]Ray...
+L'orphelinat n'est plus.[A]
+[OpenMidLeft][CloseSpeechFast]?
+Qu'est-il arriv> ?[A]
+[OpenMidRight]Les forces de Biran...
+l'ont brul>.[A]
+[OpenMidLeft]... Qu'est-il arriv> aux autres ?[A]
+[OpenMidRight]Le p{re < >t> tu> en nous
+prot>geant...[A]
+Les enfants sont sous la protection
+de l'Eglise d'Elimine.[A]
+[OpenMidLeft]... Je vois.[A]
+C'est bien... Ils seront plus heureux de vivre
+dans l'Eglise plut_t que dans[A]
+un vieil orphelinat.[A]
+[OpenMidRight]Tu n'as pas < le dire
+de cette maniere.[A]
+[OpenMidLeft][ToggleMouthMove][NormalPrint]... ...[A]
+[OpenMidRight][ToggleMouthMove][CloseSpeechFast]Ray !
+Viens avec nous.[A]
+Allons vaincre Biran et retrouver
+les enfants ![A]
+[OpenMidLeft]Je n'en vois pas l'interet.[A]
+[OpenMidRight]Mais ![A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Neanmoins... l'arm>e de la f>d>ration de Lycia
+ne me semble pas trop ^tre un mauvais
+endroit o} aller.[A]
+Elle semble avoir un lien avec
+les dragons.[A]
+Alors, si tu insistes,
+je pense que je peux venir avec toi.[A]
+[OpenMidRight][NormalPrint]Ray...[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]J'esp{re que tu comprends ![A]
+Je ne vous rejoins pas pour venger
+le p{re ou l'orphelinat ou quoi que ce soit ![A]
+[OpenMidRight][FastPrint][ToggleSmile]Oui !
+Je sais, Ray.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Alors ne me regarde pas
+comme ca ![A]
+
+[010E]
+[OpenMidLeft][LoadFace][0x125][OpenMidRight][LoadFace][0x111]
+[OpenMidRight][ToggleSmile]Ray !
+Que fais-tu ici ?[A]
+[OpenMidLeft]Je me demandais la m^me chose.
+Que fais-tu ici ?[A]
+Qu'est-il arrive <
+l'orphelinat ?[A]
+[OpenMidRight][FastPrint]... Alors tu t'en pr>occupes,
+m^me apres avoir fui de la sorte.[A]
+[OpenMidLeft][CloseSpeechFast]Je ne m'en suis jamais pr>occup>.
+C'est toi qui viens juste
+de me le rappeler.[A]
+[OpenMidRight][FastPrint]... L'orphelinat n'est plus.[A]
+[OpenMidLeft]Que veux-tu dire ?[A]
+[OpenMidRight][CloseSpeechFast]Les troupes de Biran l'ont reduit
+en cendres quand ils ont envahi Lycia.[A]
+Le p{re...
+Il a >t>...[A]
+[OpenMidLeft][FastPrint]Quoi ?!
+Ils ont tu> le p{re... ?[A]
+[OpenMidRight][CloseSpeechFast]Je vais le venger.
+Je sais que nous sommes coinces sur[A]
+ces |les pour l'instant, mais je sais
+qu'un jour, nous retournerons sur[A]
+le continent pour lutter contre Biran... ![A]
+[OpenMidLeft][ToggleMouthMove]... ...[ToggleMouthMove][A]
+[OpenMidRight]He bien, je suppose qu'il n'y a aucune
+raison que je te dise cela, n'est-ce pas ?[A]
+[OpenMidLeft]... Je viens avec vous.[A]
+[OpenMidRight][FastPrint]Quoi ?!
+Pour de vrai ?[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Biran a l'air d'^tre li>
+aux dragons.[A]
+Je suis curieux < leur sujet.[A]
+[OpenMidRight][NormalPrint]... Bien.[A]
+Simplement, ne viens pas
+nous ralentir.[A]
+
+[010F]
+[OpenMidLeft][LoadFace][0x125][OpenMidRight][LoadFace][0x121]
+[OpenMidRight][FastPrint]Ray ? Ray !
+C'est bon de te revoir ![A]
+[OpenMidLeft][ToggleSmile]Lugh... !
+Que fais-tu ici ?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Je suis heureux de voir
+que tu as l'air en forme.[A]
+Nous >tions inquiets.
+Un jour, tu es parti comme ca,[A]
+en disant que tu "partais en voyage
+pour perfectionner ta magie".[A]
+[OpenMidLeft]Je n'aurais pas pu apprendre la magie
+efficacement en restant sans rien faire[A]
+dans cet orphelinat.[A]
+C'est >tonnant tout ce que
+j'ai pu apprendre.[A]
+[OpenMidRight][FastPrint][ToggleSmile]Ray...
+L'orphelinat n'est plus.[A]
+[OpenMidLeft][CloseSpeechFast]?
+Qu'est-il arriv> ?[A]
+[OpenMidRight]Les forces de Biran...
+l'ont brul>s.[A]
+[OpenMidLeft]... Qu'est-il arrive aux autres ?[A]
+[OpenMidRight]Le p{re < >t> tu> en nous
+protegeant...[A]
+Les enfants sont sous la protection
+de l'Eglise d'Elimine.[A]
+[OpenMidLeft]... Je vois.[A]
+C'est bien... ils seront plus heureux de vivre
+dans l'>glise plutot que dans[A]
+un vieil orphelinat.[A]
+[OpenMidRight]Tu n'as pas a le dire
+de cette maniere.[A]
+[OpenMidLeft][ToggleMouthMove][NormalPrint]... ...[A]
+[OpenMidRight][ToggleMouthMove][CloseSpeechFast]Ray !
+Viens avec nous.[A]
+Allons vaincre Biran et retrouver
+les enfants ![A]
+[OpenMidLeft]Je n'en vois pas l'interet.[A]
+[OpenMidRight]Mais ![A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Neanmoins... l'arm>e de la f>d>ration de Lycia
+ne me semble pas trop ^tre un mauvais
+endroit ou aller.[A]
+Elle semble avoir un lien avec
+les dragons.[A]
+Alors, si tu insistes,
+je pense que je peux venir avec toi.[A]
+[OpenMidRight][NormalPrint]Ray...[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]J'esp{re que tu comprends ![A]
+Je ne vous rejoins pas pour venger
+le p{re ou l'orphelinat ou quoi que ce soit ![A]
+[OpenMidRight][FastPrint][ToggleSmile]Oui !
+Je sais, Ray.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Alors ne me regarde pas
+comme ca ![A]
+
+[0110]
+[OpenMidLeft][LoadFace][0x125][OpenMidRight][LoadFace][0x111]
+[OpenMidRight][ToggleSmile]Ray !
+Que fais-tu ici ?[A]
+[OpenMidLeft]Je me demandais la meme chose.
+Que fais-tu ici ?[A]
+Qu'est-il arriv> <
+l'orphelinat ?[A]
+[OpenMidRight][FastPrint]... Alors tu t'en pr>occupes,
+m^me apres avoir fui de la sorte.[A]
+[OpenMidLeft][CloseSpeechFast]Je ne m'en suis jamais pr>occupe.
+C'est toi qui viens juste
+de me le rappeler.[A]
+[OpenMidRight][FastPrint]... L'orphelinat n'est plus.[A]
+[OpenMidLeft]Que veux-tu dire ?[A]
+[OpenMidRight][CloseSpeechFast]Les troupes de Biran l'ont reduit
+en cendres quand ils ont envahi Lycia.[A]
+Le p{re...
+Il a >t>...[A]
+[OpenMidLeft][FastPrint]Quoi ?!
+Ils ont tu> le p{re... ?[A]
+[OpenMidRight][CloseSpeechFast]Je vais le venger.
+Je sais que nous sommes coinces sur[A]
+ces |les pour l'instant, mais je sais
+qu'un jour, nous retournerons sur[A]
+le continent pour lutter contre Biran... ![A]
+[OpenMidLeft][ToggleMouthMove]... ...[ToggleMouthMove][A]
+[OpenMidRight]He bien, je suppose qu'il n'y a aucune
+raison que je te dise cela, n'est-ce pas ?[A]
+[OpenMidLeft]... Je viens avec vous.[A]
+[OpenMidRight][FastPrint]Quoi ?!
+Pour de vrai ?[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Biran a l'air d'^tre li>
+aux dragons.[A]
+Je suis curieux < leur sujet.[A]
+[OpenMidRight][NormalPrint]... Bien.[A]
+Simplement, ne viens pas
+nous ralentir.[A]
+
+[0111]
+[LoadFace][0x141][ToggleSmile]... Brulez.[A]
+[0112]
+[LoadFace][0x141][ToggleSmile]... Que... ![A]
+[0113]
+[OpenRight][LoadFace][0x102][FastPrint][ToggleSmile]C'>tait juste...[A]
+Le pouvoir d'un dragon... stup>fiant.[A]
+[OpenMidLeft][LoadFace][0x12B]Un humain pas humain...
+Voila ce que cela voulait dire.[A][SendToBack]
+[OpenRight]Combien de ces choses Biran
+poss{de-t-il encore... ?[A]
+Comment sommes-nous cens>s lutter contre
+des monstres de ce genre ?![A]
+[OpenMidLeft]Messire Roy !
+Calmez-vous, je vous prie.[A]
+[OpenRight]Oh...[A]
+[OpenMidLeft]... Je comprends votre inquietude.[A]
+Mais si vous commencez a paniquer, tout le monde
+dans cette arm>e deviendra inquiet.[A]
+Comprenez cela, s'il vous plait.[A]
+[OpenRight][MoveMidRight]... Je suis d>sol>.[A]
+[OpenMidLeft]Non, c'est une r>action parfaitement
+compr>hensible apres avoir combattu une[A]
+telle chose.[A]
+Mais < present... nous savons
+quelque chose que nous ignorions
+auparavant.[A]
+[OpenMidRight]Qu'est-ce ?[A]
+[OpenMidLeft]Vous ne vous en souvenez pas ?[A]
+Je vous ai parl> d'une rumeur selon laquelle
+Arcard >tait alli> avec Biran[A]
+[OpenMidRight]Oh ![A]
+S'il y a des wyvernes dans la capitale
+d'Etruria...[A]
+[OpenMidLeft]Alors Arcard etait
+effectivement du c_t> de Biran.[A]
+[OpenMidRight]... Cela signifie que Lycia est en danger...[A]
+Nous devons retourner sur le continent.
+Nous devons contacter le g>n>ral Cecilia[A]
+et r>flechir a un plan...[A]
+
+[0114]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Messire Roy, nous avons captur^e
+un des soldats ennemis.[A]
+Il dit qu'il a des informations
+importantes a partager.[A]
+[OpenMidRight][ToggleSmile]Amenez-le ici.[A]
+[ClearFace][OpenFarLeft][LoadFace][0x141]
+Vous ^tes... Roy, n'est-ce pas ?[A]
+Je viens pour vous parler
+de la v>rit> sur Biran.[A]
+[OpenMidRight]La v>rit> ? Que voulez-vous dire ?[A]
+[OpenFarLeft]Je suis un espion...
+j'ai ^t>e charg> d'observer[A]
+les mouvements des dragons
+au sein de Biran.[A]
+[OpenFarLeft]Mais ce que j'ai d>couvert
+m'a terrifi>.[A]
+[OpenMidRight]Expliquez-vous.[A]
+[OpenFarLeft]Les dragons ne sont pas
+juste des armes vivantes.[A]
+Ils pensent, ils planifient,
+et ils ha|ssent l'humanit>.[A]
+[OpenFarLeft]Ils pr>parent quelque chose
+de grand.[A]
+Quelque chose que nous ne
+pourrons pas arreter facilement...[A]
+[OpenMidRight]Nous devons transmettre
+ces informations au continent ![A]
+Merci pour votre aide.[A]
+
+[0115]
+[OpenFarLeft][LoadFace][0x152][OpenRight][LoadFace][0x102]
+[OpenFarLeft][ToggleSmile]D-Des nouvelles ! J'ai recu un message
+d'Etruria... Une r>bellion[A]
+a >clat> dans le ch[teau >trurien
+de la ville d'Aquleia.[A][SendToBack]
+[OpenFarRight][LoadFace][0x154][FastPrint]Quoi ![A][SendToBack]
+[OpenFarLeft][CloseSpeechFast]
+Les chefs des rebelles sont le
+conseiller Roartz et Lord Arcard.[A]
+Ils ont captur> le roi Mordred,
+et ont annonc> leur plan[A]
+de partage du monde entre
+Biran et Etruria ![A][SendToBack]
+[OpenFarRight]Non... les deux plus grandes puissances
+se sont alli>s...[SendToBack]
+[OpenRight]
+Est-ce que le g>n>ral Cecilia va bien ?!
+Et qu'en est-il de la princesse Guinevere ?[A]
+[OpenFarLeft]
+Nous n'avons pas d'informations
+pr>cises...[A]
+Mais il semble que les trois g>n>raux
+d'Etruria se soient s>par>s.[A]
+Le g>n>ral en Sorcellerie, Cecilia
+s'est enfuie d'Aquleia et se[A]
+dirige vers les Iles de Misul,
+vers l'ouest.[A]
+[OpenRight]Et les autres g>n>raux ?[A]
+[OpenFarLeft]
+Ils ont >t> forc>s de rejoindre les
+rebelles, car le roi Mordred[A]
+a >t> pris en otage.[A][SendToBack]
+[OpenFarRight][NormalPrint]Messire Roy...[A][SendToBack]
+[OpenRight][FastPrint]
+Nous devons contacter le g>n>ral
+Cecilia...[A]
+Princesse Guinevere...[A]
+G>n>ral Cecilia...
+Faites qu'elles n'aient rien...[A]
+
+
+[0116]
+[OpenMidLeft][LoadFace][0x13F][OpenMidRight][LoadFace][0x142]
+[OpenMidRight][FastPrint][ToggleSmile]
+Le ch[teau n'est pas encore tomb>?![A]
+[OpenMidLeft][CloseSpeechFast]
+Mon g>en>ral, les contre-r>evolutionnaires,
+men>s par le g>n>ral Cecilia, combattent[A]
+bien plus ardemment que nous
+ne l'imaginions.[A][ClearFace]
+[OpenMidRight]Cecilia... !
+Encore elle ![A]
+Toujours en train d'interf>erer avec mes
+plans ![A][......]
+
+
+[0117]
+[OpenMidRight][LoadFace][0x142][OpenLeft][LoadFace][0x149]
+[OpenLeft][ToggleSmile]
+Je vois que vous avez des probl{mes,
+Narshen.[A]
+[OpenLeft][ClearFace][OpenFarLeft][LoadFace][0x14B][ToggleMouthMove]
+... ...[ToggleMouthMove][A]
+[OpenFarLeft][ClearFace][OpenLeft][LoadFace][0x149]
+[OpenMidRight]
+V... Votre Majest>?!
+Quand... ^tes-vous arriv>?[A]
+[OpenLeft][CloseSpeechFast]A l'instant.[A]
+Le g>n>ral d'Etruria combat bien <
+ce que je vois.[A]
+[OpenMidRight][FastPrint]
+Oui... Mais nous devrions bient_t avoir
+la situation sous contr_le.[A]
+[OpenLeft][CloseSpeechFast]Non, laissez-moi faire.
+Je vais l'affronter moi-m^me.[A][SendToBack]
+[OpenMidRight][ClearFace][OpenFarLeft][LoadFace][0x14B][FastPrint]
+Votre Majest>, il n'y a aucune raison
+pour vous de vous battre...[A][SendToBack]
+[OpenLeft][CloseSpeechFast]
+Il n'y a pas de probl{mes.
+Cela devrait ^tre un bon exercice.[A]
+[SendToBack][OpenFarLeft][ClearFace][SendToBack][OpenMidRight][LoadFace][0x142]
+[OpenLeft][CloseSpeechFast]Narshen,
+conduisez-moi < elle.[A]
+
+
+[0118]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][NormalPrint][ToggleSmile]
+Quelle est la situation ?[A]
+[OpenMidLeft][CloseSpeechFast]
+Le ch[teau n'est pas encore
+tomb>, Messire Roy.[A]
+[OpenMidRight][FastPrint]Bien !
+Nous devons nous d>p^cher alors.[A]
+
+
+[0119]
+[OpenMidRight][LoadFace][0x134][OpenLeft][LoadFace][0x149]
+[OpenLeft][ToggleSmile]
+Alors vous ^tes Cecilia, le
+g>n>ral en sorcellerie.[A]
+[OpenMidRight][NormalPrint]!!
+... Roi Zephiel...[A]
+[OpenLeft][CloseSpeechFast]
+Pour votre prouesse au combat, vous
+avez l'honneur de pouvoir m'affronter[A]
+dans un duel.[A]
+[OpenMidRight][FastPrint][ToggleMouthMove]...[A]
+[OpenMidRight][MoveRight][ToggleMouthMove]!![A]
+
+
+
+[011A]
+[LoadFace][0x134][ToggleSmile]Quelle...
+puissance...[......][A]
+
+
+[011B]
+[OpenLeft][LoadFace][0x149][ToggleSmile]
+Elle a perdu conaissance...
+J'en attendais un peu plus.[A]
+[OpenFarLeft][LoadFace][0x142][FastPrint][ToggleSmile]
+Votre Majest> !
+Invincible, comme toujours.[A][SendToBack]
+[OpenLeft][CloseSpeechFast][ToggleSmile]
+Je suppose que c'est tout ce que
+l'on peut attendre d'un[A]
+g>n>ral d'>truria.[A]
+[OpenFarLeft][ClearFace][OpenMidRight][LoadFace][0x142][ToggleSmile]
+Votre Majest>.[A]
+Si vous me le permettez, pouvez-vous
+me la laisser ?[A]
+[OpenLeft][NormalPrint][ToggleSmile]Hum ?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]
+Je conserve... quelque mauvais souvenirs
+d'elle.[A]
+Je voudrais la punir pour ca.[A]
+[OpenLeft][FastPrint][ToggleSmile]
+Tr{s bien.
+Faites d'elle ce que vous souhaitez.[A][ClearFace]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]
+Merci beaucoup, votre Majest>.[......]
+Vous, faites pr>parer une cellule.[A]
+[OpenFarLeft][LoadFace][0x1D7]Oui, g>n>ral Narshen.[A]
+
+
+
+[011C]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x11A][ToggleSmile]
+Biran attaque le ch[teau ?[A]
+[OpenMidLeft]Oui.[A]
+[OpenMidRight]... Ce n'est pas ce qu'ils avaient
+dit. Ils avaient d>cid> de nous[A]
+laisser nous charger nous-m^me des
+probl{mes entre >truriens.[A]
+[OpenMidLeft]Que devons-nous faire ?[A]
+[OpenMidRight]
+Est-ce le g>n>ral Narshen qui a donn>
+l'ordre d'attaquer le ch[teau ?[A]
+[OpenMidLeft]Non, monsieur.
+Il s'agit du roi Zephiel lui-m^me.[A]
+[OpenMidRight]!
+Le roi l'a fait lui-m^me...[A]
+[OpenMidLeft][ClearFace][OpenMidRight]
+On dirait que Biran n'avait aucune
+intention de nous laisser quoique[A]
+ce soit d{s le d>but.[A]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight]
+Nous allons avancer maintenant.
+Dites-le aux autres.[A]
+[OpenMidLeft]Oui ![A][ClearFace]
+[OpenMidRight][ToggleMouthMove]... ...[A]
+
+
+
+[011D]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][FastPrint][ToggleSmile]
+Le ch[teau est tomb>?[A]
+[OpenMidLeft]Oui...
+Nous arrivons trop tard.[A]
+[OpenMidRight]
+Est-ce que le g>n>ral Cecilia
+va bien ?[A]
+[OpenMidLeft][CloseSpeechFast]
+Il n'y a eu aucun rapport nous
+indiquant qu'elle a >et> tu>e,[A]
+mais c'est probablement...[A]
+[OpenMidRight]
+Et bien, s'il y a toujours une chance
+pour qu'elle soit en vie, je ne vais[A]
+pas abandonner.
+Nous devons nous d>p>cher ![A]
+
+
+[011E]
+[OpenRight][LoadFace][0x149][OpenFarLeft][LoadFace][0x142]
+[OpenFarLeft][ToggleSmile]Votre Majest> !
+Nous avons trouv>e la princesse Guinevere.[A]
+[OpenRight][FastPrint]Amenez-la moi.[A]
+
+
+
+[011F]
+[OpenRight][LoadFace][0x149][OpenMidLeft][LoadFace][0x157][ToggleSmile]
+Mon fr{re...[A]
+[OpenRight][FastPrint]Guinevere.
+Je suis heureux de te revoir.[A][LoadOverworldFaces]
+[OpenMidLeft][CloseSpeechFast]Zephiel, pourquoi ?[A]
+Pourquoi as-tu d>clench> une guerre,
+tu>e des gens innocents ?[A]
+[OpenRight]Innocent, dis-tu ?
+Pfff, jalousie, vanit>, avidit>...[A]
+Les gens ne se battent que pour des choses
+ridicules dans chaque nation.[A]
+Et tu dis qu'ils sont innocents ?[A]
+[OpenMidLeft][NormalPrint]He bien...[A]
+[OpenRight][CloseSpeechFast]
+Le monde doit ^tre lib>r> de ces
+choses inutiles pour lesquelles[A]
+les hommes se battent.
+C'est le but de cette guerre.[A]
+[OpenMidLeft]Mais... en faisant cela, les gens
+sont tu>s sauvagement.[A]
+[OpenRight]Les sacrifices sont toujours n>cessaires
+lors de changements radicaux.[A]
+Il n'y a rien de nouveau.[A]
+[OpenMidLeft][MoveFarLeft][NormalPrint]Zephiel... ![A]
+[OpenRight][CloseSpeechFast]Guinevere, tu es mon unique
+soeur. Par cons>quent, je te[A]
+pardonne pour cette fois.
+Mais ce ne sera pas pareil la[A]
+prochaine fois.
+Compris ?[A]
+[OpenFarLeft][NormalPrint][ToggleMouthMove]... ...[ToggleMouthMove][A][LoadOverworldFaces]
+[OpenRight][CloseSpeechFast]Narshen ![A]
+Le chef de la garde de Guinevere est
+ici non ?[A]
+[OpenLeft][LoadFace][0x142]Oui.
+Son nom est Miledy.[A]
+[OpenRight]Tr{s bien.[A]
+Dites-lui de ramener la Princesse
+< Biran.[A]
+Dites-lui aussi de s'assurer < ce
+que le "Fire Emblem" soit ramen> au[A]
+temple des sceaux.[A]
+[OpenLeft][NormalPrint]Bien.[A][ClearFace]
+[OpenFarLeft]Zephiel...[A]
+

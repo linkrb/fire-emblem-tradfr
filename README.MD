@@ -2,11 +2,33 @@
 
 ## 🎯 Objectif du projet
 
+
 Ce dépôt regroupe les fichiers de travail pour un projet personnel de **traduction française** de *Fire Emblem: Fuuin no Tsurugi* (FE6), jamais sorti officiellement en Europe.
 
-Le but est de proposer une version intégralement en français, tout en respectant les contraintes techniques du moteur de jeu GBA, à travers des outils de romhacking.
+Ce projet vise à proposer une **traduction complète et cohérente**, y compris **l'intégralité des dialogues de soutien**, qui sont souvent négligés ou inachevés dans les traductions existantes.  
+Il s'agit d'une traduction fidèle à l'esprit du jeu, en respectant les contraintes techniques du moteur GBA.
+
+> La traduction est réalisée avec l’aide d’une **intelligence artificielle**, pour accélérer le travail de relecture, de reformulation et de cohérence stylistique sur l’ensemble des fichiers.
 
 > ⚠️ Aucune ROM n’est incluse dans ce projet. Ce dépôt ne contient que des fichiers de travail (textes, palettes, scripts, etc.).
+
+---
+
+## 🙏 Remerciements
+
+Un immense merci à la **communauté romhack** francophone et anglophone pour leurs travaux sur *Fire Emblem 6*, qui ont servi de base, d'inspiration ou de point de comparaison dans ce projet.  
+En particulier, merci aux auteurs des premières traductions **EN** et **FR** qui ont rendu le jeu plus accessible au fil des années.
+
+---
+
+## 🤖 Traduction assistée par IA
+
+La majeure partie des textes a été traitée avec le soutien d’une **IA conversationnelle** (ChatGPT), utilisée comme outil d’assistance pour :
+- Convertir rapidement les accents avec une table de transcodage personnalisée
+- Reprendre le style et la cohérence des dialogues
+- Accélérer la traduction tout en gardant une relecture humaine
+
+Ce projet reste entièrement relu, testé et ajusté manuellement pour garantir un rendu fidèle et naturel en français.
 
 ---
 
