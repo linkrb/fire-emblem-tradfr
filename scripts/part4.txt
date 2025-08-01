@@ -1,0 +1,5286 @@
+﻿[0476]
+[OpenMidLeft][LoadFace][0x124][OpenMidRight][LoadFace][0x12D][OpenMidLeft][ToggleSmile]What are Dragons, anyway?
+Where do they come from?[A]
+What are they here for?[A]
+[OpenMidRight]...I don't know...[A]
+I don't know... anything specific...[A]
+[OpenMidLeft]Hm... I see.[A]
+You don't know anything about the
+Dragons, but you have their blood[A]
+in you.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]If you were a normal girl, you could
+lead an ordinary life, not having[A]
+people hunt you down for your power...[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove]I... This is me...[A]
+Even the Dragon blood that flows in
+me... it is what makes me who I am...[A]
+[OpenMidLeft]I see... you're right.[A]
+[ToggleSmile]You are a strong one.[A]
+[OpenMidRight][ToggleSmile]Me... strong...?[A]
+[OpenMidLeft][ToggleSmile]Yes, you're strong.[A]
+You really are just like me
+when I was your age.[A]
+[OpenMidRight][ToggleSmile]I... I see...[A]
+[0477]
+[OpenMidRight][LoadFace][0x125][OpenMidLeft][LoadFace][0x12D][OpenMidRight][ToggleSmile]Hey, you over there![A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Hey![A]
+Can you not hear me,
+or are you just ignoring me?[A]
+[OpenMidLeft]...Uh...
+...Me?[A]
+[OpenMidRight]Is there anyone else here?[A]
+Geez, are you deaf, or just
+plain stupid?[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove][ToggleSmile]Anyway, I heard you use ancient
+dark magic.[A]
+Is it true?[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Let me see your spell books.
+I don't think I've ever seen...[A][MoveMidRight]
+[ToggleSmile]Ow![A]
+
+What the...[A]
+Did you just do that?[A]
+[OpenMidLeft]...Please... don't touch... 
+me...[A]
+[OpenMidRight][ToggleSmile]...Well, well...
+You dare stand up to me?[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Ah, fine.
+I'll leave you alone for now.[A]
+But you're showing me that
+spell book next time we meet![A][ClearFace]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[0478]
+[OpenMidRight][LoadFace][0x125][.......][OpenMidLeft][LoadFace][0x12D][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove][ToggleSmile]? Whoa!?[A]
+Y-You!?
+Damn, how could I not have
+noticed you coming so close...[A]
+Wh-What do you want!?[A]
+Are you trying to pay me
+back for the other day?[A]
+[OpenMidLeft]...Here...[A]
+[OpenMidRight]The dark magic book![A]
+The one they don't know even
+exists...[A]
+[OpenMidLeft]...Yes...
+...You know much...[A]
+[OpenMidRight]Of course I do![A]
+Do you have any idea how long
+I've been looking for this!?[A]
+[ToggleSmile]So this is it...[A]
+Wow...
+I can feel it's power...![A]
+[OpenMidLeft][ToggleSmile]...Do you want it...?[A]
+[OpenMidRight]I can have it!?
+But... are you sure?[A]
+Don't you need it as well?
+Why give it to me?[A]
+[OpenMidLeft][ToggleMouthMove]......[ToggleMouthMove][A][ClearFace]
+[OpenMidRight]Hey, wait! Hey![A]
+[0479]
+[OpenMidRight][LoadFace][0x125][OpenMidLeft][LoadFace][0x12D][OpenMidRight][ToggleSmile]Hey, you over there!
+You![A]
+With the long dragging hair![A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]I'm giving this spell book
+back to you.[A]
+[OpenMidLeft]...What?
+...Why...?[A]
+[OpenMidRight]I don't need things to be
+given to me.[A]
+I'm not a beggar.[A]
+[OpenMidLeft]...Yes...[A]
+...But...
+I wanted to give it... to you...[A]
+[OpenMidRight]What?
+Why?[A]
+[OpenMidLeft]...Because...
+You are a good person...[A]
+[OpenMidRight]Huh?[A]
+[OpenMidLeft]...You always act strong...[A]
+...But... you actually have a kind
+heart... So... I wanted to give[A]
+it to you...[A]
+[OpenMidRight]I have a kind heart!?[A]
+Only my brother ever said something
+as ridiculous as that![A]
+[OpenMidLeft]...I know you... better than you
+know yourself...[A]
+[OpenMidRight]...Don't talk like that.
+You'll scare people off.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Well, it doesn't bother me, though.[A]
+[OpenMidLeft][ToggleSmile]...Thank you...[A][OpenMidRight][ToggleSmile]...What's your name?
+I'm Ray.[A]
+[OpenMidLeft][ToggleSmile]...Ray...[A]
+My name... is Sophia...[A]
+[047A]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x126][OpenMidRight]Echidna![A]
+[OpenMidLeft]Hey, Lalam.
+What's up?[A]
+[OpenMidRight]What's happening with the plan?[A]
+[OpenMidLeft]Plan?[A]
+[OpenMidRight]Yeah, the plan about
+building that village.[A]
+[OpenMidLeft]Oh.[A]
+Yeah, I've been going around
+recruiting help.[A]
+Are you going to help out, too?[A]
+[OpenMidRight]Of course![A]
+What do you want me to do?[A]
+
+[OpenMidLeft]Dance, of course.[A]
+Your dancing cheers everyone up.[A]
+It makes people feel like getting up
+and working some more.[A]
+[OpenMidRight]You think so?[A]
+Hmm...
+Well, I can cook, too.[A]
+You know my Special Stamina...[A]
+[OpenMidLeft]No way.[A]
+[OpenMidRight]W-What?[A]
+[OpenMidLeft]Ever since I started the rebellion,
+I've been eating your...[A]
+I can't even bear to say it in
+words.[A]
+Anyway, I wouldn't call it food.[A]
+[OpenMidRight]I never!
+I've always been trying...[A]
+[OpenMidLeft]Look, Lalam.[A]
+You usually don't end up burning
+the house down when you cook a[A]
+proper meal.[A]
+[OpenMidRight]That's not a big loss, considering
+how well my food tastes.[A]
+[OpenMidLeft]The wails and moans of the rebel leaders...
+I can still hear them echoing in my ears.[A]
+Has Elphin ever eaten it?[A]
+[OpenMidRight]Yeah.
+But he didn't say anything.[A]
+[OpenMidLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidRight]You see?[A]
+There's something wrong with everyone
+else's taste buds.[A]
+My food was probably too high-
+class for them.[A]
+Maybe...[A]
+Roy might appreciate my fine
+taste.[A]
+Yes![A]
+I'm sorry, Echidna.[A]
+I have to make Roy try my cooking![A][ClearFace]
+[OpenMidLeft]...I'm sorry, Roy...[A]
+[047B]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x126][OpenMidRight]Oh, Echidna.[A]
+[OpenMidLeft]Lalam.
+Hey...[A]
+You were talking about feeding
+that stuff to Roy, but...[A]
+did you really do it?[A]
+[OpenMidRight][ToggleSmile]What's that supposed to mean!?
+He praised me![A]
+He said that it was really...[Clear]
+uh...that it looked really good.[A]
+[OpenMidLeft]So he ate it, huh?
+[ToggleSmile]When's the funeral?[A]
+[OpenMidRight][ToggleSmile]Hmph![A]
+I just wasn't doing too well that
+day!
+My stepfather always said that
+he loved my cooking.[A]
+[OpenMidLeft][ToggleSmile]Now, now, even if you can't cook, your
+dancing is still the best in the world.[A]
+I should be working hard, too, to let
+the people live in peace.[A]
+[OpenMidRight]...You know,
+you're really noble.[A]
+[OpenMidLeft][ToggleSmile]W-What?[A]
+[OpenMidRight][ToggleSmile]You're always thinking about others.[A]
+Even this, building a village so that
+other people can live in peace.[A]
+[OpenMidLeft]I...[A]
+[OpenMidRight]You're like those heroes that appear
+in the sagas that bards sing![A]
+You appear, help the needy, and leave
+as suddenly as you had come...[A]
+You're also mysterious since you never
+tell anybody about yourself.[A]
+[OpenMidLeft][ToggleSmile]Right...I don't.[A]
+[OpenMidRight][ToggleSmile]But I won't ask.[A]
+I'm really curious, but there must be
+an important reason why you won't[A]
+tell us.[A]
+[047C]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x126][OpenMidRight]Hey, Echidna![A]
+[OpenMidLeft]Yeah?[A]
+[OpenMidRight]I just had a really
+great idea![A]
+[OpenMidLeft]What is it?[A]
+[OpenMidRight]Do you want to hear it?[A]
+[OpenMidLeft]Well, yeah.[A]
+[OpenMidRight]Are you sure?[A]
+[OpenMidLeft][ToggleSmile]Yes, I'm sure.
+[ToggleSmile]Come on, let's hear it.[A]
+[OpenMidRight]Okay.[A]
+I was thinking, when the village is
+done, let's put a statue there.[A]
+[OpenMidLeft]A statue?[A]
+[OpenMidRight]A statue of you![A]
+It can have an engraving that says,
+'A great hero lies here...'[A]
+or something like that.[A]
+[OpenMidLeft][ToggleSmile]Hey, hey,
+I don't plan on dying yet.[A]
+[OpenMidRight]Anyway, it's your village, so there
+has to be a statue of you somewhere.[A]
+Make sure you think of a pose for it.[A][ClearFace]
+[OpenMidLeft][ToggleSmile]She's an odd girl...[A]
+Well, I guess that's nothing
+new.[A]
+[OpenMidRight][LoadFace][0x126]Oh, one more thing![A]
+[OpenMidLeft]What?[A]
+[OpenMidRight]Don't you go disappearing on us!
+We all love you, you know.[A]
+Don't you dare try and
+run off![A][ClearFace]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[ToggleMouthMove]Yeah... I know, Lalam.[A]
+[047D]
+[OpenMidLeft][LoadFace][0x126][OpenMidRight][LoadFace][0x135][OpenMidRight][ToggleSmile]Hey, you...[A]
+[OpenMidLeft][MoveMidLeft]Eeeeeeeek!
+A pirate![A]
+[OpenMidRight]W-Wait a minute![A]
+[OpenMidLeft]Eeeeeeeek![MoveMidLeft][MoveMidLeft]
+Help help help![A]
+[OpenMidRight]S-Stop...
+Wait![A]
+Listen to me![A]
+[OpenMidLeft]What?
+Pirates are all the same.[A]
+You're just going to say shut up, or
+you'd better not say a word if you[A]
+want to live, or something like that.[A]
+Oh![A]
+Lalam's in grave danger!
+But just you wait.[A]
+Soon Roy'll appear on a shining
+white stallion and rescue me...[A]
+[OpenMidRight]...Um, are you done?[A]
+Listen.
+I'm not a pirate anymore.[A]
+[OpenMidLeft]Hmph![A]
+Even if you try to act good like
+that, I know better![A]
+I know you're trying to run off
+with me because I'm so irresistible.[A]
+[OpenMidRight]...You've got to be kidding me.[A]
+[OpenMidLeft]Kidding!?[A]
+What, are you saying that I'm
+not cute enough to kidnap!?[A]
+[OpenMidRight]You...[A]
+No...forget it.
+Sorry to bother you.[A][ClearFace]
+[OpenMidLeft]Hey, wait![A]
+[047E]
+[OpenMidLeft][LoadFace][0x126][OpenMidRight][LoadFace][0x135][OpenMidLeft][ToggleSmile][MoveMidLeft]Eeeeeeek!
+It's the pirate again![A]
+[OpenMidRight]I said I'm not...[A]
+[OpenMidLeft]Are you still trying to cover
+up the obvious truth?[A]
+Your hairstyle, your clothes...[A]
+Everything about you is just
+screaming, 'I'm a pirate!'[A]
+[OpenMidRight]...Fine...
+Have it your way.[A]
+[OpenMidLeft]Aha!
+You admit it![A]
+And?[A]
+You're still trying to
+run off with me, right?[A]
+[OpenMidRight]Hey...[A]
+Would you please listen
+to what I have to say...[A]
+[OpenMidLeft]Oh!
+Lalam's in great danger![A]
+But just you wait.[A]
+[0x0080][0xC282]oy'll beat you down any day![A]
+[OpenLeft][ClearFace][OpenMidRight][MoveFarRight][OpenRight][LoadFace][0x126]
+[ToggleSmile]'Are you all right, Lalam?'[A][ClearFace]
+[OpenLeft][LoadFace][0x126][ToggleSmile]'Oh, Master Roy...'[A][ClearFace]
+[OpenRight][LoadFace][0x126][ToggleSmile]'Lalam,
+I can't live without you.'[A][ClearFace]
+[OpenLeft][LoadFace][0x126][ToggleSmile]'Oh, thank you, Master Roy...'[A][Clear]
+And then we...
+[MoveLeft]Ooooohhhh![A]
+[OpenFarRight][ToggleMouthMove]......[A]
+[OpenLeft][ToggleMouthMove]Hey,
+where are you doing?[A]
+[OpenFarRight]See you later...[A]
+Talking with you is exhausting.[A]
+[047F]
+[OpenMidLeft][LoadFace][0x126][OpenMidRight][LoadFace][0x135][OpenMidRight][ToggleSmile]Hey.[A]
+[OpenMidLeft]It's the pirate![A]
+Are you still trying to...[A]
+[OpenMidRight]This is yours, right?[A]
+[OpenMidLeft]Oh...[A]
+I lost this ribbon the other day.
+Wait![A]
+I get it.[A]
+You stole it, right!?[A]
+[OpenMidRight]Why the hell would I return it
+to you!?[A]
+I found it lying on the ground, and
+I thought it might be yours.[A]
+[OpenMidLeft]Oh.[A]
+Then why didn't you say
+so in the first place?[A]
+[OpenMidRight]I would have if you let me![A]
+You just start screaming
+whenever we meet![A]
+If only you'd stop and
+listen once in a while...[A]
+[OpenMidLeft][ToggleSmile]So you weren't a bad person after all.
+I shouldn't have been so scared, then.[A]
+[OpenMidRight][ToggleMouthMove]......[A][ClearFace]
+[OpenMidLeft][ToggleMouthMove]Hey, wait.[A]
+I'll show you a special dance
+in return.
+Hey, wait...[A]
+What![A]
+Are you trying to tell me my
+dancing isn't worth watching!?[A]
+[0480]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x128][OpenMidRight][ToggleSmile]Yuno...
+Are you all right?[A]
+[OpenMidLeft]Oh?[A]
+Are you looking out for me,
+Tate?[A]
+[OpenMidRight]Well, you've been retired
+for a while now, so...[A]
+I'm sure you'll be all right,
+but anything can happen, right?[A]
+I was a little worried.[A]
+[OpenMidLeft][ToggleSmile]Thanks...
+But I'll be fine.[A]
+How about you?[A]
+How is your work as a flight leader
+going?[A]
+You're responsible, so I thought
+you'd be all right, but did you[A]
+get along okay with your squad?[A]
+[OpenMidRight][ToggleSmile]I didn't do anything special...
+[ToggleSmile]but I think I did all right.[A]
+[OpenMidLeft]Then I'm sure you did fine,
+Tate.[A]
+Good girl...[A]
+[OpenMidRight][ToggleSmile]Y-Yuno![A]
+[OpenMidLeft][ToggleSmile]Oh...[A]
+You don't like having your
+head petted anymore?[A]
+You used to love it.[A]
+[OpenMidRight][ToggleSmile]T-That was a long time ago...[A]
+I'm not...you know,
+a kid anymore.[A]
+[OpenMidLeft]So you don't like it?[A]
+[OpenMidRight]It's not that I don't
+like it, but...you know...[A]
+[0481]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x128][OpenMidRight][ToggleSmile]Yuno...[A]
+[OpenMidLeft][ToggleSmile]Tate?
+What's the matter?[A]
+[OpenMidRight][ToggleSmile]Nothing.[A]
+I was just wondering whether
+you're all right...[A]
+[OpenMidLeft][ToggleSmile]Wait, Tate.[A]
+Let's chat a little.[A]
+[OpenMidRight][ToggleSmile]Um...
+but...[A]
+[OpenMidLeft][ToggleSmile]It's okay, Tate.[A]
+You can be my little sister
+when we're alone together.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]You're a strong girl,
+but you easily get lonely...[A][Clear]
+Do you remember the time when I
+first left to go train as a[A]
+Pegasus Knight?[A]
+You thought I was leaving forever,
+and you...[A]
+[OpenMidRight][ToggleSmile]D-Don't bring that up...![A]
+I was still a little girl
+back then...[A]
+[OpenMidLeft][ToggleSmile]I was glad you cared so much
+about me, Tate.[A]
+You were always so blunt, so at times
+I thought you didn't like me at all.[A]
+[OpenMidRight][ToggleSmile]No...[A]
+[OpenMidLeft][ToggleSmile]But...you cried so much at that time.
+You were sobbing, 'Don't go, Yuno.'[A]
+I felt like crying myself.[A]
+[OpenMidRight][ToggleSmile]Yuno...[A]
+[OpenMidLeft][ToggleSmile]Tate, if you're ever feeling down,
+come talk to me.[A]
+Because... I'll always be
+your big sister.[A]
+[OpenMidRight]Yeah...[A]
+[0482]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x128][OpenMidRight]Yuno?[A]
+[OpenMidLeft]Yes?[A]
+[OpenMidRight]I was thinking...[A]
+Maybe you should leave the rest of
+the battle up to us and rest a bit.[A]
+You know you're a mother now, so...[A]
+[OpenMidLeft]Oh?[A]
+Should the old ladies be stepping
+back now?[A]
+[OpenMidRight][ToggleSmile]N-No, that's not what I mean.
+I just...[A]
+[OpenMidLeft][ToggleSmile]I know, Tate.
+Thank you.[A]
+But I'll be fine.
+I am still an Ilian Pegasus Knight.[A]
+Don't forget, I taught you how to ride
+your pegasus in the first place.[A]
+[OpenMidRight][ToggleSmile]Yeah, I know, but...[A]
+[ToggleSmile]......
+If something happens...[A]
+I'll be there for you,
+Yuno.[A]
+[OpenMidLeft]Yes...
+Thank you, Tate.[A]
+[0483]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x129][OpenMidRight]It's big sister Yuno![A]
+[OpenMidLeft]Thany.
+Have you been well?[A]
+[OpenMidRight]Yes!
+Really well.[A]
+[OpenMidLeft]It's already been a year since you
+left for training...[A]
+Are you getting along with the
+members of the mercenary band?[A]
+I heard they were all men,
+but are you doing all right?[A]
+[OpenMidRight]Yeah, I'm doing fine!
+They're all really nice people.[A]
+And I'm doing really well in
+battle, too![A]
+I'm the one doing all the work.[A]
+[OpenMidLeft]Really?[A]
+[OpenMidRight]And then![A]
+After we joined Master Roy, the enemies
+started getting stronger...[A]
+But still it's as if I defeated all
+of them![A]
+[OpenMidLeft]Wow...
+That's amazing.[A]
+You've been working hard, Thany...[A]
+[OpenMidRight]Tehe...[A]
+[0484]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x129][OpenMidRight]Yuno![A]
+[OpenMidLeft]What is it,
+Thany?[A]
+[OpenMidRight]Teach me how to ride a
+pegasus like you.[A]
+The way you fly is really neat.
+I wish I could fly like that...[A]
+[OpenMidLeft][ToggleSmile]I'd like to, but not now.
+We're in a battle.[A]
+I can teach you when we
+have some free time...[A]
+[OpenMidRight]...Oh.[A]
+[ToggleSmile]The let's practice our move![A]
+[OpenMidLeft]Move...?[A]
+[OpenMidRight]The Triangle Attack![A]
+[OpenMidLeft]Oh, that move mother used to
+tell us about...[A]
+[ToggleSmile]But we need Tate to do
+the Triangle Attack.[A]
+[OpenMidRight]Oh... right.
+[ToggleSmile]Then, um...[A]
+[OpenMidLeft]What's the matter,
+Thany?[A]
+[OpenMidRight]We just met after a long time,
+right?[A]
+I don't want us to be separated
+so quickly again...[A]
+[OpenMidLeft]...You always used to stick to me like
+that ever since you were little.[A]
+Thany, I want you to be a good girl
+and wait until the war is over.[A]
+Then you can be close to me however
+much you want...[A]
+[OpenMidRight]Yeah... you're right.[A]
+Okay![A]
+[0485]
+.o ait seems like the idiots
+starting wars don't realize that.[A]
+[OpenMidRight][ToggleMouthMove]...[A]
+[OpenMidLeft][ToggleMouthMove][ToggleSmile]Well anyway, if there are kids
+who can still laugh, I suppose[A]
+there's still hope for this world.[A]
+I know it's been tough for you,
+but make sure to laugh once in a[A]
+while, okay?[A]
+[OpenMidRight][ToggleSmile]H-Hey!
+Don't mess up my hair![A]
+[OpenMidLeft][ToggleSmile]Hahahaha, sorry!
+Well then, see you later.[A]
+Don't mess up, you got that?[A]
+[ClearFace]
+[OpenMidRight]...Maybe there is still hope for
+this world with adults like you...[A]
+[0486]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x129][OpenMidRight]Yuno![A]
+[OpenMidLeft]Thany.[A]
+I haven't told you this yet, but...[A]
+[OpenMidRight]What?[A]
+[OpenMidLeft]While you were away,
+we had a baby girl.[A]
+[OpenMidRight]What!?[A]
+A baby between you and Zealot!?
+Where, where?[A]
+I want to carry her...[A]
+[OpenMidLeft]I can't bring her to the
+battlefield, Thany.[A]I entrusted her to the
+nannies back home.[A]
+You can see her when
+we go home.[A]
+[OpenMidRight]Yay![A]
+Yuno's baby...
+she must be so cute![A]Oh, I really want to see her![A]
+[OpenMidLeft]You will, don't worry.[A]
+[OpenMidRight][ToggleSmile]Wait.[A]
+Then...
+That makes me an...aunt?[A]
+But I'm still so young...[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x132][OpenMidRight][ToggleSmile]Yuno, um...[A]
+[OpenMidLeft][ToggleSmile]Yes?
+What is it, Zealot?[A]
+[OpenMidRight][ToggleSmile]Our daughter...
+Is she all right?[A]
+[OpenMidLeft][ToggleSmile]Yes, I'm sure she is.[A]
+I've entrusted her to a good friend.[A]
+[OpenMidRight][ToggleSmile]Oh...[A]
+[OpenMidLeft][ToggleSmile]Is something wrong?[A]
+[OpenMidRight][ToggleSmile]No, it's just...
+What's she like?[A]
+Does she look like you or me?[A]
+[OpenMidLeft][ToggleSmile]Oh, you haven't seen her yet,
+have you.[A]
+[OpenMidRight][ToggleSmile]No.
+I've always been out working.[A]
+[OpenMidLeft][ToggleSmile]We shall go pick her up
+once the war ends.[A]
+[OpenMidRight][ToggleSmile]Yes...we shall.[A]
+[0487]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x132][OpenMidRight][ToggleSmile]Yuno,
+I was thinking...[A]
+[OpenMidLeft][ToggleSmile]Yes?[A]
+[OpenMidRight][ToggleSmile]I don't think it's a good idea to
+leave a newborn baby with someone else.[A]
+You should go back home and take
+care of her.[A]
+[OpenMidLeft][ToggleSmile]It's all right.[A]
+I've entrusted her to a very
+good friend of mine.
+[OpenMidRight][ToggleSmile]But you're her mother.[A]
+[OpenMidLeft][ToggleSmile]I'm fighting because I'm her mother.[A]
+I want to raise her in a
+peaceful time without war.[A]
+[OpenMidRight][ToggleSmile]But...[A]
+[OpenMidLeft]I might have told you this before, but
+it would be impossible to find a[A]
+completely safe place until we end
+this war.[A]
+[OpenMidRight]Well, that's true...[A]
+[OpenMidLeft][ToggleSmile]In that case,
+let's focus on ending this war.[A]
+All right, Zealot?[A]
+[OpenMidRight][ToggleSmile]Hm...[A]
+[0488]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x132][OpenMidLeft]You're coming back to Edessa
+once the war ends, aren't you?[A]
+[OpenMidRight][ToggleSmile]Of course.[A]
+[OpenMidLeft]Will you always stay with
+us after that?[A]
+[OpenMidRight]Probably not...[A]
+I'll have to lead the mercenary knights
+around looking for work as usual.[A]
+We can't support ourselves otherwise.[A]
+[OpenMidLeft]But we've cultivated most of
+Ilia's lands now.[A]
+If we put our best efforts in,
+we could produce enough food...[A]
+[OpenMidRight]But that wouldn't happen overnight.[A]
+[OpenMidLeft]Well yes, but...[A]
+[OpenMidRight]Besides, we wouldn't be guaranteed
+a good harvest every year.[A]
+Where would the money for our food
+come from if the crops were to fail?[A]
+How would we survive the winter if
+we're not prepared for a failure?[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]I must lead the mercenary knights and
+collect money until we are able to[A]
+to support ourselves even in times
+when the crops do fail.[A]
+I'll leave Edessa to you, so you
+should do your best to cultivate[A]
+the land.[A]
+[OpenMidLeft]Yes...[A]
+[OpenMidRight][ToggleSmile]But I have faith that there will come
+a time when we will have good harvests[A]
+in Ilia as well.[A]
+[OpenMidLeft]Yes, I have faith, too.[A]
+I know that there will come a time
+when we will always be together[A]
+[0489]
+[OpenMidRight][LoadFace][0x127]Treck?[......][A]
+[ToggleSmile]Oh...he was here just a minute
+ago...[A]
+Hm?[A]
+What's this... did he drop it when
+he left?[A]
+It has a lot of small writing
+on it...[A]
+Let's see...[A]
+...'I became a horse.'[A]
+...'I tried running.'[A]
+...'I got tired.'[A]
+...???[A]
+[048A]
+[OpenMidLeft][LoadFace][0x131][OpenMidRight][LoadFace][0x127][OpenMidRight]Oh, Treck.
+I was looking for you.[A]
+[OpenMidLeft]Oh, hullo,
+Lady Yuno.[A]
+[OpenMidRight]You look as sleepy as usual.
+Oh, right... Here.[A]
+Is this yours?[A]
+[OpenMidLeft]Huh?[A]
+Ah...
+Yeah, It's mine.[A]
+I lost it the other day.[A]
+[OpenMidRight]I thought so.[A]
+I'm sorry, but I read a
+little bit of it...[A]
+What are you writing about?[A]
+[OpenMidLeft]Well, I write down what kind of
+dreams I have on this piece of paper.[A]
+[OpenMidRight]Dreams?[A]
+[OpenMidLeft]Yes.[A]
+When I look at it, I remember all
+the kinds of dreams I've had so far,[A]
+and it helps me sleep well.[A]
+Yawn...[A]
+[OpenMidRight]Oh, I see.
+That sounds interesting...[A]
+Maybe I should try, too.[A]
+[048B]
+[OpenMidLeft][LoadFace][0x131][OpenMidRight][LoadFace][0x127]
+[OpenMidRight]Treck?[A]
+[OpenMidLeft]Yes?[A]
+[OpenMidRight]Can you show me that paper
+with your dreams on it?[A]
+It seems I've become interested
+in it.[A]
+[OpenMidLeft]Uhm... Sure.[A]
+[OpenMidRight]Thank you.[A][Clear]
+'I was praised by General Zealot.'[A]
+He comes out in your dreams
+too?[A]
+[OpenMidLeft]Yeah, he does.[A]
+[OpenMidRight]Let's see...[A]
+'The war ended.'[A]
+'It became peaceful.'[A]
+'Spring came to Ilia.'[A]
+'Everyone lived and slept
+happily ever after...'[A]
+[ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidLeft]Huh?[A]
+Is something wrong,
+Lady Yuno?[A]
+[OpenMidRight]...No, I'm sorry.[A]
+......[A]
+Can you show me your dreams
+sometime again, Treck?[A]
+[OpenMidLeft]Well...[A]
+It's kind of embarrassing, to
+tell you the truth.[A]
+But okay, you can see them.[A]
+I'll go to sleep so you
+can get the latest ones.[A]
+[OpenMidRight]Thank you, Treck.[A]
+[048C]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x130][OpenMidLeft]Oh, Noah.[A][OpenMidRight]Hello, Lady Yuno.[A]
+Are you all right?[A]
+[OpenMidLeft]You're worried about me?[A]
+What a surprise.[A]
+[OpenMidRight][ToggleSmile]...I'm not that antisocial,
+Lady Yuno...[A]
+[OpenMidLeft][ToggleSmile]I was just kidding.[A]
+You seem uncaring, but on
+the inside, you have a kind heart.[A]
+Are you all right?[A]
+You've gone through many
+battles coming here, right?[A]
+[OpenMidRight][ToggleSmile]Yes, I'm fine.[A]
+General Zealot helped us greatly.[A]
+[ToggleSmile]It's thanks to him I'm
+alive right now.[A]
+[OpenMidLeft][ToggleSmile]I see...[A]
+He always strains himself
+in battle...[A]
+[048D]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x130][OpenMidLeft][ToggleSmile]Sigune...
+She turned to Bern.[A]
+[OpenMidRight]Yes.[A]
+She ambushed us in the blizzard
+with her Pegasus Knight squad.[A]
+[OpenMidLeft]I see...[A]
+Sigune and I used to be
+rivals, you know.[A]
+We were always competing
+against each other.[A]
+It all seems so... faraway
+when I remember it now.[A][OpenMidRight][ToggleMouthMove].......[A]
+[OpenMidLeft][ToggleMouthMove]Sigune always tried to act bad, but
+she was really a kindhearted person.[A]
+If only we weren't in times like
+this, we could have...[A]
+War is a painful thing.[A]
+[OpenMidRight]... Yes.[A]
+But that's what war is.[A]
+[048E]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight][LoadFace][0x130][OpenMidLeft]Noah.[A]
+[OpenMidRight]Yes?[A]
+[OpenMidLeft]You seem to avoid developing
+close relationships.[A]
+Is that because you don't want to
+suffer from losing that person?[A]
+[OpenMidRight]...I wonder.[A]
+It is easier to just avoid
+getting close with anyone.[A]
+The tighter the bond, the greater
+your suffering when that bond is[A]
+broken.[A]
+...I think you know that better
+better than any of us.[A][OpenMidLeft]Yes...[A]
+Perhaps it's better to live
+like you do in Ilia.[A]
+But there will come a time when you
+will realize that close relationships[A]
+aren't all bad.[A]
+Maybe you'll understand when you fall
+yourself in love with someone.[A]
+[048F]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x129][OpenMidRight]Hey!
+Big sister![A]
+[OpenMidLeft][ToggleSmile]...Thany, this is a battlefield.[A]
+What if an archer heard you
+screaming like that?[A]
+[OpenMidRight][ToggleSmile]Don't worry.
+No archer could hit me.[A]
+[OpenMidLeft][ToggleSmile]...Sigh...[A]
+...Thany, where are your reins?[A]
+You could fall off your
+pegasus without them.[A]
+[OpenMidRight][ToggleSmile]Well,
+I took them off.[A]
+[OpenMidLeft][ToggleSmile]Took them off?[A]
+Thany, you never know what
+can happen.[A]
+So considering all possibilities...[A]
+[OpenMidRight][ToggleSmile]Thany, you're such a worrier![A]
+Flying is more enjoyable without
+all the extra gear on.[A][Clear]
+See ya![A][ClearFace]
+[OpenMidLeft][ToggleSmile]Thany, wait!
+I'm not finished yet...[A][Clear]
+...Sigh.[A]
+[0490]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x129][OpenMidRight][ToggleSmile]Tate...
+You're starting to get annoying...[A]
+[OpenMidLeft]I'm saying these things
+for your sake.[A]
+If you can't listen to your big
+sister, I won't let you ride on[A]
+a pegasus any more.[A]
+[OpenMidRight]What!?
+But...[A]
+[OpenMidLeft]Thany, it's your fault.[A]
+[OpenMidRight]You're always like that![A]
+Always saying I'm the one to blame...[A]
+You could say it in a little...
+kinder tone...[A]
+[OpenMidLeft]But!
+That's because you...![A]
+[OpenMidRight]No!
+I hate you![A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight]......[A]
+[OpenMidLeft][ToggleMouthMove]Thany...
+Um...[A]
+[OpenMidRight]W-What the?!
+What did you just do?![A]
+[OpenMidLeft]Yuno, she... she used to
+pet our heads like this, right?[A]
+I'm your big sister too..[A]
+So I thought I should make
+you feel better...[A][OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Thany, I'm sorry..[A]
+I can't be kind like Yuno,
+can I...[A]
+[OpenMidRight]Tate...[A]
+... Did you hit your
+head or something?[A]
+[OpenMidLeft]......
+This child...[A]
+All right, I don't care anymore.[A]
+You can fend for yourself
+from now on![A][ClearFace]
+[OpenMidRight][ToggleSmile]Hey, wait!
+Sorry![A]
+I just had to say it..[A]
+[0491]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x129][OpenMidRight]Hey!
+Tate![A]
+[OpenMidLeft][ToggleSmile]...What?[A]
+[OpenMidRight][ToggleSmile]I'm sorry about the other day.[A]
+But I was really happy that
+you cared about me so much.[A]
+I really love you, big sister
+Tate![A]
+[OpenMidLeft][ToggleMouthMove].....[ToggleMouthMove][A]
+[ToggleSmile]... How can you say such things
+without getting embarrassed...[A]
+I really envy you sometimes..[A]
+[OpenMidRight][ToggleSmile]What about you?
+Do you love me, too?[A]
+[OpenMidLeft][ToggleSmile]...There's no need to say that
+out loud..[A]
+[OpenMidRight]You... don't love me..?[A]
+[OpenMidLeft]It's just that...[A]
+You don't have to say it here,
+in the middle of...[A][OpenMidRight]Oh... I...
+didn't know.[A]
+Thany...
+you always hated me...[A]
+[OpenMidLeft]All right, all right!
+I love you![A]
+[ToggleSmile]Of course I love you.
+You're my only little sister.[A]
+I'll...
+I'll always care for you.[A]
+[OpenMidRight]Teehee... Thanks!
+See you![A][ClearFace]
+[OpenMidLeft]That child...[A]
+[0492]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x132][OpenMidLeft][ToggleSmile]General Zealot, I'm sure you know
+already, but my mission has been[A]
+accomplished.[A]
+Still, I wish to remain in this
+army.[A]
+[OpenMidRight]All right.[A]
+You know, fate can work in strange
+ways.[A]
+We were hired by the Lycia Alliance
+Army, and you were hired by the[A]
+Etrurian Army...[A]
+I never thought that we would meet.[A]
+[OpenMidLeft]Yes.[A]
+Although Etruria didn't seem to
+view us very highly, General[A]
+Klein was caring.[A]
+[OpenMidRight]I see...[A]
+Yuno was pretty worried about
+you and Thany.[A]
+Knowing you, I would think you'd
+be all right.[A]
+But you know Yuno,
+she's a worrier.[A][OpenMidLeft]Yes, I understand.[A]
+Our sister was often too soft
+on Thany and me.[A]
+The day we left was a hectic one,
+indeed.[A]
+Yuno was constantly fretting over
+us, worrying about our meals, and[A]
+our clothes...[A]
+[OpenMidRight][ToggleSmile]Haha, that's Yuno.[A]
+[0493]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x132][OpenMidRight][ToggleSmile]I was wondering...[A]
+Yuno's... your parents...[A]
+What were they like?[A][OpenMidLeft]Haven't you heard from Yuno?[A]
+[OpenMidRight]No.[A]
+All I know is that they were
+soldiers.[A]
+[OpenMidLeft]Yes, our mother was a
+Pegasus Knight.[A]
+Our parents were killed together
+on the same battlefield when we were[A]
+still young.[A][OpenMidRight][ToggleMouthMove].......[A]
+[OpenMidLeft][ToggleMouthMove]We had no other relatives to depend
+on...[A]
+Yuno became our mother, when she
+was only a teenager...[A]
+[OpenMidRight]I see.[A]
+[OpenMidLeft]While an ordinary girl of her age
+would be concerning herself with[A]
+romance, Yuno had to be our mother.[A]
+But she never complained...
+She always looked after us..[A]
+With a smile on her face.
+That's why...[A]
+That's why I always wanted
+Yuno to find happiness.[A]
+[0494]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x132][OpenMidRight]...I have to thank you for
+helping us with the wedding.[A]
+You set up the place and
+cooked for us..[A]
+Oh, and Yuno was very pleased with the
+wedding gift you and Thany sent us.[A]
+[OpenMidLeft]Really...?[A]
+I actually didn't want to send
+it...[A]
+But Thany won't listen once
+she's made up her mind.[A][OpenMidRight]Hahaha...[A]
+That was an interesting gift, though.[A]
+But...[A]
+I have to apologize to Yuno about
+that wedding.[A]
+If only I had more...[A]
+If only our nation were wealthier,
+I could have given her a more[A]
+proper and elegant wedding..[A][OpenMidLeft][ToggleSmile]I doubt Yuno feels that way at
+all.[A]
+[ToggleSmile]I'm very grateful to you,
+General Zealot.[A]
+Your wedding...[A]
+I had never seen Yuno with such a
+happy face before.[A]
+I want to thank you for what
+you've done for her.[A]
+[0495]
+[OpenMidLeft][LoadFace][0x129][OpenMidRight][LoadFace][0x132][OpenMidLeft]Zealot![A]
+[OpenMidRight][ToggleSmile]Thany.[A]
+[OpenMidLeft][ToggleSmile]Hey Zealot...[A]
+[ToggleSmile]Oh wait, you're now my brother
+because you're Yuno's husband...[A]
+[OpenMidRight][ToggleSmile]You can call me as you
+wish.[A]
+[OpenMidLeft]Oh, right![A]
+I wanted to ask you something.[A]
+How did you meet Yuno?[A]
+[OpenMidRight][ToggleSmile]Well...[A]
+Perhaps some other time.[A]
+[OpenMidLeft][ToggleSmile]Why?
+Don't be mean.[A]
+Come on, tell me![A]
+[OpenMidRight][ToggleSmile]No, I'm not being mean...[A]
+You'll understand when you grow up,
+but you shouldn't go around asking[A]
+things like that..[A]
+[OpenMidLeft][ToggleSmile]But I really want to know...[A]
+
+As your sister, I should know
+these things...[A][OpenMidRight][ClearFace]
+[OpenMidLeft]Zealot?
+Wait![A]
+[0496]
+[OpenMidLeft][LoadFace][0x129][OpenMidRight][LoadFace][0x132][OpenMidLeft]Zealot![A]
+[OpenMidRight][ToggleSmile]...You won't let me go,
+will you?[A]
+[OpenMidLeft][ToggleSmile]But I'm family to you.[A]
+I want to know about my relatives...[A]
+[OpenMidRight][ToggleSmile]Hm...[A]
+All right, I suppose...[A]
+...We first met in battle in Etruria[A]
+Yuno's pegasus squad was hired by
+our enemy side.[A]
+[OpenMidLeft]Whoa...[A]
+[OpenMidRight]I attempted to settle things
+peacefully through discussion.[A]
+Yuno was a beautiful and caring
+woman, so things went well.[A]
+And then, things just
+progressed after that.[A]
+[OpenMidLeft][ToggleSmile]What were your proposal words?[A]
+[OpenMidRight][ToggleSmile]Y-You want me to tell you
+that much?[A]
+[OpenMidLeft][ToggleSmile]Yes.[A]
+I'm your family... aren't I?[A]
+[OpenMidRight][ToggleSmile]Er...[A]
+[OpenMidLeft][ToggleSmile]Did you propose first?
+Or was it Yuno?[A]
+[OpenMidRight][ToggleSmile]Well...[A]
+[0497]
+[OpenMidLeft][LoadFace][0x129][OpenMidRight][LoadFace][0x132][OpenMidLeft]But I'm glad you turned
+out to be a good person.[A]
+You and Yuno really looked
+perfect together.[A]
+[OpenMidRight]Thank you.[A]
+I'm relieved you didn't
+start hating me.[A]
+[OpenMidLeft]Why would I hate you?
+You're strong, you're kind..[A]
+And besides, you're the man Yuno
+fell in love with.[A]
+[OpenMidRight][ToggleSmile]By the way...[A]
+What about you?
+Do you have someone in mind?[A]
+[OpenMidLeft][ToggleSmile]Sorry, that's a secret![A]
+[OpenMidRight][ToggleSmile]W-What?[A]
+After making me confess that much,
+you're not telling me?[A][OpenMidLeft][ToggleSmile]We're family.[A]
+Family members have to have some
+secrets![A]
+[OpenMidRight][ToggleSmile]W-Wait, Thany...[A]
+[OpenMidLeft][ToggleSmile]See ya![A]
+[0498]
+[OpenMidRight][LoadFace][0x12A][.....][OpenMidLeft][LoadFace][0x12E][ToggleSmile]Zeiss!
+Behind you![A]
+[OpenMidRight]!![A]
+[OpenMidLeft][MoveLeft]Darn...![A]
+[OpenLeft][ClearFace][OpenMidRight][ClearFace][.......]
+[OpenMidLeft][LoadFace][0x12E][OpenMidRight][LoadFace][0x12A]
+[OpenMidRight]...I'm sorry, Miledy.[A]
+I was too focused on the
+enemies in front of me.[A]
+[OpenMidLeft][ToggleSmile]Don't worry about it.[A]
+[OpenMidLeft]Gale looked out for me like
+this a lot, too.[A]
+If we can survive by helping each
+other out, then so much the better.[A]
+[OpenMidRight][ToggleSmile]But it would be better if I
+could fend for myself..[A]
+[OpenMidLeft][ToggleSmile]You're still learning.[A]
+It's all right, I'll protect
+you until you grow strong enough.[A]
+[OpenMidRight][ToggleSmile]...Thanks.[A][OpenMidLeft][ClearFace][.......]
+[OpenMidRight]But...that won't do.[A]
+I have to become strong enough
+so I can protect her...![A]
+[0499]
+[OpenMidLeft][LoadFace][0x12E][OpenMidRight][LoadFace][0x12A][OpenMidLeft][ToggleSmile]Zeiss!
+Slow down![A]
+You have to be more careful![A]
+[OpenMidRight]I've got him![A]
+[OpenMidLeft]...Don't rush like that![A]
+You were lucky you were able
+to kill him...[A]
+[OpenMidRight]Right... I was able to kill him.
+It's all right, Miledy.[A]
+I was fine.[A]
+[OpenMidLeft]That doesn't mean you'll win
+the next time![A]
+[OpenMidRight]... But it doesn't mean I'll
+lose, either.[A]
+[OpenMidLeft]Zeiss...[A]
+Why can't you listen to your big
+sister?[A]
+I would never be able to forgive myself
+if I let something happen to you...[A]
+[OpenMidRight]...You don't trust me, do you.[A]
+Am I so weak that I can't even be
+relied on?[A]
+[OpenMidLeft]Zeiss, I'm not saying that.[A]
+[OpenMidLeft]Stop being a child.[A]
+[OpenMidRight]Then...
+Stop treating me like one![A][ClearFace]
+[OpenMidLeft]Zeiss![A][Clear]
+...Why...?[A]
+[049A]
+[OpenFarRight][LoadFace][0x12E][OpenFarRight][ToggleSmile]That's it![A]
+[OpenRight][LoadFace][0x12A]Miledy![A][SendToBack]
+[OpenFarRight]!![A][SendToBack]
+[OpenRight][ClearFace][OpenFarRight][ClearFace][.......]
+[OpenMidLeft][LoadFace][0x12E][OpenMidRight][LoadFace][0x12A]
+[OpenMidLeft]Zeiss![A]
+What were you thinking, taking a
+blow for me like that!?[A]
+[OpenMidRight]...So you also sometimes forget to pay
+attention to the enemies around you,[A]
+too, huh?[A]
+Are you all right?[A][OpenMidLeft]Zeiss... What about you?
+Aren't you hurt?[A]
+[OpenMidRight]It's just a scratch.
+Miledy, your arm is bleeding..[A]
+Hang on, I'll go get some vulneraries...[A]
+[OpenMidLeft]Zeiss![A]
+[OpenMidRight]?[A]
+[OpenMidLeft]...Thanks for saving me.[A]
+[OpenMidRight]Why wouldn't I?[A][ClearFace]
+[OpenMidLeft][ToggleSmile]...That Zeiss, protecting me?[A]
+He's grown up so quickly...[A]
+Well, it's no wonder he got angry when
+I treated him like a child.[A]
+[049B]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x134][OpenMidRight][ToggleSmile]Pr...
+Prince Mildain...?[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Your Highness!
+You were alive!?[A]
+[OpenMidLeft]......Have you mistaken me for
+[ToggleSmile]someone?[A]
+I'm Elphin...
+A simple bard.[A]
+[OpenMidRight][ToggleSmile]No...
+You are...![A]
+But...
+No, it can't be...[A]
+[OpenMidLeft][ToggleSmile]Excuse me?[A]
+[OpenMidRight][ToggleSmile]No...
+Nothing.[A]
+[OpenMidLeft][ToggleSmile]...Then I shall be off now.[A]
+[OpenMidRight][ToggleSmile]...He...[A]
+He looks just like him.
+...Too much like him...[A]
+[049C]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x134][OpenMidRight][ToggleSmile]Elphin![A][OpenMidLeft][ToggleSmile]...Can I help you,
+General Cecilia?[A]
+[OpenMidRight][ToggleSmile]Have you ever visited
+Etruria?[A]
+[OpenMidLeft]Not yet...[A]
+I have been traveling through the
+Western Isles.[A]
+[OpenMidRight]Then do you know about the three
+Etrurian Generals?[A]
+[OpenMidLeft][ToggleSmile]...Yes, I do.[A]
+There is you, the Sorcery General, in
+addition to the Great General and the[A]
+Knight General.[A][OpenMidRight]You are very knowledgeable.[A]
+[OpenMidLeft]As a bard, it is only natural that
+I would hear about such things.[A]
+[OpenMidRight][ToggleMouthMove]......[ToggleMouthMove][A]
+[ToggleSmile]You insist on playing dumb,
+do you?[A]
+Then I have an idea as well.[A]
+[OpenMidLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidRight][ToggleSmile]Let me see your right shoulder that
+you are conveniently hiding with[A]
+[ToggleSmile]your long hair.[A]
+If you are but a simple bard as you
+say you are, then there wouldn't be[A]
+a scar from taking a powerful magic
+hit, now, would there?[A]
+May I have a look..?[A][OpenMidLeft][ToggleMouthMove]......[A]
+[ToggleMouthMove][ToggleSmile]...Persistent, aren't you, Cecilia?[A]
+[OpenMidRight]!
+It is you, Prince Mildain![A]
+What happened?[A]
+Why did you not tell me that
+you were alive?[A]
+[OpenMidLeft][ToggleSmile]...I did not want to get you
+caught up in this.[A]
+But it seems I have no
+choice now.[A]
+[049D]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x134][OpenMidRight][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidLeft]Cecilia...[A]
+How much longer are you going to
+stay mad?[A]
+[OpenMidRight][ToggleSmile]I understand why you were hiding your
+identity from me, prince.[A]
+[OpenMidLeft][ToggleSmile]Thank you, Cecilia.[A]
+[OpenMidRight][ToggleSmile]But, your Highness, you told Lord
+Douglas.[A]
+Did you not have enough trust
+to let me know as well?[A]
+[OpenMidLeft][ToggleSmile]That's not what I intended...[A]
+[OpenMidRight]I shall let it go for now,
+Your Highness.[A]
+I will be looking forward to your
+explanation after the war.[A]
+[OpenMidLeft][ToggleSmile]...Scary, as always.[A]
+[OpenMidRight][ToggleSmile]Of course.[A]
+[OpenMidRight]You have saddened not only me,
+but your people as well.[A]
+Please show our people that you
+are safe, your Highness.[A]
+[ToggleSmile]Please...[A]
+[OpenMidLeft]Yes...
+I know, Cecilia.[A]
+[049E]
+[OpenMidRight][LoadFace][0x135][OpenMidLeft][LoadFace][0x12C][OpenMidLeft]Hey, you're a pirate,
+right?[A]
+[OpenMidRight]Hm?
+Yeah...I guess.[A]
+[ToggleSmile]That's what I look like,
+huh?[A]
+Man...[A]
+[OpenMidLeft]?[A]
+[OpenMidRight][ToggleSmile]I used to be a seagoing
+merchant.[A]
+[OpenMidLeft]Really?[A]
+You must've made a lot money, then.
+Lucky you.[A]
+Oh well, I guess we poor people have
+to just keep working hard..[A]
+[OpenMidRight][ToggleSmile]Wait a sec.[A]
+[OpenMidLeft][ToggleSmile]Huh?[A]
+[OpenMidRight][ToggleSmile]What's my bag doing in your
+hand?[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[ToggleMouthMove]Y-You're pretty perceptive,
+aren't you?[A]
+[OpenMidRight][ToggleSmile]...Gee, thanks.[A]
+[OpenMidLeft]Hmmm...
+All right![A]
+There's no treasure I can't
+steal![A]
+Be ready the next time
+we meet![A]
+[049F]
+[OpenMidRight][LoadFace][0x135][OpenMidLeft][LoadFace][0x12C][OpenMidLeft]Hey, Geeeese.[A]
+[OpenMidRight][ToggleSmile]Yeah?[A]
+[OpenMidLeft][ToggleSmile]Ohhh...
+I think I'm drunk...[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Can you stay and revive me?
+Come on..[A]
+[OpenMidRight][ToggleSmile]...Hey.[A]
+[OpenMidLeft][ToggleSmile]Yeah?[A]
+[OpenMidRight][ToggleSmile]Were you hit with a
+Berserk staff or something?[A]
+[OpenMidLeft][ToggleSmile]Huh?[A]
+[OpenMidRight][ToggleSmile]Whatever you're doing, it's
+not very convincing at all.[A]
+[OpenMidLeft]What!?[A]
+You withstood my seduction moves!?
+You're no ordinary man![A]
+[OpenMidRight]...Gee, thanks.[A]
+But you know, I'm not really
+suited for that role.[A]
+[OpenMidLeft]I-I know that!
+I was just testing you![A]
+[ToggleSmile]I'll get serious next time.[A]
+I'll take your stuff
+without you even noticing![A]
+[OpenMidRight][ToggleSmile]Uh-huh.
+Good luck.[A]
+[04A0]
+[OpenMidRight][LoadFace][0x135][OpenMidLeft][LoadFace][0x12C][OpenMidLeft]Geese![A]
+[OpenMidRight][ToggleSmile]Yeah?[A]
+[OpenMidLeft][ToggleSmile]Doesn't this look familiar?[A]
+[OpenMidRight][ToggleSmile]Hey, that's my...[A]
+[OpenMidLeft][ToggleSmile][ToggleMouthMove]Hehe![ToggleMouthMove][A]
+Guess you weren't so good after
+all![A]
+There's no treasure I can't steal![A]
+[OpenMidRight][ToggleSmile]Sigh...[A]
+[OpenMidLeft][ToggleSmile]Well, let's see now.
+What have we got in here?[A]
+[ToggleMouthMove]... ... ... ...
+... ... ...[A]
+[ToggleMouthMove][ToggleSmile]What...
+What the heck?!
+This is nothing but junk![A]
+[OpenMidRight]It's not junk.
+Maps, compasses...[A]
+It's equipment you need for sailing.[A]
+[OpenMidLeft]What about treasure?!
+Where's the treasure?![A]
+[OpenMidRight][ToggleSmile]Hahaha, there never was
+any treasure![A]
+I'm broke.[A]
+Drowning in debt,
+to tell you the truth.[A]
+I got nothing you can steal![A]
+[OpenMidLeft][ToggleSmile]Erg...[A]
+How come you're bragging like
+that?![A]
+You're broke![A][OpenMidRight][ToggleSmile]I've got a dream.[A]
+I'm gonna go back to being
+a trader and hit a jackpot.[A]
+You'll see, I'll fill my ship
+with riches in no time.[A]
+Then you'll have something
+to steal![A]
+[OpenMidLeft][ToggleMouthMove].........[A]
+[ToggleMouthMove][ToggleSmile]Did... Did I lose?
+Are you a big shot?[A]
+...Or just an idiot?[A]
+
+[04A1]
+[OpenMidLeft][LoadFace][0x131][OpenMidRight][LoadFace][0x12E][OpenMidRight][ToggleSmile]You must be one of Ilia's
+mercenary knights.[A]
+[OpenMidLeft][ToggleSmile]Yeah...
+I'm Treck.[A]
+[OpenMidRight][ToggleSmile]I am Miledy.
+Pleased to meet you.[A]
+[OpenMidLeft]You're...[A]
+[OpenMidRight]Yes...[A]
+I am a Dragon Knight from Bern,
+as you probably suspected.[A]
+[OpenMidLeft][ToggleSmile]Oh, I see.[A]
+[OpenMidRight][ToggleSmile]What...[A]
+What do you think of the fact that
+a knight from Bern is fighting[A]
+alongside you?[A]
+[OpenMidLeft][ToggleSmile]Well...[A]
+You know, so what?[A]
+[OpenMidRight][ToggleSmile]S... So what?[A]
+[OpenMidLeft][ToggleSmile]It's not like people from Bern
+have seven ears or anything.[A]
+[OpenMidRight][ToggleSmile][ToggleMouthMove]...[ToggleMouthMove]
+Well, yes, I only have two.[A]
+[OpenMidLeft][ToggleSmile]See?[A]
+We're all brothers and sisters,
+you know?[A]
+[OpenMidRight][ToggleSmile]Do... you think so?[A]
+[OpenMidLeft][ToggleSmile]Yup.[A]
+[04A2]
+[OpenMidLeft][LoadFace][0x131][OpenMidRight][LoadFace][0x12E][OpenMidLeft]Ahh...
+That hurt.[A]
+[OpenMidRight][ToggleSmile]Is something wrong,
+Sir Treck?[A]
+[OpenMidLeft]Hm?[A]
+Um, you're...[A]
+[OpenMidRight]Miledy.[A]
+Is something wrong?[A]
+[OpenMidLeft][ToggleSmile]Well...[A]
+I was just sitting here watching
+you fight.[A]
+[OpenMidRight][ToggleSmile]Watching me fight?[A]
+[OpenMidLeft]Yeah...
+My neck aches now.[A]
+[OpenMidRight][ToggleSmile]I... see.[A]
+[OpenMidLeft]Yeah.
+And I was kinda thinking...[A]
+Maybe you have a loved one in
+Bern?[A]
+Like family or a lover or
+something?[A]
+[OpenMidRight]...N-No, that's not the case.
+I live for Princess Guinevere...[A]
+[OpenMidLeft][ToggleSmile]Oh, okay.
+Yeah, I thought so.[A]
+My assumptions are usually wrong.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove][ToggleSmile]Oh well, guess I hurt
+my neck for nothing.[A]
+[04A3]
+[OpenMidLeft][LoadFace][0x131][OpenMidRight][LoadFace][0x12E][OpenMidLeft]Um, you're...[A]
+[OpenMidRight][ToggleSmile]...Miledy.[A]
+Do you always forget
+people's names?[A]
+[OpenMidLeft][ToggleSmile]It's a hobby.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove]You are an odd individual,
+Sir Treck.[A]
+[OpenMidLeft]Do you think so?[A]
+I think I'm pretty normal.[A]
+Everyone tells me that they envy me
+because I look like I have no worries[A]
+or anything.[A]
+I have my concerns too, you know.[A]
+[OpenMidRight]Oh?
+Like what?[A]
+[OpenMidLeft]Well, the other day I dreamed
+I was a horse.[A]
+[OpenMidRight][ToggleSmile]...A horse.[A]
+[OpenMidLeft][ToggleSmile]I think this dream has some kind
+of hidden meaning somewhere...[A]
+It's been bothering me for some
+time now, and I've only been able[A]
+to sleep at night.[A]
+[OpenMidRight]Well...[A]
+Thank you,
+Sir Treck.[A]
+[OpenMidLeft]Huh?[A]
+[OpenMidRight]I feel a little better now.[A]
+[OpenMidLeft]Really?
+Why would that be?[A]
+[04A4]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x12F][OpenMidLeft]Whoa.[A]
+[OpenMidRight]Uh?[A]
+[OpenMidLeft]Hey, what's your name?[A]
+[OpenMidRight][ToggleSmile]I Gonzales.[A]
+[OpenMidLeft][ToggleSmile]Gonzales?
+My god, you're huge.[A]
+And look at your build.[A]
+You must be able to pull trees
+right out of the ground.[A]
+[OpenMidRight][ToggleSmile]I...?[A]
+[OpenMidLeft][ToggleSmile]Hm, this is quite a find.[A]
+There's no way that I'm letting
+you go.[A]
+[OpenMidRight][ToggleSmile]Uh...
+What?[A]
+[ToggleMouthMove]......[ToggleMouthMove]
+...I go now.[A]
+[OpenMidLeft]Hey, wait a minute.[A]
+[04A5]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x12F][OpenMidLeft]Oh.[A]
+[OpenMidRight]Uh...[A]
+[OpenMidLeft][ToggleSmile]Hey, wait!
+[ToggleSmile]I need a favor from you.[A]
+[OpenMidRight][ToggleSmile]...Me?[A]
+[OpenMidLeft][ToggleSmile]Right.
+It has to be you.[A]
+You see, there's going to be a new
+village built on the Western Isles.[A]
+[OpenMidRight][ToggleSmile]Village...[A]
+[OpenMidLeft][ToggleSmile]There are lots of people who
+lost their homes in this war.[A]
+There are even a lot of them from the
+resistance group that I was with.[A]
+[OpenMidRight][ToggleSmile]Lost home...[A]
+[OpenMidLeft][ToggleSmile]So we've decided to build a village
+for those people.[A]
+And we need help, you see.[A]
+It'd be really great if we get some
+strong men like you.[A]
+What do you say?[A]
+If you sign up now, you'll get
+breakfast, lunch, and dinner,[A]
+five days a week.[A]
+[OpenMidRight][ToggleSmile]But... I ugly...[A]
+I can't stay with people.
+They not like me...[A]
+[OpenMidLeft][ToggleSmile]Haha, don't be ridiculous.[A]
+Just try carrying in a couple of huge
+logs with that strength of yours.[A]
+Everyone'll love you.[A]
+[OpenMidRight][ToggleSmile]Love me...?[A][Clear]
+[ToggleSmile]I help you.[A]
+[04A6]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x12F][OpenMidLeft]Hey.[A]
+[OpenMidRight][ToggleSmile]Uh...[A]
+What...
+What's your name?[A]
+[OpenMidLeft][ToggleSmile]Oh, right.
+I hadn't told you yet.[A]
+I'm...[A][OpenMidRight][ToggleSmile]No... I dumb.
+I can't remember things...[A]
+...And I ugly.
+Everyone looks at me...[A]
+I ugly, dumb...[A]
+[OpenMidLeft]...My, my.[A]
+Look, Gonzales, you have to have
+more confidence in yourself.[A]
+Yeah, you have a scary face, and
+you're a bit dumber than most others.[A]
+But so what?[A]
+[OpenMidRight]Uh...?[A]
+[OpenMidLeft]All right, Gonzales.[A]
+I won't say that 'As long as you
+have a kind heart...' crap.[A]
+You're ugly.[A]
+People make fun of you because of
+it.[A]
+[OpenMidRight]Uh...[A]
+But that doesn't mean that you
+should just give up.[A]
+[OpenMidLeft][ToggleSmile]You should look over yourself carefully,
+and find something that only you have.[A]
+You'll eventually find something
+that's unique to you.[A]
+[OpenMidRight][ToggleSmile]To me...[A]
+[OpenMidLeft][ToggleSmile]Right, unique to you.[A]
+If you have that, no one will
+be making fun of you anymore.[A]
+You won't have to belittle
+yourself all the time.[A]
+You can stand proud.[A]
+[OpenMidRight]U...Unique...?[A]
+[ToggleMouthMove]......[ToggleMouthMove]
+[ToggleSmile]I go think.[A][......]
+My head hurts.[A]
+[OpenMidLeft][ToggleSmile]Hahaha...
+Take all the time you need.[A]
+[04A7]
+[OpenMidLeft][LoadFace][0x12F][OpenMidRight][LoadFace][0x131][OpenMidLeft][ToggleSmile]?[A]
+[OpenMidRight][ToggleSmile]Hmm...?[A]
+Who are you?[A]
+[OpenMidLeft][ToggleSmile]Me?[A]
+I... I Gonzales.[A]
+[OpenMidRight][ToggleSmile]Gonzales?
+That's a nice name...[A]
+[OpenMidLeft][ToggleSmile]R-Really?[A]
+[OpenMidRight][ToggleSmile]I'm Treck.
+Nice to meet you.[A]
+[OpenMidLeft][ToggleSmile]T...T...?[A]
+[OpenMidRight][ToggleSmile]Treck.[A]
+[OpenMidLeft][ToggleSmile]Treck Treck Treck Treck Tre...[A]
+[OpenMidRight][ToggleSmile]Haha, don't repeat it so
+much like that.[A]
+You're embarrassing me.[A]
+[OpenMidLeft][ToggleSmile]Shut up.
+I forget.[A]
+...ck Treck Treck Tre...
+Okay, I remember.[A]
+[OpenMidRight][ToggleSmile]Haha, you're an odd one.
+Hey, are you...[A]
+[ToggleSmile]...Um...[A]
+Sorry, what was your name again?[A]
+[04A8]
+[OpenMidLeft][LoadFace][0x12F][OpenMidRight][LoadFace][0x131][OpenMidLeft][ToggleSmile]Uh?[A]
+You, you...[A]
+[OpenMidRight]Hm...?[A]
+[OpenMidLeft]Who are you?
+I see you before.[A]
+[OpenMidRight][ToggleSmile]Really?
+I must be famous.[A]
+My name is Treck.[A]
+[OpenMidLeft][ToggleSmile]T...T...
+T...?[A]
+[OpenMidRight]...reck.[A]
+[OpenMidLeft]Reck.[A]
+[OpenMidRight]Yeah...[A]
+Hey, what's your name?[A]
+[OpenMidLeft][ToggleSmile]I Gonzales.[A]
+[OpenMidRight][ToggleSmile]Gonzales?
+That's a nice name...[A]
+[OpenMidLeft][ToggleSmile]R-Really?[A]
+[OpenMidRight][ToggleSmile]Yeah.[A]
+It's really calm,
+don't you think...?[A]
+[OpenMidLeft][ToggleSmile]Calm...[A]
+What's calm...?[A]
+[OpenMidRight][ToggleSmile]Hm? ...Hmm...[A]
+You know, I don't really
+know either.[A]
+But hey, don't worry about it.[A]
+It's nothing compared to the
+size of this world.[A]
+[04A9]
+[OpenMidLeft][LoadFace][0x12F][OpenMidRight][LoadFace][0x131][OpenMidRight][ToggleSmile]Ahhh...[A]
+[OpenMidLeft]Uh?[A]
+[OpenMidRight][ToggleSmile]It's so peaceful here...[A]
+You know, we could make quite a
+team, don't you think?[A]
+Um...[A]
+[OpenMidLeft][ToggleSmile]I Gonzales.[A]
+[OpenMidRight][ToggleSmile]Gonzales?
+That's a nice name...[A]
+Oh yeah, my name is...[A]
+[OpenMidLeft][ToggleSmile]You Reck.[A]
+[OpenMidRight][ToggleSmile]Hm?
+Was it?[A]
+Now that you say so,
+I think you're right.[A]
+Well, no matter.
+Let's go.[A]
+[OpenMidLeft]Yeah.[A]
+[04AA]
+[OpenMidLeft][LoadFace][0x132][OpenMidRight][LoadFace][0x130][OpenMidRight][ToggleSmile]General Zealot,
+are you all right?[OpenMidLeft]Ah, Noah.[A]
+This is nothing.
+We are knights of Ilia.[A]
+We wouldn't lose to other nations'
+knights in terms of battle experience.[A]
+[OpenMidRight]Yes.[A]
+Well, I still have a lot to
+learn, though.[A]
+[OpenMidLeft]Hm.[A]
+...Oh.[A]
+Noah, have you written your letter
+yet?[A]
+[OpenMidRight]Letter?
+Oh...that letter.[A]
+[OpenMidLeft]Right.[A]
+Remember what you were told
+when you first joined?[A]
+There are Pegasus Knight messengers
+that fly with us.[A]
+If he should fall in battle,
+they will deliver our letters for us.[A]
+[OpenMidRight]Yes.[A]
+[OpenMidLeft]Neither of us will be able to meet
+our deaths peacefully in bed.[A]
+The letters are essential to us.[A]
+Noah, don't you have anyone
+you want to send a letter to?[A]
+[OpenMidRight]Well... Not really.[A]
+I do recall my comrades were
+writing letters, though.[A]
+They were addressing them to
+their parents.. .or lovers.[A]
+[OpenMidLeft]You should do the same.[A]
+Why don't you get a girlfriend
+yourself?[A]
+[OpenMidRight]Well, I'll think about it.[A]
+[04AB]
+[OpenMidLeft][LoadFace][0x132][OpenMidRight][LoadFace][0x130][OpenMidRight][ToggleSmile]...General Zealot.[A]
+[OpenMidLeft]Is it about the letter?[A]
+Have you changed your mind?[A]
+[OpenMidRight]Yes.[A]
+I suppose even I have someone I want
+to send a letter to when I die.[A]
+If I die, I want you to read my
+letter.[A]
+[OpenMidLeft]Me?[A]
+[OpenMidRight]Treck and I...
+And also Grant and Sieks...[A]
+We all made it here thanks
+to you.[A]
+I'd like to express my
+gratitude to you when I die.[A]
+[OpenMidLeft]...I see.[A]
+[OpenMidRight]Speaking of the others...
+I wonder where they are now?[A]
+[OpenMidLeft]I've no idea.[A]
+But they were once under my command.
+They won't die so easily.[A]
+[OpenMidRight]I heard that some were hired
+by Bern...[A]
+[OpenMidLeft]Yes...[A]
+But that can't be helped.[A]
+We give our blood and get money
+in return.[A]
+[OpenMidRight]...General Zealot,
+what do you think of that?[A]
+[OpenMidLeft]Of what?[A]
+[OpenMidRight]Nobles from other nations say
+that Ilia sells death for a living.[A]
+They say that we are vultures
+attracted to blood and decaying meat.[A]
+[OpenMidLeft]That doesn't bother me.[A]
+It's a fact that Ilia couldn't
+survive without war.[A]
+We are giving our own blood
+as well to survive.[A]
+[OpenMidRight]Yes.[A]
+[04AC]
+[OpenMidLeft][LoadFace][0x132][OpenMidRight][LoadFace][0x130]
+[OpenMidRight][ToggleSmile]General Zealot?[A]
+Is something wrong?[A]
+[OpenMidLeft]Ah, Noah.[A]
+No...nothing's wrong.
+Did I seem troubled?[A]
+[OpenMidRight]No.[A]
+I just thought that
+something had happened.[A]
+[OpenMidLeft]I see...[A]
+...A letter arrived today.
+It was your comrade's...[A]
+Grant's will.[A]
+[OpenMidRight]...I see.[A]
+[OpenMidLeft]Would you like to read it?[A]
+[OpenMidRight]...No.[A]
+[OpenMidLeft]All right.[A]
+Then let's go.[A]
+[OpenMidRight]Yes.[A]
+[04AD]
+[OpenMidLeft][LoadFace][0x131][OpenMidRight][LoadFace][0x130][OpenMidLeft]...Zzz...[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]...Uh...[A]
+Oh, Noah...
+You were there?[A]
+[OpenMidRight][ToggleSmile]Yeah, I've been here for
+a while now.[A]
+Well, I'm used to it, so I don't mind
+you falling asleep every ten seconds.[A]
+But you know, don't you have anything
+else to do?[A]
+[OpenMidLeft][ToggleSmile]Like what?[A]
+[OpenMidRight][ToggleSmile]Like practicing your swings during
+marches, or something.[A]
+[OpenMidLeft][ToggleSmile]Well...
+How about you?[A]
+Have you been doing anything?[A]
+[OpenMidRight][ToggleSmile]Me?
+...Not really.[A]
+...I guess I'm no different from
+you, then.[A]
+Hey, what were you doing back
+in Ilia during the break?[A]
+[OpenMidLeft][ToggleSmile]I slept.[A]
+[OpenMidRight][ToggleSmile]I mean other than that.[A]
+[OpenMidLeft][ToggleSmile]Well...
+Oh, I went fishing.[A]
+You know how the lakes freeze
+over in the winter?[A]
+You punch holes in the ice with your
+spear and lower some string inside.[A]
+[OpenMidRight]Sounds exactly like something you
+would do.[A]
+What can you catch?[A]
+[OpenMidLeft]Nothing.[A]
+It's just fun to sit there staring
+off into space holding the string.[A]
+[OpenMidRight]...You really live life to the
+fullest.[A]
+[OpenMidLeft]What were you doing?[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove][ToggleSmile]...Nothing much, really.[A]
+[04AE]
+[OpenMidLeft][LoadFace][0x131][OpenMidRight][LoadFace][0x130][OpenMidRight]Treck, do you remember Casis?[A]
+[OpenMidLeft]Casis?[A]
+Hmm...[A]
+I sort of remember that name...[A]
+[OpenMidRight][ToggleSmile]You don't remember?[A]
+He's the guy that forgot to bring
+his weapons to our first mission.[A]
+[OpenMidLeft]Oh, right![A]
+He was getting scolded with me
+by General Zealot.[A]
+He even forgot to bring his horse,
+you know.[A]
+He was fighting on foot![A]
+I never thought there'd be someone
+dumber than me in our squad.[A]
+[OpenMidRight][ToggleSmile]Well, he's dead.[A]
+He was hired by Bern...
+He died close to here.[A]
+[OpenMidLeft]...Oh.[A]
+[OpenMidRight]Mercenaries are in high demand
+right now...[A]
+We could have ended up fighting
+him if we were unlucky.[A]
+[OpenMidLeft]Well...[A]
+[ToggleSmile]We're for hire, you know.
+It happens.[A]
+[OpenMidRight][ToggleSmile]Well, I guess you're right...[A]
+I really envy that personality
+of yours...[A]
+[04AF]
+[OpenMidLeft][LoadFace][0x131][OpenMidRight][LoadFace][0x130]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Hmm?
+Something wrong, Noah?[A]
+[OpenMidRight][ToggleSmile]No...[A]
+I was just thinking some things
+over.[A]
+[OpenMidLeft][ToggleSmile]Thinking things over?
+Don't bother.[A]
+We're not made to be thinking
+deeply like that.[A]
+[OpenMidRight][ToggleSmile]...I guess.[A]
+You know, this war...[A]
+I mean, I never meant to go out and
+save the world or anything, but we've[A]
+fought through a lot of battles.[A]
+[OpenMidLeft][ToggleSmile]Yeah.[A]
+[OpenMidRight][ToggleSmile]But Ilia's the same as always.
+Our kids, and our kids' kids...[A]
+They'll be fighting to make a living,
+just like we do.[A]
+I was just wondering...
+Couldn't we do anything?[A]
+[OpenMidLeft][ToggleSmile]I wonder...[A]
+[OpenMidRight][ToggleSmile]Maybe it's just futile for us
+to try and make a difference...[A]
+[OpenMidLeft][ToggleSmile]Well...
+That's all right, too.[A]
+[OpenMidRight]It is...?[A]
+[OpenMidLeft]Yeah.
+At least I think so.[A]
+We go through hard times, but
+isn't that all part of life?[A]
+[OpenMidRight]...Maybe so.[A]
+...Hey, Treck.[A]
+[OpenMidLeft]Yeah?[A]
+[OpenMidRight]Take me along the next
+time you go fishing.[A]
+[04B0]
+[OpenMidLeft][LoadFace][0x132][OpenMidRight][LoadFace][0x131][OpenMidLeft][ToggleSmile]Treck.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Treck?[A]
+[OpenMidRight]...Zzz...[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Oww!?[A]
+What...what the?
+How come my head hurts so much?[A]
+[OpenMidLeft]Because I just hit you.[A]
+[OpenMidRight]Huh?
+General Zealot?[A]
+[OpenMidLeft]Treck, you were sleeping
+on the job again.[A]
+[OpenMidRight]Yeah...sorry, sir.
+I couldn't help it...[A]
+Yawn...[A]
+[OpenMidLeft]Never fails, does it?[A]
+You just go right to sleep
+whenever there's the chance.[A]
+What's more, you're more troublesome
+because you sleep with your eyes open.[A]
+[OpenMidRight]Yeah... thanks.[A]
+[OpenMidLeft]I've been meaning to tell you this for
+a long time, but you lack discipline.[A]
+I'll be checking on you regularly
+from now on.[A]
+[OpenMidRight]Yes sir...[A]
+Yawn...[A]
+[04B1]
+[OpenMidLeft][LoadFace][0x132][OpenMidRight][LoadFace][0x131][OpenMidRight][ToggleSmile]...Zzz...[A]
+[OpenMidLeft]Treck...[A]
+[OpenMidRight]...Zzz...[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Owww!?[A]
+[ToggleSmile]Uh... General Zealot?
+Yawn...[A]
+Good morning, sir.[A]
+[OpenMidLeft][ToggleSmile]Treck...[A]
+There are rumors going around
+in the army about you.[A]
+They say that the Ilian Knight Treck
+is swinging his sword in his sleep![A]
+[OpenMidRight][ToggleSmile]I have yet to accomplish that,
+sir.[A]
+...But that does seem like fun.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[ToggleMouthMove][ToggleSmile]Treck, you've got talent.
+Why don't you do your job properly?[A]
+[OpenMidRight]Well...[A]
+[OpenMidLeft]We are members of the proud
+Ilian Mercenary Knights.[A]
+This is a battle that will determine
+the world's fate...[A]
+And to us, that isn't all.[A]
+The reputation of the Ilian Mercenary
+Knights will be determined by our[A]
+actions and how we fight in this
+battle.[A]
+That shall have a great impact
+on the future of Ilia, and thus...[A]
+[OpenMidRight][ToggleSmile]...Zzz...[A]
+[04B2]
+[OpenMidLeft][LoadFace][0x132][OpenMidRight][LoadFace][0x131][OpenMidLeft][ToggleSmile]Treck, are you awake?[A]
+[OpenMidRight][ToggleSmile]Yes, sir.[A]
+[OpenMidLeft][ToggleSmile]You're actually awake?
+What a pleasant surprise.[A]
+[OpenMidRight][ToggleSmile]Well, I have my moments,
+too.[A]
+[OpenMidLeft][ToggleSmile]I see.[A]
+Treck...
+You've done well.[A]
+[OpenMidRight]Huh?[A]
+[OpenMidLeft]We couldn't have come this far
+without you.[A]
+It is all thanks to you.[A]
+You can sleep as much as you
+want from now on.[A]
+[OpenMidRight]Well...[A][OpenMidLeft][ClearFace][OpenMidRight][ClearFace][.......]
+...Treck![A]
+[OpenMidRight][LoadFace][0x131]
+[OpenMidLeft]You were sleeping again![A]
+[OpenMidRight][ToggleSmile]Huh?
+Eh?
+General Zealot?[A]
+[OpenMidLeft][ToggleSmile]How many times do I have
+to tell you?[A]
+You should be more...[A]
+[OpenMidRight][ToggleSmile]...Good morning, sir.[A]
+[04B3]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x135][OpenMidLeft]Hey, you.[A]
+[OpenMidRight]Yeah?[A]
+[OpenMidLeft]You can drive a ship, right?
+I want to ask a favor.[A]
+[OpenMidRight]From me?[A]
+[OpenMidLeft]Yeah.[A]
+We're planning on building
+a new village on the Western Isles.[A]
+What I want you to do is use your
+ship to carry the people there.[A]
+I'll pay you well.[A]
+[OpenMidRight][ToggleSmile]...A ship, huh?[A]
+[OpenMidLeft][ToggleSmile]What's the matter?
+You can drive one, right?[A]
+[OpenMidRight]...Yeah, I sure can.[A]
+I was once the captain of a
+trading vessel.[A]
+There's no ocean I haven't
+seen yet.[A]
+[OpenMidLeft][ToggleSmile]...Then why did you become
+a pirate?[A]
+[OpenMidRight]I couldn't continue my business
+in this war.[A]
+We had no choice, so I persuaded
+the boys saying that we were[A]
+going to be pirates.[A]
+[OpenMidLeft]Uh-huh.[A]
+[OpenMidRight][ToggleSmile]But we were originally just
+ordinary seafarers.[A]
+We don't like fighting or robbing
+or any of that stuff.[A]
+Anyway, when we were prepared and
+finally set off as pirates,[A]
+everyone started complaining of
+stomach aches and seasickness[A]
+and everything.[A]
+[OpenMidLeft][ToggleSmile]Well, well.
+It's amazing you got this far.[A]
+[OpenMidRight][ToggleSmile]Yeah, well, I wasn't doing
+it because I liked it...[A]
+[04B4]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x135][OpenMidRight][ToggleSmile]Even if I say we were pirates,
+we were just amateurs.[A]
+...We figured we'd go for easy targets
+first, so we picked a small trading[A]
+ship for our first one.[A]
+We were able to take over most of
+most of the ship without a fight,[A]
+but...[A]
+[OpenMidLeft][ToggleSmile]But what?[A]
+[OpenMidRight][ToggleSmile]We couldn't find any treasure
+at all.[A]
+The captain of the ship told me that he
+was in the same situation that I was.[A]
+He said that he wasn't doing well
+either, so he might have to resort[A]
+to piracy as well...[A]
+[OpenMidLeft][ToggleSmile]And?[A]
+[OpenMidRight]We let them go.[A]
+I couldn't steal from them
+after hearing that.[A]
+[OpenMidLeft]A nice pirate, eh?
+How ever would you survive?[A]
+[OpenMidRight]...Yeah, that's what I thought, too.[A]
+So anyway, we decided to go after
+a bigger ship next.[A]
+We figured we could steal from
+the rich and no one would be hurt.[A]
+A few days later, we were lucky
+enough to come across a large[A]
+trading vessel.[A]
+[OpenMidLeft]Yeah?[A]
+[OpenMidRight]We didn't have to hold back
+this time.[A]
+We charged the ship... but when
+we got close, suddenly the enemy[A]
+ship started swarming with ballistaes
+and archers.
+It was one of Bern's battleships.[A]
+[OpenMidLeft][ToggleSmile]My, my.[A]
+[OpenMidRight][ToggleSmile]We were shot at mercilessly, and
+they chased us for 3 days and nights.[A]
+We somehow got away, but the
+ship was wrecked.[A]
+We weren't making any money, either.
+Some of the boys started crying.[A]
+Hell, even I felt like crying at
+that time.[A]
+[OpenMidLeft]Poor thing.[A]
+[OpenMidRight][ToggleSmile]Well like I said, I wasn't
+doing it because I liked it...[A]
+[04B5]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x135][OpenMidLeft][ToggleSmile]Hm?[A]
+What's that?
+A map?[A]
+[OpenMidRight][ToggleSmile]It's the one trophy that
+I've gotten so far as a pirate.[A]
+I found it when we were
+battling another band.[A]
+[OpenMidLeft][ToggleSmile]I see.[A]
+[OpenMidRight][ToggleSmile]See the skull mark here?[A]
+It means there's treasure buried
+there.[A]
+[OpenMidLeft]And did you find it?[A]
+[OpenMidRight]I don't have any money left.[A]
+Once this war ends, I'll be
+a merchant again.[A]
+If what this map says is true, I
+can go get the treasure and[A]
+[ToggleSmile]travel the seas once again.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight]I don't have any money left.[A]
+I even went into debt to feed
+the guys.[A]
+It this map's a fake, then I'll
+have to let go of my ship forever.[A]
+...I can't help but hesitate when
+I think of that possibility.[A]
+[OpenMidLeft]Uh huh.[A]
+[ToggleSmile]But you know that no amount of praying
+and worrying is gonna get you that[A]
+treasure, right?[A]
+You have to take action.[A]
+[OpenMidRight][ToggleSmile]...Yeah.
+You're right.[A]
+[OpenMidLeft][ToggleSmile]Even if that map's a fake, there'll
+be other treasures out there.[A]
+Anyway, you're helping us out by
+carrying the residents to our new[A]
+village, right?[A]
+I'm counting on you.
+Show me your ship sometime.[A]
+[OpenMidRight]You got it.
+You can count on me.[A]
+[04B6]
+[OpenMidLeft][LoadFace][0x134][OpenMidRight][LoadFace][0x122][OpenMidLeft]Lilina, is your magic
+improving?[A]
+[OpenMidRight]Yes, I think I've been getting
+better since you taught me[A]
+those basics.[A]
+[OpenMidLeft]Good.[A]
+You have a special gift for
+magic, Lilina.[A]
+If you practice, you'll become
+a great mage like no other.[A]
+[OpenMidRight][ToggleSmile]Me...?[A]
+[OpenMidLeft][ToggleSmile]Yes.[A]
+So make sure you keep up with
+your training.[A]
+[OpenMidRight]Yes![A]
+[04B7]
+[OpenMidLeft][LoadFace][0x134][OpenMidRight][LoadFace][0x122][OpenMidRight][ToggleSmile]General Cecilia, why didn't you
+teach magic to Roy?[A]
+[OpenMidLeft][ToggleSmile]What?[A]
+[OpenMidRight]When Roy was studying in Ostia,
+you wouldn't teach him magic at[A]
+all, no matter how much he asked.[A]
+[OpenMidLeft]Ah... You're right.
+I didn't.[A]
+[OpenMidRight][ToggleSmile]Why didn't you?[A]
+You taught it to me a great deal.[A]
+[OpenMidLeft][ToggleSmile]That's partly because of you.[A]
+[OpenMidRight][ToggleSmile]Because of me?[A]
+[OpenMidLeft][ToggleSmile]Right.[A]
+Roy... you know how he is.[A]
+If I taught him magic, he would have
+practiced and practiced to master it.[A]
+[OpenMidRight][ToggleSmile]Yes, you're right.
+But...[A]
+[OpenMidLeft][ToggleSmile]You see, practice isn't enough to
+master a school of magic.[A]
+You need talent, and that can't
+be obtained through mere training.[A]
+What would Roy think if there was
+a person with that talent right[A]
+near him?[A]
+He's working as hard...[A]
+No, probably even harder than
+that person, but he's still[A]
+lagging far behind.[A]
+What would he feel like?[A][OpenMidRight][ToggleSmile]That person...
+Is it me?[A]
+[OpenMidLeft][ToggleSmile]People have things that they're
+naturally good at.[A]
+It was clear that Roy wouldn't do
+very well with magic, so I figured[A]
+that he would be better off mastering
+the sword.[A]
+[OpenMidRight][ToggleMouthMove].....[A]
+[OpenMidLeft][ToggleMouthMove]Lilina, you will eventually lead
+Ostia's future.[A]
+Remember this...[A]
+If you assign someone to a task that
+he is naturally not good at, he will[A]
+waste his ability.[A]
+You must never think that everyone
+works in the same way.[A][OpenMidRight][ToggleSmile]Yes...[A]
+[04B8]
+[OpenMidLeft][LoadFace][0x134][OpenMidRight][LoadFace][0x122][OpenMidRight]General Cecilia, don't you think
+Roy changed recently?[A]
+[OpenMidLeft]In what way?[A]
+[OpenMidRight]He's gotten calmer...[A]
+Or rather, he's more confident when
+he's giving commands to the army.[A]
+You would naturally become like that if
+you were in charge of an entire army.[A]
+If Roy didn't grow, the army itself
+would be in danger.[A]General Cecilia, you said the other
+day that I would be leading Ostia's[A]
+future.[A]
+[OpenMidLeft]Yes.[A]
+After all, you are Lord Hector's
+only heir.[A]
+[OpenMidRight][ToggleSmile]Do you think I could be
+like Roy?[A]
+I mean...[A]
+I couldn't even recognize a
+Traitor in my own castle...[A]
+[OpenMidLeft][ToggleSmile]People grow according to their
+potential.[A]
+Even me, I didn't know what I would
+do when I was pulled from Ostia to[A]
+Aquleia and was told that I would
+be Etruria's Sorcery General.[A]
+[OpenMidRight][ToggleSmile]But you were able to
+succeed because of your ability..[A]
+[OpenMidLeft][ToggleSmile]That's not true.[A]
+I was only able to come this far
+thanks to Percival and Lord Douglas.[A]
+You're thinking that you have to do
+everything on your own, aren't you?[A]
+[OpenMidRight][ToggleSmile]Oh...[A]
+[OpenMidLeft][ToggleSmile]Even Roy isn't fighting on his own,
+you know.[A]
+He's putting faith in the people
+around him.[A]
+That is another important attribute
+for a person in power.[A]
+So you can depend on people when
+you want to, too.[A]
+[OpenMidRight][ToggleSmile]Even you?[A]
+[OpenMidLeft][ToggleSmile]Of course.[A]
+I'll be glad to offer
+you help when you need it.[A]
+[OpenMidRight]Yes![A]
+[04B9]
+The next heir to Pherae.
+The protagonist of this story.
+[04BA]
+A young Etrurian lady.
+General Klein's younger sister.
+[04BB]
+A little Divine Dragon girl
+from Nabata.
+[04BC]
+A survivor of one of the Sacaean clans
+decimated by Bern. One of the Silver
+Wolf's followers.
+[04BD]
+The granddaughter of Dayan,
+the Silver Wolf.
+[04BE]
+The chief of the Kutolah clan
+and the greatest warrior in Sacae. 
+[04BF]
+A knight serving Ostia.
+[04C0]
+A knight serving Ostia.
+[04C1]
+A knight serving Ostia.
+Bors' younger sister.
+[04C2]
+The "Great General" of Etruria.
+
+[04C3]
+An archer serving Pherae.
+Roy's milk-brother.
+[04C4]
+A girl from Etruria serving the
+Elimine Church.
+[04C5]
+An Etrurian general leading one of
+the forces on the Western Isles.
+[04C6]
+A priest of the Elimine Church traveling
+around the world on a mission.
+[04C7]
+A young cleric serving Guinevere.
+
+[04C8]
+A bishop of the Elimine Church aiding
+Roy on his quest.
+[04C9]
+A boy living in an orphanage on
+the Bern-Lycia border.
+[04CA]
+The Sword Saint whose name is
+known far and wide.
+[04CB]
+A girl traveling around to hone
+her sword skills.
+[04CC]
+A young man seeking revenge on
+Bern. 
+[04CD]
+An ex-pitfighter from Etruria.
+He is now a traveling mercenary.
+[04CE]
+A mercenary hired into Ostia's
+service.
+[04CF]
+A brigand roaming the Etrurian
+border.
+[04D0]
+A knight serving Pherae.
+[04D1]
+A knight serving Pherae.
+[04D2]
+The "Knight General" of Etruria.
+[04D3]
+A sniper known as the Guardian
+of Nabata.
+[04D4]
+A veteran knight serving Pherae.
+Roy's teacher in the martial arts.
+[04D5]
+A spy serving Ostia.
+[04D6]
+A young man fighting alongside
+Dieck.
+[04D7]
+A young man fighting alongside
+Dieck.
+[04D8]
+A warrior searching for his long
+lost daughter.
+[04D9]
+A young mage who grew up in an
+orphanage that Bern destroyed.
+[04DA]
+The princess of Ostia.
+[04DB]
+A mage hired into Etruria's service.
+[04DC]
+The "Hermit on the Mountain" devoting her
+life to historical and magical research.
+[04DD]
+A young shaman traveling to perfect
+the dark arts.
+[04DE]
+A young dancer helping the rebel forces
+on the Western Isles.
+[04DF]
+A former squad leader of the Ilian
+Pegasus Knights. Zealot's wife.
+[04E0]
+The leader of the Pegasus Knight squad
+sent from Ilia to the Western Isles. 
+[04E1]
+A Pegasus Knight in training traveling
+the world to hone her skills. 
+[04E2]
+A Dragon Knight of Bern.
+[04E3]
+A Dragon Knight of Bern.
+[04E4]
+A mysterious bard supporting the rebel
+forces on the Western Isles.
+[04E5]
+A young thief who only steals from
+the rich.
+[04E6]
+A shaman from Nabata who can sense
+the future.
+[04E7]
+The leader of Guinevere's personal
+guards.
+[04E8]
+A brigand from the Western Isles.
+[04E9]
+A mercenary knight from Ilia.
+[04EA]
+A mercenary knight from Ilia.
+[04EB]
+The lord of Edessa leading the Ilian
+mercenary knights.
+[04EC]
+The leader of the rebels on the
+Western Isles.
+[04ED]
+The "Sorcery General" of Etruria.
+[04EE]
+A pirate from the Western Isles seeking
+to avenge his crew.
+[04EF]
+A servant of Pherae in charge of the
+army's inventory.
+[04F0]
+The marquess of Pherae suffering from
+illness.
+[04F1]
+The princess of Bern.
+[04F2]
+The leader of the brigands roaming
+around Pherae.
+[04F3]
+A knight put in charge of a castle on the
+border between Bern and Lycia.
+[04F4]
+One of Bern's lieutenants.
+[04F5]
+The marquess of Laus.
+[04F6]
+The leader of one of the brigand
+groups in Lycia.
+[04F7]
+A traitor who betrayed the
+marquess of Thria.
+[04F8]
+A knight serving Ostia.
+[04F9]
+An Ostian knight leading the
+rebellion.
+[04FA]
+The leader of one of the brigand groups
+on the Western Isles.
+[04FB]
+An Etrurian noble put in charge
+of Castle Almar.
+[04FC]
+
+[04FD]
+A Dragon Knight of Bern manipulating the
+politics of the Western Isles.
+[04FE]
+A priest of the Elimine Church supervising
+Mt. Ebrakhm.
+[04FF]
+One of the Etrurian generals leading the
+forces on the Western Isles.
+[0500]
+A mysterious figure sent in from Bern.
+[0501]
+One of the Three Dragon Lords of Bern.
+Led the attack on Lycia.
+[0502]
+A mercenary hired by Bern leading the
+attack on Nabata.
+[0503]
+A brigand living in the deserts of Nabata.
+[0504]
+A brigand living in the deserts of Nabata.
+[0505]
+A knight of Bern watching over the
+Etrurian border.
+[0506]
+An Etrurian noble formerly in charge
+of the mining corporation on
+the Western Isles. 
+[0507]
+A priest leading one of Bern's
+Squads in Ilia.
+[0508]
+A squad leader of the Ilian
+Pegasus Knights.
+[0509]
+A former advisor to the Etrurian court.
+[050A]
+The leader of the Three Dragon
+Lords of Bern.
+Led the attack on Ilia.
+
+[050B]
+One of the Three Dragon Lords
+of Bern.
+Led the attack on Sacae.
+[050C]
+The mighty king of Bern who possesses
+great power and skill.
+[050D]
+The Dark Priestess who seeks to
+liberate the world under Zephiel's
+command.
+[050E]
+The Dark Dragon who was feared by
+humans during the Scouring.
+[050F]
+A Dragon keeping the Dragon Temple.
+[0510]
+An Etrurian general in charge of a small
+fort on the Western Isles.
+[0511]
+The chief of the Djute clan of Sacae.
+[0512]
+A swordfighter defending Bulgar under
+Brenya's orders.
+[0513]
+The leader of a group of bandits that
+roam around Ostia.
+[0514]
+The leader of one of the brigand groups
+on the Western Isles.
+[0515]
+A brigand of the Western Isles.
+[0516]
+A lieutenant leading the attack on Arcadia.
+[0517]
+A general in charge of the standing
+forces in Ilia.
+[0518]
+A survivor of the Djute clan.
+[0519]
+A survivor of the Djute clan.
+[051A]
+A survivor of the Djute clan.
+[051B]
+A survivor of the Djute clan.
+[051C]
+A survivor of the Djute clan.
+[051D]
+A general of Bern defending the underground
+of the Temple of Seals.
+[051E]
+A priest of the Elimine Church who turned
+his back on the order.
+[051F]
+An Etrurian put in charge of Castle Idinna.
+[0520]
+The leader of the Lycia Alliance and the
+marquess of Ostia. 
+[0521]
+Brigands of Lycia.
+[0522]
+Mercenaries from the eastern
+kingdom of Bern.
+[0523]
+Mercenaries from the eastern
+kingdom of Bern.
+[0524]
+Soldiers of the eastern kingdom of Bern.
+[0525]
+Mercenaries from the eastern
+kingdom of Bern.
+[0526]
+Mercenaries from the eastern
+kingdom of Bern.
+[0527]
+Mercenaries from the eastern
+kingdom of Bern.
+[0528]
+Brigands who seek to loot villages during
+the commotion of battle.
+[0529]
+Brigands roaming the mountains
+in this area.
+[052A]
+Soldiers from Thria who betrayed the Alliance.
+[052B]
+Soldiers serving the traitor Leygance.
+[052C]
+Mercenaries from the eastern
+kingdom of Bern.
+[052D]
+Soldiers serving the traitor Leygance.
+[052E]
+Thieves hunting for treasure.
+[052F]
+Brigands roaming the Western Isles.
+[0530]
+Brigands roaming the Western Isles.
+[0531]
+Soldiers defending Castle Almar.
+[0532]
+Brigands roaming the Western Isles.
+[0533]
+Volunteer citizen warriors fighting for
+the people.
+[0534]
+Soldiers watching over Mt. Ebrakhm.
+[0535]
+Brigands roaming the Western Isles.
+[0536]
+Soldiers serving the lords of the
+Western Isles.
+[0537]
+Brigands roaming the Western Isles.
+[0538]
+Mercenaries from the eastern
+kingdom of Bern.
+[0539]
+Soldiers defending the capital of the
+Western Isles.
+[053A]
+Soldiers defending the capital of the
+Western Isles.
+[053B]
+Mercenaries from the eastern
+kingdom of Bern.
+[053C]
+Soldiers from the western
+kingdom of Etruria.
+[053D]
+Mercenaries from the eastern
+kingdom of Bern.
+[053E]
+Brigands robbing passerbys of
+the desert.
+[053F]
+Soldiers from the western
+kingdom of Etruria.
+[0540]
+Mercenaries from the eastern
+kingdom of Bern.
+[0541]
+Mercenary knights of Ilia.
+[0542]
+Brigands roaming the mountains
+in this area.
+[0543]
+Mercenaries from the eastern
+kingdom of Bern.
+[0544]
+Soldiers from the western
+kingdom of Etruria.
+[0545]
+Thieves hunting for treasure.
+[0546]
+Soldiers from the western
+kingdom of Etruria.
+[0547]
+Mercenaries from the eastern
+kingdom of Bern.
+[0548]
+Pirates roaming the seas in this area.
+[0549]
+Knights of Ilia.
+[054A]
+Mercenaries from the eastern
+kingdom of Bern.
+[054B]
+Knights of Ilia.
+[054C]
+Brigands roaming the mountains
+in this area.
+[054D]
+Mercenary knights of Ilia.
+[054E]
+Knights of Ilia.
+[054F]
+Brigands roaming the mountains
+in this area.
+[0550]
+Knights of Ilia.
+[0551]
+Citizens living in Ilia.
+[0552]
+Thieves hunting for treasure.
+[0553]
+Mercenaries from the eastern
+kingdom of Bern.
+[0554]
+Mercenaries from the eastern
+kingdom of Bern.
+[0555]
+Mercenaries from the eastern
+kingdom of Bern.
+[0556]
+Thieves hunting for treasure.
+[0557]
+Soldiers defending Castle Idinna.
+[0558]
+Citizens who escaped from Castle Idinna.
+[0559]
+Brigands roaming the Western Isles.
+[055A]
+Soldiers from the western
+kingdom of Etruria.
+[055B]
+Nomadic warriors of Sacae.
+[055C]
+Mercenaries from the eastern
+kingdom of Bern.
+[055D]
+Warriors of the Djute clan following Bern.
+[055E]
+Mercenaries from the eastern
+kingdom of Bern.
+[055F]
+Nomadic warriors of Sacae.
+[0560]
+Mercenaries from the eastern
+kingdom of Bern.
+[0561]
+Soldiers from the western
+kingdom of Etruria.
+[0562]
+Nomadic warriors of Sacae.
+[0563]
+Thieves hunting for treasure.
+[0564]
+War Dragons created by Bern.
+[0565]
+Mercenaries from the eastern
+kingdom of Bern.
+[0566]
+War Dragons created by Bern.
+[0567]
+Brigands under the guise of mercenaries.
+[0568]
+Ostian soldiers helping with
+Roy's training.
+[0569]
+A noble attached to a ruling
+house. Has great potential.
+[056A]
+A promoted Lord bearing the title
+of the Champion of Elibe.
+[056B]
+Mounted knights with superior movement.
+[056C]
+Promoted Cavaliers with solid stats
+all around.
+[056D]
+Foot soldiers who use bows to attack
+enemies at a distance.
+[056E]
+Heavily armored knights who sacrifice
+movement for defense.
+[056F]
+Healers who use staves to aid their allies.
+Cannot attack.
+[0570]
+Thieves who pick locks and steal items
+with their clever fingers.
+[0571]
+Professional soldiers with rich combat
+experience. Balanced stats all around.
+[0572]
+Strong, sturdy fighters who wield axes
+to crush their opponents.
+[0573]
+Mounted healers who use staves.
+Cannot attack.
+[0574]
+Swordfighters who launch critical hits
+with their speed and skill.
+[0575]
+Students of Anima magic whose spells
+penetrate even the toughest armor.
+[0576]
+Wandering nomads who snipe their enemies
+from horseback.
+[0577]
+Wild mountaineers who wield axes.
+Can cross mountains.
+[0578]
+Seafaring pirates who wield axes.
+Can cross water.
+[0579]
+Magicians who wield ancient dark magic.
+Stronger but slower than magi.
+[057A]
+Bards who play music to support their
+allies. Cannot attack.
+[057B]
+Entertainers who dance to support their
+allies. Cannot attack.
+[057C]
+Knights who mount pegasi to ride
+the winds. Weak against arrows.
+[057D]
+Knights who fly through the sky on their
+wyverns. Weak against arrows and magic.
+[057E]
+Famed heroes who lead the battle with
+their charisma and skill.
+[057F]
+Powerful warriors whose unmatched
+strength crushes everything standing
+before them.
+[0580]
+Experienced Shamans who have mastered
+the dark arts.
+[0581]
+Promoted Troubadours who both attack
+and support with magic from horseback.
+[0582]
+Seasoned Pegasus Knights with strong
+resistance who race through the skies.
+[0583]
+Masters of the sword with lightning speed
+who launch critical hits.
+[0584]
+Infamous rampagers with wild strength
+who launch critical hits.
+Can cross mountains and water.
+[0585]
+Magi whose diligent studies have allowed
+them use of both staves and magic.
+[0586]
+Enlightened clerics who use heavenly
+magic to smite their foes. 
+[0587]
+Experienced Nomads who attack with bows
+and swords.
+[0588]
+Experienced Archers with pinpoint
+accuracy.
+[0589]
+Proud Knights who can both deal and take
+heavy amounts of damage.
+[058A]
+Rulers of the sky who excel in both
+offense and defense.
+[058B]
+The talented and powerful king of Bern
+with high stats all around.
+[058C]
+"Humans not human" who have a sinister
+atmosphere about them.
+[058D]
+A powerful, beautiful, and tragic Dragon who
+rips the skies and earth with her breath
+and claws. 
+[058E]
+Ordinary people with no ability to fight.
+[058F]
+A transporter to keep the army's
+Inventory in check. Cannot fight.
+[0590]
+Ordinary soldiers with no special
+abilities worth noting. 
+[0591]
+The queen of the New Kingdom of Bern
+with high stats all around. 
+[0592]
+The unit's class.
+Each class possesses unique traits.
+
+[0593]
+Unit level.
+The max level is 20.
+[0594]
+Experience points gained. Gain
+100 points to earn a new level.
+[0595]
+Unit hit points. The unit
+dies if this reaches 0.
+[0596]
+Weapon name and type.
+[0597]
+Amount of damage this weapon
+causes. Affected by defenses.
+[0598]
+Chance that the attack will hit.
+Affected by terrain and enemies.
+[0599]
+Weapon range. A range of 1
+can only hit adjacent spaces.
+[059A]
+Chance the weapon will strike a
+critical blow, doing triple damage.
+[059B]
+Ability to dodge enemy attacks.
+Affects enemy's hit chance.
+[059C]
+Strength. The higher the number,
+the more damage you inflict.
+[059D]
+Magic power. The higher power,
+the more damage inflicted.
+[059E]
+Skill. A higher number
+improves hit rate and critical.
+[059F]
+Speed. This affects both
+evasion and attacks.
+[05A0]
+Defense. Reduces damage
+from physical weapons.
+[05A1]
+Magical resistance. Reduces
+damage from magic attacks.
+[05A2]
+Constitution.
+Affects speed loss and rescue.
+[05A3]
+Max rescuing constitution. Units
+with lower CON can be rescued.
+[05A4]
+Movement. Normal distance
+unit can move.
+[05A5]
+Traveler. Name of unit with whom
+this unit is traveling.
+[05A6]
+Luck.
+Determines dodge and critical reduction.
+[05A7]
+Elemental affinity.
+[05A8]
+Normal status.
+[05A9]
+Ooooog...
+Poison slowly steals HP.
+[05AA]
+Zzzz... Zzzzz...
+Sleeping now... Can't move...
+[05AB]
+Rarrrrr! Attack the nearest
+unit, be it friend or foe!
+[05AC]
+......
+Magic and staves are unusable.
+[05AD]
+An ordinary sword.
+[05AE]
+A very large and powerful blade.
+[05AF]
+A heavy but powerful sword.
+[05B0]
+A very large and powerful blade.
+[05B1]
+A very sharp and expensive sword.
+[05B2]
+A very large and powerful blade.
+[05B3]
+A light but weak sword.
+[05B4]
+Poisons upon impact.
+[05B5]
+2x attack.
+[05B6]
+Magic based attack.
+[05B7]
++5 to STR.
+[05B8]
+Effective against armors.
+[05B9]
+Strong against armored
+or horseback units.
+[05BA]
+High critical rate.
+[05BB]
+Effective against lances.
+[05BC]
+Myrmidon, SwordMaster use only.
+[05BD]
++5 to DEF and RES.
+[05BE]
+An ordinary spear.
+[05BF]
+A heavy but powerful spear.
+[05C0]
+A very strong and expensive spear.
+[05C1]
+A light but weak spear.
+[05C2]
+Poisons upon impact.
+[05C3]
+2x attack.
+[05C4]
+Ranged spear.
+[05C5]
++5 to SKL.
+[05C6]
+Effective against horses.
+[05C7]
+High critical rate.
+[05C8]
+Strong against axes.
+[05C9]
+An ordinary axe.
+[05CA]
+A heavy but powerful axe.
+[05CB]
+A very strong and expensive axe.
+[05CC]
+A poisoned axe.
+[05CD]
+An axe that hits twice.
+[05CE]
+Axe that can be thrown from a distance.
+[05CF]
++5 to DEF.
+[05D0]
+Strong against armors.
+[05D1]
+High critical rate.
+[05D2]
+Effective against swords.
+[05D3]
+Can hurt user.
+[05D4]
+Effective against mounted units.
+[05D5]
+An ordinary bow.
+[05D6]
+A strong bow.
+[05D7]
+A very powerful bow.
+[05D8]
+Poisons upon impact.
+[05D9]
+Bow with strong critical rate.
+[05DA]
+2x attack.
+[05DB]
+Bow used by nomads.
+[05DC]
+Can attack from distance.
+[05DD]
++5 to SPD.
+[05DE]
+Ballista for attacking faraway enemies.
+[05DF]
+Has more range than a regular Ballista.
+[05E0]
+Ballista with a high critical rate.
+[05E1]
+Burning flames.
+[05E2]
+Lightning bolt.
+[05E3]
+Blasts of ice.
+[05E4]
+Blazing flames.
+[05E5]
+Wind that tears through wings.
+[05E6]
+Lightning storm. Long range.
+[05E7]
+Long range anima magic.
+[05E8]
+Adds +5 to LUK.
+[05E9]
+Heaven's wrath.
+[05EA]
+Heaven's judgment.
+[05EB]
+Heavenly punishment. Long range.
+[05EC]
+Adds +5 to RES.
+[05ED]
+Creeping darkness.
+[05EE]
+Restores HP upon hitting enemy.
+[05EF]
+Reduces HP to 1.
+[05F0]
+Freezing flames.
+[05F1]
++5 to MGC.
+[05F2]
+HP recovery.
+[05F3]
+HP recovery.
+[05F4]
+Full HP recovery.
+[05F5]
+Distanced HP recovery.
+[05F6]
+Heals unit HP in range.
+[05F7]
+Warps a unit to another
+location.
+[05F8]
+Brings unit to your
+side.
+[05F9]
+Restores status.
+[05FA]
+Silences enemy.
+[05FB]
+Puts an enemy to sleep.
+[05FC]
+Lights up area.
+[05FD]
+Repairs a weapon.
+[05FE]
+Makes closed areas visible.
+[05FF]
+Berserks an enemy.
+[0600]
+Unlocks a door.
+[0601]
+Adds +7 MGC DEF.
+[0602]
+Transforms Mamkute into
+a Fire Dragon.
+[0603]
+Transforms Fa into
+a Divine Dragon.
+[0604]
+Transforms user into
+a Dark Dragon.
+[0605]
+Adds SKL.
+[0606]
+Adds LUK.
+[0607]
++7 to HP.
+[0608]
+Adds DEF.
+[0609]
+Adds STR.
+[060A]
+Adds SPD.
+[060B]
+Adds resistance.
+[060C]
+Adds movement.
+[060D]
+Adds constitution.
+[060E]
+Promotes Myrmidons,
+Mercenaries and Fighters.
+[060F]
+Promotes Cavaliers
+and Armors.
+[0610]
+Promotes Archers
+and Nomads.
+[0611]
+Promotes flying
+units.
+[0612]
+Promotion item for
+magical units.
+[0613]
+Opens chest.
+[0614]
+Opens door.
+[0615]
+[.......][LoadOverworldFaces][OpenMidRight][FastPrint]What!
+That's awful![A]
+[OpenMidLeft][CloseSpeechFast]But Zephiel was very patient.[A]
+He said that he did not mind even if
+he did not gain the throne.[A]
+But the people around us, who were
+looking forward to Zephiel's ability[A]
+to be a good king, would not allow
+anyone else to be the heir.[A]
+Pressured by the public, our father
+lost his patience at last, and...[A]
+[OpenMidRight][FastPrint]Decided to kill King Zephiel...?[A]
+[OpenMidLeft][CloseSpeechFast]At a banquet, our father gave Zephiel
+a poisoned drink from his own hands.[A]
+And that was the first and last cup
+that Zephiel ever took from our father.[A]
+After returning to his room, Zephiel
+started to get sick.[A]
+For 10 days and nights, Zephiel lingered
+between life and death.[A]
+But Murdock, Zephiel's teacher and
+loyal general, saved his life.[A]
+[OpenMidRight]... The former king never did
+anything after that?[A]
+[OpenMidLeft]No...[A]
+But I have heard that he had plans
+to get rid of Murdock and Zephiel's[A]
+mother as traitors.[A]
+He was scheming to murder them all
+along with Zephiel.[A]
+After hearing that, Zephiel made
+believe he was dead.[A]
+Our father then checked the coffin to
+confirm Zephiel's death.[A]
+At that moment, Zephiel rose up from
+the coffin and...with his sword...[A]
+[OpenMidLeft][CloseSpeechFast][ToggleMouthMove]I was but a child then, so
+naturally I could not have[A]
+understood what was going on.[A]
+All I knew is that after our father 
+died, Zephiel never smiled again.[A]
+Until then, he was strict at times,
+but always a kind and loving brother[A]
+to me. So...[A]
+[OpenMidRight][NormalPrint]Princess..[A]
+[OpenMidLeft][CloseSpeechFast]So from that moment forward,
+I knew I had to take action.[A]
+[OpenMidRight][FastPrint]I... see...[A][LoadOverworldFaces]
+[OpenMidLeft][CloseSpeechFast]... But now Zephiel is at a place
+where he can never hear me.[A]
+Roy, please...
+Please stop him.[A]
+Please stop him from inflicting
+pain and suffering to the people[A]
+of Bern and the people of other
+of other nations.[A]
+[OpenMidRight]Even if it may resolve to
+the blade?[A]
+[OpenMidLeft]...I have made my resolve when
+I entrusted this task to you.[A]
+[OpenMidRight]I see.[A]
+You have my word and loyalty,
+Princess Guinevere.[A]
+I swear to the Fire Emblem
+that I will stop King Zephiel![A]
+[0616]
+Thief use only.
+Opens doors and chests.
+[0617]
+Recovers HP.
+[0618]
+Full HP recovery.
+[0619]
+Adds RES.
+[061A]
+Clears fog.
+[061B]
+Heals poison.
+[061C]
+Secret shop access.
+[061D]
+Price of items are halved.
+[061E]
+Money.
+[061F]
+Powerful attack.
+[0620]
+Usable only by the King of Bern.
+[0621]
+Sword wielded by Al.
+[0622]
+Lance wielded by Gant.
+[0623]
+HP recovery.
+[0624]
+Effective against Dragons.
+[0625]
+Sell for 10000G.
+[0626]
+Sell for 5000G.
+[0627]
+Sell for 2500G.
+[0628]
+Deflects arrow bonus.
+[0629]
+Restores HP on impact.
+[062A]
+Doubles as ranged attack.
+[062B]
+Doubles as ranged attack.
+[062C]
+Full recovery to all units on map.
+[062D]
+Sword mastery level.
+[062E]
+Lance mastery level.
+[062F]
+Axe mastery level.
+[0630]
+Bow mastery level.
+[0631]
+Staff mastery level.
+[0632]
+Anima mastery level.
+[0633]
+Light mastery level.
+[0634]
+Dark mastery level.
+[0635]
+Support conversations.
+[0636]
+The name of the unit
+to whom you can talk.
+[0637]
+End the turn. Be sure you're
+done before you select this.
+[0638]
+Choose to attack the enemy.
+[0639]
+Use the magic stored
+within a staff.
+[063A]
+Revitalizes unit
+so that they may move again.
+[063B]
+Revitalizes unit
+so that they may move again.
+[063C]
+Shhh...
+(Steal enemy items!)
+[063D]
+Choose to rescue the unit.
+[063E]
+Choose to put unit down.
+[063F]
+Gives the rescued unit to an adjacent unit.
+[0640]
+Choose to take the held unit.
+[0641]
+Attempts to make a truce with the enemy leader.
+[0642]
+The name of the unit
+to whom you can talk.
+[0643]
+Enter the village.
+[0644]
+Captures the enemy defense point.
+[0645]
+A door.
+Use a key to open it.
+[0646]
+Lowers drawbridge. Uses one key.
+[0647]
+A chest.
+Use a key to open it.
+[0648]
+Choose to enter the weapon shop.
+[0649]
+Choose to enter the item shop.
+[064A]
+Congratulations! Welcome to the secret shop.
+[064B]
+Enters the arena to fight for money.
+[064C]
+Equip/Use unit items.
+[064D]
+Trade with the unit.
+[064E]
+Enter storage.
+[064F]
+Attacks with a bow.
+[0650]
+Uses ballista to attack faraway enemies.
+[0651]
+Equips item.
+[0652]
+Uses item.
+[0653]
+Discards item.
+[0654]
+Views unit list.
+[0655]
+Views chapter data.
+[0656]
+Change game options in here.
+[0657]
+Suspend playing time.
+[0658]
+End Player Phase.
+[0659]
+Choose units for
+upcoming battle.
+[065A]
+Manage inventory.
+[065B]
+Views detailed information on units.
+[065C]
+Save your progress.
+[065D]
+Manage units on map.
+[065E]
+Start the chapter.
+[065F]
+Give an item
+to another unit.
+[0660]
+Throw away items.
+[0661]
+Go through
+Merlinus's storage.
+[0662]
+Manage items.
+[0663]
+Buy Items
+[0664]
+Deposit item in storage.
+[0665]
+Remove item from storage.
+[0666]
+Name of the unit.
+[0667]
+Current max HP.
+[0668]
+Current level.
+[0669]
+Name of the weapon.
+[066A]
+Person whom can support with
+this character.
+[066B]
+This unit can't fight.
+[066C]
+Configuration for
+battle scene prep.
+[066D]
+There is no message here.
+[066E]
+HP recovery.
+[066F]
+HP recovery.
+[0670]
+Full HP recovery.
+[0671]
+Distanced HP recovery.
+[0672]
+Heals all allies near you.
+[0673]
+Warp unit to another
+side of the map.
+[0674]
+Transport unit to
+your side.
+[0675]
+Status restore.
+[0676]
+Silence enemy.
+[0677]
+Put an enemy to
+sleep.
+[0678]
+Add visibility in fog.
+[0679]
+Repair weapons.
+[067A]
+Views areas without visibility.
+[067B]
+Berserk enemy.
+[067C]
+Unlock door.
+[067D]
+Adds MGC DEF.
+[067E]
+Full recovery to all
+units on map.
+[067F]
+Mamkute only.
+[0680]
+Transforms Fa into
+Divine Dragon.
+[0681]
+Idoun only.
+[0682]
+Boosts SKL.
+[0683]
+Boosts LUK.
+[0684]
++7 to HP.
+[0685]
+Adds DEF.
+[0686]
+Boosts power.
+[0687]
+Boosts SPD.
+[0688]
+Adds RES.
+[0689]
+Adds movement.
+[068A]
++2 to CON.
+[068B]
+Promotes heroic units.[A]
+
+[068C]
+Promote Cavalier
+or Armor.
+[068D]
+Promotes Archer
+or Nomad.
+[068E]
+Promotes winged
+units.
+[068F]
+Promotes magical unit.
+[0690]
+Opens chest.
+[0691]
+Opens door.
+[0692]
+Opens bridge.
+[0693]
+Thieves can open any
+door with this key.
+[0694]
+Restores HP.
+[0695]
+Full recovery.
+[0696]
+Adds RES.
+[0697]
+Lights up area.
+[0698]
+Heals poison.
+[0699]
+Access to secret shop.
+[069A]
+Half price at shop.
+[069B]
+Sell for 50G.
+[069C]
+Amount of time played.
+[069D]
+Turn number.
+[069E]
+Army title.
+[069F]
+Unit amount.
+[06A0]
+Leader of the
+respective army.
+[06A1]
+Mission objective.
+[06A2]
+Amount of remaining gold.
+[06A3]
+Talk with augury.
+[06A4]
+The weapon/spell you are using.
+[06A5]
+The weapon/spell you are using.
+Deals extra damage.
+[06A6]
+Damage and hit rate are increased because
+your weapon has the weapon triangle advantage.
+
+[06A7]
+Your weapon has the weapon triangle advantage,
+and will deal extra damage.
+[06A8]
+Damage and hit rate are decreased because
+your weapon has the weapon triangle disadvantage.
+[06A9]
+Your weapon has the weapon triangle disadvantage,
+but will deal extra damage.
+[06AA]
+Amount of damage unit will do.
+determined by STR and DEF and double
+Attack is determined by SPD and LUK.
+
+[06AB]
+Unit's speed. Determines if unit
+will dodge and or double attack.
+
+[06AC]
+Unit's defense.
+[06AD]
+Unit Selection
+[06AE]
+Pick Units
+[06AF]
+Trade
+[06B0]
+Begin
+[06B1]
+Save
+[06B2]
+Map
+[06B3]
+Trade
+[06B4]
+Discard
+[06B5]
+Storage
+[06B6]
+Item
+[06B7]
+Augury
+[06B8]
+Army Stats
+[06B9]
+Shop
+[06BA]
+Play Chapter
+[06BB]
+Trade an item to another!
+[06BC]
+Select unit to trade to!
+[06BD]
+Throw away useless items!
+[06BE]
+Look into your storage!
+[06BF]
+Look into the items of everyone!
+[06C0]
+Purchase basic weaponry from here!
+[06C1]
+Unit needs a weapon.
+[06C2]
+Unit cannot fight without any usable weapons.
+[06C3]
+Save file is still in game
+play. This may erase progress.
+[06C4]
+You must create a
+team in the arena
+before proceeding.
+[06C5]
+Build your team for arena battle.
+[06C6]
+Fight against yourself...
+[06C7]
+or against others with your own team.
+[06C8]
+Records kept for certain teams.
+[06C9]
+Standings for each team.
+[06CA]
+Configuration.
+[06CB]
+Make a team.
+[06CC]
+Look at the units within the team.
+[06CD]
+Change order of teams.
+[06CE]
+Delete a team.
+[06CF]
+Go back to menu.
+[06D0]
+Check team record.
+[06D1]
+Choose your team.
+[06D2]
+Choose your opponents team.
+[06D3]
+Standings ranked from best to worst.
+[06D4]
+Setting for hiding your units
+[06D5]
+Choose the victory condition for a link battle.
+[06D6]
+Equips every unit with basic weaponry.
+[06D7]
+Standings ranked from best to worst.
+[06D8]
+Please wait...
+[06D9]
+Press Start to begin.
+[06DA]
+Here are the rules.
+[06DB]
+Choose your save file.
+[06DC]
+Use units within them.
+[06DD]
+Chooses who moves first.
+[06DE]
+You get the first move.
+[06DF]
+1P gets the first move.
+[06E0]
+2P gets the first move.
+[06E1]
+3P gets the first move.
+[06E2]
+4P gets the first move.
+[06E3]
+Are you sure you want to delete this file?
+[06E4]
+All changes will be reversed. Are you sure?
+[06E5]
+Points will now be distributed..
+[06E6]
+Destroyed.
+[06E7]
+The team surrendered.
+[06E8]
+Exiting because no damage will be done.
+[06E9]
+
+[06EA]
+
+[06EB]
+
+[06EC]
+
+[06ED]
+Makes unit movement speed normal.
+[06EE]
+Makes unit movement speed fast.
+[06EF]
+Boss of this trial map.
+[06F0]
+Support with a unit.
+[06F1]
+Finish.
+[06F2]
+Protect fliers from arrows.
+[06F3]
+Which rating do you want to
+see?[A]
+[06F4]
+All right!
+La la la...[A]
+[06F5]
+Wow! Amazing!
+You're doing perfectly![A]
+[06F6]
+Wow! You're doing perfectly![A]
+[06F7]
+You're doing really well![A]
+[06F8]
+Keep up the good work.[A]
+[06F9]
+You're doing pretty well.[A]
+[06FA]
+Not bad, not bad.[A]
+[06FB]
+Let's try a little harder, hm?[A]
+[06FC]
+...Well, that's it.[A]
+[06FD]
+Which rating to you wish to
+see?[A]
+[06FE]
+Very well. Allow me...[A]
+[06FF]
+[ToggleMouthMove].[.....].[.....].[.....].[.....].[.....].[.....][A]
+[0700]
+Very good! Perfect, in fact.[A]
+[0701]
+Very good! Perfect, in fact.[A]
+[0702]
+You are doing a splendid job.[A]
+[0703]
+You are doing very well.[A]
+[0704]
+You are doing fine.[A]
+[0705]
+Neither good nor bad.[A]
+[0706]
+Perhaps you should put in
+a little more effort.[A]
+[0707]
+...That is all.[A]
+[0708]
+Let's judge them all at once! 
+[0709]
+How fast are you progressing? 
+[070A]
+Are you winning? 
+[070B]
+Is everyone still alive? 
+[070C]
+Have you fought a lot? 
+[070D]
+Are you rich? 
+[070E]
+How strong are you? 
+[070F]
+Let's rate them all as a whole. 
+[0710]
+Let's see your progression speed. 
+[0711]
+Let's see how often you win battles. 
+[0712]
+Let's see if you have kept everyone alive. 
+[0713]
+Let's see the amount of experience you have. 
+[0714]
+Let's see how your funds are doing. 
+[0715]
+Let's see how strong your army is. 
+[0716]
+Overall 
+[0717]
+Length
+[0718]
+Battle Skill 
+[0719]
+Casualties 
+[071A]
+Experience 
+[071B]
+Funds 
+[071C]
+Power
+[071D]
+Tactics:
+[071E]
+Survival:
+[071F]
+EXP:
+[0720]
+Weapon:
+[0721]
+Time:
+[0722]
+Funds:
+[0723]
+Overall:
+[0724]
+Goal:
+[0725]
+Turn
+[0726]
+Money
+[0727]
+ Enemy
+[0728]
+Iron Sword
+[0729]
+Iron Blade
+[072A]
+Steel Sword
+[072B]
+Steel Blade
+[072C]
+Silver Sword
+[072D]
+Silver Blade
+[072E]
+Slim Sword
+[072F]
+Poison Sword
+[0730]
+Brave Sword
+[0731]
+Light Brand
+[0732]
+Durandal
+[0733]
+Armorslayer
+[0734]
+Rapier
+[0735]
+Killing Edge
+[0736]
+Lancereaver
+[0737]
+Wo Dao
+[0738]
+Sealed Sword
+[0739]
+Iron Lance
+[073A]
+Steel Lance
+[073B]
+Silver Lance
+[073C]
+Slim Lance
+[073D]
+Poison Lance
+[073E]
+Brave Lance
+[073F]
+Javelin
+[0740]
+Malte
+[0741]
+Horseslayer
+[0742]
+Killer Lance
+[0743]
+Axereaver
+[0744]
+Iron Axe
+[0745]
+Steel Axe
+[0746]
+Silver Axe
+[0747]
+Poison Axe
+[0748]
+Brave Axe
+[0749]
+Hand Axe
+[074A]
+Armads
+[074B]
+Hammer
+[074C]
+Killer Axe
+[074D]
+Swordreaver
+[074E]
+Devil Axe
+[074F]
+Halberd
+[0750]
+Iron Bow
+[0751]
+Steel Bow
+[0752]
+Silver Bow
+[0753]
+Poison Bow
+[0754]
+Killer Bow
+[0755]
+Brave Bow
+[0756]
+Short Bow
+[0757]
+Long Bow
+[0758]
+Miurgre
+[0759]
+Ballista
+[075A]
+Long Ballista
+[075B]
+Killer Ballista
+[075C]
+Fire
+[075D]
+Thunder
+[075E]
+Fimbulvetr
+[075F]
+Elfire
+[0760]
+Aircalibur 
+[0761]
+[OpenMidLeft]Still, I would not be able to create
+actual things like the Dark Dragon can.[A]
+[OpenMidRight]So you found Zephiel.[A]
+[OpenMidLeft]Right.[A]
+I found Zephiel and asked him,
+'Why did you break the Dark Dragon's[A]
+seal?'[A]
+Zephiel was an odd man.[A]
+He didn't seem to be the least bit
+surprised.[A]
+He looked me right back in the eye
+and asked me who I was.[A]
+After I told him that I was a Dragon,
+he started to smile mysteriously.[A]
+He then said,
+'My intentions are to give the[A]
+the world to your kind.'[A]
+[OpenMidRight][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidLeft]I cannot say that I fully trusted him,
+but he was still the Dark Dragon's[A]
+new master, so I decided to work
+with him.[A]
+Zephiel then ordered the Dark Dragon to
+lead the world in the place of foolish[A]
+humans.[A]
+[OpenMidRight]But Zephiel is dead.
+What is the Dark Dragon doing now?[A]
+[OpenMidLeft]Although he is gone,
+the Dark Dragon resides in the[A]
+chamber behind me.[A]
+She is waiting for the chance
+to free the world.[A]
+[OpenMidRight]But her master is gone!
+Are you her new master?[A]
+[OpenMidLeft]I did not need to become her master.[A]
+She was commanded to carry out
+Zephiel's orders even if he were[A]
+to die.[A]
+Idoun has absolute obedience to
+her master.[A]
+She will make sure that humans are
+banished from this land.[A]
+[OpenMidRight]What?[A]
+Her heart was destroyed,
+and now she's bound to orders[A]
+given by a person long dead?[A]
+[OpenMidLeft]Do you feel pity, like Hartmut
+did?[A]
+...You humans are truly difficult
+to understand.[A]
+But let me tell you this.[A]
+No matter how hard you try, humans
+and Dragons will never be able to[A]
+live in harmony.[A]
+The gap between species is
+impossible to fill.[A]
+[OpenMidRight]That's not true![A]
+I know a place where Dragons and humans
+are living together.[A]
+Dragons and humans were both brought
+into the same world.[A]
+They can, and will, understand each
+other![A]
+[OpenMidLeft]Dragons and humans,
+living together in harmony?[A]
+Rubbish.[A]
+I have no intention of
+listening to such nonsense.[A]
+Now, enter my domain.
+Let us see who has more power![A]
+[0762]
+Bolting
+[0763]
+Forblaze
+[0764]
+Lightning
+[0765]
+Divine
+[0766]
+Purge
+[0767]
+Aureola
+[0768]
+Flux
+[0769]
+Nosferatu
+[076A]
+Eclipse
+[076B]
+Fenrir
+[076C]
+Apocalypse
+[076D]
+Heal
+[076E]
+Mend
+[076F]
+Recover
+[0770]
+Physic
+[0771]
+Fortify
+[0772]
+Warp
+[0773]
+Rescue
+[0774]
+Restore
+[0775]
+Silence
+[0776]
+Sleep
+[0777]
+Torch
+[0778]
+Hammerne
+[0779]
+
+[OpenMidRight]It didn't die?[A]
+[OpenMidLeft]Yes, apparently the sword reacted to
+its wielder's feelings and changed its[A]
+power accordingly.[A]
+[OpenMidRight]So Hartmut didn't want to kill
+it, so the Sword of Seals[A]
+reacted to his emotions and only[A]
+knocked the Dark Dragon unconscious?[A]
+[OpenMidLeft]I understand that Hartmut did know a
+little bit about the Dark Dragon.[A]
+And then seeing her as the little girl
+Idoun, he must have felt pity for her.[A]
+It is another emotion that we Dragons
+cannot comprehend.[A]
+[OpenMidRight]Pity...[A]
+[OpenMidLeft]And thus at the bottom of his heart
+he didn't want to kill her.[A]
+In my opinion, I would never leave something
+that would be a danger to me alive.[A]
+[OpenMidRight]So Hartmut's heart
+changed the sword's strength...[A]
+[OpenMidLeft]Hartmut persuaded his comrades and decided
+to seal the Dark Dragon.[A]
+He built a temple deep in the forests of
+Bern and sealed Idoun away using the[A]
+sword and a gemstone.[A]
+They are what you call the Sword of
+Seals and the Fire Emblem.[A]
+He then created a nation near the temple
+that would watch over and protect the seal[A]
+from being broken.[A]
+They are the ancestors of Zephiel.[A]
+[OpenMidRight]...How do you know all this?
+Were you watching?[A]
+[OpenMidLeft]No.[A]
+I had been deeply wounded, so I was
+leading a hidden life healing myself.[A]
+I heard the story about the seal
+from Zephiel.[A]
+Although he said that he read it in
+the ancient scrolls that are kept in[A]
+the court library.[A]
+[OpenMidRight]How did you meet Zephiel?[A]
+[OpenMidLeft]With him?[A]
+Hm... If you reach me,
+I will tell you.[A]
+It is not far now.[A]
+[077A]
+Berserk
+[077B]
+Unlock
+[077C]
+Barrier
+[077D]
+Flame Stone
+[077E]
+Divine Stone
+[077F]
+[OpenMidRight]But what about the time when
+you came to aid us in Ostia?[A]
+[OpenMidLeft]That event was an exception
+because Percival worked with me.[A]
+But now...[A]
+[OpenMidRight]Please don't worry yourself..[A]
+We can return to Lycia when we
+complete this mission anyway.[A]
+But may I ask you to take care
+of Lycia while we are away?[A]
+[OpenMidLeft]Of course.[A]
+You can leave the Lycia Alliance, and
+also Princess Guinevere, to me.[A][ClearFace]
+[OpenFarLeft][LoadFace][0x157]Roy...
+I may not go with you?[A]
+[OpenMidRight]The battles on these islands
+are likely to become slugfests.[A]
+You can never know what
+will happen.[A]
+I think you should hide in Etruria
+with protection from General Cecilia.[A]
+[SendToBack]
+[OpenLeft][LoadFace][0x134]Your Highness, please trust me.
+I understand your intentions of[A]
+suggesting a truce, and I also promised
+Roy that I would protect you.[A]
+Trust me, I will defend
+you at all costs.[A][SendToBack]
+[OpenFarLeft]...I understand.
+I apologize for being selfish.[A]
+Roy, I pray
+for your safety.[A]
+[OpenMidRight][ToggleSmile]Thank you, my Lady.
+I will pray for yours as well.[A]
+[0780]
+Secret Book
+[0781]
+Goddess Icon 
+[0782]
+Angelic Robe
+[0783]
+Dragonshield
+[0784]
+Energy Ring
+[0785]
+Speedwings
+[0786]
+Talisman
+[0787]
+Boots
+[0788]
+Body Ring
+[0789]
+Hero Crest
+[078A]
+Knight Crest
+[078B]
+Orion Bolt
+[078C]
+Elysian Whip
+[078D]
+Guiding Ring
+[078E]
+Chest Key
+[078F]
+Door Key
+[0790]
+[OpenMidRight][NormalPrint][ToggleMouthMove]......[A]
+[OpenMidLeft][LoadFace][0x157][CloseSpeechFast][ToggleMouthMove]I was but a child then, so
+naturally I could not have[A]
+understood what was going on.[A]
+All I knew is that after our father 
+died, Zephiel never smiled again.[A]
+Until then, he was strict at times,
+but always a kind and loving brother[A]
+to me. So...[A]
+[OpenMidRight][NormalPrint]Princess..[A]
+[OpenMidLeft][CloseSpeechFast]So from that moment forward,
+I knew I had to take action.[A]
+[OpenMidRight][FastPrint]I... see...[A][LoadOverworldFaces]
+[OpenMidLeft][CloseSpeechFast]... But now Zephiel is at a place
+where he can never hear me.[A]
+Roy, please...
+Please stop him.[A]
+Please stop him from inflicting
+pain and suffering to the people[A]
+of Bern and the people of other
+of other nations.[A]
+[OpenMidRight]Even if it may resolve to
+the blade?[A]
+[OpenMidLeft]... I have made my resolve when
+I entrusted this task to you.[A]
+[OpenMidRight]I see.[A]
+You have my word and loyalty,
+Princess Guinevere.[A]
+I swear to the Fire Emblem
+that I will stop King Zephiel![A]
+[0791]
+Lockpick
+[0792]
+Vulnerary
+[0793]
+Elixir
+[0794]
+Pure Water
+[0795]
+Torch
+[0796]
+Antitoxin
+[0797]
+Member Card
+[0798]
+Silver Card
+[0799]
+Gold
+[079A]
+Dark Breath
+[079B]
+Exaccus
+[079C]
+Al Sword
+[079D]
+Gant Lance
+[079E]
+Tina Staff
+[079F]
+Holy Maiden
+[07A0]
+Wyrmslayer
+[07A1]
+White Gem
+[07A2]
+Blue Gem
+[07A3]
+Red Gem
+[07A4]
+Delphi Shield
+[07A5]
+Runesword
+[07A6]
+Spear
+[07A7]
+Tomahawk
+[07A8]
+Percival's
+[07A9]
+Lord
+[07AA]
+Mercenary
+[07AB]
+[OpenMidRight][MoveRight]What!?
+Then Lycia would be in danger![A]
+[OpenFarRight][LoadFace][0x154]M-Master Roy![A]
+[OpenFarLeft]Your country could be in peril.[A]
+Are you sure you want to be wasting
+your time on a little island like this?[A]
+[OpenFarRight]He's right![A]
+If Bern wanted us to get away from
+Lycia so they could invade,[A]
+then we must go back at once...[A]
+[OpenRight]...I'm not going back.[A][SendToBack]
+[OpenFarRight]What!? Why!?[A][SendToBack]
+[OpenFarLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenRight]Right now, it's very difficult
+to judge what information[A]
+is true and what is false.[A]
+In times like this, the worst thing
+to do is to jump to information[A]
+presented in front of you and taking
+action based on it.[A]
+Sure, I'm worried about Lycia,
+but my father is there, and[A]
+General Cecilia is also watching
+over Lycia.[A]
+But only our army is on these islands.[A][SendToBack]
+[OpenFarRight]That's true, but...[A][SendToBack]
+[OpenRight]If we just leave without fully
+clearing out the bandits,[A]
+then what we did so far
+would all be a lie...[A]
+[OpenFarLeft]...I see you are blessed
+with a wise leader.[A]
+[OpenRight]What?[A]
+[OpenFarLeft]Master Roy,
+I am so sorry I tried you so.[A][SendToBack]
+[OpenFarRight]Tried us!?
+So what you said was a lie!?[A][SendToBack]
+[OpenFarLeft]I have not lied.[A]
+But I did present the rumor in such
+a way that you would easily[A]
+jump onto it.[A]
+But Master Roy kept his head.[A]
+I feel that I would like to join
+an individual like you.[A]
+Master Roy,
+please count me among your ranks.[A]
+[OpenRight]...I don't like the idea that
+you were testing us, but if[A]
+[ToggleSmile]you're willing to help,
+then we'll welcome you.[A]
+[OpenFarLeft][ToggleSmile]Then...[A]
+[OpenRight][ToggleSmile]Yes,
+please fight alongside us.[A]
+[ToggleSmile]Well then,
+back to business.[A]
+What can we do to help the
+people on these isles?[A]
+[OpenFarLeft]Head south...
+towards Caledonia.[A]
+[OpenRight]Why?[A]
+[OpenFarLeft]Castle Idina is located there,
+where the people being sent[A]
+to Mt.Ebrakhm are kept.[A]
+[OpenRight]All right,
+then let's save those people first![A][......]
+[OpenFarLeft]Master Roy,
+please take this sword.[A]
+[OpenRight]What is this?[A]
+[OpenFarLeft]It is a sword called the
+Wyrmslayer.[A]
+I hear it was created during the
+Scouring to use against Dragons.[A]
+[OpenRight]Wyrmslayer?[A]
+This isn't a Divine Weapon?[A]
+[OpenFarLeft]No.[A]
+The Divine Weapons can only be used
+by those who have skill equal to the[A]
+Eight Heroes.[A]
+But this weapon should be useable[A]
+by people of this army as well.[A]
+[07AC]
+Hero
+[07AD]
+Hero
+[07AE]
+Myrmidon
+[07AF]
+Myrmidon 
+[07B0]
+SwordMaster
+[07B1]
+SwordMaster
+[07B2]
+Fighter
+[07B3]
+Warrior
+[07B4]
+Knight
+[07B5]
+Knight
+[07B6]
+General
+[07B7]
+General
+[07B8]
+Archer
+[07B9]
+Archer
+[07BA]
+Sniper
+[07BB]
+Sniper
+[07BC]
+Priest
+[07BD]
+Sister
+[07BE]
+Bishop
+[07BF]
+Bishop
+[07C0]
+Mage
+[07C1]
+Mage
+[07C2]
+Sage
+[07C3]
+Sage
+[07C4]
+Shaman
+[07C5]
+Shaman
+[07C6]
+Druid
+[07C7]
+Druid
+[07C8]
+Cavalier
+[07C9]
+[OpenMidRight]It can make more Dragons...[A]
+[OpenMidLeft]The Dark Dragon can make more of
+its kind.[A]
+That would explain where Bern is
+getting all of its Dragons.[A]
+[OpenMidRight]That is possible.[A]
+[OpenMidLeft]Now, that being said...[A]
+I want to learn more about the Dragons.
+Let me accompany your travels.[A]
+[CloseSpeechFast]I wield Dark Magic...
+I'm sure I can be of some assistance.[A]
+[OpenMidRight]Of course.[A][Clear]
+We want to learn about the Dragons
+as well.[A]
+It may be dangerous, but if that's
+okay with you, you're welcome to[A]
+join us.[A]
+[07CA]
+Paladin
+[07CB]
+[OpenRight][FastPrint]Then they should be
+powerful allies.[A]
+[OpenMidLeft][CloseSpeechFast]Yes!
+Fortune is still with us,[A]
+Master Roy![A]
+But...
+I heard from the mercenary[A]
+knights that one of the Three
+Dragon Lords is coming here[A]
+with a legion of Dragon Knights.[A]
+If they should join the rebels,
+then our chances of defeating them[A]
+would become extremely slim.[A][SendToBack]
+[OpenFarRight][FastPrint]Roy... what are you going to do?[A][SendToBack]
+[OpenRight][CloseSpeechFast]...The Kingdom of Etruria
+might join us.[A][SendToBack]
+[OpenFarRight][FastPrint]Etruria?!
+Would that be possible?[A][SendToBack]
+[OpenRight]General Cecilia, the Sorcery General of
+Etruria was my teacher in battle arts[A]
+while I was studying in Ostia.[A]
+I have a feeling that she would be
+willing to join forces with us.[A]
+[OpenMidLeft]I would object, Master Roy![A]
+If we depend on Etruria to solve our
+own matters in Lycia, we'll be[A]
+sure to be their laughing
+stock for decades![A]
+[OpenRight]Yes, I know that...[A]
+But this is truly an important
+matter for Lycia.[A]
+I think that we should go
+for the safest and most[A]
+definite option rather than
+worry about the[A]
+consequences and do nothing,
+which would most likely[A]
+lead to the extinction of Lycia.[A]
+[OpenMidLeft]... Master Roy.[A]
+[OpenRight]We have to move quickly!
+I'll write a letter to General Cecilia.[A]
+Merlinus, I need you to get the letter
+to her as quickly as possible.[A]
+[OpenMidLeft]...Yes, Master Roy!
+You are right.[A]
+I shall send the letter to her[A]
+as soon as you are ready.[A]
+[OpenRight]Thanks.[A]
+All right, everybody!
+Let's retake Ostia![A]
+[07CC]
+Troubadour
+[07CD]
+Valkyrie
+[07CE]
+Nomad
+[07CF]
+Nomad
+[07D0]
+Nmd Trooper
+[07D1]
+Nmd Trooper
+[07D2]
+Peg Knight
+[07D3]
+Falco Knight
+[07D4]
+Dragon Rider
+[07D5]
+Dragon Rider
+[07D6]
+Dragon Lord
+[07D7]
+Dragon Lord
+[07D8]
+Soldier
+[07D9]
+Brigand
+[07DA]
+Pirate
+[07DB]
+Berserker
+[07DC]
+Thief
+[07DD]
+Thief
+[07DE]
+Bard
+[07DF]
+Dancer
+[07E0]
+Mamkute
+[07E1]
+ Mamkute
+[07E2]
+Fire Dragon
+[07E3]
+Divine Dragon
+[07E4]
+Dark Dragon
+[07E5]
+King
+[07E6]
+Civilian
+[07E7]
+Civilian
+[07E8]
+[OpenMidRight]Oh... I never thought about it
+from that perspective...[A]
+[LoadOverworldFaces][OpenFarLeft]There are rumors...
+that Roartz and Arcard are[A]
+actually tied with Bern.[A]
+[OpenMidRight][MoveRight]What?!
+Then Lycia would be in danger![A]
+[OpenFarRight][LoadFace][0x154]M-Master Roy![A]
+[OpenFarLeft]Your country would be in peril.[A]
+Are you sure you want to be wasting your
+time on a little island like this?[A]
+[OpenFarRight]He's right![.....]
+If Bern wanted to get us away from[A]
+Lycia, so that they could invade,
+then we must go back at once![A]
+[OpenRight]... I'm not going back.[A][SendToBack]
+[OpenFarRight]What?!
+Why?![A][SendToBack]
+[OpenFarLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenRight]Right now, it's very difficult to
+judge what information is true and[A]
+what is false.[A]
+In times like this, the worst thing to
+do is jump on information presented[A]
+in front of you and taking action
+upon it.[A]
+Sure, I'm worried about Lycia,
+but my father is there and[A]
+General Cecilia.[A]
+But only our army is on
+these islands.[A]
+[SendToBack]
+[OpenFarRight]That's true, but...[A][SendToBack]
+[OpenRight]If we just leave without fully
+clearing out the bandits, then[A]
+what we did would be a lie..[A]
+[OpenFarLeft]... I see you are blessed
+with a wise leader.[A]
+[OpenRight]What?[A]
+[OpenFarLeft]Master Roy, I am sorry I tried
+you so.[A]
+[OpenFarRight]Tried us?
+So what you said was a lie?![A]
+[OpenFarLeft]I have not lied.[A]
+But I did present the rumor in such a
+way that you would easily jump onto it.[A]
+I feel that I would join an individual
+like you.[A]
+Master Roy, please count me
+among your ranks.[A]
+[OpenRight]... I don't like the idea that
+you were testing us.[A]
+[ToggleSmile]But if you are willing to help,
+then I welcome you.[A]
+[OpenFarLeft][ToggleSmile]Then...[A]
+[OpenRight][ToggleSmile]Yes,
+please fight alongside us.[A]
+[ToggleSmile]Well then, back to business.
+What can we do to help the[A]
+people of the isles?[A]
+[OpenFarLeft]We must go to Djuto.
+The Etrurian capital is there.[A]
+We must crush it to fully
+liberate the people.[A]
+[OpenRight]All right!
+We're going to Djuto![A]
+We will fight for the people living
+there, and defeat our true enemy![A]
+
+[07E9]
+Child
+[07EA]
+Transporter
+[07EB]
+Master Lord
+[07EC]
+Roy
+[07ED]
+Clarine
+[07EE]
+Fa
+[07EF]
+Shin
+[07F0]
+Sue
+[07F1]
+Dayan
+[07F2]
+Dayan
+[07F3]
+Barth
+[07F4]
+Bors
+[07F5]
+Wendy
+[07F6]
+Douglas
+[07F7]
+Douglas
+[07F8]
+Wolt
+[07F9]
+Dorothy 
+[07FA]
+Klein
+[07FB]
+Saul
+[07FC]
+Ellen
+[07FD]
+Yodel
+[07FE]
+Yodel
+[07FF]
+Chad
+[0800]
+Karel
+[0801]
+Fir
+[0802]
+Rutger
+[0803]
+Dieck
+[0804]
+Oujay 
+[0805]
+Garret
+[0806]
+Alan
+[0807]
+Lance
+[0808]
+Percival
+[0809]
+Igrene
+[080A]
+Marcus
+[080B]
+Astol
+[080C]
+Ward
+[080D]
+Lot
+[080E]
+Bartre
+[080F]
+Bartre
+[0810]
+Lugh
+[0811]
+Lilina
+[0812]
+Hugh
+[0813]
+Niime
+[0814]
+Niime
+[0815]
+Ray
+[0816]
+Lalum
+[0817]
+Yuno
+[0818]
+Yuno 
+[0819]
+Tate
+[081A]
+Tate
+[081B]
+Tate
+[081C]
+Thany
+[081D]
+Zeiss
+[081E]
+Gale
+[081F]
+Elphin
+[0820]
+Cath
+[0821]
+Sophia
+[0822]
+Miledy
+[0823]
+Gonzales
+[0824]
+GonzalesB
+[0825]
+Noah
+[0826]
+Treck
+[0827]
+Zealot
+[0828]
+Echidna
+[0829]
+Echidna
+[082A]
+Cecilia
+[082B]
+Geese
+[082C]
+Geese
+[082D]
+Merlinus
+[082E]
+Eliwood
+[082F]
+Guinevere
+[0830]
+Bandit
+[0831]
+Damas
+[0832]
+Rude
+[0833]
+Slater
+[0834]
+Eric
+[0835]
+Dory
+[0836]
+Wagner
+[0837]
+Devias
+[0838]
+Leygance
+[0839]
+Scott
+[083A]
+Nord
+[083B]
+William
+[083C]
+Flaer
+[083D]
+Oro
+[083E]
+Robarts
+[083F]
+Aine
+[0840]
+Narshen
+[0841]
+Randy
+[0842]
+Rose
+[0843]
+Maggie
+[0844]
+Raeth
+[0845]
+Arcard
+[0846]
+Martel
+[0847]
+Sigune
+[0848]
+Roartz
+[0849]
+Murdock
+[084A]
+Brenya
+[084B]
+Zephiel
+[084C]
+Idoun
+[084D]
+Idoun
+[084E]
+Yahn
+[084F]
+Zinc
+[0850]
+Monke
+[0851]
+Gel
+[0852]
+Brigand
+[0853]
+Bern
+[0854]
+Bern
+[0855]
+Bern
+[0856]
+Bern
+[0857]
+Bern
+[0858]
+Laus
+[0859]
+Pirate
+[085A]
+Bandit
+[085B]
+Thria
+[085C]
+Rebel
+[085D]
+Bern
+[085E]
+Rebel
+[085F]
+Officials
+[0860]
+Thief
+[0861]
+Seihou
+[0862]
+Pirate
+[0863]
+Almar
+[0864]
+Robber
+[0865]
+Registrans
+[0866]
+Etruria
+[0867]
+Bandit
+[0868]
+Bandit
+[0869]
+Bandit
+[086A]
+Bern
+[086B]
+Etrurian
+[086C]
+Isle
+[086D]
+Bern
+[086E]
+Etruria
+[086F]
+Bern
+[0870]
+Bandit
+[0871]
+Etruria
+[0872]
+Bern
+[0873]
+Ilia
+[0874]
+Bandit
+[0875]
+Bern
+[0876]
+Etruria
+[0877]
+Thief
+[0878]
+Bern
+[0879]
+Bern
+[087A]
+Pirate
+[087B]
+Ilia
+[087C]
+Bern
+[087D]
+Ilia
+[087E]
+Brigand
+[087F]
+Ilia
+[0880]
+Fighter
+[0881]
+Bandit
+[0882]
+Ilia
+[0883]
+Citizen
+[0884]
+Thief
+[0885]
+Bern
+[0886]
+Bern
+[0887]
+Bern
+[0888]
+Thief
+[0889]
+Bandit
+[088A]
+Citizen
+[088B]
+Fighter
+[088C]
+Etruria
+[088D]
+Sacae
+[088E]
+Bern
+[088F]
+Djute
+[0890]
+Sacae
+[0891]
+Sacae
+[0892]
+Bern
+[0893]
+Etruria
+[0894]
+Sacae
+[0895]
+Bern
+[0896]
+Mamkute
+[0897]
+Bern
+[0898]
+WarDragon
+[0899]
+Bandit
+[089A]
+Henning
+[089B]
+Scollan
+[089C]
+Grero
+[089D]
+Ohtz
+[089E]
+Teck
+[089F]
+Thoril
+[08A0]
+Brakul
+[08A1]
+Kudoka
+[08A2]
+Marral
+[08A3]
+Kabul
+[08A4]
+Chan
+[08A5]
+Pereth
+[08A6]
+Bandit
+[08A7]
+Bern
+[08A8]
+Bern
+[08A9]
+Bern
+[08AA]
+Bern
+[08AB]
+Windam
+[08AC]
+Duelist
+[08AD]
+Broken Wall
+[08AE]
+Morgan
+[08AF]
+Hector
+[08B0]
+Bors
+[08B1]
+Commander
+[08B2]
+Commander
+[08B3]
+Klein's
+[08B4]
+Tate 's
+[08B5]
+Bandit
+[08B6]
+Animation
+[08B7]
+Terrain
+[08B8]
+Unit
+[08B9]
+Combat
+[08BA]
+Help
+[08BB]
+AutoCursor
+[08BC]
+Text Speed
+[08BD]
+Game Speed
+[08BE]
+BGM
+[08BF]
+Sound
+[08C0]
+Window Color
+[08C1]
+Change window color.
+[08C2]
+Autoend Turns
+[08C3]
+Unit Animation
+[08C4]
+Show animation without backgrounds.
+[08C5]
+Show animation with backgrounds.
+[08C6]
+Turn battle animation off.
+[08C7]
+Set animation for each unit manually.
+[08C8]
+Set unit movement speed.
+[08C9]
+Set unit movement speed(fast).
+[08CA]
+Set message speed.
+[08CB]
+Set message speed.
+[08CC]
+Set message speed.
+[08CD]
+Autoscroll.
+[08CE]
+Set Terrain Window Display
+[08CF]
+Show normal unit window.
+[08D0]
+Show unit window with tail.
+[08D1]
+Turn window off.
+[08D2]
+Show basic Combat Info window.
+[08D3]
+Show detailed Combat Info window.
+[08D4]
+Off.
+[08D5]
+Removes tips.
+[08D6]
+Aligns cursor with lord on turn
+[08D7]
+Set automatic turn end.
+[08D8]
+Music on/off.
+[08D9]
+Sound on/off.
+[08DA]
+Window color.
+[08DB]
+Sets enemy AI level.
+[08DC]
+Sets allies' personal colors.
+[08DD]
+ON
+[08DE]
+OFF
+[08DF]
+1
+[08E0]
+2
+[08E1]
+3
+[08E2]
+4
+[08E3]
+Slow
+[08E4]
+Norm
+[08E5]
+Fast
+[08E6]
+Max
+[08E7]
+Solo
+[08E8]
+Strat
+[08E9]
+ Det
+[08EA]
+Panel
+[08EB]
+ Burst
+[08EC]
+Roy, a young noble of Pherae.
+A swordfighter on an important mission.
+[08ED]
+Mounted knights with superior movement.
+Well balanced for speed, defense, & attack.
+[08EE]
+A title given to cavaliers whose life have
+been dedicated to the cause of justice.
+[08EF]
+Lightly armored warriors armed with bows.
+Can attack from a distance.
+[08F0]
+Heavily armored knights. Superior defense
+outweighs his poor movement and speed.
+[08F1]
+Wielders of sacred staves that aid allies.
+Cannot use weapons and cannot fight.
+[08F2]
+Rogues and fortune-hunters. Possess
+weak attacks but have many other skills.
+[08F3]
+Professional soldiers-for-hire. Well
+balanced, with superior abilities all around.
+[08F4]
+Axe-wielding powerhouses whose
+wild fighting results in poor defenses.
+[08F5]
+Mounted maidens whose sacred staves aid
+allies. High movement. Can't attack.
+[08F6]
+Swordsmen from the eastern lands.
+Specialized in swift killing strokes.
+[08F7]
+Mages schooled in anima magic. Bypass
+most defenses but weak against weapons.
+[08F8]
+Nomads of the eastern plains. Skilled in
+horseback archery. Incredibly swift.
+[08F9]
+Mighty axefighters especially skilled
+in mountain combat.
+[08FA]
+Axe-wielding privateers trained to
+fight on the high seas.
+[08FB]
+A master of elder black magic.
+Very powerful but very slow as well.
+[08FC]
+Musicians whose songs inspire
+allies. Cannot use weapons or attack.
+[08FD]
+Dancers whose grace soothes allies.
+Cannot use weapons or attack.
+[08FE]
+Knights who soar the skies on pegasi.
+Strong against magic. Weak against bows.
+[08FF]
+Knights who rule the skies from wyvern-
+back. Vulnerable only to bows and magic.
+[0900]
+The finest of all mercenary warriors.
+Expert in all fields of combat.
+[0901]
+A title awarded to battle-tested warriors.
+The strongest of all fighters.
+[0902]
+A title received by shamans who focus
+their powers toward mastering dark arts.
+[0903]
+A title given to the finest troubadours.
+Wields sacred magic to aid allies.
+[0904]
+A title bestowed upon skilled pegasus
+knights. Superb speed and magic resistance.
+[0905]
+Masters of the blade who cut
+their foes down with ease.
+
+[0906]
+A title for those who live to fight. Strong in
+mountains or at sea. Skilled in killing blows.
+[0907]
+A title given to advanced mages. They wield
+magic and can carry rods.
+[0908]
+A title given to monks who have attained
+enlightenment. Wields magic for offense.
+[0909]
+A title earned by combat-hardened nomads.
+Sword-swinging, arrow-flinging warriors.
+[090A]
+A title won by veteran archers. None can
+match their skill with the bow.
+[090B]
+A title earned by seasoned knights.
+Excellent offensive and defensive skills.
+[090C]
+A title earned by only truly skilled
+wyvern riders. Well-balanced warrior.
+[090D]
+The king of Bern, Lord Zephiel.
+A man devoted to his cause.
+
+[090E]
+Mysterious people who can turn into
+a dragon with use of their stones.
+[090F]
+Take the Throne
+
+[0910]
+Take the Throne
+
+[0911]
+Take the Throne
+
+[0912]
+Take the Throne
+
+[0913]
+Take the Throne
+
+[0914]
+Take the Throne
+
+[0915]
+Take the Throne
+
+[0916]
+Take the Throne
+
+[0917]
+Defeat Leygance
+
+[0918]
+Defeat Henning
+
+[0919]
+Take the throne
+
+[091A]
+Take the throne
+
+[091B]
+Take the throne
+
+[091C]
+Take the throne.
+
+[091D]
+Take the throne
+
+[091E]
+Take the throne
+
+[091F]
+Take the throne
+
+[0920]
+Take the throne
+
+[0921]
+Take the throne
+
+[0922]
+Take the throne
+
+[0923]
+Take the throne
+
+[0924]
+Take the throne
+
+[0925]
+Take the throne
+
+[0926]
+Take the throne
+
+[0927]
+Take the throne
+
+[0928]
+Take the throne
+
+[0929]
+Take the throne
+
+[092A]
+Take the throne
+
+[092B]
+Take the throne
+
+[092C]
+Take the throne
+
+[092D]
+Take the throne
+
+[092E]
+Take the throne
+
+[092F]
+Take the throne
+
+[0930]
+Take the throne
+
+[0931]
+Take the throne
+
+[0932]
+Take the throne
+
+[0933]
+Take the throne
+
+[0934]
+Defeat Yahn!
+
+[0935]
+Defeat Idoun!
+
+[0936]
+Build3
+
+[0937]
+Bern surrendered.[A]
+[0938]
+Roy traversed underground passageway that
+the Eight Heroes used to make their way[A]
+to the Dragon Temple.[A]
+[0939]
+However, Brenya, the last remaining
+Dragon Lord of Bern, stood before him.[A]
+[093A]
+Bern as a nation was gone,
+but its spirit was[A]
+[093B]
+not dead yet...[A]
+[093C]
+Roy had a heavy heart at
+having to fight these ghosts...[A]
+[093D]
+Etruria
+[093E]
+Etruria was the other powerful kingdom
+along with Bern. After debating about[A]
+[093F]
+about Guinevere's and Roy's position,
+the Etrurian Court decided that they[A]
+[0940]
+had no reason to attack Bern as they
+had not suffered a direct offense.[A]
+[0941]
+Guinevere was to stay under Etrurian
+Protection at the Capital of Aquleia,[A]
+[0942]
+and the Lycia Alliance Army was to be
+an independent squad under the Etrurian[A]
+[0943]
+military. To test his worth, Etruria
+sent Roy to the Western Isles, where[A]
+[0944]
+his mission was to rid the islands of
+the bandits terrorizing the people.[A]
+[0945]
+The Western Isles is an archipelago
+under Etrurian protection lying to[A]
+[0946]
+the west of the mainland. Many
+mining corporations have sprouted up[A]
+[0947]
+trying to monopolize the rich minerals
+that lie in the islands' soil. However,[A]
+the riches attracted many bandits, and the
+people lived in constant fear of them...[A]
+[0948]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x14D]
+[OpenMidRight][FastPrint][ToggleSmile]Have you not found that bard
+of the resistance force?[A]
+[OpenMidLeft][CloseSpeechFast]We are still searching
+for him, my lord.[A]
+[OpenMidRight][FastPrint]And?[A]
+[OpenMidLeft][CloseSpeechFast]It appears he has hidden
+himself in a village on the[A]
+outskirts of the castle...[A]
+[OpenMidRight][CloseSpeechFast]The resistance group is
+just another band without[A]
+that Elphin supporting them
+with his brains.[A]
+I don't care what happens to
+the village, just find him![A]
+[OpenMidLeft][NormalPrint]Yes, my lord.[A][ClearFace]
+[OpenMidLeft][LoadFace][0x12E][OpenMidRight][CloseSpeechFast][ToggleSmile]Ah, I apologize for keeping
+you waiting, my lady.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]You seemed...
+busy.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Oh no, we prioritize allying
+with Bern above all things.[A]
+So if you need anything...[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Then, as I asked earlier...[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Ah, the whereabouts
+of Princess Guinevere.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Do you have any
+information, Lord Zinc?[A]
+[OpenMidRight][CloseSpeechFast]I regret to say
+that I do not.[A]
+You have already visited
+the capital at Djuto?[A]
+[OpenMidLeft][NormalPrint]Yes.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Then I suggest you pay
+a visit to Bishop Oro.[A]
+He resides in the castle,[A]
+overlooking Mt. Ebrakhm to the north.
+He knows this region better than any[A]
+of us, so I would believe he'd have
+some ideas.[A]
+However, if even he does not know
+where Princess Guinevere is, then[A]
+I would think she is not on these
+islands.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]I see.[A]
+I will talk with
+Bishop Oro.[A]
+Thank you
+for your time.[A]
+[ClearFace]

@@ -1,0 +1,6136 @@
+﻿[0949]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]The rebel group is supposed
+to be very active in these areas.[A]
+[OpenMidLeft]Yes, according to
+our sources.[A]
+But I also understand that earlier
+this week, the resistance[A]
+group was hunted down by
+Etruria's military.[A]
+I heard that they were
+devastated.[A]
+[OpenMidRight]...The Etrurian government lets
+the bandits go and opresses[A]
+the resistance group who are
+trying to help the people.[A]
+It doesn't look good...[A]
+[OpenMidLeft]No, it does not.[A]
+[OpenMidRight]Could we do anything
+to help?[A]
+[OpenMidLeft]That would be difficult..[A]
+We would be going against
+Etruria's nobility.[A]
+I don't think that would be
+a good idea when we are working[A]
+under Etruria's orders.[A]
+[OpenMidRight]I'll send a messenger to
+General Cecilia and see what[A]
+she has to say.[A]
+We probably shouldn't do anything
+too risky right now, but...[A][OpenMidLeft][ClearFace]
+[OpenFarLeft][LoadFace][0x152][CloseSpeechFast]Master Roy![A]
+Lord Zinc who controls this area
+is sending out troops to attack[A]
+the villages to find a member
+of the resistance force![A][ClearFace]
+[OpenMidLeft][LoadFace][0x154][FastPrint]What!
+...Should we?[A]
+[OpenMidRight][CloseSpeechFast]We don't have time to wait
+for General Cecilia's reply...[A]
+But I want to help the people.[A]
+...Even if it means going
+against Etruria's orders.[A]
+[OpenMidLeft]Master Roy...[A]
+[OpenMidRight]Let's fight![A]
+So we can be proud
+when we return to Lycia![A]
+[094A]
+[OpenMidLeft][LoadFace][0x136][OpenMidRight][LoadFace][0x12E]
+[OpenMidLeft][ToggleSmile]Well, were you able to find out
+where Princess Guinevere is?[A]
+[OpenMidRight]No.[A]
+But I heard a bishop named Oro
+in charge of the mines in the north[A]
+might know.[A]
+[OpenMidLeft][FastPrint]All right,
+then let's head north.[A]
+[OpenMidRight][CloseSpeechFast]Gale... I'm sorry.[A]
+King Zephiel wanted to keep the case
+on Guinevere in secercy, so he only[A]
+assigned my group to look for her.[A]
+I'm sorry I got you mixed up into
+this...[A]
+[OpenMidLeft]You shouldn't worry yourself
+over things like that.[A]
+[OpenMidRight]But you're one of the captains
+working directly under General Murdock.[A]
+[OpenMidLeft]General Murdock has agreed to my helping
+you out.[A]
+In fact, he wants me to find out the
+location of the Princess and the Fire Emblem.[A]
+[OpenMidRight]...Do you think that Princess
+Guinevere has the Fire Emblem?[A]
+[OpenMidLeft]Well, that's the what the
+royalty thinks.[A]
+And I think they're correct,
+looking at the situation.[A]
+[OpenMidRight][ToggleMouthMove][NormalPrint]......[A]
+[OpenMidLeft][ToggleMouthMove][CloseSpeechFast]Come on,
+don't look like that...[A]
+Probably Princess Guinevere
+has a plan of some sort.[A]
+Come, let's go.[A]
+[OpenMidRight][NormalPrint]Yes...[A]
+[094B]
+[OpenMidRight][LoadFace][0x12B][OpenMidRight][NormalPrint][ToggleSmile]...Where...am I..?[A]
+[OpenMidLeft][LoadFace][0x15A][FastPrint][ToggleSmile]Are you awake?[A]
+[OpenMidRight][NormalPrint][ToggleSmile]...What...happened...
+to me...[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]We found you lying at the
+entrance of the village, all[A]
+brusied and blood-splattered.[A]
+So we brought you home and
+treated your wounds.[A]
+[OpenMidRight][NormalPrint][ToggleSmile]And you are...?[A]
+[OpenMidLeft][FastPrint][ToggleSmile]I'm Mary.
+I live here.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]...Live here...[......]No![A]
+This village will be
+endangered if I stay here..[A]
+...Or maybe it's too late
+if it's already been one day..[A]
+[OpenMidLeft][NormalPrint]?[A]
+[OpenMidRight][CloseSpeechFast]I am Elphin...
+One of the resistance group.[A]
+The landowner is sure to send
+troops here to capture me.[A]
+[OpenMidLeft]The resistance group...[A]
+[OpenMidRight]Miss Mary,
+you should run from here.[A]
+This village is in danger.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]...No,
+I will stay.[A]
+[OpenMidRight][NormalPrint][ToggleSmile]...Why?[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]I have a younger brother.[A]
+Right now he's gone out to look
+for work with his friend from[A]
+next door.[A]
+His friend asked me to take
+care of his younger sister[A]
+while they was gone.[A]
+[OpenMidRight][FastPrint][ToggleSmile]I see...[A]
+Then all I can do to protect
+this village is leave.[A]
+Thank you very much
+for healing my wounds.[A]
+Please take care.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Yes, you take
+care too.[A]
+[094C]
+[OpenMidRight][LoadFace][0x14D][OpenMidLeft][LoadFace][0x1D7]
+[OpenMidRight][ToggleSmile]What is the matter?[A]
+Why is taking so long to find one
+resistance group member?![A]
+[OpenMidLeft]The Lycia Alliance Army![A]
+They are fighting to protect
+the villagers...[A]
+[OpenMidRight]The Alliance Army?[A]
+They would go against Etruria?![A]
+[OpenMidLeft]We have gotten a message from Djuto.
+It says,[A]
+"The Lycia Alliance Army is suspected
+to be working with the bandits.[A]
+Capture them, or kill them,
+if necessary."[A]
+[OpenMidRight][ToggleSmile]Oh?
+Tied in with the bandits?[A]
+How ironic![A]
+So they want to kill them to
+save their own skins...[A]
+[OpenMidLeft][ToggleSmile]What, sir?[A]
+[OpenMidRight]This is not the mainland.
+Might makes right here.[A]
+[OpenMidLeft]I'm not quite sure
+I understand...[A]
+[OpenMidRight]Don't worry about it then.[A]
+Is that all they said from
+Djuto?[A]
+[OpenMidLeft]No.[A]
+Lord Arcard has provided
+us with reinforcements.[A]
+[OpenMidRight]What![A]
+[OpenMidLeft]They should be arriving soon.[A]
+[OpenMidRight]Damn![A]
+Even if we defeat the Lycia
+Alliance Army, we will not[A]
+get all the credit if we are
+aided by reinforcements![A]
+We need to do this quickly..[A]
+Ah, of course!
+Get Scollan![A]
+[OpenMidLeft]Yes sir.[A][ClearFace][......]
+[OpenLeft][LoadFace][0x151]Yeah?[A]
+What can I do for you,
+Master Zinc?[A]
+[OpenMidRight][CloseSpeechFast]I want you to burn down
+all the villages in this area.[A]
+Kill the villagers as well.[A]
+[OpenLeft]...What if there's
+treasure?[A]
+[OpenMidRight][FastPrint]Do with it as you wish.
+Just hurry.[A]
+[OpenLeft][ToggleSmile]Got it, Master Zinc.
+Hehehehe...[A]
+[094D]
+[OpenMidRight][LoadFace][0x151][FastPrint][ToggleSmile]Gonzales!
+Where's Gonzales![A]
+[OpenMidLeft][LoadFace][0x12F]Here...
+I here...[A]
+[OpenMidRight]There's a village to the south.
+You got that?[A]
+[OpenMidLeft][NormalPrint]Get it.[A]
+[OpenMidRight][CloseSpeechFast]That might be a hidden base
+for the resistance forces.[A]
+Master Zinc says to burn it down,
+village and all.[A]
+[OpenMidLeft][NormalPrint]Village and all...[A]
+[OpenMidRight][CloseSpeechFast]Right.
+Now git![A]
+A stupid hulk like you only comes in
+use at times like this.[A]
+You better not screw up.[A]
+[OpenMidLeft][FastPrint]I...I...[A]
+[OpenMidRight]You got a problem?[A]
+[OpenMidLeft]N-No...[A][ClearFace][......]
+[OpenMidRight][CloseSpeechFast]Heh, he looks like hell,
+but has that damn kind heart.[A]
+He shouldn't be scared of
+busting up one tiny village.[A][Clear]
+You guys,
+you got that too?[A]
+[OpenMidLeft][LoadFace][0x150][NormalPrint]Sure thing, boss![A]
+[094E]
+[OpenMidRight][LoadFace][0x10D][ToggleSmile]So that's the
+Lycia Alliance Army...[A]
+[OpenMidLeft][LoadFace][0x128]They're supposed to be fighting
+against the bandits...[A]
+[OpenMidRight]I know.[A]
+But Lord Arcard says that they
+are fighting with the bandits[A]
+to attack the villagers.[A]
+Why are they doing the opposite
+of what they were told to do...[A]
+[OpenMidLeft].....[A]
+[OpenMidRight]Tate, can you take your troops and
+attack from the north?[A]
+I'll start attacking from here.[A]
+[OpenMidLeft]Yes sir.[A][ClearFace]
+[OpenMidRight]Tate!
+Wait.[A]
+[OpenMidLeft][LoadFace][0x128]Yes?[A]
+[OpenMidRight][ToggleSmile]I see that you have some
+siblings.[A]
+[OpenMidLeft]Yes.[A]
+I have two sistersア
+one older, one younger.[A]
+[OpenMidRight]Are they all Pegasus Knights
+like yourself?[A]
+[OpenMidLeft]Yes.
+Why do you ask?[A]
+[OpenMidRight]Well, actually, I have a
+younger sister myself...[A]
+[OpenMidLeft]She must be very beautiful
+if she is your sister.[A]
+[OpenMidRight][ToggleSmile]Thank you.
+And yes, she is pretty.[A]
+But I've heard she got tangled
+up in some mess and I don't know[A]
+where she is now..[A]
+[OpenMidLeft]What?
+Oh my..[A]
+[OpenMidRight]I've sent out some people to look
+but they haven't found her yet.[A]
+If only I wasn't on this mission,
+I could go look myself..[A]
+[OpenMidLeft][ToggleMouthMove].....[ToggleMouthMove][A]
+[OpenMidRight]Tate, take care of yourself.
+For your family's sake.[A]
+[OpenMidLeft]Yes,[.....]
+thank you.[A]
+[094F]
+[OpenMidRight][LoadFace][0x10D][OpenMidLeft][LoadFace][0x1D7]
+[OpenMidRight][ToggleSmile]All right, let's go.[A]
+[OpenMidLeft]Sir, are you sure?[A]
+[OpenMidRight]About what?[A]
+[OpenMidLeft]Lord Arcard said to leave most
+of the fighting up to Ilia's[A]
+Pegasus Knights so that we
+the Etrurian army, suffer the[A]
+least casulaties.[A]
+
+[OpenMidRight]Don't be ridiculous,
+they are trustworthy companions.[A]
+We will attack at the same time...
+or even before them.[A]
+Understood?[A]
+[OpenMidLeft]Yes sir.[A][ClearFace]
+[OpenMidRight]...Still, Lord Arcard's story
+is strange..[A]
+The army from Lycia just got here.[A]
+...Would they get tied in with
+the bandits so quickly...?[A]
+[0950]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x153]
+[OpenMidLeft][ToggleSmile]Are you ready?
+We're going to move southward![A]
+[OpenMidRight]Captain...
+Are you sure we'll be all right?[A]
+[OpenMidLeft]Why?[A]
+[OpenMidRight]Perhaps the Etrurian army means
+to use us up front as disposables..[A]
+[OpenMidLeft]Who says that?[A]
+[OpenMidRight]One of our group members heard rumors
+like that in the Etrurian army.[A]
+[OpenMidLeft]If you take rumors seriously all the
+time, you won't be able to do anything.[A]
+[OpenMidRight]But...[A]
+[OpenMidLeft]Besides, if that were true,
+General Klein wouldn't approve of it.[A]
+[OpenMidRight]Do you really think so?[A]
+[OpenMidLeft]General Klein's not like that.
+I trust him.[A]
+[OpenMidRight]...Alright.[A]
+Then we'll trust him as well,
+for we trust you, Captain.[A]
+[OpenMidLeft]Thanks.
+Let's go![A]
+[0951]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x14D][OpenMidLeft][ToggleSmile]Lord Zinc, the reinforcements from
+Djuto should be arriving shortly.[A]
+[OpenMidRight]Damn![A]
+We're having enough trouble
+as it is...[A]
+I don't need any reinforcements
+to take all the credit![A]
+[0952]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x14D][OpenMidLeft][ToggleSmile]Additional reinforcements
+will be arriving shortly![A]
+[OpenMidRight]Well...
+I hope this will be enough...[A]
+[0953]
+[OpenMidLeft][LoadFace][0x12F][OpenMidRight][LoadFace][0x122]
+[OpenMidRight][NormalPrint][ToggleSmile]Excuse me![A]
+[OpenMidLeft][FastPrint]W-What are you!
+I'm an enemy![A]
+[OpenMidRight][CloseSpeechFast]I'm sorry...[A]
+But you had such a sad look
+in your eyes.[A]
+[OpenMidLeft]...There is village near
+mountain.[A]
+You know?[A]
+[OpenMidRight][FastPrint]Yes, I know.[A]
+[OpenMidLeft]Let the people escape.
+I take order, I destroy village.[A]
+So...[A]
+[OpenMidRight][CloseSpeechFast]What?
+Don't![A]
+The people living in the
+village are innocent...[A]
+[OpenMidLeft][FastPrint]No.
+I can't disobey order.[A]
+[OpenMidRight][CloseSpeechFast]Can't you leave the people
+who give you orders like that?[A]
+[OpenMidLeft]Leave?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]I know!
+You should fight alongside us![A]
+We're protecting the villagers.[A]
+[OpenMidLeft][ToggleSmile]...No...I'm a monster...
+I can't be with other people...[A]
+People throw stones...
+They say 'go away' to me...[A]
+I'm a monster...
+Not human...[A]
+[OpenMidRight]No![A]
+Of course you're a human!
+You're also a kind hearted human.[A]
+I can tell.
+Come with us.[A]
+Don't be afraid.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Me afraid?[A]
+I'm not afraid!
+Everyone afraid of me.[A]
+I'm not afraid![A]
+[OpenMidRight][CloseSpeechFast]No.
+You are afraid.[A]
+You're scared that people will throw
+stones at you, and they'll tell you[A]
+to go away again.[A][ToggleMouthMove]
+[OpenMidLeft][NormalPrint][ToggleMouthMove]......[A]
+[OpenMidRight][CloseSpeechFast]It's okay.
+The people in our army are nice people.[A]
+[ToggleSmile]They won't be mean to you.
+Come on...be brave.[A]
+That out that first step to live
+positively...[A]
+[0954]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x129][FastPrint][ToggleSmile]B-Big sister![A]
+[OpenMidLeft]Thany...?[A]
+[OpenMidRight][CloseSpeechFast]What are you doing here?[A]
+[OpenMidLeft]...I have a contract with
+General Klein of Etruria.[A]
+Thany...
+Are you with the Alliance Army?[A]
+[OpenMidRight][NormalPrint]Yeah.[A]
+[OpenMidLeft][FastPrint]I see...[.....]
+Then there is only one thing to do.[A]
+Draw your spear![A]
+[OpenMidRight][MoveFarRight][CloseSpeechFast]No...
+I don't want to fight you![A]
+[OpenMidLeft]...Thany, you know the code
+of the Ilian mercenary knights.[A]
+[OpenFarRight]...Never betray your employer...[A]
+[OpenMidLeft]Right.
+And we must follow that code,[A]
+even if it means fighting
+against your own kin.[A]
+[OpenFarRight][MoveMidRight]But...
+One of us might die![A]
+[OpenMidLeft][MoveLeft]I know that![A]
+But we have to fight![A]
+We can't let down other nations'
+trust in Ilia's mercenaries.[A]
+It's the only thing we have
+to support ourselves![A]
+[OpenMidRight][FastPrint]Tate...[A]
+[OpenLeft][CloseSpeechFast]Now,
+draw your spear, Thany![A][OpenMidRight][ClearFace][Clear][.......]
+[OpenLeft]...Why...[A]
+Why did it have to be
+like this...?[A]
+[0955]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x129]
+[OpenMidRight][NormalPrint]Tate![A]
+[OpenMidLeft][FastPrint][ToggleSmile]Thany...
+Are you prepared to fight?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]No!
+We don't have to fight![A]
+[OpenMidLeft][FastPrint][ToggleSmile]What are you saying?
+I just told you...[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]General Klein said he
+would join us![A]
+So we don't have to fight![A]
+[OpenMidLeft][NormalPrint][ToggleSmile]What?
+Really...?[A]
+We...
+Really don't have to fight?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Yes!
+We don't have to fight to[A]
+follow the code![A]
+[OpenMidLeft][ToggleMouthMove][NormalPrint]......[A]
+[OpenMidRight][ToggleMouthMove][FastPrint][ToggleSmile]...Tate?[A]
+[OpenMidLeft][ToggleSmile]...Good...[A]
+[OpenMidRight][ToggleSmile]Tate...[A]
+[OpenMidLeft][ToggleSmile]Thank goodness...
+Really...[A]
+[OpenMidRight]Don't say we have
+to fight...[A]
+We'll always be together,
+big sister...[A]
+[0956]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x129][OpenMidRight][NormalPrint][ToggleSmile]B-Big Sister![A]
+[OpenMidLeft][FastPrint]Thany...?[A]
+[OpenMidRight]What are you doing here?[A]
+[OpenMidLeft]...I have a contract with
+General Klein of Etruria.[A]
+Thany...
+Are you with the Alliance Army?[A]
+[OpenMidRight][NormalPrint]Yeah.[A]
+[OpenMidLeft][FastPrint]I see...[.....]
+Then there's only one thing to do.[A]
+Draw your spear![A]
+[OpenMidRight][CloseSpeechFast]No, General Klein said
+[ToggleSmile]he would join us![A]
+[OpenMidRight][CloseSpeechFast]We don't have to fight![A]
+[OpenMidLeft][NormalPrint][ToggleSmile]What? Really?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Yeah.[A]
+[OpenMidLeft]...All right.[A]
+I'll join you as well.[A]
+[OpenMidRight]Thanks,
+big sister![A]
+[0957]
+[OpenMidLeft][LoadFace][0x102][OpenMidRight][LoadFace][0x10D]
+[OpenMidLeft][ToggleSmile]Wait!
+Aren't you an Etrurian general?[A]
+Why are you attacking us!?[A]
+[OpenMidRight]I have specific orders from
+Lord Arcard to kill you.[A][OpenMidLeft]He ordered you?
+Can't you see what's happening here?[A]
+The people here are suffering from
+their landlord's abusive treatment![A]
+And you're helping him?
+You should be ashamed![A]
+[OpenMidRight]...Wait.[A]
+Did you say that you're
+helping the villagers?[A]
+[OpenMidLeft]Yes.[A]
+The marquess here is ransacking
+the villages, saying he's searching[A]
+for rebels.[A]
+We're fighting to stop him.[A]
+But you seem to be siding
+with him, so...[A]
+[OpenMidRight]I have no such intention.[A]
+I heard that you were the ones
+working with the bandits to do evil.[A]
+[OpenMidLeft]What!?[A]
+Why would we be working with
+the bandits?[A]
+We just want things cleaned up
+here so we can get back to Lycia![A]
+[OpenMidRight]...Such mockery.[A]
+[OpenMidLeft]What!?[A]
+[OpenMidRight]Lord Arcard is underestimating me.[A]
+I am not dull enough not to notice
+who the real villans are.[A]
+[OpenMidLeft][ToggleSmile]...Do you understand now?[A]
+[OpenMidRight]I am Klein of the Reglay
+family of Etruria.[A]
+Forgive us for attacking you.[A]
+[OpenMidLeft]!
+Yes![A]
+I am General Roy of the
+Lycia Alliance Army.[A]
+[OpenMidRight]General Roy, I would advise you
+to be cautious.[A]
+Since you have turned your back
+on Lord Arcard, he would be sure[A]
+to gather all of his henchmen
+on these isles in every attempt[A]
+to kill you.[A]
+[OpenMidLeft]I see...[A]
+[OpenMidRight]If you would allow it,
+I would like to join you.[A]
+[OpenMidLeft]Really!?[A]
+[OpenMidRight]Yes.[A]
+I wish to monitor your actions
+as an Etrurian general.[A]
+I should prove useful as
+both a fighter and a diplomat.[A]
+[OpenMidLeft]Thank you.[A]
+[0958]
+[OpenMidLeft][LoadFace][0x103][OpenMidRight][LoadFace][0x10D]
+[OpenMidLeft]Klein![A]
+[OpenMidRight]Clarine?
+You were safe?[A]
+Thank goodness...[A]
+[OpenMidLeft]I'm sorry I left without
+telling you.[A]
+But I wanted to see you
+so badly![A]
+[OpenMidRight][ToggleSmile]The things you would do...[A]
+Well, you're safe, and that's
+what matters.[A]
+[ToggleSmile]...And what brings you out here?[A]
+Did you find someone trustworthy
+to hire?[A]
+[OpenMidLeft][ToggleSmile]No, I joined the Lycia Alliance
+Army and am fighting alongside them.[A]
+[OpenMidRight][ToggleSmile]The Lycia Alliance Army?![A]
+[OpenMidLeft][ToggleSmile]Yes![A]
+My healing staves
+have been very useful![A]
+[OpenMidRight]...I see.[A]
+I thought your eyes looked...
+sharper.[A]
+[OpenMidLeft]I'm now a lady, I am.[A]
+[OpenMidRight][ToggleSmile]...Let me ask you this.[A]
+What kind of individual
+is General Roy?[A]
+[OpenMidLeft][ToggleSmile]Hmm...
+He lacks a little finesse for a noble...[A]
+I especially think he has to take
+care of his hair a little more..[A]
+[OpenMidRight]...Let me rephrase the question.[A]
+[ToggleSmile]Is General Roy working with the
+bandits and attacking the people here?[A]
+[OpenMidLeft][MoveMidLeft]No, of course not!
+We are here to defeat the bandits![A]
+[OpenMidRight]I see...[A]
+[OpenMidLeft]The Etrurians here are evil
+and malicious people...[A]
+It is so embarassing.[A]
+Klein...
+Are you working for them?[A]
+[OpenMidRight]No.[A]
+At least not now
+after I heard your story.[A]
+[OpenMidLeft]What?[A]
+[OpenMidRight]I was sent here to protect
+the villagers.[A]
+To fulfill my mission, I hereby join
+join the Lycia Alliance Army.[A]
+[OpenMidLeft][ToggleSmile]Klein![A]
+[OpenMidRight]Then let's go, shall we?
+Will you introduce me to General Roy?[A]
+[OpenMidLeft][MoveLeft]Of course!
+I love you, Klein.[A]
+[0959]
+[OpenMidLeft][LoadFace][0x10D][OpenMidRight][LoadFace][0x128]
+[OpenMidLeft]Tate![A]
+[OpenMidRight][ToggleSmile]General Klein![.....]
+What is the matter?[A]
+[OpenMidLeft]I've made up my mind.[A]
+We are going to fight alongside
+General Roy in the Lycia Alliance Army.[A]
+[OpenMidRight]Understood sir.
+Then we will, as well.[A]
+[OpenMidLeft]Aren't you going to ask why?[A]
+[OpenMidRight]We are mercenaries.[A]
+We follow our employer's every
+order.[A]
+Besides...[.....][A]
+[OpenMidLeft]Besides?[A]
+[OpenMidRight][ToggleSmile]I trust that you would[.....]
+not make the wrong judgements.[A]
+[OpenMidLeft]Thank you, Tate.[A]
+[095A]
+[OpenMidLeft][LoadFace][0x103][OpenMidRight][LoadFace][0x10D]
+[OpenMidLeft]Klein![A]
+[OpenMidRight]Clarine![A]
+I'm glad you're all right.[A]
+I was worried when I heard
+[ToggleSmile]that you disappeared.[A]
+[OpenMidLeft]I'm sorry.
+I just couldn't wait to see you.[A]
+[OpenMidRight][ToggleSmile]The things you would do...[A]
+Well, you're safe and that's
+what matters.[A]
+[ToggleSmile]And what brings you out here?[A]
+Did you find someone trustworthy
+to hire?[A]
+[OpenMidLeft][ToggleSmile]I've been fighting alongside
+the Lycia Alliance Army.[A]
+[OpenMidRight][ToggleSmile]The Alliance Army!?[A]
+[OpenMidLeft][ToggleSmile]Yes.[A]
+[OpenMidRight][ToggleSmile]Well...
+You've been through a lot.[A]
+[OpenMidLeft][ToggleSmile]I'm a lady now,
+I am.[A]
+[095B]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x18A]
+[ToggleSmile]...We rebels suffered a
+humiliating defeat here.[A]
+Here, take this.
+I'm going to look for other survivors.[A]
+As long as we can find our leader,
+we still have hope.[A]
+[095C]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x189]
+[ToggleSmile]Dammit!
+Just because those rebel idiots[A]
+are raising hell, we ordinary
+people have to deal with the[A][Clear]
+consequences. What...
+You know what happens if we[A]
+go against our landlord.
+We just want to lead a normal life.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Hey...
+W-Wait.[A]
+I can't do anything...
+but take this...[A]
+[095D]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x184]
+[ToggleSmile]I wonder how Mary's doing...
+Her brother and his friends are[A]
+all out there trying to make money.
+It's too dangerous to go outside[A]
+now... Can you go check on her?
+Here, I'll give you this, so...[A]
+[095E]
+[OpenMidLeft][LoadFace][0x11E][OpenMidRight][LoadFace][0x15A]
+[OpenMidRight][NormalPrint]Ward![A]
+[OpenMidLeft][FastPrint]Sis!
+It's good to see you.[A]
+[OpenMidRight]You've returned?[A]
+[OpenMidLeft][ToggleSmile]Well not really...
+We just came here on a mission...[A]
+[OpenMidRight]...You're not going
+to come back anymore?[A]
+[OpenMidLeft][CloseSpeechFast]No! That's not the case![A]
+...But I'm not ready to return yet.
+Just wait,[A]
+I'll come back with lots of
+money so we can live an easier life.[A]
+[OpenMidRight][ToggleSmile]I don't care about that...
+I just want you to be safe.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Sis...[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]I know it's pointless to tell
+you to be careful with that personality[A]
+of yours... but just remember that there
+are people worried for you. Okay?[A]
+[OpenMidLeft][ToggleMouthMove][NormalPrint]......[A]
+[OpenMidRight][ToggleMouthMove][FastPrint]Here, take this.[A]
+[OpenMidLeft][NormalPrint][ToggleSmile]What's this?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]It's a special weapon.[A]
+I treated the wounds of a traveler
+a while back, and he left it[A]
+in return. You can use it, can't you?[A]
+[OpenMidLeft]Thanks, sis!
+I'll be going.[A]
+[OpenMidRight][FastPrint]Be careful...[A]
+[095F]
+[OpenMidLeft][LoadFace][0x11F][OpenMidRight][LoadFace][0x15A]
+[OpenMidLeft][NormalPrint][ToggleSmile]Mary...[A]
+[OpenMidRight][FastPrint][ToggleSmile]Lot!
+You've returned?[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]No...
+We just stopped by on a mission.[A]
+[OpenMidRight][FastPrint]Oh...
+Myu. will be sad.[A]
+[OpenMidLeft][CloseSpeechFast]Ever since mother died,
+I've been making you take care of Myu.[A]
+I'm sorry.[A]
+[OpenMidRight][FastPrint]No...don't be...[A]
+[OpenMidLeft][NormalPrint]Someday...[A]
+[OpenMidRight]![A]
+[OpenMidLeft][FastPrint]Someday I'll return.
+...Can I leave Myu to you until then?[A]
+[OpenMidRight]...Can you promise?[A]
+[OpenMidLeft]...Yes.[A]
+[OpenMidRight][CloseSpeechFast]Don't lie... You're going to war.
+There's no saying you'll return.[A]
+[OpenMidLeft][ToggleMouthMove][NormalPrint]......[A]
+[OpenMidRight][ToggleMouthMove][FastPrint][ToggleSmile]But I'll be waiting.
+Without false hope...[A]
+[OpenMidLeft][NormalPrint][ToggleSmile]I'm sorry.[A]
+[OpenMidRight][FastPrint][ToggleSmile]Oh, take this.[A]
+[OpenMidLeft][NormalPrint][ToggleSmile]What?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]It's a magic weapon that
+will help you keep your promise.[A]
+[OpenMidLeft][FastPrint]Thank you, I appreciate it.
+Well then... I must be off.[A]
+[OpenMidRight][ToggleSmile]Be careful...[A]
+[0960]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x15A][ToggleSmile]Have you seen my brother?[A]
+His name is Ward,
+and he's a mercenary...[A]
+Have you at least
+heard of him?[A] 
+[0961]
+[OpenMidLeft][LoadFace][0x11E][OpenMidRight][LoadFace][0x15B]
+[OpenMidRight][FastPrint]It's Ward![A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Hey, how have you been doing?
+...Come on,[A]
+can't you at least say 'big
+brother Ward' instead of just Ward?[A]
+[OpenMidRight][ToggleSmile]But... Ward is Ward.[A]
+[OpenMidLeft][FastPrint]Ah, never mind.
+You look like you've been okay.[A]
+[OpenMidRight]Yes![A]
+[OpenMidLeft][ToggleSmile]...Anyway, it's dangerous here.
+Go hide in the hills or something.[A][OpenMidRight]...Alone?[A]
+[OpenMidLeft]Sis is still here, right?
+She'll take you.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Yeah, big sister Mary's here too.[A]
+[OpenMidLeft][ToggleSmile]You call sis 'big sister'
+and me just 'Ward', huh?[A]
+[OpenMidRight][NormalPrint][ToggleSmile]Oh.
+Here.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]What's this?
+A feather?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]It makes you like a bird![A]
+[OpenMidLeft][FastPrint][ToggleSmile]Like a bird?
+What's that supposed to mean?[A]
+[OpenMidRight][ToggleSmile]Like a bird is like a bird.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleMouthMove]???[ToggleMouthMove][ToggleSmile]
+Uh, anyway,[A]
+you're giving this to me?[A]
+[OpenMidRight][ToggleSmile]No.
+It's for my big brother Lott.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Even he's not just 'Lott'...[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Hahaha... I'll go see Mary.
+Here's the feather.[A]
+Give it to Lott, okay,
+big brother Ward?[A][ClearFace]
+[OpenMidLeft]She sure can change her tune quickly...
+[ToggleSmile]Woah be careful! Don't trip...[A]
+[0962]
+[OpenMidLeft][LoadFace][0x11F][OpenMidRight][LoadFace][0x15B]
+[OpenMidRight]Big brother! You're home![A]
+[OpenMidLeft][FastPrint]Myu!
+Have you been good?[A]
+[OpenMidRight]Yes![A]
+I was good!
+I didn't even wet my bed![A]
+[OpenMidLeft]Good girl.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Lott...
+While you were away, Mom...[A]
+[OpenMidLeft]Yeah, I know...
+She went to a faraway place...[A]
+[OpenMidRight]Here...
+Mom left it for you.[A]
+She said you'll find a use for it.[A]
+[OpenMidLeft][NormalPrint]......[A]
+[OpenMidRight][CloseSpeechFast]Big brother...
+You won't leave me, right?[A]
+You won't go to a faraway place[A]
+without me like Mom...[A]
+[OpenMidLeft][ToggleSmile]Of course not![A]
+I'll come back here with lots
+of presents for you.[A]
+So listen to what Mary says
+and be a good girl, all right?[A]
+[OpenMidRight][NormalPrint]Okay![A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Anyway, hide in the hills with Mary.
+It's dangerous here.[A]
+[OpenMidRight][FastPrint]Yes sir...
+[ToggleSmile]Lott?[A]
+[OpenMidLeft][NormalPrint]?[A]
+[OpenMidRight][FastPrint]You promised!
+You won't go to a faraway place, right?[A]
+[OpenMidLeft]Yeah...[A][OpenMidRight][ClearFace]
+[OpenMidLeft]I hope I can keep that promise...[A]
+[0963]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x15B]Big brother?[A]
+[ToggleSmile]...Oh.
+I'm sorry...[A]
+[0964]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x182]
+Ah, our heroes!
+I wish you thanks on[A]
+the villages behalf.
+is a scale from a real Dragon.[A]
+They say it protects you with
+a magical barries when you[A]
+use it. Please take it.[A]
+[0965]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x186]
+A few months ago, my granddaughter
+went missing. The villagers searched[A]
+the mountains for her,[A]
+and when they found her,
+she was with a huge monster of a man.[A]
+We threw stones at him and drove him off...
+But my granddaughter told me that[A]
+he found her crying and led her to
+the village. ..If you see that man,[A]
+would you give him this?[A]
+It's a special axe that's effective
+against swords.[A]
+And...
+[......][Clear]tell him I'm sorry.[A]
+[0966]
+[LoadFace][0x14D]The people are suffering...?[.....]
+Fools.[A][Clear]
+What is it to me?
+Their purpose is to[A]
+die in my service.[A]
+I couldn't care less
+about the wails of those[A]
+worthless animals.[A]
+
+[0967]
+[LoadFace][0x14D]
+[ToggleSmile]This is my land..
+Mine only...[A][Clear]
+No one...
+shall...[A]
+[0968]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Master Roy, there is a
+young man here[A]
+to see you.[A]
+He says he is[A]
+a member of the[A]
+of the resistance force.[A]
+[OpenMidRight][ToggleSmile]Let him pass.[A][OpenMidLeft][ClearFace]
+[OpenFarLeft][LoadFace][0x12B]Ah, so you are Roy?[A]
+Pleased to meet you,
+my name is Elphin.[A]
+I am a member of the[A]
+resistance forces here.[A]
+[OpenMidRight]I am Roy of the
+Lycia Alliance Army.[A]
+[OpenFarLeft]My thanks for saving our
+village here.[A]
+[OpenMidRight]No, we simply did
+what we thought was right.[A]
+[OpenFarLeft][ToggleSmile]But now you have rebelled
+against Etruria.[A]
+Certainly you had thought of that
+before you took action?[A]
+[OpenMidRight]Even so,
+we did what we felt was right.[A]
+Although this is a sign of rebellion[A]
+against Etruria, if the truth about
+these islands is made public, they[A]
+will understand.
+I have sent a letter to a[A]
+trustworthy member of the Etrurian
+Nobility.[A]
+If she takes the appropriate[A]
+measures, I think we can tip the
+tables in our favor.[A]
+[OpenFarLeft]I would not be so sure of that...[A]
+[OpenMidRight]What do you mean?[A]
+[OpenFarLeft]Did you ever think it strange
+that Etruria sent you in to[A]
+rid of the bandits?[A]
+[OpenMidRight]Actually yes... of course.[A]
+[OpenFarLeft]This is merely my theory...[A]
+But I believe that the ones who
+requested your help are[A]
+Advisor Roartz and Lord Arcard.[A]
+[OpenMidRight]...How do you know that?[A]
+[OpenFarLeft]Why did those two have to
+get your army off the mainland?[A]
+Could there be some kind of problem
+if you had stayed in Lycia?[A]
+[OpenMidRight]Oh...[A]
+I never thought of it
+from that perspective...[A]
+[OpenFarLeft]There are rumors...[A]
+That Roartz and Arcard are
+actually tied in with Bern.[A]
+[0969]
+[OpenMidLeft][LoadFace][0x15A][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][CloseSpeechFast]Are you this this
+army's leader?[A]
+[OpenMidRight][FastPrint][ToggleSmile]Yes.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]I wanted to thank you[A]
+for protecting our village.[A]
+[OpenMidRight]No...
+I just did what I thought was right.[A]
+[OpenMidLeft]Please take this as
+a token of our gratitude.[A]
+[096A]
+[OpenMidLeft][LoadFace][0x1DC][OpenMidRight][LoadFace][0x10D]
+[OpenMidLeft]General Klein,[A]
+we will stay here and reconstruct
+the area, as you directed us.[A]
+[OpenMidRight]Good.[A]
+[OpenMidLeft]We wish we could fight
+alongside you.[A]
+Oh, and here is the arrow you
+had us keep.[A]
+I will give it back to you.[A]
+Farewell and good luck, General Klein.[A]
+[OpenMidRight]Thank you.[A]
+[096B]
+[OpenMidRight][LoadFace][0x128][OpenMidLeft][LoadFace][0x153]
+Captain![A]
+We will return to Ilia
+to make our report.[A]
+[OpenMidRight]Thanks.[A]
+[OpenMidLeft]Oh, and this...[A]
+Your sister gave it to me
+before we left.[A]
+Please be careful...[A]
+[OpenMidRight]Thank you.
+You be careful too.[A]
+[096C]
+[OpenMidRight][LoadFace][0x187][ToggleSmile]Hurry!
+Over here![A]
+[OpenMidLeft][LoadFace][0x189]A-Are you sure?
+If we get caught...[A]
+[OpenMidRight]You idiot![A]
+If we stay there, we have no
+choice but to work and work[A]
+until we die![A]
+You're going to put up with
+that?[A]
+Don't you have family or
+something back home?[A]
+[OpenMidLeft]Yeah...[A]
+[OpenMidRight]If we escape toward the northeast,
+there are some people who can help us.[A]
+We've got to get there![A]
+[096D]
+[OpenMidRight][LoadFace][0x146][ToggleSmile]What!
+Some more people escaped!?[A]
+[MoveMidRight]What were the guards doing![A]
+[OpenFarLeft][LoadFace][0x14F]Somebody put sleeping
+drugs in their food...[A]
+[OpenMidRight]...That means there is someone
+among our ranks who is taking[A]
+contact with the enemy.[A][OpenFarLeft][ClearFace]
+[OpenMidRight]Morgan![OpenLeft][LoadFace][0x1DD][A]
+[OpenMidRight]I want you to pursue and
+capture those who have escaped.[A]
+[OpenLeft]Yes, my lord.[A][SendToBack]
+[OpenMidRight]I will return to the capital at Djuto.
+Don't let them escape.[A]
+Also keep sending workhands to the mines.
+I can't afford to lose that mine now![A]
+[096E]
+
+[096F]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Elphin,
+that castle to the southwest...[A]
+[OpenMidLeft]Yes,
+that is Castle Idina.[A]
+The people captured on this island[A]
+are first sent there before they
+are ported to Mt. Ebrakhm.[A]
+Today just happens to be the day
+that the captives are sent to the[A]
+mines on a weekly basis.[A]
+Rescuing them will be difficult if
+we have to go all to the mines.[A]
+[OpenMidRight]Then we must rescue
+them now![A]
+[OpenMidLeft]Yes.[A]
+I have already sent some spies
+to sneak into the castle to help[A]
+the people escape.[A]
+[OpenMidRight]How will they release
+the captives?[A]
+[OpenMidLeft]I have told them to send the
+captives to the northeast.[A]
+In other words, here.[A]
+[OpenMidRight]Then we must first rescue those
+people before attacking the castle.[A]
+[0970]
+[OpenMidLeft][LoadFace][0x189][OpenMidRight][LoadFace][0x120]
+[OpenMidRight][ToggleSmile]So the people living on this
+island are captured in that castle?[A]
+[OpenMidLeft]Yes.[A]
+[OpenMidRight]Well then, let's go rescue
+them, shall we?[A]
+[OpenMidLeft]...I'm sorry.[A]
+I know you were looking for your
+daughter, and we made you help[A]
+us out like this...[A]
+[OpenMidRight][ToggleSmile]Well, you guys helped me,
+so I should help you, too.[A]
+Besides, a real man wouldn't look at
+people suffering due to their marquess'[A]
+greed and simply ignore them.[A]
+[0971]
+[OpenMidLeft][LoadFace][0x1DD][OpenMidRight][LoadFace][0x1D7]
+[OpenMidRight]Lord Morgan,
+the reinforcements are ready![A]
+[OpenMidLeft]Good.
+Send them out immediately.[A]
+Send them from the back so that they
+can defend the castle even if we[A]
+should be surrounded.[A]
+[0972]
+
+[0973]
+[OpenMidLeft][LoadFace][0x120][OpenMidRight][LoadFace][0x113]
+[OpenMidRight][FastPrint][ToggleSmile]Father?
+What are you doing here?[A]
+[OpenMidLeft][ToggleSmile]Ah, Fir!
+I was looking for you.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Father,
+I have made up my mind.[A]
+I want to become a great
+swordfighter like Mother...[A]
+[OpenMidLeft][ToggleSmile]I understand.
+I don't mean to drag you home.[A]
+In fact, I want to assist you
+in your journey.[A]
+[OpenMidRight][FastPrint][ToggleSmile]Assist me?[A]
+[OpenMidLeft][CloseSpeechFast]Well, I know that there are a lot of
+hardships during a journey of training.[A]
+So I can help you out
+in tough situations...[A]
+[OpenMidRight]But Father, if you kept helping me,
+there would be no point to my training.[A]
+[OpenMidLeft][NormalPrint]Nonsense.[A]
+[CloseSpeechFast]Would you not be able to train your
+sword skills with your father around?[A]
+Or do you not understand your Father's
+love for worrying about you like this?[A]
+[OpenMidRight][FastPrint]No!
+That's not it...[A]
+[OpenMidLeft][ToggleSmile]Well then,
+we understand each other.[A]
+But first we must capture that castle.[A]
+[ClearFace][OpenMidRight][NormalPrint][ToggleSmile]Sigh....[A]
+[CloseSpeechFast]I have to tell Roy that we're
+getting another member...[A]
+[0974]
+
+[0975]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x18B]
+Are you the guys
+helping us out?[A]
+Then please take this.
+I grabbed it when I was[A]
+escaping from the castle.
+I hope everyone else made[A]
+it out okay...
+
+[0976]
+[LoadFace][0x1DD]
+[ToggleSmile]What are you doing![A]
+Hurry off and kill[Clear]
+the ones who escaped![A]
+...?
+Wh-Who are you people!?[A]
+[0977]
+[LoadFace][0x1DD]
+[ToggleSmile]The resistance forces in this
+area have been eliminated...[A][Clear]
+Who...are you people...?[A]
+[0978]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Elphin!
+Are you all right?[A]
+[OpenMidLeft][ToggleSmile]I should still...
+...![A]
+[OpenMidRight][ToggleSmile]You should stay off the battlefield.
+Leave the fighting to us.[A]
+[OpenMidLeft]Yes...
+Forgive my being a hindrance...[A]
+[0979]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Even though we've captured Castle Idina
+and released the people here, it doesn't[A]
+mean we've rescued all the people
+living on these isles.[A]
+[OpenMidLeft]Right.[A]
+To fully liberate the Western Isles,
+we must get rid of the Etrurian[A]
+capital.[A]
+[OpenMidRight]So we must head for Djuto.[A]
+...Elphin,
+may I ask you something?[A]
+[OpenMidLeft]What is it, Master Roy?[A]
+[OpenMidRight]Correct me if I'm wrong.[A]
+But are you not someone of
+high Etrurian nobility?[A]
+[OpenMidLeft]!![A][Clear]
+...What makes you think that?[A]
+[OpenMidRight]Well...
+I can't really explain it, but...[A]
+For example, the way you talk
+sounds very educated.[A]
+In Ostia, I learned how to 'study'
+people and to make estimates about[A]
+them.[A]
+Anyway, am I right?[A]
+[OpenMidLeft]What would you do if I
+were what you think I am?[A]
+[OpenMidRight]What?[A]
+No, I wouldn't do anything
+in particular.[A]
+[OpenMidLeft]?[A]
+[OpenMidRight]You must have some reason
+to hide your identity.[A]
+You can tell me when you
+feel comfortable about it.[A]
+Okay?[A]
+[OpenMidLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidRight]Then let's go to Djuto![A]
+To save these isles and
+defeat our true enemy![A]
+[097A]
+
+[097B]
+[OpenFarLeft][LoadFace][0x189][OpenLeft][LoadFace][0x187][OpenMidRight][LoadFace][0x154]
+[OpenLeft]Hey, you with the mustache![A]
+[OpenMidRight]What!
+Who are you?[A]
+[OpenLeft]Here,
+give this to General Roy.[A]
+Thanks to him, we can see
+our families again.[A]
+[OpenFarLeft]We people of the Western Isles
+never forget when people help us![A][SendToBack]
+[OpenLeft]Make sure you say thanks
+for us.[A][SendToBack]
+[OpenFarLeft]And that we all express our gratitude
+from the bottom of our hearts![A]
+[097C]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x148]
+[OpenMidRight][ToggleSmile]...
+So Narshen fell at Aquleia.[A]
+[OpenMidLeft]Yes.
+It has been confirmed.[A]
+[OpenMidRight]I see...[A][OpenMidLeft][ClearFace]
+[OpenFarLeft][LoadFace][0x146][OpenLeft][LoadFace][0x13D]L-Lady Brenya...
+What will become of us?[A]
+[OpenMidRight]Please do not worry,
+Lord Roartz.[A]
+We will not neglect you,
+who have assisted us.[A]
+I shall assure that.[A]
+[SendToBack][OpenFarLeft][ToggleSmile]Thank you...[A][SendToBack]
+[OpenMidRight][ToggleSmile]Then, Lord Arcard, you will be
+assigned the defense of this land,[A]
+Talas.[A]
+Lord Roartz, your post will be the[A]
+city of Bulgar.[A]
+[OpenFarLeft]Talas!?
+W-Wait![A]
+This is too close to Aquleia.
+The enemy is already too close![A]
+[OpenMidRight][ToggleSmile]Then what you must do is
+defeat them.[A]
+This is a good place to set up
+defenses because the enemy will[A]
+most surely attack here because
+it is so close to the capital.[A]
+We can be most prepared here.[A]
+[OpenFarLeft][ToggleSmile]Well,
+that's true...[A]
+[OpenLeft]Bulgar...[A]
+That is in the foreign land
+of Sacae.[A]
+I hear that there is much[A]
+rebellion among the nomads...[A]
+[OpenMidRight][ToggleSmile]Then force them into submission.
+Is that not your speciality?[A]
+[OpenLeft][ToggleSmile]Well...[A]
+[OpenMidRight][ToggleSmile]Rumours say that the enemy commander,
+Roy, is still a boy.[A]
+But he has gone through many scandals
+and conspiracies and rebuilt the Lycia[A]
+Alliance Army and has strengthened
+it further than ever.[A]
+Compared to his hardships, your's are
+close to nothing.[A]
+Am I wrong?[A][SendToBack][OpenFarLeft][ToggleSmile]......[A][SendToBack]
+[OpenMidRight]Then I must be off.[A]
+I will be praying for
+your success.[A][ClearFace]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[097D]
+[OpenFarLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x148]
+[OpenFarLeft][ToggleSmile]...Are you sure?[A]
+[OpenMidRight]They are disgraceful cowards who cast
+away their homeland and fled to safety.[A]
+We must not assist them anymore than
+necessary.[A]
+They should be thankful that they are
+getting the land troops that they are.[A]
+[OpenFarLeft][ToggleMouthMove]......[A]
+[097E]
+[OpenMidLeft][LoadFace][0x110][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][FastPrint]We are soon approaching
+the Etrurian border.[A]
+[OpenMidRight][CloseSpeechFast]Bishop Yodel, I must thank you
+for everything.[A]
+Thanks to the Church, we were[A]
+able to proceed thus far with
+ease.[A]
+[OpenMidLeft]Please.[A]
+If you had not captured Aquleia,
+we would be suffering from[A]
+prosecution under Bern.[A]
+This is nothing in comparison
+to what you did for us.[A]
+[OpenMidRight][FastPrint][ToggleSmile]I am glad that I can could
+be of use to you.[A]
+[OpenMidLeft][CloseSpeechFast]Now...[A]
+May I ask you a very
+important favor?[A]
+[OpenMidRight]Yes, anything that I
+am capable of.[A]
+[OpenMidLeft]If you find out anything else
+about the Dragons...[A]
+[OpenMidRight]I understand.[A]
+If I discover anything new, I
+will report to you immediately.[A]
+[OpenMidLeft][ToggleSmile]Thank you![A]
+[ToggleSmile]...[A]
+Oh yes,
+I must tell you something else.[A]
+The lands around here...[A]
+They are surrounded by high
+mountains and valleys.[A][Clear]
+[OpenMidLeft]And it is night now...[A]
+[OpenMidRight]The perfect place for ambushing...[A]
+[OpenMidLeft]Yes.[A]
+Castle Talas up ahead
+is under Bern's control.[A]
+[OpenMidRight]All right.
+I will be careful.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Yes, please.[A]
+Then, may Saint Elimine
+bless the Etrurian Army![A]
+[097F]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x168]
+Are you fighting Bern?
+Then please take this staff.[A]
+I heard a noble princess
+once used it...[A]
+[0980]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17A]
+We don't get many visitors
+up here...[A]
+What?[A]
+The enemy was going to
+attack our village?[A]
+I see...
+I must thank you for[A]
+informing us.
+Please take this.[A]
+[0981]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17D]
+I hear there's a village
+far to the northeast.[A]
+It's too far from here,
+so nobody's ever seen it,[A]
+but I wonder if anyone's
+living there?[A]
+[0982]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x177]
+I saw a strange person
+in Bern's ranks.[A]
+Probably a thief.[A]
+I think you should tell the
+villagers before they get robbed.[A]
+[0983]
+[LoadFace][0x146][ToggleSmile]W-Why![A]
+Why is this happening
+to me?![A]
+[0984]
+[LoadFace][0x146][ToggleSmile]I...am an...
+Etrurian... noble...![A][Clear]
+I must not die...
+here... Guh![A]
+[0985]
+[OpenFarRight][LoadFace][0x154][OpenRight][LoadFace][0x102]
+[OpenFarRight][SendToBack][ToggleSmile]Lord Arcard...[A]
+What a pathetic ending for one
+who became so powerful.[A]
+[OpenRight][SendToBack]Well, last year I didn't think
+we would be doing this either.[A]
+Maybe fate can turn out in the
+most unlikely way...[A]
+And that might be true for Bern
+also...[A]
+[OpenFarRight][ClearFace][OpenMidLeft][LoadFace][0x154]...?[A]
+Master Roy, what is that
+you are holding in your hand?[A]
+[OpenRight]Oh, this?
+This is the Fire Emblem.[A]
+[OpenMidLeft]Oh...
+So this tiny gem...[A]
+[OpenRight]Princess Guinevere wanted me
+to keep it.[A]
+It seemed...[A]
+difficult for her to give it
+to me...[A]
+She must have been hoping to
+end the war peacefully until[A]
+there was no hope left...[A]
+[OpenMidLeft]Hmmm...
+Trust between siblings?[A]
+It didn't seem likely on
+the outside.[A]
+[OpenRight][NormalPrint]Why not?[A]
+[OpenMidLeft][CloseSpeechFast]The enemy is Zephiel,
+king of Bern![A]
+It is said that he murdered his own
+he father, so I didn't think that[A]
+would be moved by family trust...[A]
+[OpenRight][MoveMidRight]What?!
+He killed his own father?[A]
+[OpenMidLeft][CloseSpeechFast]Didn't you know,
+Master Roy?[A]
+Zephiel took the throne because the
+former king had died.[A]
+But because the former king's death
+had been so sudden, there are[A]
+many rumors going around.[A]
+[OpenMidRight]And one of them is...[A]
+[OpenMidLeft][CloseSpeechFast]...That Zephiel assassinated him.[A]
+[OpenMidRight]...Does Princess Guinevere know
+about this?[A]
+[OpenMidLeft]She must know something about
+it, if not at all.[A]
+[OpenMidRight][NormalPrint][ToggleMouthMove]......[A]
+[0986]
+[OpenMidRight][LoadFace][0x1CD][OpenMidLeft][LoadFace][0x1D7][ToggleSmile]The Etrurian army has appeared
+from the west.[A]
+[OpenMidRight]Good.[A]
+Draw them into our territory as
+planned.[A]
+We shall show them our strength.
+Have the other clans been notified?[A]
+[OpenMidLeft]Yes.[A]
+Although there are many clans who
+are expressing their discontent[A]
+toward our alliance with Bern, further
+invasion by Etrurian forces seem[A]
+to require more attention.[A]
+[OpenMidRight]I see.[A]
+...The Etrurian army should be
+easier to deal with than that[A]
+"Silver Wolf" since the Etrurian
+army is an invasion force.[A]
+[OpenMidLeft]The clans will unite to fight
+against invaders...[A]
+[OpenMidRight]Yes.
+That is the law of Sacae.[A]
+When we were up against the Silver Wolf,
+no one aided us because they saw it[A]
+as a conflict between clans.[A]
+[OpenMidLeft]But now we have Bern behind
+us, so we need not any help.[A]
+[OpenMidRight]Exactly.[A]
+Then of course, there are many
+who don't like the idea that[A]
+it is Bern who has actual
+control of Sacae's politics.[A]
+[OpenMidLeft]Yes.[A]
+I hear there are many clans
+who agree with the Silver Wolf's[A]
+guerilla tactics and joined
+forces with him.[A]
+[OpenMidRight]He is stubborn.[A]
+His clan was defeated, so he
+should join us.[A]
+It is not as if he doesn't know
+what happens to those who try and[A]
+fight a head-on battle with Bern.[A]
+[OpenMidLeft]Even large cities like Bulgar have
+been attacked and taken over by Bern[A]
+since they resisted.[A]
+[OpenMidRight]From now on, those who are strong
+enough to manipulate the situation[A]
+around them will survive, like us.
+And right now, we must use the law[A]
+of Sacae to do so.[A]
+
+[0987]
+[OpenMidLeft][LoadFace][0x157][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Princess Guinevere...
+We are getting close to Bern's army.[A]
+[OpenMidLeft]...Yes.[A]
+[OpenMidRight]Since we are getting closer, we
+are clashing with soldiers from Bern[A]
+more and more often.[A]
+It will not be long until we engage
+in full combat with Bern.[A]
+[OpenMidLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidRight]I wish to ask you something
+before we do.[A]
+[OpenMidLeft]What is that?[A]
+[OpenMidRight]I have been hearing rumors...
+that King Zephiel rose to the throne[A]
+because he killed his father, the
+former king.[A]
+[OpenMidLeft][MoveFarLeft]!![A]
+[OpenMidRight]I could not believe it.[A]
+You tried to stop him even by casting
+away your nationality.[A]
+If King Zephiel is such a mad individual
+as the rumors say, then you would not of[A]
+thought of doing what you did.[A]
+[OpenFarLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Princess Guinevere,[A]
+I accepted the Fire Emblem not
+to use it in battle, but to[A]
+try and find a use for it
+to end this war peacefully.[A]
+[OpenFarLeft]Roy...[A]
+[OpenMidRight]Therefore, please tell me
+the truth about the rumors...[A]
+[OpenFarLeft]I...I'm sorry.
+Please...give me some time.[A][ClearFace]
+[0988]
+
+[0989]
+
+[098A]
+
+[098B]
+
+[098C]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17A]
+All of the clans shall
+unite to defeat invaders...[A]
+That is the law of Sacae.[A]
+[098D]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17A]
+Pray daily to the sky and
+and earth...[A]
+That is the law of Sacae.[A]
+[098E]
+[OpenMidLeft][LoadFace][0xFFFF] [OpenMidRight][LoadFace][0x17C]
+The clans shall go into
+a defensive arc to fend[A]
+off invaders.
+That is the law of Sacae.[A]
+[098F]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17C]
+Enemies shall face the wrath
+of our fellow clansmen...[A]
+That is the law of Sacae.[A]
+[0990]
+[LoadFace][0x1CD]Yes...
+That's right![A]
+Closer...closer...[A][Clear]
+Right into our trap![A]
+[0991]
+[LoadFace][0x1CD]Argh...!
+How could you defeat us...[A][Clear]
+My calculations...were...
+flawless...[A]
+[0992]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]That was no easy feat.[A]
+[OpenMidRight]But now we have hit our strongest
+enemy in Sacae hard.[A]
+Although I'm sure that there are
+remaining forces somewhere.[A]
+[OpenMidLeft]They must be meeting
+to plan a retaliation.[A]
+[OpenMidRight]Can we find out where
+they are meeting?[A]
+[OpenMidLeft]Well, I sent a spy out earlier,
+so he should be returning soon.[A]
+I will go check.[A][ClearFace][.......][LoadOverworldFaces]
+[OpenFarLeft][LoadFace][0x157]......[A]
+[OpenMidRight]Is something wrong,
+Princess Guinevere?[A]
+[OpenFarLeft][MoveMidLeft]...I have come to speak
+about my brother.[A]
+[OpenMidRight]!!
+...Is it all right?[A]
+[OpenMidLeft]Yes...[A]
+I want you to know before we
+enter Bern...about the tragedies[A]
+that have occurred.[A]
+You asked earlier if my brother
+murdered the former king.[A]
+[OpenMidRight]Yes...[A]
+[OpenMidLeft]In short...[.....]
+it is true.[A]
+[OpenMidRight]![A]
+Then King Zephiel indeed killed his
+own father to seize the throne...[A]
+[OpenMidLeft][MoveLeft]No![A]
+[OpenMidRight]No?[A]
+He didn't kill his father
+to get the throne?[A]
+[OpenLeft]No...[A]
+Our father was the first
+one who tried to kill Zephiel.[A]
+[OpenMidRight]What!?
+Then King Zephiel...[A]
+[OpenLeft]He...couldn't bear the abuse he
+was taking from our father.[A]
+And so he...[A]
+[OpenMidRight]What...
+Why did....[A][LoadOverworldFaces]
+[OpenFarLeft][LoadFace][0x154]...Master Roy![A]
+We have found where the
+enemy is meeting![A]
+...?
+What is the matter?[A][SendToBack]
+[OpenLeft]No...it is nothing.
+Perhaps later...[A][ClearFace][SendToBack]
+[OpenFarLeft]...Did I appear at a bad time?[A]
+[OpenMidRight]No, it's okay.
+Where is the meeting place?[A]
+[OpenFarLeft][MoveMidLeft]It is in a city called Bulgar.[A]
+[OpenMidRight]Bulgar...
+I've heard of it.[A]
+[OpenMidLeft]It is the largest city in Sacae.[A]
+Although, now it has been taken
+down by Bern.[A]
+[OpenMidRight]Oh...[A]
+All right, we'll be
+heading there soon.[A]
+[OpenMidLeft][ClearFace][OpenMidRight][Clear]...Why did the former king
+try to murder his own son?[A]
+[0993]
+[OpenMidLeft][LoadFace][0x13D][MoveMidLeft][ToggleSmile]They're here...!
+And so quickly...[A]
+Could they not have given me
+the time to set up defenses![A]
+[OpenMidRight][LoadFace][0x14E]We will try and stop the enemy
+from progressing any further.[A]
+You can retreat to the palace
+and fortify your defenses there.[A]
+[OpenMidLeft]...Can you hold them back?[A]
+[OpenMidRight]We must at least try.[A]
+[OpenMidLeft][MoveMidLeft]If you do not know whether
+you can win or not...[A]
+[OpenMidRight]Then what would you do?
+Flee?[A]
+Tell me, just where do
+think you can hide?[A]
+[OpenMidLeft]......[A]
+[OpenMidRight]General Brenya has given me
+orders to protect you.[A]
+And I will do so with all my
+strength![A]
+But you must not be afraid to
+fight either![A]
+[OpenMidLeft]...A-All right...[A]
+Then I shall fortify the inside
+and leave the outside to you.[A][ClearFace][......]
+[OpenMidLeft][LoadFace][0x1D7]...That is the highest advisor
+of the Etrurian council?[A]
+Why should we fight for him at
+all?[A]
+[OpenMidRight]Don't say that.[A][Clear]
+General Brenya didn't willingly tell
+us to protect him.[A]
+She had no choice because Etruria
+joined forces with Bern.[A]
+Therefore, we must fulfill our
+our duties as warriors.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]I have also gotten hold of
+information that allies of the Silver[A]
+Wolf are lurking around here.[A]
+Keep on guard at all times.[A]
+[OpenMidLeft]Yes sir.[A]
+[0994]
+[OpenMidLeft][LoadFace][0x157][OpenMidRight][LoadFace][0x102][ToggleSmile]Princess Guinevere.[A]
+[OpenMidLeft]...We fight again today.[A]
+[OpenMidRight]Yes...[A]
+I am sorry that I cannot find
+the time to talk with you at[A]
+leisure.[A]
+[OpenMidLeft]No, it is all right.[A]
+...My brother started this in the
+first place.[A]
+[OpenMidRight]Princess...[A]
+[OpenMidLeft]...Yes?[A]
+[OpenMidRight]May I ask the reason why
+Bern's former king tried[A]
+to murder King Zephiel?[A]
+[OpenMidLeft]...Zephiel and I have different mothers.
+So I am in actuality his half sister.[A]
+[OpenMidRight]I heard that Zephiel's mother
+was the Etrurian princess.[A]
+[OpenMidLeft]Yes.[A]
+It was an arranged marrige to strengthen
+the tie between Bern and Etruria.[A]
+However, our father already had a woman
+he loved at that time.[A]
+She was my mother.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]The marriage between our father
+and Zephiel's mother was forced.[A]
+Therefore, our father didn't love
+Zephiel's mother and always[A]
+thought badly of Zephiel.[A]
+[OpenMidRight]Then is that why the former king
+and King Zephiel had a bad relationship?[A]
+[OpenMidLeft]No...[A]
+Even then, Zephiel was always trying
+his best to gain our father's affection.[A]
+He excelled in his studies and military
+training and was always trying hard.[A]
+He grew to become a proud heir to
+Bern's throne.[A]
+[OpenMidRight][MoveRight]Then why did the king try to...[A]
+[OpenFarRight]Master Roy!
+We are ready for the attack![A]
+[OpenRight]All right,
+I'll be there in a minute![A][Clear]
+Princess Guinevere,
+I am sorry, but...[A]
+[OpenMidLeft]No, it is all right.
+Please be careful.[A]
+[0995]
+[OpenRight][LoadFace][0x124][ToggleSmile]Well well...
+So it has started.[A]
+[OpenFarRight][LoadFace][0x107]So it seems.[A]
+[OpenMidLeft][LoadFace][0x17B]Just when we thought Bern had
+finished invading, now we[A]
+have to deal with Etruria.
+Sigh.[A]
+[OpenFarRight][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenRight]Small wonder.
+This is a large trading city.[A]
+Any army would want control of it.[.....]
+Well then...[A]
+[OpenMidLeft]H-Hey wait,
+where are you going?[A]
+[OpenRight]I'm going to watch the fight.
+Let us see how good that Roy is.[A]
+[OpenMidLeft]What, now?
+But...[A]
+[OpenRight]Don't you worry about me.
+Everything will be fine.[A][ClearFace]
+[OpenFarRight][ClearFace][OpenMidLeft]What? Hey wait!
+You're leaving too?[A]
+[0996]
+[OpenMidLeft][LoadFace][0x14E]The reinforcements should be
+arriving soon...[A]
+I want you to[OpenMidRight][LoadFace][0x1D7][OpenMidLeft]open the front gate to
+let the reinforcements in when[A]
+they arrive.[A]
+[OpenMidRight]Yes sir.[A]
+[0997]
+[OpenMidLeft][LoadFace][0x14E][OpenMidRight][LoadFace][0x1D7]
+[OpenMidLeft]Tell the troops to start attacking the
+guerilla forces hiding in the houses.[A]
+[OpenMidRight]Yes sir.[A]
+[0998]
+[OpenMidLeft][LoadFace][0x1D7]All right, they should be here soon...
+Open the gate![A]
+[0999]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17B]
+I was selling weapons to Bern
+before the war...[A]
+But now that they've taken
+over the city,[A]
+They won't pay me anything!
+Here, I'll give you this[A][Clear]
+Dragon-killing sword,
+so can you do something?[A]
+I've been hiding it from them...
+You know why...don't you?[A]
+[099A]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x179]
+Would you like a magic
+ring from Etruria?[A]
+People used to buy them before,
+but I had to close my shop[A]
+because of the war.
+Here, take one...[A]
+They won't sell anyway.[A]
+[099B]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17D]
+This goddess statue[A]
+brings good luck.
+Well, I used to say that[A]
+to trick people,
+but I can't do business[A]
+with the war going on.
+Here, take one.[A]
+It won't bring you any luck, though.[A]
+[099C]
+[OpenMidRight][LoadFace][0x17F]
+Phew...[.....]
+I found this,[A]
+so I'm not stealing it!
+I'm sure I can sell it...[A]
+[OpenMidLeft][LoadFace][0xFFFF]
+[OpenMidRight]Whoa!
+A-Are you from Bern?[A]
+No, I wasn't stealing
+this sword![A]
+See ya![A]
+[099D]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17E]
+This is a Longbow,
+a favorite of Sacae clans.[A]
+Here, take one.
+Use it to drive Bern's[A]
+soldiers out of here![A]
+[099E]
+[LoadFace][0x14E]I am Gel.[A][Clear]
+Behold my blade...[A]
+As I swing it for
+for the last time.[A]
+[099F]
+[LoadFace][0x14E]As a swordsman...
+This...is inevitable.[A]
+[09A0]
+[OpenLeft][LoadFace][0x124][OpenMidRight][LoadFace][0x102]
+[OpenLeft]Hm.[A]
+You're not too bad,
+are you?[A]
+[OpenMidRight][ToggleSmile]W-Who are you!?[A][SendToBack]
+[OpenFarLeft][LoadFace][0x152]What!?
+Hey![A]
+I said you couldn't come in.
+Master Roy is very busy.[A]
+[OpenMidRight]What's the matter?[A]
+[OpenFarLeft]She kept pestering me that
+she wanted to see you.[A]
+But you were busy so I
+was trying to drive her away.[A][SendToBack]
+[OpenLeft][ToggleSmile]Listen to me first.[A]
+Then you can decided whether to want
+to get rid of me or not.[A]
+I think I have some information that
+you might be interested in.[A]
+[OpenMidRight][ToggleSmile]...What is that?[A]
+[OpenLeft][ToggleSmile]It is about the beasts
+who change form into humans.[A]
+[OpenMidRight][......][ToggleSmile]...I want to speak
+with her in private.[A]
+Can you leave the room?[A]
+[SendToBack][OpenFarLeft]Yes sir.[A][ClearFace]
+[OpenLeft][MoveMidLeft]Well well, that got you
+interested, didn't it?[A]
+[OpenMidRight]Those beasts you speak of...[A]
+[OpenMidLeft]Right. Dragons.[A]
+[OpenMidRight]The Dragons you speak of...[A]
+They are not the Wyverns that Bern's
+Dragon Knights use, but the strange[A]
+troops that are mixed in with
+Bern's soldiers...[A]
+[OpenMidLeft]Exactly.[A]
+Those are the Dragons that
+were supposedly defeated[A]
+in the Dragon Human wars.[A]
+[OpenMidRight]...Who are you?[A]
+[OpenMidLeft]I am Niime.[A]
+I study ancient Dark Magic in the mountains,
+so some call me the Hermit on the Mountain.[A]
+This war...at first I thought it was just
+another battle so I didn't pay heed to it.[A]
+But now I can feel the evil among Bern's
+troops, so I investigated.[A]
+[OpenMidRight]And did you find
+out anything?[A]
+[OpenMidLeft]The Dragons are indeed shrouded
+in mystery.[A]
+I looked through many ancient books
+and scrolls, but I could only decipher[A]
+so many of them.[A]
+But...[A]
+[OpenMidRight]...But?[A]
+[OpenMidLeft]I have come to believe that Bern
+has resurrected the Dark Dragon.[A]
+[OpenMidRight]Dark Dragon...[A]
+That is the leader of the
+Dragons that Hartmut defeated.[A]
+[OpenMidLeft]Yes.[A]
+[OpenMidLeft]Dragons are simply a much more advanced
+species than humans.[A]
+They have much greater vitality and
+intellect than us.[A]
+However, there was one thing that the
+Dragons lagged far behind the humans in.[A]
+The Dragons' reproductive system was
+much less efficient than that of the[A]
+humans.[A]
+But even then, the Dark Dragon...
+It had the power to create more Dragons.[A]
+That is what I learned from my research.[A]
+[09A1]
+[OpenMidRight][LoadFace][0x13D][ToggleSmile]They allowed them to get in to
+the palace!?[A]
+[MoveMidRight]Blast![A]
+If I go to hell, then that Roy
+shall be going down with me![A][OpenMidLeft][LoadFace][0x1D7]Lord Roartz![A]
+The remainders of the Djute Clan are
+saying that they'll come to our aid[A]
+once they have securely hidden
+the Mirugre.[A]
+[OpenMidRight]Mirugre?[.....]
+Ah, one of the Divine Weapons.[A]
+Good, we must hold our own until then![A]
+[09A2]
+[OpenMidLeft][LoadFace][0x124][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]This is Roartz's manor...[A]
+[OpenMidLeft]I understand that this palace holds
+methods of attacking through little[A]
+cracks in the framework.[A]
+You must not think you are safe
+just because your back is to the[A]
+is to the wall.[A]
+[OpenMidRight]Do you know much about this
+place?[A]
+[OpenMidLeft]Well, I am at least slightly known
+to know more things than most people.[A]
+The rumor about the palace is
+something I picked up back in the city.[A]
+[OpenMidRight]...Do you know what the
+Dark Dragon looks like?[A]
+[OpenMidLeft]Well, I can't say I'm absolutely sure[A]
+about that.[A]
+But I would love to see it with my
+own eyes.[A]
+[OpenMidRight]I was thinking...[A]
+Maybe the Dark Dragon is in
+human form as well.[A]
+[LoadOverworldFaces][OpenMidLeft]Perhaps.[A]
+Maybe all the Dragons are in
+human form now.[A]
+I've also heard stories of Dragons in
+human form living with people.[A]
+[OpenMidRight][FastPrint]Nabata...[A]
+[OpenMidLeft]Hm?
+Did you say something?[A]
+[OpenMidRight]No, nothing.[A]
+[OpenMidLeft]I don't know anything specific,
+but I read in an ancient scroll[A]
+that Dragons started taking human
+form only after the Ending Winter.[A]
+[OpenMidRight]The Ending Winter...[A]
+[OpenMidLeft]You have heard about it,
+have you not?[A]
+[OpenMidRight]Yes, only in legend.[A][Clear]
+'At the Winter of Ends, the
+laws of nature were turned[A]
+upside down.[A]
+Day became night, and
+summer became winter.'[A]
+[OpenMidLeft]That's it.[A]
+These scrolls are so old and damaged
+so I couldn't decipher all of them,[A]
+but one thing is clear.[A]
+The Ending Winter was a disaster
+powerful enough to bend and twist[A]
+the planet.[A]
+[OpenMidRight]What caused it?[A]
+[OpenMidLeft]Who knows...[A]
+Popular belief says that the
+laws of nature were twisted when the[A]
+Dragons unleashed vast amounts of
+magical power, but I have no idea what[A]
+really happened, either.[A]
+But it does seem certain that Dragons
+started taking human form after the[A]
+Ending Winter.[A]
+[OpenMidRight]Yes, I agree.[A]
+[OpenMidLeft]Well either way,
+the truth lies in Bern.[A]
+[09A3]
+[OpenMidLeft][LoadFace][0x1CE]Those pigs from Etruria...![A]
+I shall avenge the Djute Clan
+right here, right now![A]
+[09A4]
+[OpenMidLeft][LoadFace][0x107]Good,
+the palace is in chaos.[A]
+I shall fight those Bern troops
+[ToggleSmile]alone, to the death![A]
+[09A5]
+[OpenMidRight][LoadFace][0x12C][ToggleSmile]So...[A]
+This is Bulgar, the biggest city
+in Sacae.[A]
+I heard it was demolished by Bern,
+but there are so many soldiers here...[A]
+[ToggleSmile]There must be some treasure.[A]
+[09A6]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Are you the Etrurian General
+leading this group?[A]
+[OpenMidRight]Yes.
+And you are?[A]
+[OpenMidLeft]I am Dayan.[A]
+[OpenMidRight]Dayan...?
+I've heard it somewhere...[A]
+[OpenMidLeft]I must first thank you.[A]
+My clan was always fighting against
+Bern and the clans that followed Bern.[A]
+We were forced to reside to guerrila
+warfare instead of going up against[A]
+them face to face.[A]
+However, now that you have attacked
+Bern, the tables are beginning to[A]
+tip in our favor.[A]
+[OpenMidRight]I see.
+I am glad that I could help.[A]
+[OpenMidLeft]But I want to ask you one thing.[A]
+Once this battle is over, do you
+intend to withdraw your troops[A]
+right away?[A]
+[OpenMidRight]After this battle?[A]
+[OpenMidLeft]Yes.
+Sacae belongs to us Sacaean people.[A]
+If authoritarian rule by Bern is only
+to be replaced by Etrurian rule, then[A]
+we would have to fight you next.[A]
+[OpenMidRight]Right after this battle...
+That would not be possible.[A]
+We must have Sacae as a base to
+launch direct attacks on Bern.[A]
+[OpenMidLeft]What...
+Directly into Bern's lands?[A]
+[OpenMidRight]Even if we could drive off Bern now,
+it would only be a matter of time[A]
+until they strike back at us.[A]
+We must destroy their roots.
+Right?[A]
+[OpenMidLeft]Yes, you are right.
+I see...[A]
+In that case, I
+shall aid you.[A]
+[OpenMidRight]That would help us tremendously.[A]
+[OpenMidLeft]But once Bern is defeated, you
+must withdraw your troops from Sacae.[A]
+Is that all right with you?[A]
+[OpenMidRight][ToggleSmile]Of course.
+You have my word.[A]
+[09A7]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x106]
+[OpenMidRight][ToggleSmile]Grandpa...[A]
+[OpenMidLeft][ToggleSmile]Sue!?
+You were all right?[A]
+[OpenMidRight][ToggleSmile]I was rescued by this army.[A]
+But I was the only one of our
+of our clansmen who survived...[A]
+[OpenMidLeft]I understand...
+It was a hard battle.[A]
+[OpenMidRight]Grandpa, come with us.
+This army wouldn't invade Sacae.[A]
+[OpenMidLeft]...Are you sure?[A]
+[OpenMidRight]I swear to the sky and earth.[A]
+[OpenMidLeft]All right.
+I shall take your word for it.[A]
+[09A8]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x105]Chief![A]
+[OpenMidLeft]Shin, you've returned!
+Good, now you can join us...[A]
+[OpenMidRight][ToggleSmile]Chief...[A]
+I am currently in service
+of this army.[A]
+[OpenMidLeft]What!
+Is it the Etrurian Army?[A]
+[OpenMidRight]Yes.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]This army wouldn't invade Sacae.[A]
+So will you fight alongside us
+as well?[A]
+[OpenMidLeft]All right.
+I shall take your word for it.[A]
+[09A9]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x106]
+[OpenMidRight][ToggleSmile]Grandpa...[A]
+[OpenMidLeft][ToggleSmile]Sue!?
+You were all right?[A]
+[OpenMidRight][ToggleSmile]I was rescued by this army.[A]
+But I was the only one of our
+our clansmen who survived...[A]
+[OpenMidLeft]I understand...
+It was a hard battle.[A]
+[OpenMidRight]Grandpa,
+will you fight with us as well?[A]
+[OpenMidLeft]Yes.[A]
+This army doesn't seem to
+be one that would invade Sacae...[A]
+[OpenMidRight]I see...[A]
+[09AA]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x105]Chief![A]
+[OpenMidLeft]Shin, you've returned!
+Good, now you can join us...[A]
+[OpenMidRight][ToggleSmile]Chief... I am currently in
+the service of this army.[A]
+[OpenMidLeft]What!
+Is it the Etrurian Army?[A]
+[OpenMidRight]Yes.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]This army wouldn't invade Sacae.[A]
+So would you fight alongside us
+as well?[A]
+[OpenMidLeft]All right.
+I shall take your word for it.[A]
+
+[09AB]
+[LoadFace][0x13D][ToggleSmile]S-Someone!
+Come and defend me![A][Clear]
+It is all over if I am hurt![A]
+[09AC]
+ [LoadFace][0x13D][ToggleSmile]W-Wait...
+Be my servant![A]
+It is still not too late...[A][Clear]
+I shall...forgive your crime
+of turning your[......] your blade...[A]
+Toward me... Guh...![A]
+[09AD]
+[OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Next is Bern...[A]
+[OpenMidLeft][LoadFace][0x154]Master Roy![A]
+We have some reports that remainders
+of the Djute Clan are hiding in some[A]
+ruins near here.[A]
+[OpenMidRight]Ruins?[A]
+[OpenMidLeft]Yes.[A]
+And we also have a captive who
+who says that a bow used during[A]
+the Dragon Human Wars resides there.[A]
+[OpenMidRight]What?
+Then...[A]
+[OpenMidLeft]It's highly possible that
+it is a Divine Weapon.[A]
+[OpenMidRight]We must get to those ruins!
+Let's go![A]
+[09AE]
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x154]
+[OpenMidRight][ToggleSmile]Merlinus, I need you to send this
+letter to Bishop Yodel in Etruria.[A]
+[OpenMidLeft]A letter?
+May I ask what it says?[A]
+[OpenMidRight]It's the story we heard from
+Niime about the Dragons.[A]
+[OpenMidLeft]Oh?[A]
+What did you discuss
+with her about the Dragons?[A]
+[OpenMidRight]It'll get long if I tell you.[A]
+I haven't sealed the letter yet so
+you can look through it if you want.[A]
+[OpenMidLeft][MoveFarLeft][OpenFarLeft][FastPrint]All right.
+Let me see...[A][ClearFace]
+[OpenFarLeft][LoadFace][0x157]...Roy.[A]
+[OpenMidRight]Princess,
+is something wrong?[A]
+[OpenFarLeft]...We enter Bern now.[A]
+[OpenMidRight]Yes.
+We will attack Bern very soon.[A]
+So...may I ask the rest of[A]
+story now?[A]
+[OpenFarLeft][MoveMidLeft]...Yes.
+That is why I came to you.[A]
+[OpenMidRight]King Zephiel was an outstanding pupil in
+his studies, he was skilled in war craft...[A]
+He grew to be the perfect heir for the king.[A]
+[OpenMidLeft]That is correct.[A]
+[OpenMidRight][CloseSpeechFast]But still the former king
+did not look kindly at him.[A]
+[OpenMidLeft]In fact...[A]
+Our father began to hate Zephiel
+because he grew to become such a[A]
+brilliant and worthy youth.[A]
+[OpenMidRight][NormalPrint]What...
+is that supposed to mean...?[A]
+[OpenMidLeft][CloseSpeechFast]Our father was a man of ordinary
+skill and intellect.[A]
+Therefore, Zephiel's outstanding skill
+made our father cold towards him.[A]
+[OpenMidRight][NormalPrint][ToggleMouthMove]Jealousy...?[A]
+[OpenMidLeft][CloseSpeechFast][ToggleMouthMove]And then one day, our father
+told Zephiel that 'the next heir to[A]
+Bern would be Guinevere's husband.'[A]
+
+[09AF]
+Pherae Army
+[09B0]
+Alliance Army
+[09B1]
+Alliance Army
+[09B2]
+Alliance Army
+[09B3]
+Etrurian Army
+[09B4]
+Brigands
+[09B5]
+Bern Dispatch
+[09B6]
+Lycian Rebels
+[09B7]
+Thria Cavalry
+[09B8]
+Rebel Forces
+[09B9]
+Brigands
+[09BA]
+Occupation
+[09BB]
+Bern Dispatch
+[09BC]
+Bern Dispatch
+[09BD]
+Ilian Knights
+[09BE]
+Coup d'etat
+[09BF]
+Sacae Nomads
+[09C0]
+Bern Forces
+[09C1]
+Bern Army
+[09C2]
+Dragons
+[09C3]
+Roy's Army
+[09C4]
+Ostian Army
+[09C5]
+Laus Cavalry
+[09C6]
+B
+[09C7]
+W
+[09C8]
+L
+[09C9]
+Roy returned home to rebuild
+the lands in Lycia that were
+trampled by the war. People always seemed
+to like him, and he left behind many legends
+during the course of his life.
+[09CA]
+Clarine returned home to Aquleia
+and lived her life as she did
+before the war. Her personality never changed, but
+her charm and true kindness earned her admiration
+and love from her peers in the Etrurian Nobility.
+[09CB]
+After returning to Nabata,
+Fa was never heard of again.
+Many historians today voice their skepticism
+whether she really existed at all...
+[09CC]
+After returning to Sacae, Shin
+joined his newly reunited
+clan. He never had much to say, but with his
+leadership and skill with the bow, he spread his
+name across the plains as the new Silver Wolf.
+[09CD]
+Sue returned to Sacae and resumed
+life as a Nomad. Despite playing
+a major role in the war, she refused to claim
+credit. Some people say that she reminded them
+of the "Divine Warrior" Hanon.
+
+[09CE]
+Sue accompanied Roy to Lycia,
+where she married him and
+became the mistress of Pherae. However, she could not
+cast away her love for nature, and her behavior
+sometimes troubled those around her.
+[09CF]
+Dayan built a new clan built
+around his remaining Kutolah
+brothers. His quest did not go without opression, but
+he used his persevering leadership to create harmony
+and lead the clan to become the greatest in Sace.
+
+[09D0]
+After returning home, Barth
+was put in charge of the Ostian
+military. Although devastated from the tragedies of
+Hector's death and the rebellion, Barth's strict
+leadership led the Ostian Military to glory once
+again.
+[09D1]
+Bors returned to Ostia to help
+rebuild his ravaged country.
+His kind hearted nature allowed him to reunite the
+people once again to bring back harmony and
+prosperity to Ostia.
+
+[09D2]
+Wendy chose to live her life as
+an Armor Knight. Her actions
+gave courage to many, and she is still
+remembered today as the first female
+captain of an Armor Knight squad.
+[09D3]
+Although at one point he retired
+from the military, Douglas
+continued to receive requests from Etruria
+to come back. Unable to refuse, he returned to
+the palace to lead the Etrurian Army once again.
+[09D4]
+Wolt returned to Lycia with Roy
+to assist him in rebuilding his
+homeland. Although many  hardships stood before
+them, Wolt did his best to support Roy and
+played a big role in leading Lycia to prosperity.
+[09D5]
+Dorothy returned to her home-
+town and led a normal life. She
+was never the flashiest or the most impressive
+among her comrades, but perhaps she may be the
+one who led the best life afterwards...
+[09D6]
+Klein put down his bow and
+became an ambassador for
+Etruria. He used his diplomatic abilities to settle
+many foreign affairs. While he was in office,
+he made sure that Etruria was the center of a
+prosperous continent.
+
+[09D7]
+Although the church offered
+him the position of Bishop,
+Saul turned it down and went off on his own,
+serving the people in his own way. There are
+many stories about his behavior...
+[09D8]
+Elen returned to Bern with
+Guinevere to rebuild a
+land ravaged by war, and to reunite a people
+devastated by defeat. Her hard work and kind-
+hearted nature earned her the title,
+"The Saint of Bern."
+[09D9]
+Yodel continued to spread
+the faith of the Elimine
+Church. He eventually rose up to the position
+of Archbishop, but never let his power blind
+him from those in need.
+[09DA]
+After the war, Chad quit
+thievery. He traveled around
+the continent and dedicated his life to helping
+orphan children. Not many could guess from his
+actions that he started out as a thief.
+[09DB]
+Karel retired to a small
+village in the mountains of
+Bern and lived his life in peace. Although many
+swordsmen came to him for direction, he never
+tought any of them directly.
+[09DC]
+Fir set out again to
+travel around the world
+in training. Her name eventually spread through-
+out the continent as the next Sword Saint, and
+her legends were told for centuries to come.
+
+[09DD]
+After the war, Rutger
+disappeared. Many claimed
+that they had seen him around Elibe, but
+none of them had any solid proof. Today,
+his name appears only in records of this war...
+[09DE]
+Dieck broke up his
+mercenary band and
+set out to travel on his own. After that, he
+continued to participate in various battles.
+He left many legends behind in his wake...
+[09DF]
+Garret quit banditry
+and led a normal life.
+He worked and tended to his crops just as
+any ordinary villager would do. He never
+picked up a weapon again after the war ended.
+[09E0]
+Upon returning to Pherae
+with Roy, Alan proceeded
+to help his master rebuild the trampled land.
+His fire and powerful will inspired many and
+gave them a new hope to live.
+[09E1]
+Upon returning to Pherae
+with Roy, Lance proceeded
+to help his master rebuild the trampled land.
+Never losing his cool, he played a major
+role in leading Pherae to peace again.
+[09E2]
+Percival returned to Etruria
+where he rose to become the
+new Great General. He then continued to climb up the
+ladder of glory. His name is remembered for
+years as the model of the Etrurian Knight.
+[09E3]
+After saying that she
+would return to Nabata,
+Igrene disappeared. There are records of people see-
+ing her in various places around Elibe, but no
+one knows where or how she led the rest of her
+life.
+[09E4]
+Marcus finally retired
+upon returning to Pherae.
+Although he tried to live in peace, he could never
+get rid of the endless stream of aspiring knights
+begging for his direction.
+[09E5]
+After the war, Asthor's
+name disppeared from the
+records. Legends say that he worked to rebuild
+Ostia, but nothing else about him is known.
+[09E6]
+After returning home,
+Ward worked to cultivate
+and develop the wilderness of the isles. His
+work was passed on through many generations to
+build  the greatest city on the Western Isles.
+
+[09E7]
+After returning home,
+Lott married his childhood
+friend and led a fulfilling if meager life.
+Although he played a major role in the war,
+he rarely talked about it openly.
+[09E8]
+After returning home,
+Bartre opened a small bar.
+His jolly personality ensured success, but what
+but what really kept customers coming back were
+the stories he had to tell about his valor in
+battle.
+[09E9]
+Lugh built a magic
+school where the
+orphanage used to be. He took in orphans and
+other deprived children and taught them magic
+as a way to live.
+[09EA]
+After returning home, Lilina
+became the Marquess of Ostia
+and married Roy a short while later.
+Together, Roy and Lilina united Lycia
+and created the Kingdom of Lycia, a nation
+blessed with prosperity and harmony.
+
+[09EB]
+After returning home, Lilina
+became the Marquess of Ostia
+and dedicated her time to rebuilding her land. She
+later rebuilt the Lycia Alliance to create the
+Kingdom of Lycia, a peaceful nation.
+
+[09EC]
+Although many nations sought
+out his service, Hugh declined
+them all and led his own life. He was always
+a pain when it came to money, but his magical
+abilities allowed him to imprint his name in
+history.
+[09ED]
+Niime returned to her secluded
+home in the mountains and
+continued her research. It is said that she
+solved many of the world's mysteries, but we can
+never know for sure for she left no records.
+[09EE]
+Ray traveled the world, honing
+hismagic skills. Although
+dark magic had been all but forgotten, Ray's efforts
+brought it back to people's awareness again. He was
+was known for being hard on himself and others.
+
+[09EF]
+Lalum continued to travel around
+the world as a  dancer.
+Her energetic dancing struck the hearts of
+many, and her style has been passed
+on through many generations to this day.
+[09F0]
+Lalum accompanied Roy to Pherae,
+where they married. Many voice
+their discontent at bringing in a woman of
+unknown origins into the family, but Lalum
+proceeded to live happily with Roy.
+[09F1]
+After returning to Edessa,
+Yuno worked to reunite the
+Pegasus Knights. Later, she was asked to lead
+the new squad, but she refused and led the rest
+of her life happily with Zealot.
+[09F2]
+Tate returned to Ilia, where
+she worked to reunite the
+divided Pegasus Knights. Her diligent work
+and leadership paid off, and the Pegasus
+Knights gradually regained their former glory.
+[09F3]
+After the war, Thany was
+knighted and became a full-
+fledged Pegasus Knight. Throughout her career,
+she served as lieutenant and squad leader, and
+eventually to the position of Flightleader.
+[09F4]
+Thany gave up the path of
+a Pegasus Knight and went
+to Pherae with Roy, where they married.
+Rebuilding the land was a hard process, but she
+encouraged people to help lead Lycia to
+prosperity.
+[09F5]
+Zeiss aided Guinevere in
+rebuilding Bern, and as he
+rose in rank, he was criticized for siding with
+Etruria, but his loyalty to Guinevere coupled with
+Guinevere's help earned him respect from his peers.
+
+[09F6]
+After the war, Elphin
+disappeared without a trace.
+Several months later, an official announcement
+was made in Etruria that Prince Mildain was
+still alive.
+[09F7]
+Cath set out to travel
+the world after the war.
+She continued to give to the poor while
+exposing the secrets of greedy nobles and
+merchants. Her name remains in history as the
+"Master Thief."
+[09F8]
+Sophia accompanied Roy
+to Pherae, where they
+married. Although she was never very talkative,
+her wise decisions played a major role in the
+reconstruction of Lycia.
+[09F9]
+After returning to Nabata,
+Sophia disappeared. There
+Are no records of what happened to Nabata
+After the war, so no one knows how Sophia
+led her life from then on...
+[09FA]
+Miledy returned home with
+Guinevere to help rebuild the
+new Kingdom of Bern. Her unbending will and hard
+work earned Guinevere due respect, and Bern
+began to regain its former prosperity. 
+[09FB]
+When Gonzales returned to
+his home on the Western
+Isles, he was not greeted with stones or harsh
+words. Instead, people cheered for the return
+of a hero.
+[09FC]
+Wanting to test his
+ability, Noah left
+Zealot's group and traveled the world as a lone
+mercenary. Although several nations offered him
+positions in their armies, he turned them
+all down.
+[09FD]
+Treck remained in Zealot's
+group, where he continued
+to fight as a mercenary. Although he was
+sleeping half the time, in battle, he would
+always demolish all those who dared stand in
+his path.
+[09FE]
+Zealot returned to Ilia,
+Where he worked to
+rebuild the ruined land. He eventually united
+the Knights of Ilia into the Kingdom of Ilia
+and he left his name as the nation's first
+king.
+[09FF]
+After Echidna went back
+Home to the Western Isles,
+the people were overjoyed at the return of their
+hero. Her hard work united the Isles into
+a new nation, the Western Union.
+[0A00]
+Cecilia returned home and
+helped rebuild Etruria.
+Her calm judgement and leadership played a role
+in directing Etruria to prosperity once again.
+After her death, she was known as the "Etrurian
+Maiden."
+[0A01]
+Cecilia accompanied Roy to
+Pherae, where she helped
+rebuild the battered land. She eventually married
+Roy, continuing to offer him close support and
+aid as the Duchess of Pherae.
+[0A02]
+Geese reopened his trading
+routes, where he started to
+regain his profits. He donated large sums of money
+to the Western Isles, helping greatly in the area's
+development. This act made him into the
+"Ruler of the Seas."
+[0A03]
+Oujay continued to travel
+around the world as a merc-
+enary and his name gradually spread across the
+Continent as a great warrior. Even in his fame,
+he kept the utmost respect for his comrades in
+the war.
+[0A04]
+Worked to rebuild
+Pherae.
+[0A05]
+Returned to Etruria.
+[0A06]
+Vanished without a
+trace.
+[0A07]
+Joined a new clanin Sacae.
+[0A08]
+Returned home.
+[0A09]
+Reunited his former
+clan.
+[0A0A]
+Rebuilt the Ostian
+Army.
+[0A0B]
+Worked to rebuild Ostia.
+[0A0C]
+Lived as an Armor
+Knight.
+[0A0D]
+Retired to live
+peacefully.
+[0A0E]
+Helped rebuild Pherae.
+[0A0F]
+Returned to her old
+life.
+[0A10]
+Became the Etrurian
+Ambassador.
+[0A11]
+Became a missionary.
+[0A12]
+Worked to rebuild Bern.
+[0A13]
+Spread the word of
+Elimine.
+[0A14]
+Worked to help orphans.
+[0A15]
+Retired to a village
+in Bern.
+[0A16]
+Kept training.
+[0A17]
+Disappeared like the wind.
+[0A18]
+Continued his mercenary
+path.
+[0A19]
+Led a normal life.
+[0A1A]
+Helped rebuild Pherae.
+[0A1B]
+Helped rebuild Pherae.
+[0A1C]
+Rose to the top of
+his military.
+[0A1D]
+Vanished in Nabata.
+[0A1E]
+Enjoyed retired life.
+[0A1F]
+Disappeared without atrace.
+[0A20]
+Developed the Western
+Isles.
+[0A21]
+Returned home to live
+happily.
+[0A22]
+Opened a small bar.
+[0A23]
+Built a school for
+orphans.
+[0A24]
+Worked to rebuild Ostia.
+[0A25]
+Continued his studies
+in magic.
+[0A26]
+Disappeared in the
+mountains.
+[0A27]
+Traveled the world.
+[0A28]
+Stayed a dancer.
+[0A29]
+Worked on the
+Pegasus Knights.
+[0A2A]
+Became the new
+Flightleader.
+[0A2B]
+Returned home and
+was knighted.
+[0A2C]
+Helped Guinevere
+rebuild Bern.
+[0A2D]
+Vanished before anyone
+noticed.
+[0A2E]
+Traveled the world
+as a thief.
+[0A2F]
+Returned to Nabata.
+[0A30]
+Helped Guinevere
+rebuild Bern.
+[0A31]
+Returned to the
+Western Isles.
+[0A32]
+Set out to
+test his strength.
+[0A33]
+Stayed as a
+mercenary knight.
+[0A34]
+Helped rebuild Ilia.
+[0A35]
+Returned to the
+Western Isles.
+[0A36]
+Worked to rebuild
+Etruria.
+[0A37]
+Reopened his trade
+routes.
+[0A38]
+Traveled as
+a mercenary.
+[0A39]
+Pheraen Prince
+[0A3A]
+Troubadour
+[0A3B]
+Divine Dragon
+[0A3C]
+Nomad
+[0A3D]
+Nomad
+[0A3E]
+Silver Wolf
+[0A3F]
+Armor
+[0A40]
+Hearty Armor
+[0A41]
+Armor
+[0A42]
+General
+[0A43]
+Pheraen Archer
+[0A44]
+Archer
+[0A45]
+Sniper
+[0A46]
+Priest
+[0A47]
+Priestess
+[0A48]
+Priest
+[0A49]
+Thief
+[0A4A]
+Sword Master
+[0A4B]
+Myrmidon
+[0A4C]
+Myrmidon
+[0A4D]
+Mercenary
+[0A4E]
+Berserker
+[0A4F]
+Fiery Knight
+[0A50]
+Green Knight
+[0A51]
+Knight General
+[0A52]
+Sniper
+[0A53]
+Pherae Veteran
+[0A54]
+Thief
+[0A55]
+Fighter
+[0A56]
+Fighter
+[0A57]
+Fists of Fury
+[0A58]
+Anima Child
+[0A59]
+Elegant Lord
+[0A5A]
+Traveling Mage
+[0A5B]
+Mountain Hermit
+[0A5C]
+Darkness Child
+[0A5D]
+Charming Dancer
+[0A5E]
+Legendary Wings
+[0A5F]
+Wind Rider
+[0A60]
+Reason Feathers
+[0A61]
+Black Lightning
+[0A62]
+Truth Seeker
+[0A63]
+Master Thief
+[0A64]
+Nabata Prophet
+[0A65]
+Crimson Wings
+[0A66]
+Gentle Bandit
+[0A67]
+Freedom Knight
+[0A68]
+Passive Knight
+[0A69]
+Knight Leader
+[0A6A]
+Western Goddess
+[0A6B]
+Kingdom Child
+[0A6C]
+Sea Ruler
+[0A6D]
+Little Hero
+[0A6E]
+Title1
+[0A6F]
+Men and Dragons once lived in harmony
+on this land. However, that harmony
+was broken when the men suddenly
+started to invade. In a great war
+known later as the Scouring, both
+sides fought over dominion of the
+continent. The laws of nature were
+twisted from the vast amounts of
+power that were released...
+The Dragons were defeated and
+disappeared from the face of continent.
+Mankind then began to spread its
+forces throughout to populate the land.
+And now, 1000 years later...
+[0A70]
+
+[0A71]
+Men and Dragons once lived in harmony
+on this land. However, that harmony
+was broken when the men suddenly
+started to invade. In a great war
+known later as the Scouring, both
+sides fought over dominion of the
+continent. The laws of nature were
+twisted from the vast amounts of
+power that were released...
+The Dragons were defeated and
+disappeared from the face of continent.
+Mankind then began to spread its
+forces throughout to populate the land.
+And now, 1000 years later...
+[0A72]
+The Scouring...
+The great war between Dragons and men...[A]
+[0A73]
+The Dragons were defeated
+and disappeared from Elibe...[A]
+[0A74]
+Mankind celebrated victory and then
+spread their forces throughout the continent...[A]
+[0A75]
+1000 years have passed...[A]
+[0A76]
+The people of the continent Elibe have
+been spreading technology and civilization[A]
+for some time now, after the Dragons had
+been defeated in the Scouring.[A]
+[0A77]
+In the west resides the kingdom of
+Etruria, which has the highest level of[A]
+civilization in Elibe.[A]
+[0A78]
+The Kingdom of Bern, with a powerful
+military and a practical and pragmatic[A]
+attitude about life, is located in the east.[A]
+[0A79]
+These are the two strongest nations in Elibe,
+and the lesser nations are located between[A]
+them.[A]
+[0A7A]
+There is the Lycian Alliance, which is under
+joint relationship of various marquesses.[A]
+[0A7B]
+The people of the Knights Union of Ilia
+are hard at work cultivating the snowy[A]
+wastelands in the north.[A]
+[0A7C]
+In Sacae live various clans which ride
+through the plains on horseback.[A]
+[0A7D]
+Although there were occasional clashes
+between nation-states, there was a general[A]
+sense of balance of power and peace in
+Elibe.[A]
+However, that balance was suddenly
+disrupted...[A]
+[0A7E]
+King Zephiel, ruler of the Kingdom of Bern,
+has sent his forces out to conquer the rest[A]
+of Elibe.[A]
+[0A7F]
+Bern's forces invaded Sacae and Ilia and
+mercilessly massacred all those who stood[A]
+against them.[A]
+And now, Bern has shown signs of invading
+the Lycia Alliance.[A]
+[0A80]
+A youth named Roy was in Lycia's largest
+territory, Ostia.[A]
+[LoadOverworldFaces]He was sent as a transfer student to train
+to become the next Marquess of Pherae.[A]
+However, [LoadOverworldFaces]Eliwood, who has fallen ill,
+has sent for Roy to return home.[A]
+[0A81]
+[LoadOverworldFaces]Just around that time Lilina, the[LoadOverworldFaces]
+daughter of Hector, had traveled to Lycia[A]
+to pay her respects to Eliwood.[A]
+[0A82]
+After getting the message, Roy hurried
+back home, taking with him his loyal[A]
+knights and [LoadOverworldFaces]Bors, a knight from Ostia
+responsible for Lilina's safety.[A]
+
+[0A83]
+The story begins when Roy had reached an
+area on the outskirts of Pherae...[A]
+[0A84]
+
+[0A85]
+
+[0A86]
+
+[0A87]
+
+[0A88]
+
+[0A89]
+
+[0A8A]
+There is a small village on the border
+of Pherae and Bern.[A]
+Here was where Roy was to meet the
+[LoadOverworldFaces]mercenary band that Eliwood had hired[A]
+for him.[A]
+[0A8B]
+Just east of the village is a small castle
+occupied by Bern's forces.[A]
+When Roy had reached the village,
+the castle was in a chaotic state.[A]
+Roy had yet to learn that the confusion
+going on in the castle was going to[A]
+cause turbulence all over Elibe...[A]
+[0A8C]
+
+[0A8D]
+
+[0A8E]
+
+[0A8F]
+Just to the north of Pherae territory
+stands Castle Araphen.[A]
+The Lycia Alliance had gathered here to
+discuss the matters of going up against[A]
+Bern.[A]
+However, [LoadOverworldFaces]Roy[LoadOverworldFaces] and [LoadOverworldFaces]Guinevere were only half
+a day away from Castle Araphen, when a[A]
+messenger brought them news that they
+could not believe.[A]
+The message was this:[A]
+"Bern has a trio of elite generals
+called the Three Dragon Lords."[A]
+[0A90]
+[LoadOverworldFaces]Two of these three, General Brenya and
+[LoadOverworldFaces]General Narshen, have attacked Castle[A]
+Araphen and nearly decimated the Lycia
+Alliance Army.[A]
+
+[0A91]
+Although the morale of the Pherae Army went
+down severely, [LoadOverworldFaces]Roy led his group towards[A]
+Castle Araphen to find survivors and
+check the damage.[A]
+[0A92]
+
+[0A93]
+
+[0A94]
+
+[0A95]
+
+[0A96]
+
+[0A97]
+
+[0A98]
+Respecting Hector's last wishes,
+Roy made his way west toward Ostia.[A]
+[LoadOverworldFaces]On the way there,
+[LoadOverworldFaces]Roy passes through the Laus territory,[A]
+goverened by [LoadOverworldFaces]Lord Eric.[A]
+At a glance, Laus is a peaceful territory
+with vast meadows and clear streams,[A]
+but there was great skullduggery
+going on behind the scenes...[A]
+[0A99]
+Lord Eric, Marquess of Laus, had been
+working with Bern against his allies[A]
+of Lycia.[A]
+This gave [LoadOverworldFaces]Roy further shock.[A]
+Lycia, where Roy had grown up in, was
+no longer a safe place to be either.[A]
+[LoadOverworldFaces]Heading for Ostia, Roy decided to move
+[LoadOverworldFaces]through the mountains where people[A]
+seldom want to avoid unncessary trouble.[A]
+[0A9A]
+
+[0A9B]
+
+[0A9C]
+
+[0A9D]
+
+[0A9E]
+
+[0A9F]
+After taking [LoadOverworldFaces]Saul, a priest of the
+Elimine Church, and [LoadOverworldFaces]Dorothy, his[A]
+bodyguard into their ranks, [LoadOverworldFaces]Roy
+and company crossed the mountains and[A]
+entered the [LoadOverworldFaces]Thria lands, located to
+the southeast of Ostia.[A]
+Thria is governed by Lord Orun, a
+half brother to Lord Hector.[A]
+[0AA0]
+Orun's home castle seemed to be a safe
+place to stay for Roy.[A]
+
+[0AA1]
+However, Bern had its reach in the lands
+of Thria as well...[A]
+[0AA2]
+
+[0AA3]
+
+[0AA4]
+
+[0AA5]
+Hearing of the rebellion,
+Roy hurried his pace towards Ostia.[A]
+[0AA6]
+According to the information that he had
+gathered on the way, [LoadOverworldFaces]General Leygance,[A]
+one of Lord Hector's advisors, had started
+a rebellion with[LoadOverworldFaces] Lieutenant Devias to sell[A]
+Ostia to Bern.[A]
+[0AA7]
+Lilina had been captured and taken hostage
+by Leygance. She was then imprisoned inside[A]
+Castle Ostia, because Leygance thought
+that he could use her for something[A]
+later on.[A]
+[0AA8]
+Hearing that report, Roy and company
+entered Ostia in an effort to[A]
+rescue Lilina.[A]
+[0AA9]
+Ostia, the largest and most active city in
+Lycia, was to become a battlefield,[A]
+stained with blood...[A]
+[0AAA]
+
+[0AAB]
+
+[0AAC]
+
+[0AAD]
+
+[0AAE]
+Ostia's military primarily consists of
+soldiers in heavy defense gear,[A]
+such as Armor Knights and Generals.[A]
+[LoadOverworldFaces]With them, Castle Ostia's defenses
+have always been incredibly strong.[A]
+For a long time now, the castle has been
+rumored to be "unconquerable."[A]
+However, that rumor was about to be
+proven wrong.[A]
+By [LoadOverworldFaces]Roy, who, ironically, wished
+to protect the castle.[A]
+[0AAF]
+
+[0AB0]
+
+[0AB1]
+
+[0AB2]
+
+[0AB3]
+
+[0AB4]
+
+[0AB5]
+
+[0AB6]
+
+[0AB7]
+Roy vowed to protect Lilina forever.
+However, with Bern coming full force at them,[A]
+Roy's army wouldn't stand a chance.[A]
+Therefore, they decided to try
+and take the Divine Weapons before[A]
+Bern got their hands on them.[A]
+Lilina showed them to a cave
+
+in the outskirts of Ostia,[A]
+where the first Divine Weapon was hidden.[A]
+The cave, located at the foot of a volcano,
+was going to be a major ordeal for Roy.[A]
+[0AB8]
+
+[0AB9]
+
+[0ABA]
+After driving off General Narshen from
+Ostia, [LoadOverworldFaces]Roy and company braced themselves[A]
+for further attacks from [LoadOverworldFaces]Bern.[A]
+However, Bern's belligerent movement
+towards Lycia suddenly stopped altogether,[A]
+as if to mock Roy and his caution.[A]
+Bern was also maintaining a neutral
+position regarding the truce offer[A]
+from Etruria.[A]
+Bern's sudden silence and lack of
+activity could only be described as eerie.[A]
+[0ABB]
+With Hector gone, Eliwood was now the
+only lasting power in Lycia.[A]
+Eliwood summoned the various marquesses to
+Pherae to discuss their future actions.[A]
+[LoadOverworldFaces]It was decided that Eliwood was to
+become the next leader of the Lycia Alliance[A]
+and that a new Lycia Alliance Army would
+be established.[A]
+This new army's purpose was not to
+take the offense against Bern, but[A]
+rather take a defensive stance for Lycia.
+For his victory against Bern in Ostia,[A]
+[LoadOverworldFaces]Roy was chosen to be the leader of
+the new Lycia Alliance army.[A]
+[0ABC]
+Slowly but surely, the people of Lycia
+were starting to brighten up.[A]
+Business was improving, and people's
+attitudes started to get more optimistic.[A]
+Around that time, Etruria called for Lycia's
+assistance in ridding the [LoadOverworldFaces]Western Isles of
+the outlaws and bandits making their base[A]
+base there.[A]
+[0ABD]
+Lycia's citizens expressed their discontent
+by saying that they saw no reason in sending[A]
+troops all the way to the Western Isles, but
+because Lycia needed Etruria's protection[A]
+against Bern, they had no choice but to
+oblige.[A]
+[LoadOverworldFaces]Thus, Roy and the Lycia Alliance Army
+passed through Etruria and made their way[A]
+towards the Western Isles.[A]
+[0ABE]
+The Western Isles are the various
+islands off the western coast of Elibe.[A]
+Currently, they are colonies of Etruria.
+The Western Isles are rich in minerals[A]
+and natural resources, so mining[A]
+is a major industry. However, these
+minerals are worth a fortune,[A]
+so various [LoadOverworldFaces]rogue groups have traveled
+there hoping to loot the mines[A]
+and sell the minerals for themselves.[A]
+Thus, the people living on the Western Isles
+spend their days in constant fear[A]
+of bandit attacks.[A]
+And Roy had been sent
+to defeat these bandits.[A]
+
+[0ABF]
+Roy accompanied Cecilia to the
+Etrurian capital of Aquleia.[A]
+[0AC0]
+After debating about Roy and Guinevere's
+Position, the Etrurian Court decided[A]
+[0AC1]
+that they had no reason to attack Bern
+when they hadn't suffered a direct[A]
+offense.[A]
+[0AC2]
+Guinevere was to stay under Etrurian
+Protection at Aquleia, and the Lycia[A]
+Alliance Army was to be an independant
+[0AC3]
+squad under the Etrurian Military.
+To test his worth, Etruria sent Roy[A]
+[0AC4]
+to the Western Isles, where his
+mission was to rid the islands[A]
+[0AC5]
+of bandits there. The Western
+Isles is an archipelago under[A]
+[0AC6]
+Etrurian protection lying to the west
+Of the mainland. Many mining[A]
+[0AC7]
+corporations have sprouted up, trying
+to monopolize the rich minerals that[A]
+[0AC8]
+lie in the islands' soils. However,
+the riches attracted many bandits,[A]
+[0AC9]
+and the people lived in
+constant fear of them...[A]
+[0ACA]
+3 seperate islandsア Fibernia,[LoadOverworldFaces][A]
+[0ACB]
+Caledonia,[LoadOverworldFaces][A]
+[0ACC]
+[LoadOverworldFaces]and Dia.[A]
+All of these islands are rich
+in mineral resources,[A]
+and mining has become a large industry.[A]
+The largest mine is located in
+[LoadOverworldFaces]Mt. Ebrakhm, in the north of Fibernia.[A]
+[LoadOverworldFaces]Roy turned his forces towards
+Ebrakhm hoping to gather some information
+[A]on the bandits.[A]
+
+[0ACD]
+To get to Mt. Ebrakhm, one must go
+past the castle that is located in [A]
+Ebrakhm valley.[A]
+Therefore, Roy sent a messenger to [LoadOverworldFaces]Nord,[A]
+the castle owner, to be granted permission
+to pass through his lands.[A]
+Since Roy and company were there because
+of an official request from Etruria,[A]
+they didn't think that gaining Nord's[A]
+support would be as difficult.[A]
+[0ACE]
+Roy couldn't believe Lalum's story.[A]
+He quickly penned off a letter to [LoadOverworldFaces]Cecilia
+letting her know of the horrors happening[A]
+on the Western Isles.[A]
+He also let her know of the actions that he[A]
+planned to take from now on.[A]
+
+After sending the letter, Roy and
+company moved towards the mine in[A]
+[LoadOverworldFaces]Mt. Ebrakhm to try and rescue the people[A]
+[0ACF]
+suffering from forced labor.[A]
+Etruria had assigned [LoadOverworldFaces]Bishop Oro
+of the Elimine Church to supervise[A]
+the mine.[A]
+Already a large amount of minerals had been
+taken, but it seemed they wanted more..[A]
+[0AD0]
+Ebrakhm... known now as the Mine of Death.[A]
+The wails of the people forced into labor
+there echo through the mines, like[A]
+the howling of ghosts...[A]
+[0AD1]
+
+[0AD2]
+
+[0AD3]
+
+[0AD4]
+In order to get some information from
+the resistance forces about the bandits[A]
+[LoadOverworldFaces]on the Western Isles, Roy and company
+moved west along the coastline.[A]
+
+[0AD5]
+Along the way, they came across[A]
+a small village caught in constant
+conflict between the resistance group[A]
+and the landowner trying to get
+rid of them.[A]
+[0AD6]
+
+[0AD7]
+
+[0AD8]
+The Lycia Alliance Army took Elphin as
+a tactician.[A]
+[LoadOverworldFaces]Following his advice, they moved south[A]
+toward the isle of Caledonia.
+Caledonia is one of the main islands[A]
+that make up the Western Isles.
+The other two are Fibernia and Dhia.[A]
+[LoadOverworldFaces]Castle Idina is located on Caledonia. Here,
+men from all over the world are rounded up[A]
+[0AD9]
+and locked in prison cells to be taken
+to Mt. Ebrakhm, to the Mines of Death.[A]
+[0ADA]
+When Roy arrived at Castle Idina,
+the situation already looked dire...[A]
+[0ADB]
+
+[0ADC]
+To rescue the people of the Western Isles,[A]
+Roy headed for Djuto, the Isle's largest
+city and its capital.[A]
+
+[0ADD]
+According to Elphin, Lord Arcard, who was
+in charge of supervising the Western Isles,[A]
+was an Etrurian of high nobility, but not
+of high importance to the Etrurian[A]
+government.[A]
+
+[0ADE]
+Roy was still worried about Etruria's response
+to his attacking the capital,[A]
+[LoadOverworldFaces]but to rescue the people, he had
+to get rid of Arcard as soon as possible.[A]
+[0ADF]
+
+[0AE0]
+
+[0AE1]
+
+[0AE2]
+
+[0AE3]
+
+[0AE4]
+Following Elphin's lead, Roy
+headed for the cave near Djuto[A]
+to obtaian the Divine Weapon.
+
+[0AE5]
+But Roy and company weren't the[A]
+only ones who knew of the cave.[A]
+Yet another battle was awaiting them...[A]
+
+[0AE6]
+
+[0AE7]
+
+[0AE8]
+The coup d'etat at Aquleia quickly
+spread out to the rest of Etruria.[A]
+
+[0AE9]
+Cecilia escaped with Guinevere from Aquleia.
+She also formed an Anti-Coup d'etat[A]
+group and traveled around Etruria
+fighting the rebel forces.[A]
+[LoadOverworldFaces]However, the rebel forces had Bern on
+their side.[A]
+[LoadOverworldFaces]King Mordred had been taken hostage,[A]
+which led [LoadOverworldFaces][LoadOverworldFaces]"Great General" Douglas and[A]
+[LoadOverworldFaces]"Knight General" Percival to be forced onto
+the rebels' side. With these powerful[A]
+forces on their side, the rebels
+gradually began to push the[A]
+Anti-Coup d'etat group of of Etruria.[A] 
+[0AEA]
+The Anti-Coup d'etat forces had been
+driven into an old castle on the island[A]
+of [LoadOverworldFaces]Misul to the west of Etruria.[A]
+[0AEB]
+Roy had learned that Cecilia had been
+forced back by the Coup d'etat.[A]
+[0AEC]
+In response, Roy headed for Misul.[A]
+[0AED]
+Meanwhile, the Anti-Coup d'etat group
+was under attack by a joint force of[A]
+Coup d'etat forces and Bern's troops.[A]
+It would only be a matter of time before
+the Anti-Coup d'etat forces were defeated...[A]
+[0AEE]
+
+[0AEF]
+
+[0AF0]
+
+[0AF1]
+
+[0AF2]
+
+[0AF3]
+After rescuing Guinevere and Cecilia, Roy
+headed towards the Nabata desert, following[A]
+[LoadOverworldFaces]Sophia's lead.[A]
+
+[0AF4]
+According to Sophia, there was a
+hidden oasis in the desert,[A]
+and that's where her village, Arcadia,
+was located.[A]
+However, at that time, Arcadia was
+under attack by Bern's forces.[A]
+Their aim may be the Dragons
+that are said to inhabit the village.[A]
+
+[0AF5]
+Although the Lycia Alliance Army moved
+as quickly as they could towards Arcadia,[A]
+a vicious sandstorm stood in their way.[A]
+[0AF6]
+In the hidden village, Arcadia,
+stands an ancient temple.[A]
+One of the divine weapons
+is said to be hidden in it.[A]
+Roy and company were quick to
+follow Bern's troops,[A]
+who had already found their way
+into the temple...[A]
+[0AF7]
+
+[0AF8]
+
+[0AF9]
+
+[0AFA]
+After saving the hidden vilage of Arcadia,
+Roy's army found their way out of[A]
+the desert, following Igrene's lead.
+Now, they turned toward Etruria[LoadOverworldFaces]to confront[A]
+
+[0AFB]
+the Coup d'etat forces. At this point, a[A]
+a disturbing message came from
+the Elder of Arcadia.[A]
+
+[0AFC]
+Apparently, Fa, the little Dragon girl, had
+left Arcadia, following Roy. If she were to[A]
+fall into the hands of the Coup d'etat
+forces or of Bern, who stood behind them,[A]
+it would be a disaster.[A]
+
+[0AFD]
+Bent on finding Fa, Roy moved his[A]
+forces toward a small fort
+near the Etrurian border.[A]
+[0AFE]
+
+[0AFF]
+
+[0B00]
+After rescuing Fa,[A]
+[LoadOverworldFaces]Roy headed for Aquleia.[A]
+
+[0B01]
+The capital of Etruria,[A]
+Aquleia is also the largest,
+most prosperous city on the continent.[A]
+[LoadOverworldFaces]Preparing for the Lycia Alliance Army's
+attack, the Coup d'etat army concentrated[A]
+forces in Aquleia. Originally they had
+planned on using the garrison of the city[A]
+for defense, but since the [LoadOverworldFaces]Elimine Church
+had turned to Roy's side, the Coup d'etat[A]
+Army had no choice but to retreat to the
+castle and take post there instead for fear[A]
+that the Church may have encouraged the
+city denizens to protest.[A]
+[0B02]
+The Elimine Church was started by "Saint
+Elimine, one of the Eight Heroes. This[A]
+religious organization had many followers,
+primarily in [LoadOverworldFaces]Bern and Etruria.[A]
+[LoadOverworldFaces]Roy had gained the Church's support
+in attacking Aquleia.[A]
+However, [LoadOverworldFaces]Narshen and his elite troops[A]
+were waiting for Roy inside the castle.[A]
+
+[0B03]
+
+[0B04]
+
+[0B05]
+
+[0B06]
+
+[0B07]
+
+[0B08]
+
+[0B09]
+At the request of King Mordred, Roy
+headed for the Tower of the Saint on[A]
+the outskirts of Aquleia.
+[LoadOverworldFaces]The Tower of the Saint was a place of[A]
+worship for Saint Elimine, one of the
+Eight Heroes, and in the tower lay[A]
+various holy object relating to her.[A]
+However, this sacred tower was now
+[LoadOverworldFaces][LoadOverworldFaces]under the control of Bishop Windam,[A]
+who had rebelled against the Elimine
+Church by Roartz's orders.[A]
+[0B0A]
+After Roy captured Aquleia, other Etrurian
+forces flocked to Anti Coup d'etat group,[A]
+forcing out the Coup d'etat Militia.
+Roartz and Arcard were driven out of[A]
+[LoadOverworldFaces]Etruria and fled [LoadOverworldFaces]north to Ilia, [LoadOverworldFaces]
+which was under Bern's control.[A]
+[LoadOverworldFaces]Ilia, or the Frozen Highlands, is a
+land with short summers and long winters.[A]
+[0B0B]
+With little arable land, the
+nation's main source of income[A]
+was sending mercenaries out to
+fight for pay.[A]
+[0B0C]
+The now free Kingdom of Etruria
+joined its forces with the Lycia Alliance Army.[A]
+Now a joint force under the name of the[A]
+[LoadOverworldFaces]Etrurian Army, their first mission was[A]
+to enter Ilia to finish off the Coup d'etat
+Forces. After that, they would launch direct[A]
+[LoadOverworldFaces]attacks on Bern. [LoadOverworldFaces]Roy, nominated as leader of
+of the Etrurian Army, had[A]
+the powerful support of the
+Elimine Church, getting the[A]
+people on his side.[A]
+
+[0B0D]
+However, Roy had to face the freezing
+cold of Ilia, as well as the[A]
+[LoadOverworldFaces]elite troops under General Murdock,[A]
+the leader of the 3 Dragon Lords.
+In addition, some of the powerful[A]
+Ilian Knights had turned to Bern's side.[A]
+[LoadOverworldFaces]As a start, Roy headed for Castle
+Raemy, located on the Ilian border.[A]
+[0B0E]
+
+[0B0F]
+
+[0B10]
+
+[0B11]
+
+[0B12]
+
+[0B13]
+
+[0B14]
+
+[0B15]
+
+[0B16]
+
+[0B17]
+After defeating Arcard, Roy moved
+east deep into the frozen lands of Ilia.[A]
+[LoadOverworldFaces]Soon, they entered the thick forests
+that characterize Ilia's central land.[A]
+[LoadOverworldFaces]However, a general of Bern,
+Bishop Martel, was waiting for them[A]
+[LoadOverworldFaces]with an ancient spell that was
+said to have been lost centuries ago...[A]
+
+[0B18]
+
+[0B19]
+
+[0B1A]
+
+[0B1B]
+
+[0B1C]
+
+[0B1D]
+After defeating Martel and making it
+through the forest,[A]
+[LoadOverworldFaces]Roy and company faced the blizzards that
+are common of Ilia's winters.[A]
+[LoadOverworldFaces]Ilia's harsh weather has been a natural
+defense in itself against invaders.[A]
+[LoadOverworldFaces]Coupled with Ilia's greatest natural weapon,
+Sigune, captain of the Pegasus Knight[A]
+[LoadOverworldFaces]Squad that had turned to Bern, was
+preparing to attack Roy.[A]
+[0B1E]
+
+[0B1F]
+
+[0B20]
+
+[0B21]
+
+[0B22]
+After defeating Sigune,
+[LoadOverworldFaces]Roy headed for Edessa,[A]
+located in the northeast of Ilia.[A]
+[0B23]
+Castle Edessa, owned by [LoadOverworldFaces]Zealot, leader of
+the Ilian Mercenary knights, once served as[A]
+headquarters of the Pegasus Knight teams[A]
+as well.[A]
+[LoadOverworldFaces]However, with Zealot gone, Bern saw its
+chance and attacked the castle, forcing[A]
+the Mercenary and Pegasus Knights into
+submission.[A]
+Castle Edessa was [LoadOverworldFaces]Murdock's headquarters,[A]
+but since Murdock had returned to Bern,[A]
+[LoadOverworldFaces]
+Roartz was put in charge.[A]
+Alarmed by the Etrurian Army's
+speed in advancing to Edessa,[A]
+Roartz hurriedly contacted the
+various Ilian knight groups asking[A]
+them for aid.
+However, their replies were not promising.[A]
+[0B24]
+
+[0B25]
+
+[0B26]
+
+[0B27]
+
+[0B28]
+
+[0B29]
+
+[0B2A]
+After taking back Castle Eldessa,
+Roy turned his troops toward the ancient ruins[A]
+located on the outskirts of the town.
+There is a high chance that a[A]
+Divine Weapon is hidden there.[A]
+
+[0B2B]
+
+[0B2C]
+
+[0B2D]
+
+[0B2E]
+After Roy captured Aquleia, other Etrurian
+powers slowly began to change their[A]
+views and express their anti Coup d'etat
+opinions. Driven away from their palace,[A]
+[LoadOverworldFaces]Roartz [LoadOverworldFaces]and Arcard fled to[LoadOverworldFaces]
+Sacae, which was still under Bern's control.[A]
+
+[0B2F]
+Sacae is the vast plain-covered
+land in the center of the continent.[A]
+Before Bern invaded, the various tribes
+there led nomadic lives.[A]
+[0B30]
+The Etrurian army joined the Lycia Alliance
+Army to form a joint Etruria-Lycia[A]
+Union army. The decision was to head
+[LoadOverworldFaces]for Sacae to get rid of the remaining[A]
+Coup d'etat forces and also attack [LoadOverworldFaces]Bern,
+who was behind them.[A]
+[LoadOverworldFaces]Thinking that some Etrurian knight
+groups would not approve of being seen[A]
+under the Lycia Alliance Army, Roy
+oficially named the new Union the[A]
+"Etrurian Army" and became its commander.[A]
+Roy led the division responsible[A]
+for entering Sacae.[A]
+[0B31]
+The Sacae people are wary of outsiders
+in the first place, but even worse,[A]
+[LoadOverworldFaces]Brenya,[A]
+another one of the Three Dragon Lords,
+had gotten the largest tribe in Sacae,[A]
+the Djute clan, under submission.
+[LoadOverworldFaces]The warriors of the Djute tribe[A]
+and Brenya's elite Bern troops stood in
+front of Roy as he set foot on Sacae's soil.[A]
+
+[0B32]
+
+[0B33]
+
+[0B34]
+
+[0B35]
+
+[0B36]
+
+[0B37]
+
+[0B38]
+
+[0B39]
+
+[0B3A]
+
+[0B3B]
+After defeating Arcard, Roy crossed
+the border and [LoadOverworldFaces]entered the land of Sacae.[A]
+After Bern invaded, the Djute clan,[A]
+the most powerful clan in Sacae, became[A]
+its servant. Most of those clans
+who stood up against the two joint[A]
+forces had already been
+decimated.[A]
+[LoadOverworldFaces]Although the "Silver Wolf" Dayan,
+the leader of the Kutolah clan,[A]
+had been retaliating with guerilla
+tactics, the situation was dire.[A]
+[LoadOverworldFaces]Sacae had basically become
+a territory of Bern.[A]
+Now, as Roy set foot on the plains
+of Sacae, the warriors of the [LoadOverworldFaces]Djute[A]
+clan stood in his path.[A] 
+[0B3C]
+
+[0B3D]
+
+[0B3E]
+
+[0B3F]
+
+[0B40]
+
+[0B41]
+
+[0B42]
+
+[0B43]
+After defeating the Djute Tribe, Roy moved
+[LoadOverworldFaces]toward Bulgar, the largest city in Sacae.[A]
+[0B44]
+As a center of commerce between Etruria,
+Bern, and Ilia, Bulgar has had a history[A]
+of being a free city without a rule.
+However, with Bern's invasion,[A]
+[LoadOverworldFaces]
+Advisor Roartz now had control of[A]
+Bulgar under Bern's protection.[A]
+[0B45]
+[LoadOverworldFaces]Roy approached Bulgar to liberate it and to
+gain some useful information on invading Bern.[A]
+[0B46]
+
+[0B47]
+
+[0B48]
+After meeting Niime, the "Hermit on
+the Mountain", the mysteries of Bern's[A]
+Dragons were slowly beginning to unfold.[A]
+With more unknowns still needing verification,
+[LoadOverworldFaces]Roy directed his troops towards a large[A]
+manor on the outskirts of Bulgar.[A]
+[0B49]
+There, Advisor Roartz of Etruria[A]
+was preparing his defenses against Roy...[A]
+[0B4A]
+
+[0B4B]
+Roy headed towards the ruins in Sacae,[A]
+[LoadOverworldFaces]after the Divine Weapon.[A]
+[LoadOverworldFaces]However, the remaining forces of the
+Djute clan were waiting for Roy in the ruins...[A] 
+[0B4C]
+
+[0B4D]
+
+[0B4E]
+After surviving many hardships,
+Roy finally set foot on Bern's soil.[A]
+[0B4F]
+[LoadOverworldFaces]Guinevere guided Roy toward the[A]
+Temple of Seals, but in their path
+stood Bern's elite troops,[A]
+the strongest army on the continent,
+led by [LoadOverworldFaces]Lord Murdock, the smartest[A]
+and strongest general in Bern.[A]
+[0B50]
+Etruria and Bern, the two leading
+forces on the continent, out for[A]
+all-out war. The longest and bloodiest day
+yet to be seen by Elibe was about to begin...[A]
+[0B51]
+
+[0B52]
+
+[0B53]
+
+[0B54]
+Roy ventured deep inside the Temple 
+of Seals.[A]
+Apparently, there was something else
+hidden there other than the Sword of[A]
+Seals.[A]
+[LoadOverworldFaces]However, [LoadOverworldFaces]  Pereth, once of Murdock's best
+troops leaders, was already inside[A]
+the temple and waiting to attack Roy.[A]
+[0B55]
+
+[0B56]
+
+[0B57]
+After obtaining the Sword of Seals,
+[LoadOverworldFaces]Roy directed his troops towards Bern's[A]
+[LoadOverworldFaces]capital, where King Zephiel was waiting.[A]
+[LoadOverworldFaces]Inside the castle, Zephiel awaited with[A]
+his personal guards at hand.[A]
+
+[0B58]
+Roy prepared to charge the castle
+to end this war, and to bring[A]
+peace to Elibe again...[A]
+[0B59]
+
+[0B5A]
+ 
+[0B5B]
+
+[0B5C]
+Bern surrendered with King Zephiel's death.
+The great war that shook the lands of Elibe[A]
+[LoadOverworldFaces]was over.
+However, Roy's battle was not.[A]
+[0B5D]
+Roy continued to search for the Dark
+Priestess, who could be the Dark Dragon.[A]
+[LoadOverworldFaces]Following the light emitted by the Divine
+Weapons, Roy headed for the Dragon Temple.[A]
+[LoadOverworldFaces]However, waiting for Roy in front of the
+[LoadOverworldFaces]temple was Brenya, the one remaining[A]
+Dragon Lord of Bern. She had rounded up the
+remaining troops and was waiting[A]
+to attack Roy.[A]
+[0B5E]
+A battle with the now dead Kingdom of Bern...[A]
+Roy already had a heavy heart at[A]
+having to battle these "ghosts".[A]
+[0B5F]
+
+[0B60]
+lcaring.[A]
+[OpenMidRight]I see...[A]
+Yuno was pretty worried about
+you and Thany.[A]
+Knowing you, I would think you'd
+be all right.[A]
+But you know Yuno,
+she's a worrier.[A][OpenMidLeft]Yes, I understand.[A]
+Our sister was often too soft
+on Thany and me.[A]
+The day we left was a hectic one,
+indeed.[A]
+Yuno was constantly fretting over
+us, worrying about our meals, and[A]
+our clothes...[A]
+[OpenMidRight][ToggleSmile]Haha, that's Yuno.[A]
+[0B61]
+
+[0B62]
+
+[0B63]
+
+[0B64]
+
+[0B65]
+
+[0B66]
+After defeating Bern's remaining
+troops, Roy entered the Dragon Temple.[A]
+[LoadOverworldFaces]He searched for the Dark
+Priestess to prevent the same[A]
+[LoadOverworldFaces]tragedy as the Dragon Human[A]
+[LoadOverworldFaces]wars from happening again.[A]
+
+[0B67]
+Here in the temple, Roy was to
+learn the truth of the legends he had[A]
+always heard. What Roy was about to hear
+was completely different from what[A]
+he had always believed to be true...[A]
+
+[0B68]
+
+[0B69]
+
+[0B6A]
+
+[0B6B]
+Here in Lycia, Roy, the young heir[A]
+[0B6C]
+of Pherae, was studying in the great city[A]
+[0B6D]
+of Ostia to train himself for his
+position. Today, his teacher,[A]
+[LoadOverworldFaces]General Cecilia of Etruria, is
+instructing him on battle tactics...[A]
+[0B6E]
+
+[0B6F]
+
+[0B70]
+
+[0B71]
+
+[0B72]
+
+[0B73]
+
+[0B74]
+
+[0B75]
+
+[0B76]
+
+[0B77]
+
+[0B78]
+
+[0B79]
+
+[0B7A]
+
+[0B7B]
+
+[0B7C]
+
+[0B7D]
+
+[0B7E]
+
+[0B7F]
+
+[0B80]
+
+[0B81]
+
+[0B82]
+
+[0B83]
+
+[0B84]
+
+[0B85]
+
+[0B86]
+
+[0B87]
+
+[0B88]
+
+[0B89]
+
+[0B8A]
+
+[0B8B]
+
+[0B8C]
+
+[0B8D]
+
+[0B8E]
+
+[0B8F]
+
+[0B90]
+
+[0B91]
+
+[0B92]
+
+[0B93]
+
+[0B94]
+0
+[0B95]
+1
+[0B96]
+2
+[0B97]
+3
+[0B98]
+4
+[0B99]
+5
+[0B9A]
+6
+[0B9B]
+7
+[0B9C]
+8
+[0B9D]
+9
+[0B9E]
+Chap. 
+[0B9F]
+
+[0BA0]
+x
+[0BA1]
+Final
+[0BA2]
+[OpenMidLeft][LoadFace][0x149][OpenMidRight][LoadFace][0x1D7]
+[OpenMidRight][CloseSpeechFast]Your Majesty,[.....]
+our troops are ready![.....]
+[OpenMidLeft][NormalPrint]Good.
+I will be right there.[.....]
+[0BA3]
+[OpenMidLeft][LoadFace][0x149][OpenMidRight][LoadFace][0x14B]
+[OpenMidLeft]All right, let's go[.....]
+to free the world![.....]
+[OpenMidRight][NormalPrint]To free
+the world...[.....]
+[0BA4]
+[OpenMidLeft][LoadFace][0x118][OpenMidRight][LoadFace][0x119]
+[OpenMidLeft]Lance, are you ready? [.....]
+[OpenMidRight]Yes I am, Alan! [.....]
+
+[0BA5]
+[OpenMidLeft][LoadFace][0x119][OpenRight][LoadFace][0x102]
+[OpenRight][FastPrint][ToggleSmile]Oh, it's Lance! [.....]
+What's the matter? [.....]
+Why are you in such a hurry?[.....]
+[OpenMidLeft]Master Roy! Bandits have appeared[.....]
+and are attacking the castle[.....]
+as we speak!
+[.....] 
+[0BA6]
+[OpenFarLeft][MoveLeft][LoadFace][0x102]Let's go, Marcus! [.....] [.....]
+[0BA7]
+[LoadFace][0x11C]Master Roy, swords are weak[.....]
+against spears.
+Don't do anything rash.[.....]
+[0BA8]
+[OpenFarLeft][MoveMidLeft][LoadFace][0x10F]Master Roy, please don't move. [.....]
+I'll heal your wounds...[.....]
+[0BA9]
+[OpenMidLeft][LoadFace][0x102]Thank you, [.....]
+Miss Ellen.[.....]
+[0BAA]
+
+[0BAB]
+
+[0BAC]
+
+[0BAD]
+
+[0BAE]
+
+[0BAF]
+
+[0BB0]
+
+[0BB1]
+
+[0BB2]
+
+[0BB3]
+
+[0BB4]
+
+[0BB5]
+
+[0BB6]
+
+[0BB7]
+
+[0BB8]
+
+[0BB9]
+
+[0BBA]
+
+[0BBB]
+
+[0BBC]
+
+[0BBD]
+
+[0BBE]
+
+[0BBF]
+
+[0BC0]
+
+[0BC1]
+
+[0BC2]
+
+[0BC3]
+
+[0BC4]
+
+[0BC5]
+
+[0BC6]
+
+[0BC7]
+
+[0BC8]
+
+[0BC9]
+
+[0BCA]
+
+[0BCB]
+
+[0BCC]
+
+[0BCD]
+One thousand years after the great
+war between Dragons and men known
+as the Scouring...
+[.....] 
+[0BCE]
+Mankind was beginning to
+prosper once more.[.....] 
+[0BCF]
+However, a sudden invasion from
+the east threw the continent
+into war again.[.....] 
+[0BD0]
+Those who started the war...
+Those who suffered...
+Those who stood up...[.....] 
+[0BD1]
+Countless people fought to the
+death to protect what they
+believed in.[.....] 
+[0BD2]
+This is a story of a group of
+heroes who withstood the test
+of time during this age of suffering...[.....] 
+[0BD3]
+[OpenMidLeft][LoadFace][0x150][OpenMidRight][LoadFace][0x1CB][OpenMidLeft][ToggleSmile]B-Boss!
+An army's invading our cave![A]
+[OpenMidRight]What![A]
+How many of them are there?[A]
+[OpenMidLeft]Dunno, Boss.
+I hope there aren't too many of them...[A]
+[OpenMidRight]That's strange...[A]
+The Lycia marquesses should be having
+bigger problems than dealing with[A]
+bandits like us.[A]
+[OpenMidLeft]Well?[A]
+What do we do?[A]
+[OpenMidRight]They probably don't know much about
+this cave, anyway.[A]
+Just lure them into stepping on the
+floor tiles where hot lava spurts[A]
+up and get rid of 'em.[A]
+[0BD4]
+[OpenMidLeft][LoadFace][0x122][OpenMidLeft][ToggleSmile]Roy, over here![A]
+The Divine Weapon is located on
+the other side of this lava pit.[A]
+[OpenMidRight][LoadFace][0x102]Lilina, are you all right?[A]
+Have you calmed down?[A]
+[OpenMidLeft][ToggleSmile]Well...[ToggleSmile]maybe I'm not fully all right,
+but now isn't the time to be sad.[A]
+I need to protect Ostia,
+like my father before me.[A]
+[OpenMidRight]All right...
+[ToggleSmile]Good for you, Lilina.[A][OpenMidRight][ClearFace]
+[OpenMidLeft]I'm okay because you're
+with me, Roy...[A]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]What?[A]
+Did you just say something?[A]
+[OpenMidLeft][ToggleSmile]No, nothing.[A]
+Anyway, I'll tell you what I know
+about this Divine Weapon.[A]
+The one here is the sword that was used
+by Roland, one of the 'Eight Heroes.'[A]
+[OpenMidRight][ToggleSmile]That Roland... is that King Roland,
+the first king of Ostia?[A]
+[OpenMidLeft][ToggleSmile]Right, he's our ancestor.[A]
+This sword is called 'The Blazing Sword,'
+or the Durandal.[A]
+[OpenMidRight][ToggleSmile]The Durandal...the name has a
+strange echo to it.[A]
+So Roland used the Durandal to fight
+the Dragons during the Scouring.[A]
+[OpenMidLeft][ToggleSmile]That's how the legend goes.[A]
+They also say that after the war ended,
+Roland returned to his hometown of Ostia.[A]
+He raised the Durandal high above his head,
+and the land that had become barren after[A]
+the war suddenly became lush with
+vegetation and life again.[A]
+[OpenMidRight][ToggleSmile]Wow... that must be some sword.[A]
+[OpenMidLeft][ToggleSmile]Well, it's a weapon that can defeat Dragons.
+It must have some special powers in it.[A]
+[OpenMidRight][ToggleSmile]Yes.[A]
+...Oh yeah, I heard that a group
+of bandits has made its base here.[A]
+Is it going to be all right?[A]
+[OpenMidLeft]?[A]
+Is what going to be all right?[A]
+[OpenMidRight]I mean, there's always the chance that
+they have might have taken the Durandal.[A]
+[OpenMidLeft][ToggleSmile]No, don't worry.[A]
+Only those who are Roland's successors know
+how to remove the Durandal from its sheath.[A]
+[OpenMidRight]Oh, okay.
+Then everything's fine.[A]
+[ToggleSmile]All we have to do is get rid of
+the bandits and obtain the Durandal.[A]
+[0BD5]
+[LoadFace][0x1CB]Sigh.[A]
+What are you guys doing in a
+place like this?[A]
+Oh well, but since you're
+already here...[A]
+I can't let you guys go,
+can I?[A]
+[0BD6]
+[LoadFace][0x1CB][ToggleSmile]Crap...[A]
+I knew this would happen...[A]
+[0BD7]
+[OpenMidLeft][LoadFace][0x122][ToggleSmile]Roy!
+Here it is![A]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]So this is the Durandal...
+It's a very large sword.[A]
+I don't think many of us are
+going to be able to swing it.[A]
+[OpenMidLeft]But history has it that Roland
+was a small man.[A]
+I think it's the person skill in the
+sword that determines whether or not[A]
+he can use.[A]
+[OpenMidRight]Then if I become better with my
+sword, I can use it as well?[A]
+[OpenMidLeft]Well... maybe.[A]
+[OpenMidRight]Maybe?[A]
+Come on...at least say 'probably.'[A]
+[OpenMidLeft]Hee hee![A]
+[0BD8]
+[OpenMidLeft][LoadFace][0x154][ToggleSmile]Master Roy, here it is!
+There was a sword under the altar.[A]
+It was a task to get it out,
+but we have it now.[A]
+[OpenMidRight][LoadFace][0x102]This is the Durandal...[A]
+But was it worth losing Lilina...?[A]
+[0BD9]
+[OpenMidRight][LoadFace][0x1D3][ToggleSmile]So this is the end of the caaave?[A]
+Treeaasure...
+Where are you...[A]
+Answer meee...[A]
+[OpenMidLeft][LoadFace][0x150]
+Boss... you sure about this?[A]
+Bern told us to block the entrance
+to the cave.[A]
+If they catch us now, we'll be
+sent back to prison![A]
+[OpenMidRight][MoveRight]Idiooot![OpenMidLeft][MoveFarLeft][A]
+[OpenRight]We're gonna bury this cave
+anywaaay...[A]
+Sooo they ain't gonna know that we
+took the treeaasure...[A]
+If we bury the cave without taking the
+treasure, no one's ever going to be[A]
+able to fiiind it...[A]
+Have ya ever thought about how the
+treasure would feel theeen![A]
+[OpenFarLeft]Well...
+'Guess you're right.[A]
+[OpenFarLeft][ClearFace][OpenMidLeft][LoadFace][0x151]Boss![A]
+There's an army stationed outside
+the cave![A]
+[OpenRight]Whaaat?[A]
+So they think they're going to take
+our treasure, do they?[A]
+Have the boys near the entrance take
+take them ooouut...[A]
+And grab all the treasure chests...[A]
+They're mine nooowww![A]
+[0BDA]
+[OpenMidRight][LoadFace][0x102]A Divine Weapon lies in this cave...[A][Clear]
+It's pretty dark in here.[A]
+[OpenMidLeft][LoadFace][0x12B]According to a scholar in Djuto,
+if there is a Divine Weapon in here,[A]
+it would most surely be the Armads,
+the 'Axe of Lightning'.[A]
+[OpenMidRight]Armads...[A]
+An axe, not a sword this time.[A]
+[OpenMidLeft]The Armads was used by 'Durban the
+Berserker', the largest and most[A]
+muscular of the Eight Heroes.[A]
+A blow from his axe must have
+been quite a sight to see.[A]
+[OpenMidRight]Elphin, you certainly know a lot about
+the Eight Heroes and the Divine Weapons.[A]
+[OpenMidLeft]I'm a bard.
+I know lots of myths and legends.[A]
+[OpenMidRight]I see.[A]
+I want to hear them, when we have
+the time.[A]
+[OpenMidLeft]Of course.[A]
+...Master Roy, it seems we have
+company in this cave.[A]
+[OpenMidRight][ToggleSmile]We do?[A]
+[OpenMidLeft][ToggleSmile]There are also some strange
+fumes coming out of the cave walls.[A]
+We must proceed with caution.[A]
+[0BDB]
+[LoadFace][0x1D3]Daaaahhhhhh![A][Clear]
+Rah![A]
+[0BDC]
+[LoadFace][0x1D3]Guh...[A]
+[0BDD]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x102][ToggleSmile]Where is the Divine Weapon?[A]
+[OpenMidLeft]Hmm...[A]
+I can hear wind coming from behind
+the throne.[A]
+[OpenMidRight]What?
+I can't hear it...[A]
+[MoveRight]There's a niche... between the
+floor and wall.[A][Clear]
+Oh!
+It opened![A][Clear]
+...So this is the Divine Weapon?
+That axe is huge.[A]
+[OpenMidLeft]The Armads...[A]
+So this is what Durban the Berserker
+used.[A]
+It certainly seems fit for a
+mighty warrior.[A]
+[0BDE]
+[OpenMidLeft][LoadFace][0x152][ToggleSmile]Master Roy, here it is![A]
+There's a large axe behind the
+throne![A]
+[OpenMidRight][LoadFace][0x102]This is the Armads...[A]
+Durban's Axe...[A]
+[0BDF]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x1C6][ToggleSmile]Haven't you found the
+Divine Weapon yet![A]
+[OpenMidLeft]Yes, we think it is lying inside
+this altar, but it won't open...[A]
+[OpenMidRight][MoveRight]Break it, force it open, or
+do whatever![A]
+We do not have much time.[A]
+[OpenMidLeft][MoveFarLeft]But we must also deal with the
+enemies that have entered the Temple![A]
+We don't have enough manpower to
+use force on the altar![A]
+[OpenRight]Then we must get rid of
+the enemy first.[A]
+Then we can examine the altar
+with leisure.[A]
+[0BE0]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]This is the underground of
+the desert?[A]
+There's so much... water.[A]
+[OpenMidLeft][LoadFace][0x12D]This is close to a large source of
+groundwater...[A]
+That's why plants and animals can
+live here...[A]
+[OpenMidRight]I see.[A]
+So that's why you were able to build a
+village here.[A]
+Still, how did you find such a convenient
+place like this?[A]
+[OpenMidLeft]Athos...[A]
+The "Archsage" Athos is
+the one who led us here...[A]
+[OpenMidRight][ToggleSmile]What?[A]
+Do you mean the Athos of the
+Eight Heroes?[A]
+[OpenMidLeft][ToggleSmile]Yes...[A]
+After the Scouring...
+Master Athos traveled around Elibe...[A]
+At the end of his journey, he arrived at
+a village in which people and Dragons[A]
+lived together...[A]
+But he said that... it would only be
+a matter of time before it was found[A]
+by other people...[A]
+[OpenMidRight]So he led you here...[A]
+[OpenMidLeft]Yes... and he hid his
+Divine Weapon inside this Temple...[A]
+[OpenMidRight]And...
+Can we use his Divine Weapon?[A]
+[OpenMidLeft]Yes...[A]
+Master Athos said that we were to
+use his weapon to protect Arcadia...[A]
+And if you use it...
+it would be to protect us...[A]
+[OpenMidRight]All right.
+Thank you.[A]
+[OpenMidLeft]Some of the pathways of this temple
+will suddenly sink into the water...[A]
+Please be careful...[A]
+[0BE1]
+[LoadFace][0x1C6]I...wasn't expecting you to
+fight so well against all of us.[A]
+[0BE2]
+[LoadFace][0x1C6]Where... did you learn...
+to fight... like this...?[A]
+[0BE3]
+[OpenMidLeft][LoadFace][0x12D][OpenMidRight][LoadFace][0x102][OpenMidLeft][ToggleSmile]It is here...
+Inside this altar...[A]
+[OpenMidRight][MoveRight]...[A][Clear]
+It won't open...[A]
+[OpenMidLeft]This altar is made... so that
+only those of the village may[A]
+open it...[A]
+So please allow me...[A]
+[OpenRight][MoveMidRight]Yes.[A]
+[OpenMidLeft][MoveLeft][ToggleMouthMove]......[A][.......][Clear]
+[ToggleMouthMove]There...
+There is the Divine Weapon.[A]
+[OpenMidRight]The one that Athos used?
+Then...[A]
+[OpenLeft]Yes...[A]
+The "Infernal Element," Forblaze...[A]
+[0BE4]
+[OpenMidLeft][LoadFace][0x152][OpenMidRight][LoadFace][0x102][OpenMidLeft][ToggleSmile]I think the book is inside the
+altar, Master Roy.[A]
+[OpenMidRight]Can you get it out?[A]
+[OpenMidLeft]I sent some people to ask the
+villagers about it.[A]
+[OpenMidRight]All right.
+But don't force them.[A]
+If they don't want to give it
+to us, then we'll leave it here.[A]
+[OpenMidLeft]Yes, sir.[A][ClearFace]
+[0BE5]
+[OpenMidLeft][LoadFace][0x152][OpenMidRight][LoadFace][0x102][OpenMidLeft][ToggleSmile]Master Roy![A]
+The villagers helped us remove the book
+from the altar![A]
+Here it is.[A]
+[OpenMidRight]What is this?[A]
+[OpenMidLeft][ClearFace][OpenMidLeft][LoadFace][0x12B]
+...If the Archsage Athos hid it,
+it must be the Forblaze, the[A][Clear]
+'Infernal Element'[A]
+The legends say that no one
+could escape its fiery wrath.[A]
+[OpenMidRight]...We must be cautious with it.[A]
+[0BE6]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x1D5][ToggleSmile]Lord Roartz fled!?[A]
+Then what would happen to me, who turned
+against the Church and took over this[A]
+tower?[A]
+[OpenMidLeft]Sir, Lord Roartz's message is that he
+'Doesn't want to waste time dealing[A]
+with useless bishops who cannot even
+tame the Elimine Church.'[A][OpenMidRight]That is because that damned Yodel
+got in my way...[A]
+[OpenMidLeft]Well yes...
+But even if you tell me about it...[A]
+[OpenMidRight]...All right, fine...
+Then this is our last mission.[A]
+If we are to die, then the Lycia
+Alliance Army is going down with us![A]
+Prepare the 'Heavenly Arrows'![A]
+[OpenMidLeft]Please wait![A]
+If we use that, it will hit our
+allies as well.[A]
+[OpenMidRight][MoveRight]Quiet!
+I do the ordering around here![OpenMidLeft][MoveFarLeft][A][OpenFarLeft][ClearFace]
+[OpenRight]...I shall show them...
+Hehehe...![A]
+[0BE7]
+[OpenMidLeft][LoadFace][0x10A][OpenMidRight][LoadFace][0x102][OpenMidLeft]This is the Tower of the Saint.[A]
+Saint Elimine's Weapon, the Aureola
+Spell book, lies here.[A]
+[OpenMidRight]Thank you, Lord Douglas.[A]
+You are helping us, who were your
+enemies just a while earlier.[A]
+[OpenMidLeft]You do not have to thank me.[A]
+The king ordered me to help you.
+Do not worry about it.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Besides, you are saviors of Etruria.[A]
+It is an honor to be able to fight[A]
+alongside you.[A]
+[OpenMidRight]Lord Douglas...[A]
+[0BE8]
+
+[0BE9]
+[LoadFace][0x1D5]Die![A][Clear]
+All of you!
+Everything shall be destroyed![A]
+[0BEA]
+[LoadFace][0x1D5]Hahaha!
+Haha...Ha...[A]
+[0BEB]
+[OpenMidLeft][LoadFace][0x152][OpenMidRight][LoadFace][0x102][OpenMidLeft]Master Roy,
+I think we found the spell book.[A][ClearFace]
+[OpenMidRight]Lord Douglas,
+is this...?[A]
+[OpenMidLeft][LoadFace][0x10A]Yes, this is it.[A]
+This is the 'Pinnacle of Light,' the
+Aureola spell book, Saint Elimine's[A]
+weapon.[A]
+[OpenMidRight]May we use it?[A]
+[OpenMidLeft]The king said to use anything in
+the tower that you found useful.[A]
+And the Elimine Church is on our
+side as well.[A]
+If we still have trouble, then I can
+negotiate.[A]
+[OpenMidRight]All right.
+Thank you, Lord Douglas.[A]
+[0BEC]
+[OpenMidLeft][LoadFace][0x152][OpenMidRight][LoadFace][0x102][OpenMidLeft]Master Roy, I think we
+have found the spellbook.[A][ClearFace]
+[OpenMidRight]...This must be the Aureola,
+the 'Pinnacle of Light.'[A]
+Merlinus,[A][OpenMidLeft][LoadFace][0x154]
+[OpenMidRight]I want you to give this to
+the Elimine Church.[A]
+[OpenMidLeft][ToggleSmile]What?[A]
+But the king said we could use anything
+we found in the tower.[A]
+[OpenMidRight][ToggleSmile]This is the spell book their
+saint used.[A]
+It would be disrespectful to take it
+Without their permission.[A]
+[OpenMidLeft]I see...[A]
+[0BED]
+[OpenMidLeft][LoadFace][0x110][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft]Master Roy.[A]
+[OpenMidRight]Bishop Yodel?
+What is wrong?[A]
+[OpenMidLeft]About the Aureola...[A]
+[OpenMidRight]Ah, yes.[A]
+I will return it to the church
+immediately.[A]
+[OpenMidLeft]Please don't.
+We want you to take it.[A]
+[OpenMidRight][ToggleSmile]...Are you sure?[A]
+[OpenMidLeft][ToggleSmile]What Saint Elimine truly wished
+for was peace.[A]
+Please take it and end this war.[A]
+[OpenMidRight]All right.
+I will use it with care.[A]
+[0BEE]
+[OpenMidLeft][LoadFace][0x152][OpenMidRight][LoadFace][0x1E0][OpenMidLeft][ToggleSmile]Lord Teck!
+The enemy is advancing![A]
+[OpenMidRight][ToggleSmile]There is no need to panic.[A]
+These ruins are surrounded by plenty
+of enforcement.[A]
+They won't be able to come in so easily.[A]
+[OpenMidLeft][ToggleSmile]But the enemy has defeated the Ilian
+troops and our troops one after another![A]
+We do not have a high chance of winning...![A]
+[OpenMidRight][ToggleSmile]We do not have to win.[A]
+Lord Murdock said that all we must do
+is defend this place.[A]
+We must hold out until the enemy gives
+up and leaves.[A]
+[0BEF]
+
+[0BF0]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]The Divine Weapon lies in here...[A]
+[OpenMidLeft][LoadFace][0x132][OpenMidRight]Zealot, have you heard about this
+place?[A]
+[OpenMidLeft]Yes.[A]
+I believe that the Marte, the Spear of
+Snow and Ice resides in these ruins.[A]
+[OpenMidRight]Spear of Snow and Ice...[A]
+[OpenMidLeft]Barigan the 'Faithful' used it
+during the Scouring.[A]
+[OpenMidRight]Barigan?
+All knights know about him.[A]
+I used to hear a lot about him
+during my studies.[A]
+He is the finest example of knighthood.[A]
+...This building seems to have walls
+everywhere.[A]
+Is there a path leading inside?[A]
+[OpenMidLeft]Probably the remaining forces of Bern
+buried the pathways to defend themselves.[A]
+[OpenMidRight]Then they must not have had much
+time to do it...[A]
+Maybe the walls are weak at certain
+areas.[A]
+[OpenMidLeft]That is quite possible.[A]
+[OpenMidRight]All right.
+Let's do what we can.[A]
+[0BF1]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]The Divine Weapon lies in here...[A]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight]Yuno, have you heard about this
+place?[A]
+[OpenMidLeft]Yes.[A]
+I believe that the Marte, the Spear of
+Snow and Ice resides in these ruins.[A]
+[OpenMidRight]Spear of Snow and Ice...[A]
+[OpenMidLeft]Barigan the 'Faithful' used it
+during the Scouring.[A]
+[OpenMidRight]Barigan?
+All knights know about him.[A]
+I used to hear a lot about him
+during my studies.[A]
+He is the finest example of knighthood.[A]
+...This building seems to have walls
+everywhere.[A]
+Is there a path leading inside?[A]
+[OpenMidLeft]Probably the remaining forces of Bern
+buried the pathways to defend themselves.[A]
+[OpenMidRight]Then they must not have had much
+time to do it...[A]
+Maybe the walls are weak at certain
+areas.[A]
+[OpenMidLeft]That is quite possible.[A]
+[OpenMidRight]All right.
+Let's do what we can.[A]
+[0BF2]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]The Divine Weapon lies in here...[A]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight]Elphin, have you heard about this
+place?[A]
+[OpenMidLeft]Yes.[A]
+I believe that the Marte, the Spear of
+Snow and Ice resides in these ruins.[A]
+[OpenMidRight]Spear of Snow and Ice...[A]
+[OpenMidLeft]Barigan the 'Faithful' used it
+during the Scouring.[A]
+[OpenMidRight]Barigan?
+All knights know about him.[A]
+I used to hear a lot about him
+during my studies.[A]
+He is the finest example of knighthood.[A]
+...This building seems to have walls
+everywhere.[A]
+Is there a path leading inside?[A]
+[OpenMidLeft]Probably the remaining forces of Bern
+buried the pathways to defend themselves.[A]
+[OpenMidRight]Then they must not have had much
+time to do it...[A]
+Maybe the walls are weak at certain
+areas.[A]
+[OpenMidLeft]That is quite possible.[A]
+[OpenMidRight]All right.
+Let's do what we can.[A]
+[0BF3]
+[LoadFace][0x1E0][ToggleSmile]No...
+I must be dreaming.[A][Clear]
+How did you get
+through those walls?[A]
+[0BF4]
+[LoadFace][0x1E0]Pass, strong ones...[A]
+[Clear]
+And know Bern's
+true power...[A]
+[0BF5]
+[OpenMidLeft][LoadFace][0x152][ToggleSmile]It's here!
+The spear is here![A][ClearFace]
+[OpenMidRight][LoadFace][0x102][ToggleMouthMove]......[A][Clear]
+[ToggleMouthMove]...This is Barigan's spear Martre...[A]
+It's beautiful, as if made of crystal
+and ice.[A]
+[OpenMidLeft][LoadFace][0x154]Master Roy,
+Bern's troops are escaping.[A]
+[OpenMidRight]Oh.[A]
+All right.[A]
+[OpenMidLeft]All right?
+We must attack them now.[A]
+[OpenMidRight]No, don't.[A]
+They are fleeing.
+They don't have anymore will to fight.[A]
+[OpenMidLeft]But...[A]
+[OpenMidRight]They have families as well.[A]
+There's no need to fight more
+than necessary.[A]
+
+[0BF6]
+[OpenMidLeft][LoadFace][0x1D7]The Etruria Army is here![A]
+[OpenMidRight][LoadFace][0x1CE]They want to make here theirs as well...
+We will not let that happen.[A]
+[ToggleSmile]Tell our brothers that we will defend
+this land till the death.[A]
+We will avenge our dead comrades![A]
+[OpenMidLeft]Yes![A]
+[0BF7]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]The Divine Weapon lies here...[A]
+[OpenMidLeft][LoadFace][0x105][OpenMidRight]Shin, do you know about this
+place?[A]
+[OpenMidLeft]All I know is that the Divine Warrior
+Hanon's bow, the Miurgre or the 'Bow[A]
+of Winds' is kept here.[A]
+[OpenMidRight]Hanon...[A]
+She and Saint Elimine were the only
+two women among the Eight Heroes.[A]
+[OpenMidLeft]So it seems.[A]
+[OpenMidLeft]...Watch your back.[A]
+The Djute will give us everything they've
+got to avenge their clansmen.[A]
+[OpenMidRight]All right, we have to be careful.
+Let's go![A]
+[0BF8]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]The Divine Weapon lies here...[A]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight]Dayan, do you know about this
+place?[A]
+[OpenMidLeft]All I know is that the Divine Warrior
+Hanon's bow, the Miurgre or the 'Bow[A]
+of Winds' is kept here.[A]
+[OpenMidRight]Hanon...[A]
+She and Saint Elimine were the only
+two women among the Eight Heroes.[A]
+[OpenMidLeft]So it seems.[A]
+[OpenMidLeft]...Watch your back.[A]
+The Djute will give us everything they've
+got to avenge their clansmen.[A]
+[OpenMidRight]All right, we have to be careful.
+Let's go![A]
+[0BF9]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]The Divine Weapon lies here...[A]
+[OpenMidLeft][LoadFace][0x106][OpenMidRight]Sue, do you know about this
+place?[A]
+[OpenMidLeft]All I know is that the Divine Warrior
+Hanon's bow, the Miurgre or the 'Bow[A]
+of Winds' is kept here.[A]
+[OpenMidRight]Hanon...[A]
+She and Saint Elimine were the only
+two women among the Eight Heroes.[A]
+[OpenMidLeft]So it seems.[A]
+[OpenMidLeft]...Watch your back.[A]
+The Djute will give us everything they've
+got to avenge their clansmen.[A]
+[OpenMidRight]All right, we have to be careful.
+Let's go![A]
+[0BFA]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]The Divine Weapon lies here...[A]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight]Elphin do you know about this
+place?[A]
+[OpenMidLeft]All I know is that the Divine Warrior
+Hanon's bow, the Miurgre or the 'Bow[A]
+of Winds' is kept here.[A]
+[OpenMidRight]Hanon...[A]
+She and Saint Elimine were the only
+two women among the Eight Heroes.[A]
+[OpenMidLeft]So it seems.[A]
+[OpenMidLeft]...Watch your back.[A]
+The Djute will give us everything they've
+got to avenge their clansmen.[A]
+[OpenMidRight]All right, we have to be careful.
+Let's go![A]
+[0BFB]
+
+[0BFC]
+[OpenMidRight][LoadFace][0x1CE]They fell into the trap!
+Get them now![A]
+[0BFD]
+[LoadFace][0x1CE]Feel the wrath of the
+Djute's bond![A]
+[0BFE]
+[LoadFace][0x1CE]My brothers will
+surely avenge me...[A]
+[0BFF]
+[OpenMidLeft][LoadFace][0x152][ToggleSmile]It's here![A]
+The bow is hidden in the altar![A]
+[ClearFace]
+[OpenMidRight][LoadFace][0x102][ToggleMouthMove]......[A][Clear]
+[ToggleMouthMove]This is the Miurgre...[A]
+It looks like an ordinary bow,
+but it must have incredible force.[A]
+[OpenMidLeft][LoadFace][0x154]Master Roy, Bern's troops are
+retreating.[A]
+[OpenMidRight]Oh.[A]
+All right.[A]
+[OpenMidLeft]All right?
+We must attack them now.[A]
+[OpenMidRight]No, don't.[A][Clear]
+[OpenMidRight]They are fleeing.
+They have no more will to fight.[A]
+[OpenMidLeft]But...[A]
+[OpenMidRight]They have families as well.[A]
+There's no need to fight
+more than necessary.[A]
+[0C00]
+[OpenMidRight][LoadFace][0x1C7][OpenMidLeft][LoadFace][0x1D7][OpenMidRight]So the battle above ground was
+lost...[A]
+[OpenMidLeft]Yes.[A]
+[OpenMidRight]I would have liked to be at Lord
+Murdock's side when he fell.[A]
+[OpenMidLeft]...We share your feelings.[A]
+[OpenMidRight]However, we have an important mission
+given from Lord Murdock.[A]
+We must defend this Divine Weapon.[A]
+The Silencing Darkness, Apocalypse,
+must not get into the enemy hands![A]
+[0C01]
+[OpenMidLeft][LoadFace][0x12E][OpenMidRight][LoadFace][0x102][ToggleSmile]There is a Divine Weapon under here?[A]
+[OpenMidLeft]Yes, I think so.[A]
+I have only heard rumors within the army,
+but apparently there is a spell book here[A]
+that was placed to protect the Temple of
+Seals from intruders.[A]
+[OpenMidLeft][ClearFace][OpenFarLeft][LoadFace][0x12B]This place is guarded by Bern's troops
+as well.[A]
+It is highly probable that the spell book
+that she speaks of is a Divine Weapon.[A]
+[OpenMidRight]Yes.[A]
+We're going up against Zephiel soon.[A]
+...I want to have as many weapons as
+possible before we enter the castle.[A]
+We have to get that book.[A]
+[OpenFarLeft][ClearFace][OpenMidLeft][LoadFace][0x12E]I have also heard rumors that there are
+traps all over the underground level.[A]
+[OpenMidRight]Traps?[A]
+[OpenMidLeft]Yes.[A]
+Apparently they are so well-crafted
+that we could not possibly find a[A]
+trap before it is set off.[A]
+Perhaps thieves would be better at
+finding traps...[A]
+Anyway, please be careful.[A]
+[OpenMidRight]All right.
+Let's be wary.[A]
+[0C02]
+[OpenMidLeft][LoadFace][0x12A][OpenMidRight][LoadFace][0x102][ToggleSmile]There is a Divine Weapon under here?[A]
+[OpenMidLeft]Yes, I think so.[A]
+I have only heard rumors within the army,
+but apparently there is a spell book here[A]
+that was placed to protect the Temple of
+Seals from intruders.[A]
+[OpenMidLeft][ClearFace][OpenFarLeft][LoadFace][0x12B]This place is guarded by Bern's troops
+as well.[A]
+It is highly probable that the spell book
+that she speaks of is a Divine Weapon.[A]
+[OpenMidRight]Yes.[A]
+We're going up against Zephiel soon.[A]
+...I want to have as many weapons as
+possible before we enter the castle.[A]
+We have to get that book.[A]
+[OpenFarLeft][ClearFace][OpenMidLeft][LoadFace][0x12A]I have also heard rumors that there are
+traps all over the underground level.[A]
+[OpenMidRight]Traps?[A]
+[OpenMidLeft]Yes.[A]
+Apparently they are so well-crafted
+that we could not possibly find a[A]
+trap before it is set off.[A]
+Perhaps thieves would be better at
+finding traps...[A]
+Anyway, please be careful.[A]
+[OpenMidRight]All right.
+Let's be wary.[A]
+[0C03]
+[OpenMidLeft][LoadFace][0x157][OpenMidRight][LoadFace][0x102][ToggleSmile]Princess Guinevere,
+is this where the Divine Weapon is?[A]
+[OpenMidLeft]Probably...[A]
+I only have heard rumors that a spell
+book here was placed to protect the[A]
+Temple of Seals from intruders.[A]
+[OpenMidLeft][ClearFace][OpenFarLeft][LoadFace][0x12B]This place is guarded by
+Bern's troops as well.[A]
+It is highly probable that the spell
+book she speaks of is a Divine Weapon.[A]
+[OpenMidRight]Yes.[A]
+We're going up against Zephiel soon..[A]
+I want to have as many weapons
+as possible before we enter the castle.[A]
+We have to get that book.[A]
+[OpenFarLeft][ClearFace][OpenMidLeft][LoadFace][0x157]I also understand there are numerous
+traps placed in the underground level.[A]
+[OpenMidRight]Traps?[A]
+[OpenMidLeft]Yes.[A]
+They are so well designed that it would
+be impossible for us to find them.[A]
+Perhaps thieves would be better at
+finding them...[A]
+Please be careful.[A]
+[OpenMidRight]Yes, Princess.
+We will be careful.[A]
+[0C04]
+[LoadFace][0x1C7]
+Darkness from an age
+long forgotten...[A][Clear]
+I will show you its power.[A]
+[0C05]
+[LoadFace][0x1C7]
+[ToggleSmile]Dark...[A]
+It is getting so dark...[A]
+[0C06]
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x12B][OpenMidRight][ToggleSmile]Elphin, do you know what this
+spell book is?[A]
+[OpenMidLeft]...It is probably the Apocalypse
+spell book.[A]
+[OpenMidRight]Apocalypse?[A]
+[OpenMidLeft]Yes, it is also known as the
+Silencing Darkness.[A]
+Bramimond... the most mysterious
+of the Eight Heroes, used it.[A]
+[OpenMidRight]Brammimond...[A]
+I only know his name.[A]
+[OpenMidLeft]We don't even know if Bramimond
+is male or female, old or young.[A]
+None of the old scrolls say
+anything specific about Bramimond.[A]
+[OpenMidRight]I see...[A]
+[OpenMidLeft][ToggleMouthMove].....[A]
+[OpenMidLeft][ClearFace][OpenLeft][LoadFace][0x157][ToggleMouthMove]Roy, is something wrong?[A]
+[OpenMidRight]No, I was just thinking.[A]
+[OpenLeft]About what?[A]
+[OpenMidRight]I was wondering why there is always some
+kind of trap where a Divine Weapon lies.[A][OpenLeft]...Perhaps it is to warn people that their
+power is too great to be dealt with lightly.[A]
+[OpenMidRight]But still...
+The traps are so carefully set.[A][Clear]
+There must be other reasons.[A]
+[OpenLeft][ToggleMouthMove].....[ToggleMouthMove][A]
+[OpenLeft][ClearFace][OpenMidLeft][LoadFace][0x12B]
+...I wondered about the same thing.[A]
+Perhaps I shall look into it.[A]
+[OpenMidRight]Yes...
+Please.[A]
+[0C07]
+^ンバートYPh[A]
+[0C08]
+
+[0C09]
+
+[0C0A]
+
+[0C0B]
+
+[0C0C]
+
+[0C0D]
+
+[0C0E]
+
+[0C0F]
+２００２
+Ｎｉｎｔｅｎｄｏ　Ｐｒｅｓｅｎｔｓ・・・
+[0C10]
+Strength increased
+[0C11]
+Magic increased
+[0C12]
+Skill increased
+[0C13]
+Speed increased
+[0C14]
+Luck increased
+[0C15]
+Defense increased
+[0C16]
+Resistance increased
+[0C17]
+Movement increased
+[0C18]
+Constitution increased
+[0C19]
+Max HP increased
+[0C1A]
+Disabled trap
+[0C1B]
+Select a unit to rescue.
+[0C1C]
+Select which space to drop the unit into.
+[0C1D]
+Select a unit to receive the traveler.
+[0C1E]
+Select a unit to give the traveler to.
+[0C1F]
+Select which unit to trade with.
+[0C20]
+Select which unit to steal from.
+[0C21]
+Select which unit to use the staff on.
+[0C22]
+Select which unit to speak to.
+[0C23]
+Select unit to refresh.
+[0C24]
+Select warp point.
+[0C25]
+Reorder your units.
+[0C26]
+Your inventory is full. Send an item to Merlinus.
+[0C27]
+Select a weapon to attack with.
+[0C28]
+Select a character to restore HP to.
+[0C29]
+Select character to warp.
+[0C2A]
+Select which character to bring next to you.
+[0C2B]
+Select a character to restore to normal.
+[0C2C]
+Select the character whose weapon needs repair.
+[0C2D]
+Select which character's resistance to bolster.
+[0C2E]
+Select a door to open.
+[0C2F]
+Select an enemy to distort.
+[0C30]
+Silenced units cannot visit villages.
+[0C31]
+You can't equip
+this weapon.
+[0C32]
+Your weapon level
+is too low.
+[0C33]
+Treasure can't be dropped.
+[0C34]
+Silenced units cannot use staves.
+[0C35]
+Silenced units cannot talk. 
+[0C36]
+You can't enter the
+arena while Silenced.
+[0C37]
+You can't fight, so you
+can't enter the arena.
+[0C38]
+Weapons, magic, and
+staves can't be stolen.
+[0C39]
+There is no need to repair this item. 
+[0C3A]
+Only weapons, spells, and
+staves can be repaired.
+
+[0C3B]
+No more arrows left in this ballista.
+[0C3C]
+No need to use this item.
+[0C3D]
+Cannot use this item. 
+[0C3E]
+Lv 10 or higher is required.
+[0C3F]
+There are no doors to open. 
+[0C40]
+There are no chests to open.
+[0C41]
+For thieves only. 
+[0C42]
+This is a personal weapon. 
+[0C43]
+There are no chests or doors to open. 
+[0C44]
+Inventory full.
+[0C45]
+Can't be repaired.
+[0C46]
+Cannot pause during the tutorial
+[0C47]
+The transporter's inventory is full.
+Select an item to discard.
+
+[0C48]
+Connection failed.
+Please turn off the console,
+recheck your cable connection,
+and try again.
+
+[0C49]
+Thria
+[0C4A]
+Ostia
+[0C4B]
+Ostia
+[0C4C]
+Fibernia
+[0C4D]
+Almar
+[0C4E]
+Mt. Ebrakhm
+[0C4F]
+Djuto
+[0C50]
+Misul
+[0C51]
+Nabata
+[0C52]
+Etruria Border
+[0C53]
+Aquleia
+[0C54]
+Raemy
+[0C55]
+Ilia Forest
+[0C56]
+Karlae
+[0C57]
+Edessa
+[0C58]
+Sealed Temple
+[0C59]
+Bern
+[0C5A]
+Temple Foyer
+[0C5B]
+Dragon Temple
+[0C5C]
+Small Village
+[0C5D]
+Idina
+[0C5E]
+Talas
+[0C5F]
+Djute
+[0C60]
+Bulgar
+[0C61]
+Bulgar
+[0C62]
+Ostia
+[0C63]
+Djuto Cave
+[0C64]
+Nabata Temple
+[0C65]
+Saint Tower
+[0C66]
+Edessa Ruins
+[0C67]
+Sacaean Ruins
+[0C68]
+Underground
+[0C69]
+Lycia
+[0C6A]
+Etruria
+[0C6B]
+Western Isles
+[0C6C]
+Misul Peninsula
+[0C6D]
+Ilia Forests
+[0C6E]
+Sacae
+[0C6F]
+Weapon Level
+[0C70]
+
+[0C71]
+Weapon level has increased.
+[0C72]
+ broke!
+[0C73]
+ broke!
+[0C74]
+received!
+[0C75]
+received!
+[0C76]
+stolen!
+[0C77]
+received.
+[0C78]
+stolen!
+[0C79]
+was stolen. 
+[0C7A]
+Support level increased!
+[0C7B]
+Valley of Death
+[0C7C]
+Capture castle gate 
+[0C7D]
+A powerful group of mighty
+Berserkers are occupying a castle.
+Obtain it back from them!
+[0C7E]
+Fog Warfare
+[0C7F]
+Survive 20 turns 
+[0C80]
+Fight against numerous
+foes while maintaining
+under the dreaded effect of
+Fog of War.
+[0C81]
+Castle Defense
+[0C82]
+Survive 20 turns 
+[0C83]
+Enemies are trying to take
+your castle away!
+Defend with all of your units!
+[0C84]
+Pincer Attack
+[0C85]
+Kill the leader!
+[0C86]
+It's a battle and you're surrounded on all
+sides! Build up your defense and flying units
+will help you attack the units over sea!
+[0C87]
+A Solo Mission
+[0C88]
+Defeat all enemies 
+[0C89]
+Roy must fight all of these powerful
+bandits on his own! Can the son of Eliwood
+stand against all of them at once?
+[0C8A]
+Fire Emblem
+[0C8B]
+Deer of the Plains
+[0C8C]
+The Frontier
+[0C8D]
+Polar Region
+[0C8E]
+World of Dragons
+[0C8F]
+Sanctuary of Dragon
+[0C90]
+Legendary Inheritance
+[0C91]
+FE Gaiden CP Map
+[0C92]
+Messengers from the Darkness
+[0C93]
+Beyond the Sky
+[0C94]
+For the Commanders
+[0C95]
+Within the Magnificent Nature
+[0C96]
+Beneath a New Light
+[0C97]
+The Path to Greatness
+[0C98]
+Scars of the Scouring
+[0C99]
+FE Gaiden Player Map
+[0C9A]
+Shadow Approaches
+[0C9B]
+Binding Ties
+[0C9C]
+Winning Road
+[0C9D]
+Poem of the Soft Wind
+[0C9E]
+At the Final "Dragon"
+[0C9F]
+Battle of Tomorrow
+[0CA0]
+In the Name of Bern
+[0CA1]
+Battle for Who's Sake?
+[0CA2]
+Shaman in the Dark
+[0CA3]
+Curing
+[0CA4]
+Healing
+[0CA5]
+To The Heights
+[0CA6]
+I - Campaign
+[0CA7]
+II - Recapturing the Royal Capital
+[0CA8]
+III - Invisible Enemy
+[0CA9]
+IV - Final Chapter
+[0CAA]
+Prepare to Charge
+[0CAB]
+An Unexpected Caller
+[0CAC]
+When the Rush Comes
+[0CAD]
+Cogs of Fate
+[0CAE]
+Distant Utopia
+[0CAF]
+Triumph
+[0CB0]
+Into the Shadow of Triumph
+[0CB1]
+Sorceress of Darkness
+[0CB2]
+The King of Bern
+[0CB3]
+Princess of Destiny
+[0CB4]
+Suspicison
+[0CB5]
+Dignity
+[0CB6]
+Melancholy
+[0CB7]
+Final Farewell
+[0CB8]
+Going My Way
+[0CB9]
+Join Us!
+[0CBA]
+Epilogue
+[0CBB]
+Battle Results
+[0CBC]
+After the War
+[0CBD]
+Game Over
+[0CBE]
+Shop
+[0CBF]
+Arena ~ Entrance
+[0CC0]
+Arena ~ Battle
+[0CC1]
+Happiness Abounds
+[0CC2]
+Main Theme Motif
+[0CC3]
+Shocking Truth I
+[0CC4]
+Shocking Truth II
+[0CC5]
+Talking
+[0CC6]
+Dance of Captivation
+[0CC7]
+Prelude ~ Telling a Legend
+[0CC8]
+Eternal Wind
+[0CC9]
+What Went Before
+[0CCA]
+Attack!
+[0CCB]
+Revenge!
+[0CCC]
+
+[0CCD]
+Enemy Map 1
+[0CCE]
+Enemy Map 2
+[0CCF]
+Enemy Map 3
+[0CD0]
+Enemy Map 4
+[0CD1]
+Enemy Map 5
+[0CD2]
+Enemy Map 6
+[0CD3]
+Enemy Map 7
+[0CD4]
+Enemy Map 8
+[0CD5]
+Player Map 1
+[0CD6]
+Player Map 2
+[0CD7]
+Player Map 3
+[0CD8]
+Player Map 4
+[0CD9]
+Player Map 5
+[0CDA]
+Player Map 6
+[0CDB]
+Player Map 7
+[0CDC]
+Player Map 8
+[0CDD]
+Player Map 9
+[0CDE]
+Player Map (Near Victory)
+[0CDF]
+Battle Screen (Elphin)
+[0CE0]
+Battle Screen (Yan)
+[0CE1]
+Battle Screen (Boss)
+[0CE2]
+Battle Screen (3 D Generals)
+[0CE3]
+Battle Screen (Zephiel)
+[0CE4]
+Battle Screen (Idoun)
+[0CE5]
+Battle Screen (Status)
+[0CE6]
+Battle Screen (Healing)
+[0CE7]
+Class Change
+[0CE8]
+All Map 1
+[0CE9]
+All Map 2
+[0CEA]
+All Map 3
+[0CEB]
+All Map 4
+[0CEC]
+Battle Preparations
+[0CED]
+Opening, Ending Event
+[0CEE]
+Opening, Ending Event
+[0CEF]
+Opening, Ending Event
+[0CF0]
+Opening, Ending Event
+[0CF1]
+Opening, Ending Event
+[0CF2]
+Opening, Ending Event
+[0CF3]
+Theme of Idoun
+[0CF4]
+Theme of Zephiel
+[0CF5]
+Theme of Guinevere
+[0CF6]
+Theme of Narshen
+[0CF7]
+Theme of Murdock
+[0CF8]
+Theme of Brenya
+[0CF9]
+Event
+[0CFA]
+Event
+[0CFB]
+Meeting
+[0CFC]
+Epilogue
+[0CFD]
+Score Screen
+[0CFE]
+End
+[0CFF]
+Game Over
+[0D00]
+Shop
+[0D01]
+Arena 1(Entrance)
+[0D02]
+Arena 2(Battle)
+[0D03]
+Event
+[0D04]
+Event
+[0D05]
+Event
+[0D06]
+Event
+[0D07]
+Event
+[0D08]
+Battle Screen (Lalum Dances)
+[0D09]
+Opening
+[0D0A]
+
+[0D0B]
+
+[0D0C]
+Battle Screen (Player)
+[0D0D]
+Battle Screen (CP)
+[085C6448]
+　チュートリアルs続Io
+[085C646C]
+　チュートリアルsjho
+[085C64B4]
+ファ<ルs\リア fV
+[085C64D8]
+LeMF？
+[085C64FC]
+\リア fファ<ル&Z
+[085C6520]
+以後プレ<&GeNt
+[085C6544]
+　　　　　　　　　了解
+[085C65F8]
+　リリー{>ントリ
+[085C661C]
+　'J&i再開
+[085C6640]
+　手再開
+[085C6688]
+　手中断
+[085C66AC]
+　手再開
+[085C66F4]
+　マップ
+[085C6718]
+　デブ情報
+[085C673C]
+　天気
+[085C6760]
+　索敵
+[085C6784]
+　周回数
+[085C67A8]
+　\リア f
+[085C67F0]
+　EjMfUKB
+[085C6AE4]
+Yes
+[085C6B08]
+No
+[085C6B50]
+Yes
+[085C6B74]
+No
+[085C6BBC]
+Cnt
+[085C6BE0]
+Eqp
+[085C6C04]
+Trd
+[085C6C28]
+Trw
+[085C6F40]
+Conquer
+[085C6F64]
+Attack
+[085C6F88]
+Staff
+[085C6FAC]
+Sing
+[085C6FD0]
+Dance
+[085C6FF4]
+Steal
+[085C7018]
+Talk
+[085C703C]
+Support
+[085C7060]
+Visit
+[085C7084]
+Unlock
+[085C70A8]
+Unlock
+[085C70CC]
+Shop
+[085C70F0]
+Shop
+[085C7114]
+Secret
+[085C7138]
+Arena
+[085C715C]
+Rescue
+[085C7180]
+Release
+[085C71A4]
+Take
+[085C71C8]
+Give
+[085C71EC]
+Item
+[085C7210]
+Trade
+[085C7234]
+Storage
+[085C7258]
+End
+[085C72A0]
+Return
+[085C72E8]
+Unit
+[085C730C]
+Data
+[085C7330]
+Config
+[085C7354]
+Quit
+[085C7378]
+End
+[0860D00C]
+--
+[0860D010]
+Plains
+[0860D014]
+Road
+[0860D018]
+Village
+[0860D01C]
+Closed
+[0860D020]
+House
+[0860D024]
+Shop
+[0860D028]
+Shop
+[0860D02C]
+Arena
+[0860D030]
+Storage
+[0860D034]
+Fort
+[0860D038]
+Gate
+[0860D03C]
+Forest
+[0860D040]
+Woods
+[0860D044]
+Sand
+[0860D048]
+Desert
+[0860D04C]
+River
+[0860D050]
+Mtn
+[0860D054]
+Peak
+[0860D058]
+Bridge
+[0860D05C]
+Bridge
+[0860D060]
+Sea
+[0860D064]
+Lake
+[0860D068]
+Floor
+[0860D06C]
+Floor
+[0860D070]
+Wall
+[0860D074]
+Wall
+[0860D078]
+Wall
+[0860D07C]
+Broken
+[0860D080]
+Pillar
+[0860D084]
+Door
+[0860D088]
+Throne
+[0860D08C]
+Chest
+[0860D090]
+Chest
+[0860D094]
+Roof
+[0860D098]
+Gate
+[0860D09C]
+Church
+[0860D0A0]
+Ruins
+[0860D0A4]
+Cliff
+[0860D0A8]
+Arch
+[0860D0AC]
+Long
+[0860D0B0]
+Killer
+[0860D0B4]
+Land
+[0860D0B8]
+Broken
+[0860D0BC]
+--
+[0860D0C0]
+Stairs
+[0860D0C4]
+--
+[0860D0C8]
+Glacier
+[0860D0CC]
+Arena
+[0860D0D0]
+Valley
+[0860D0D4]
+Wall
+[0802BEDC]
+Con
+[0802BF10]
+Aid
+[0802BF78]
+Status
+[0802BFCC]
+RES
+[0802C030]
+Hit
+[0802C0C0]
+Empty
+[085C839C]
+Spd
+[085C8398]
+Def
+[085C8394]
+Atk
+[085C8390]
+Crt
+[085C838C]
+Acc
+[085C8388]
+Pow
+[08105788]
+1-Mag
+[085C5278]
+Silence
+[085C5274]
+Sleep
+[085C5270]
+Poison
+[085C526C]
+---
+[0801AF70]
+緑軍
+[0801AF6C]
+赤軍
+[0801CD38]
+Wep
+[0801CD3C]
+Atk
+[0801CD40]
+Acc
+[0801CD44]
+Crt
+[0801CD48]
+Eva
+[0805D4B8]
+HP
+[0806ED98]
+Mgc
+[0806EFD4]
+Str
+[08677DB8]
+LV
+[08677DC0]
+E
+[08677DC8]
+HP
+[08677DD0]
+Str
+[08677DD8]
+Mgc
+[08677DE0]
+Skill
+[08677DE8]
+Spd
+[08677DF0]
+Def
+[08677DF4]
+def
+[08677DF8]
+Res
+[08677DFC]
+mdef
+[08677E00]
+Luck
+[08677E04]
+luck
+[08677E08]
+Con
+[08677E0C]
+build
+[08677E10]
+Aid
+[08677E14]
+res
+[08677E18]
+Move
+[08677E1C]
+mob
+[08677E20]
+Trv
+[08677E24]
+save
+[08677E28]
+Affin
+[08677E2C]
+attr
+[08677E30]
+Rng
+[08677E34]
+rng
+[08677E38]
+Atk
+[08677E3C]
+pow
+[08677E40]
+Hit
+[08677E44]
+hit
+[08677E48]
+Crit
+[08677E4C]
+crit
+[08677E50]
+Avoid
+[08677E54]
+avoid
+[08677E58]
+Stat
+[08677E5C]
+cond
+[08677E60]
+Pwr
+[08677E64]
+pow
+[08677E68]
+Weight
+[08677E6C]
+wgt
+[08677E78]
+1
+[08677EE4]
+Sword
+[08677EEC]
+Lance
+[08677EF4]
+Axe
+[08677EFC]
+Bow
+[08677F04]
+Wand
+[08677F0C]
+Magic
+[08677F14]
+Lightning
+[08677F1C]
+Darkness
+[08071184]
+Range
+[08071188]
+Wgt
+[0807118C]
+Pwr
+[08071190]
+Hit
+[08071194]
+Crt
+[0807126C]
+LV
+[080739B8]
+Run
+[08677DBC]
+Lv
+[08677DC4]
+Ex
+[08677DCC]
+HP
+[08677DD4]
+str
+[08677DDC]
+mag
+[08677DE0]
+Skill
+[08677DE4]
+tech
+[08677DE8]
+Spd
+[08677DEC]
+quick
+[0810F298]
+Hidden Units
+[0810F2AC]
+Victory Cond.
+[0810F2B8]
+Point
+[0810F2BC]
+Survival
+[0810F2C0]
+Auto Weapon
+[0810F2A4]
+On
+[0810F2A8]
+Off
+[0803A080]
+ＮＯＷ　ＬＯＡＤＩＮＧ
+[085C99BC]
+接続　成功
+[085C99B8]
+接続>ラー
+[085C99B4]
+準　備　中
+[085C99B0]
+未　接　続
+[085C9A30]
+Make
+[085C9A90]
+Record
+[085C9A40]
+Roster
+[085C9A50]
+Order
+[085C9A60]
+Delete
+[085C9A70]
+Back
+[08036F50]
+NONE
+[08037330]
+Please Choose
+[08037EFC]
+消M　　　jho
+[08038988]
+戻o　　　jho
+[0803A740]
+位
+[0803A744]
+人
+[0803A9D8]
+Team
+[0803A9DC]
+Score
+[0803A9E0]
+Rank
+[0803A9E4]
+ No
+[0803BD88]
+送信中
+[0803BDF8]
+受信中
+[0803BF84]
+準備中
+[0803CA68]
+ＧＥＴ　ＰＯＩＮＴ
+[0808878C]
+Normal     Hard
+[0868A304]
+Yes       No
+[0868A2F8]
+Yes       No
+[0868A2F4]
+Yes       No
+[0868A2F0]
+Yes       No
+[0808B018]
+Is this map OK?
+[0808B01C]
+Yes
+[0808B024]
+Obj:
+[0868AA00]
+ファ<アー>ムブレム・メ<ンテーマ
+[0868AA04]
+~<トル画面
+[0808C078]
+PLAY
+[0808C07C]
+STOP
+[0808C080]
+FINISH
+[0835C80C]
+HP
+[0835C810]
+Str
+[0809561C]
+Mgc
+[0835C814]
+Skill
+[0835C818]
+Spd
+[0835C81C]
+Def
+[0835C820]
+Res
+[08677E70]
+  Strangeness
+[08677E78]
+1
+[08677E80]
+   1
+[08677E88]
+ 1-2
+[08677E90]
+ 1-3
+[08677E98]
+   2
+[08677EA0]
+ 2-3
+[08677EA8]
+3-10
+[08677EB0]
+3-15
+[08677EB8]
+---
+[08677EC0]
+Pois
+[08677EC8]
+Slep
+[08677ED0]
+Silence
+[08677ED8]
+Berserk
+[085C9AA0]
+Roster
+[085C9AB0]
+Back
+[0868A2EC]
+Yes       No
+[0868A2FC]
+Yes       No
+[0868A300]
+Yes       No
+[0807DACC]
+--Nothing--
+[0807DD54]
+Storage
+[0807DE5C]
+Remains
+[0807FE74]
+Deposit
+[0807FE7C]
+Remove
+[0807FF44]
+Destroy
+[08080B2C]
+Trash
+[08080B34]
+Yes
+[08080B38]
+No
+[080816DC]
+Throw
+[080816E0]
+ away?
+[080816E4]
+Yes
+[080816E8]
+No
+[0802C004]
+Res
+[08665008]
+---
+[0866500C]
+ATK
+[08665010]
+'De'
+[08665014]
+'Ri'
+[08665018]
+ATKP
+[0866501C]
+CRT
+[08665020]
+'De'
+[08665024]
+'Ri'
+[08665028]
+CRTP
+[0866502C]
+EMPB
+[0807D6A8]
+WEP
+[0807D6AC]
+MGT
+[0807D6B0]
+ACC
+[0807D6B4]
+CRT
+[0807D6B8]
+EVA
+[081057CC]
+-
+[081057D0]
+E
+[081057D4]
+D
+[081057D8]
+C
+[081057DC]
+B
+[081057E0]
+A
+[081057E4]
+S
+[08079F40]
+Units
+[08079F44]
+  /
+[0803AD54]
+Team Name
+[0803AD58]
+Score
+[0803AD5C]
+Rank
+[0803AD60]
+ No
+[0810F2A4]
+On
+[0810F2CC]
+On
+[0810F2D0]
+Off
+[0808B020]
+No
+[0801A99C]
+Null
+[0801A9A0]
+Null
+[08678844]
+Name
+[08678854]
+Class
+[08678864]
+Equipment
+[08678874]
+Anime
+[085C527C]
+Berserk
+[08037174]
+NONE
+[08037220]
+NONE
+[08037264]
+NONE
+[08071270]
+Range
+[08105824]
+AX
+[08105828]
+BO
+[0810582C]
+ST
+[0810582C]
+ST
+[08105834]
+LG
+[08105838]
+DA
+[0810583C]
+Road
+[08105840]
+A
+[08105844]
+DRG
+[08075188]
+Name
+[08076614]
+ーーーー
+[08076720]
+?フ
+[080766E4]
+１
+[08076704]
+２
+[08076B3C]
+ーーー
+[08678BB4]
+Support
+[08678AD4]
+Stat
+[08678AC4]
+Plays
+[08678AB4]
+Aid
+[08678AA4]
+Con
+[08678A94]
+Move
+[08678A34]
+Avoid
+[08678A24]
+Acc
+[08678A14]
+Atk
+[086789D4]
+Afn
+[086789C4]
+Res
+[086789B4]
+Def
+[086789A4]
+Luck
+[08678994]
+Spd
+[08678984]
+Skill
+[08678974]
+Pow
+[08678924]
+MHP
+[08678914]
+HP
+[08678904]
+EXP
+[086788F4]
+LV
