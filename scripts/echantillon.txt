@@ -24,43 +24,59 @@ If only I could think like that...
 But I can't...[A]
 Not even after Bern has fallen...[A]
 
-[F4]
-[OpenMidLeft][LoadFace][0x140][OpenMidRight][LoadFace][0x1D7]
-[OpenMidLeft][ToggleSmile]Pourquoi cela prend-t-il autant de temps ?![A]
-Les forces de la resistance posent-elles
-autant de problemes ?![A]
-[OpenMidRight]L'armee de la federation de Lycia ![A]
-Ils soutiennent les forces de
-la resistance...[A]
-[OpenMidLeft]Comment ?![A]
-La federation de Lycia
-se retournerait contre Etruria ?[A]
-[OpenMidRight]Nous venons juste de recevoir un
-message du capitole, a Djuto ![A]
-Il dit...[A]
-"L'armee de la federation de Lycia
-est responsable du meurtre du duc Nord.[A]
-Il est aussi possible qu'elle se soit
-retournee contre Etruria.[A]
-Nous pensons qu'elle s'est alliee
-avec les bandits.[A]
-Capturez-les, ou tuez-les,
-si necessaire."[A]
-[OpenMidLeft]Alors ils ont tue le duc Nord...[A]
-[ToggleSmile]En tous cas, ils ont sorti
-une bonne excuse pour se debarrasser[A]
-de l'armee de la federation de Lycia.
-Ah ah ah... Alliee avec les bandits[A]
-hein ?
-Comme c'est ironique...[A]
-[OpenMidRight][ToggleSmile]Lord Arcard a aussi fourni quelques
-renforts pour nous aider[A]
-a capturer l'armee de la federation de Lycia.
-Ils devraient arriver d'ici peu.[A]
-[OpenMidLeft][ToggleSmile]Comme c'est genereux !
-Il a dit "capturez-les", mais il
-projette surement de les tuer de[A]
-toute maniere.[A]
-Alors faisons le travail a sa place.
-Tuez-les tous ![A]
-[OpenMidRight][ToggleSmile]Bien, monsieur ![A]
+[0A]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x15C][FastPrint][ToggleSmile]Hey hey![A]
+Aren't you knights going to the
+castle?[A]
+This may not be much...[A]
+But this is something we'd
+really like to offer you.[A]
+Please use it well![A]
+[0B]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x15F][CloseSpeechFast]It's awful...[A]
+Soldiers from Bern were able
+to cross the border...[A]
+They laid an awful attack.[A]
+And even if the allied lords
+strike back, Lord Eliwood...[A]
+He can no longer stand too well...[A]
+[0C]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x164][CloseSpeechFast]Hey![A]
+If you wanna do well in battle
+you better use the terrain wisely.[A]
+Like if you're in a forest,
+the trees will cover you![A]
+There's no way enemies will have
+an easy time in that situation.[A]
+
+[06]
+[OpenMidLeft][LoadFace][0x119][OpenRight][LoadFace][0x102][OpenRight][FastPrint][ToggleSmile]Oh, it's Lance!
+What's the matter?[A]
+Why are you in such a hurry?[A]
+[OpenMidLeft]Master Roy![A]
+Bandits have appeared and are attacking
+the castle as we speak![A]
+[OpenFarRight][LoadFace][0x118]WHAT!
+Is Lord Eliwood safe?[A]
+[OpenMidLeft][CloseSpeechFast]He's inside, defending against
+the bandits' attacks.[A]
+But I don't know how long he can
+last with his illness...![A]
+[OpenFarRight][ClearFace][OpenFarRight][LoadFace][0x109][NormalPrint]Excuse me, Lance, is it?[.....]
+Is Lady Lilina safe?[A]
+[OpenMidLeft][CloseSpeechFast]Are you from Ostia?[A]
+Lady Lilina is in the castle.[A]
+She should be all right,[A]
+as long as Lord Eliwood is with her,
+but he can't last forever.[A]
+[OpenFarRight][ClearFace][OpenRight]No...[A]
+I shouldn't have let Lilina go to
+the castle before me.[A]
+[OpenMidLeft][ClearFace][OpenFarLeft][LoadFace][0x10B][FastPrint]Lord Roy, regret won't solve anything!
+We must recapture the castle![A]
+[OpenLeft][LoadFace][0x11C]Wolt is right.
+We must hurry![A][OpenRight][NormalPrint]Yeah.
+You're right.[A][Clear]
+[FastPrint][OpenFarLeft][ClearFace][OpenLeft][ClearFace][OpenRight]All right, let's go![A]
+We're going to save those trapped
+in the castle![A]

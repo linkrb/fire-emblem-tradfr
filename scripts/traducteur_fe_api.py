@@ -10,9 +10,9 @@ from tqdm import tqdm  # Ajout de tqdm pour la progress bar
 # --------------------------
 load_dotenv()
 API_KEY = os.getenv("OPENAI_API_KEY")
-FICHIER_ENTREE = "part_test1000.txt"
-FICHIER_SORTIE = "echantillon_traduit.txt"
-MODEL = "gpt-4"
+FICHIER_ENTREE = "part1.txt"
+FICHIER_SORTIE = "part1-traduit.txt"
+MODEL = "gpt-4o"
 MAX_TOKENS_PAR_BLOC = 2048
 TAILLE_BLOC = 40  # Nombre de lignes anglaises traitées par lot
 
