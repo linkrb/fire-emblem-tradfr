@@ -6,9 +6,9 @@ from dotenv import load_dotenv
 # CONFIGURATION
 # --------------------------
 load_dotenv()
-FICHIER_ENTREE = "part5.txt"
-FICHIER_BATCH = "demande_batch_part5.jsonl"
-FICHIER_MAPPING = "mapping_part5.json"
+FICHIER_ENTREE = "support_en_only.txt"
+FICHIER_BATCH = "demande_support.jsonl"
+FICHIER_MAPPING = "mapping_support.json"
 TAILLE_BLOC = 120  # Plus gros blocs = moins d'appels API (coûts ↓)
 MAX_CAR_PAR_LIGNE = 45  # Limite stricte par ligne demandée
 MODEL = "gpt-4o-mini"  # Modèle nettement moins cher

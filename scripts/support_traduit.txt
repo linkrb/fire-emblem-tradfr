@@ -1,0 +1,3821 @@
+[0326]
+[OpenMidLeft][LoadFace][0x102][OpenMidRight][LoadFace][0x118]
+[OpenMidLeft][ToggleSmile]Hmm...[A]
+[OpenMidRight]Toujours en train de penser,
+Ma|tre Roy?[A]
+[OpenMidLeft]Oui.[A]
+Je ne peux pas encore penser < un bon plan...
+Mais pas ton plan, d'accord?[A]
+[OpenMidRight]Oui, je comprends,
+Ma|tre Roy.[A]
+Mais s'il y a quelque chose que je peux faire,
+dis-le moi.[A]
+[OpenMidLeft]Oui, je le ferai.[A]
+[OpenMidRight]...Ma|tre Roy.[A]
+[OpenMidLeft]Oui?[A]
+[OpenMidRight]...Honn^tement, je ne peux toujours pas d>cider si
+il existe une vraie victoire.[A]
+Mais si tu y crois, alors je vais
+te soutenir de toutes mes forces.[A]
+[ToggleSmile][OpenMidLeft]Merci, Alan.[A]
+Je suis sûr qu'un jour tu
+comprendras.[A]
+[OpenMidRight]Alors j'attendrai
+ce jour![A]
+[0329]
+[OpenMidLeft][LoadFace][0x119][OpenMidRight][LoadFace][0x102][OpenMidRight]Lance, j'ai pens> < ce que
+tu as dit, mais je pense toujours que je[A]
+devrais rester devant.[A]
+Je sais que tu le sugg>rais pour
+mon bien, mais...[A]
+[OpenMidLeft]Non, peut-^tre que j'>tais trop concentr> sur mes propres
+opinions.[A]
+Si tu crois que ta voie est la meilleure,
+alors il vaut mieux suivre ce chemin.[A]
+[OpenMidRight][FastPrint][ToggleSmile]Merci.[A]
+C'est encourageant d'entendre que tu
+dis cela.[A]
+[OpenMidLeft][ToggleSmile]Cependant, tu as fait une erreur
+l'autre jour.[A]
+[OpenMidRight][NormalPrint]J'ai fait?[A]
+[OpenMidLeft][FastPrint]Tu as dit : "Je ne suis pas particuli{rement intelligent,
+et je n'ai pas beaucoup de charisme non plus."[A]
+[OpenMidRight][NormalPrint]Oui, j'ai dit cela.[A]
+[OpenMidLeft][FastPrint]C'est la partie de toi que les gens
+aiment.[A]
+Personne ne donnerait sa vie < quelqu'un
+qui n'a pas de charisme du tout.[A]
+[OpenMidRight]...Tu le penses?[A]
+[OpenMidLeft][CloseSpeechFast]Bien sûr.[A]
+Si je peux aussi ajouter un commentaire, assure-toi
+de garder ce cœur pur.[A]
+Tant que tu le fais, nos troupes vont
+te suivre.[A]
+[OpenMidRight][FastPrint][ToggleSmile]J'essaierai.
+Merci, Lance.[A]
+[OpenMidLeft][FastPrint]Je suis heureux d'^tre
+utile.[A]
+[032C]
+[OpenMidLeft][LoadFace][0x10D][OpenMidRight][LoadFace][0x103][OpenMidLeft][ToggleSmile]Qu'est-ce qui ne va pas, Clarine?
+Tu as l'air triste.[A]
+[OpenMidRight]Je... Je ne veux pas retourner
+au manoir apr{s la guerre...[A]
+[OpenMidLeft]Pourquoi?[A]
+P{re et M{re sont anxieux
+de nous voir revenir.[A]
+[OpenMidRight]Je veux rencontrer P{re et M{re...[A]
+Mais si je retourne au manoir,
+je ne serais qu'une poup>e < nouveau.[A]
+Je ne verrais jamais le monde ext>rieur,
+et je ne serais pr>occup>e[A]
+qu'< me d>corer...[A]
+[OpenMidLeft]Eh bien, c'est comme ça que la plupart des
+dames d'Etrurie sont.[A]
+[OpenMidRight]Oui, je sais...[A]
+Mais devenir la plus >l>gante en
+Etrurie ne semble pas aussi attrayant[A]
+qu'avant.[A]
+[OpenMidLeft]C'est parce que tu grandis
+et que tu mûris, Clarine.[A]
+Si tu restes au manoir, tu pourrais juste
+vivre ta vie sans rien faire.[A]
+[OpenMidRight]Mais ce serait tellement
+ennuyeux![A]
+[OpenMidLeft][ToggleSmile]Oui, en effet...
+D'accord, alors voici ce que nous allons faire.[A]
+Une fois cette guerre termin>e, nous allons d'abord
+rentrer chez nous et montrer < P{re et M{re[A]
+que nous sommes sains et saufs.[A]
+[OpenMidRight]Oui.[A]
+[OpenMidLeft]Ensuite, nous pourrons discuter de ton avenir
+et de ce que tu veux faire.[A]
+[OpenMidRight]Oh, je sais d>j< ce que je veux
+faire![A]
+[OpenMidLeft][ToggleSmile]Quoi?[A]
+[OpenMidRight][ToggleSmile]Je vais devenir un G>n>ral de Sorcellerie
+comme le G>n>ral Cecilia![A]
+[OpenMidLeft][ToggleSmile]Euh...
+Tu es s>rieuse?[A]
+[OpenMidRight][ToggleSmile]Bien sûr![A]
+En tant que G>n>ral de Sorcellerie, je vais aider ton
+travail en tant que G>n>ral de Tir < l'Arc, et ensuite nous[A]
+serons toujours ensemble![A]
+[OpenMidLeft][ToggleSmile]Clarine...essayons d'^tre
+un peu plus r>alistes...[A]
+[OpenMidRight][ToggleSmile]Oh, ce serait si merveilleux de nous voir
+tous les deux dans l'uniforme >l>gant[A]
+des G>n>raux d'Etrurie...[A]
+[OpenMidLeft][ToggleSmile]Clarine...[A]
+Eh bien, tu es encore une petite
+fille, je vois.[A]
+[OpenMidRight][ToggleSmile]As-tu dit quelque chose?[A]
+[OpenMidLeft][ToggleSmile]Non, rien.[A]
+[032F]
+[OpenMidLeft][LoadFace][0x114][OpenMidRight][LoadFace][0x103][OpenMidLeft][ToggleSmile]... H>.[A]
+[OpenMidRight]Oh...[A]
+[OpenMidLeft]Tu as laiss> ça tomber.[A]
+[OpenMidRight]Quoi?
+Oh, mon ruban...[A]
+[ToggleSmile]Tu me l'as apport>.
+Merci.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Um...[A]
+Je viens de rEaliser...
+Je ne connais pas ton nom...[A]
+Pourrais-tu me dire ton nom,
+si ce n'est pas trop dE trAouble?[A]
+[OpenMidLeft][ToggleSmile]...Rutger.[A]
+[OpenMidRight]Rutger...[A]
+Je ne t'ai mAme pas remerciE
+de m'avoir sauvE...[A]
+Ce n'est pas surprenant que tu ne
+m'aimes pas...[A]
+[OpenMidLeft][ToggleMouthMove].....[ToggleMouthMove][A]
+[OpenMidRight][ToggleSmile]Merci de m'avoir sauvE
+cette fois...[A]
+Je sais qu'il est dEj< trop tard,
+mais si tu acceptes mes remerciements..[A]
+[OpenMidLeft][ToggleSmile]...Pas comme toi.[A]
+Quoi?[A]
+[OpenMidLeft]N'essaie pas quelque chose que tu
+n'as pas l'habitude de faire.[A]
+Tu es bon pour crier,
+alors pourquoi ne le fais-tu pas?[A]
+[OpenMidRight]Qu-Quoi!?
+Que veux-tu dire par lA!?[A]
+[OpenMidLeft][ToggleSmile]Voil<...
+C'est plus comme toi.[A]
+Viens comme cA et fais-moi
+rire de temps en temps, Clarine.[A]
+[OpenMidRight][ToggleSmile]!![A]
+[OpenMidLeft][ClearFace]
+[OpenMidRight]Rutger...[A]
+[0332]
+[OpenMidLeft][LoadFace][0x115][OpenMidRight][LoadFace][0x103]
+[OpenMidLeft][ToggleSmile]...D'accord, tu gagnes.
+Je vais te le dire.[A]
+Alors arrEte de me suivre partout..[A]
+[OpenMidRight][ToggleSmile]Enfin, nous nous comprenons.
+S'il te plAit, commence, j'>coute.[A]
+[OpenMidLeft][ToggleSmile]Ce n'est vraiment pas si grave...[A]
+C'est juste que j'ai un jour travaillE pour ta
+famille comme combattant.[A]
+[OpenMidRight!?
+Alors...[A]
+Es-tu Dieck?[A]
+[OpenMidLeft]Ouais?[A]
+[OpenMidRight][ToggleSmile]Vraiment?
+J'ai toujours voulu te rencontrer, Dieck![A]
+[OpenMidLeft][ToggleSmile]Qu'est-ce que c'est censE signifier?[A]
+[OpenMidRight][ToggleSmile]Tu as sauvE la vie de mon frEre![A]
+[OpenMidLeft][ToggleSmile]Qui t'a dit?[A]
+[OpenMidRight][ToggleSmile]Tout le monde!
+Mon pEre, ma mEre, mon frEre...[A]
+J'ai grandi en entendant toutes ces bonnes
+choses sur toi.[A]
+[OpenMidLeft][ToggleMouthMove].....[A]
+[OpenMidRight][ToggleMouthMove]Quand tu es parti, j'>tais encore petit...[A]
+Je me souviens que j'ai toujours regrettE
+de ne pas avoir pu te voir.[A]
+Mais maintenant, nous y sommes![A]
+[OpenMidLeft][ToggleSmile]Je vois...
+Eh bien, maintenant tu m'as vu.[A]
+Satisfait?[A]
+[OpenMidRight][ToggleSmile]Oui.[A]
+[OpenMidLeft]Bien.[A]
+Alors tu vas arrEter de planer
+autour de moi oA je vais, n'est-ce pas?[A]
+[OpenMidRight]Oh, je te suivrai partout![A]
+[OpenMidLeft][ToggleSmile]Quoi...[A]
+[OpenMidRight][ToggleSmile]Si tu as sauvE la vie de mon frEre,
+cela signifie que tu es une personne
+importante pour moi aussi.[A]
+Et je veux que tu me dises comment
+mon frEre >tait quand il >tait jeune...[A]
+[OpenMidLeft][ToggleSmile]...Je ne pense pas.[A][ClearFace]
+[OpenMidRight][ToggleSmile]Oh!
+Attends, Dieck![A]
+Je ne te laisserai pas partir![A]
+[0335]
+[OpenMidLeft][LoadFace][0x119][OpenMidRight][LoadFace][0x103]
+[OpenMidRight][ToggleSmile]Lance![A]
+[OpenMidLeft]Oui, Lady Clarine?[A]
+[OpenMidRight]MEven si tu n'es pas mon chevalier...[A]
+Il est vrai que nous sommes une princesse et
+un chevalier, ai-je raison?[A]
+[OpenMidLeft]Oui, bien sUr, ma lady.[A]
+[OpenMidRight]D-Donc...[A]
+Je te permets donc de baiser
+ma main.[A]
+[OpenMidLeft]Oui, merci, ma lady.[A]
+[OpenMidRight]Lance, tu comprends, n'est-ce pas?[A]
+C'est pour clarifier la diffErence
+dans notre statut.[A]
+Il n'y a pas d'autre signification que
+cela![A]
+[OpenMidLeft]Oui, bien sUr, ma lady.[A]
+[OpenMidRight]Oui...
+Bien sUr...[A]
+Tu pourrais ^tre un peu plus...
+dEçue...[A]
+[OpenMidLeft]As-tu dit quelque chose,
+ma lady?[A]
+N-Non!
+Rien![A]
+[0338]
+[OpenMidLeft][LoadFace][0x103][OpenMidRight][LoadFace][0x10C]
+[OpenMidRight][ToggleSmile]Um...Lady Clarine?[A]
+[OpenMidLeft]Oui?[A]
+[OpenMidRight]J'essaie vraiment dE
+devenir une lady, mais...[A]
+Rien ne semble avoir changE.[A]
+Personne ne semble le remarquer.
+Alors peut-Être que je devrais abandonner...[A]
+[OpenMidLeft]Eh bien...[A]
+[OpenMidRight]Je suis dEsolE!
+Je sais que tu essayais juste de m'aider...[A]
+Mais ce n'est pas de ta faute![A]
+Tu sais, avec moi, la base n'est pas tr{s
+bonne...[A]
+[OpenMidLeft]Dorothy![A]
+C'est ce qui ne va pas chez toi![A]
+[OpenMidRight]Quoi?[A]
+[OpenMidLeft]Ecoute-moi.[A]
+Une fine dame doit avoir confiance en elle.[A]
+Peu importe comment tu t'habilles, si tu ne
+n'as pas foi en toi, tout sera[A]
+vain.[A]
+Tu ne dois pas te rabaisser comme ça.[A]
+Compris?[A]
+[OpenMidRight]O-Oui.[A]
+[OpenMidLeft][ToggleSmile]Aie confiance en toi!
+C'est moi qui t'enseigne.[A]
+Bien sûr, tu vas
+devenir une fine dame un jour![A]
+[OpenMidRight]...Oui, merci,
+Dame Clarine...[A]
+[OpenMidLeft][ToggleSmile]...Et...[A]
+Nous sommes amis maintenant,
+[ToggleSmile]n'est-ce pas?[A]
+[OpenMidRight][ToggleSmile]Hein?[A]
+[OpenMidLeft][ToggleSmile]Ne m'appelle pas 'Dame' Clarine.
+Appelle-moi juste Clarine.[A]
+[OpenMidRight][ToggleSmile]Oh, d'accord.
+D'accord alors, merci, Clarine![A]
+[OpenMidLeft]...E-Euh!
+Aujourd'hui, nous allons voir comment boire du th>![A]
+[OpenMidRight]D'accord![A]
+[033B]
+[OpenMidLeft][LoadFace][0x104][OpenMidRight][LoadFace][0x12D]
+[OpenMidLeft]Sophia?[A]
+[OpenMidRight][ToggleSmile]Oui...? [A]
+[OpenMidLeft][ToggleSmile]Euh...[A]
+[OpenMidRight][ToggleSmile]Oui...[A]
+Fa avait peur que tu grandisses et
+ne veuilles plus jouer avec elle...[A]
+Fa veut toujours ^tre avec toi!
+Fa veut jouer < cache-cache et tag[A]
+[ToggleSmile]et plein d'autres jeux amusants.[A]
+[OpenMidRight][ToggleSmile]Fa...[A]
+Ne t'inqui{te pas...
+Je serai toujours...ta amie...[A]
+Je serai toujours avec toi...
+D'accord...? [A]
+[OpenMidLeft][ToggleSmile]Vraiment!? Youpi![A]
+[OpenMidRight][ToggleSmile]Oui...[A]
+Nous serons toujours...
+ensemble...[A]
+[033E]
+[OpenMidLeft][LoadFace][0x104][OpenMidRight][LoadFace][0x11B]
+[OpenMidLeft]Igrene![A]
+[OpenMidRight]Oui, Fa?[A]
+[OpenMidLeft]Tu parlais de ta
+petite fille l'autre jour.[A]
+[OpenMidRight]Oui.[A]
+[OpenMidLeft]Je la connais.[A]
+[OpenMidRight]Quoi?[A]
+[OpenMidLeft]Elle est venue jouer avec Fa.[A]
+Quand Fa >tait toute seule dans sa chambre,
+elle est venue avec Sophia pour jouer et[A]
+et parler < Fa de l'ext>rieur.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Elle a dit que tu >tais le
+'Gardien'.[A]
+[OpenMidRight][ToggleSmile]Je vois...[A]
+[OpenMidLeft]Mais...[A]
+Elle a arr^t> de venir jouer
+avec Fa.[A]
+Fa a demand> < Sophia < son sujet,
+mais elle ne voulait pas dire.[A]
+Est-ce la faute de Fa?[A]
+Fa >tait-elle une mauvaise fille pour elle?[A]
+Est-ce que Fa l'a mise en col{re et
+est all>e au loin?[A]
+[OpenMidRight]Non...ce n'est pas le cas.
+Elle n'a jamais >t> f[ch>e contre toi, Fa.[A]
+Elle ne peut juste plus jouer avec toi
+mais...[A]
+Elle t'aimera toujours beaucoup,
+Fa.[A]
+[OpenMidLeft]Vraiment?[A]
+[OpenMidRight]Oui...bien sûr.[A]
+[0341]
+[OpenMidLeft][LoadFace][0x104][OpenMidRight][LoadFace][0x106]
+[OpenMidLeft]Sue![A]
+[OpenMidRight]Fa?[A]
+[OpenMidLeft]Fa veut aller dans plein
+d'autres endroits, aussi![A]
+Fa veut en apprendre plus
+sur le grand monde ext>rieur.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Sue...[A]
+[OpenMidRight][ToggleSmile]Oui...[A]
+[ToggleSmile]Une fois cette guerre finie, nous pourrons
+aller dans de nombreux endroits diff>rents.[A]
+[OpenMidLeft]Vraiment?[A]
+[OpenMidRight]Oui.[A]
+Il y a beaucoup de choses dans ce monde
+qui ont >t> nourries par les b>n>dictions du Ciel[A]
+et la chaleur de la Terre.
+Nous pouvons voir toutes ces choses.[A]
+[OpenMidLeft]Hmmmm...[A]
+Fa ne comprend pas.
+[OpenMidRight]Tu comprendras quand tu seras un
+peu plus grande.[A]
+Je sais que tu le feras.[A]
+[0344]
+[OpenMidLeft][LoadFace][0x104][OpenMidRight][LoadFace][0x124][OpenMidLeft]Granny Niime![A]
+[OpenMidRight]Ah, bonjour, Fa.[A]
+[OpenMidLeft][ToggleSmile]Qu'est-ce qui ne va pas?[A]
+[OpenMidRight]Hm...[A]
+Je t'ai racont> l'histoire des hommes
+et des d>mons l'autre jour, non?[A]
+[OpenMidLeft]Euh...[A]
+[ToggleSmile]Oui!
+Les jolies lumi{res![A]
+[OpenMidRight][ToggleSmile]Pour te dire la v>rit>...
+J'avais peur de ces d>mons.[A]
+Apr{s avoir >tudi> la magie noire et
+l'histoire de l'humanit>...c'est seulement[A]
+alors que j'ai d>couvert < quel point c'>tait puissant.
+et terrifiants, les demons l'etaient.[A]
+[OpenMidLeft][ToggleSmile]Oui.[A]
+[OpenMidRight][ToggleSmile]Mais...[A]
+AprAes t'avoir rencontrA>, ma peur semble
+s'etre volA>e par la fenAetre.[A]
+[OpenMidLeft]?[A]
+[OpenMidRight]C'est rien.[A]
+Eh bien, mes longues histoires doivent
+t'ennuyer.[A]
+Tiens.[A]
+Va jouer avec ceci.[A]
+[OpenMidLeft]Youpi![A][ClearFace][.......]
+[OpenMidRight][ToggleSmile]Quel idiot j'etais...[A]
+J'etais prA>t A faire des choses terribles
+A une petite fille innocente pour la[A]
+paix et la sA>curitA> de notre race...[A]
+Qu'est-ce que je pensais...[A]
+Il n'y a pas de sens A la paix obtenue
+[ToggleSmile]par de telles mesures hideuses.[A]
+[0347]
+[OpenMidLeft][LoadFace][0x104][OpenMidRight][LoadFace][0x12B][OpenMidLeft]Elphin?[A]
+[OpenMidRight]Oui, que veux-tu, Fa?[A]
+[OpenMidLeft]Fa a toujours voulu
+te demander quelque chose.[A]
+[OpenMidRight]Qu'est-ce que c'est?
+J'espA{re pouvoir te donner une rA>ponse.[A]
+[OpenMidLeft][ToggleSmile]Euh...
+[ToggleSmile]Es-tu une fille ou un garAçon?[A]
+[OpenMidRight]...Que penses-tu?[A]
+[OpenMidLeft]Fa pensait que tu etais une fille
+au dA©but car tu es si jolie[A]
+et tu sens vraiment bon![A]
+Mais ensuite Roy a dit l'autre jour
+que tu etais un homme...[A]
+Donc cela fait de toi un garAçon?[A]
+[OpenMidRight]Oui, je suis un garAçon.
+...Es-tu dA©A§u?[A]
+[OpenMidLeft]Non!
+...Donc, tu es un garAçon...[A]
+Heehee...[A]
+[OpenMidRight][ToggleSmile]Hm?
+Qu'est-ce qui se passe?[A]
+[OpenMidLeft][ToggleSmile]Hey, Fa va devenir aussi jolie
+que toi quand elle grandira.[A]
+Donc attends jusqu'A alors, d'accord?
+Promis![A][ClearFace]
+[OpenMidRight]Fa! Attends![A][......]
+[ToggleSmile]...Je doute vraiment que je sois encore
+en vie quand elle grandira...[A]
+[ToggleSmile]Eh bien, je suppose que je devrais
+laisser tomber pour l'instant.[A]
+[034A]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x105][OpenMidLeft][ToggleSmile]Shin.[A]
+[OpenMidRight]Oui?[A]
+[OpenMidLeft]Notre PA©re le Ciel n'a pas seulement
+apportA> des malheurs.[A]
+Certaines bonnes choses se sont
+produites aprAes notre dA©faite.[A]
+Surtout pour toi.[A]
+[OpenMidRight]Que veux-tu dire?[A]
+[OpenMidLeft]La terre n'est plus comme avant.[A]
+Nous de Sacae devons penser avec des
+perspectives plus larges en dehors des clans.[A]
+[OpenMidRight]Mais Chef...[A]
+[OpenMidLeft]Tu sembles avoir beaucoup appris
+durant tes voyages.[A]
+Je suis dA©A§A© trop vieux pour changer ma
+faA§on de penser.[A]
+Mais tu es encore jeune.[A]
+C'est ta responsabilitA> de mener
+Sacae vers un avenir meilleur.[A]
+C'est un ordre de ton Chef, Shin.[A]
+C'est A vous, les jeunes, de dA©cider du
+destin de Sacae.[A]
+[OpenMidRight]Oui...[A]
+[034D]
+[OpenMidLeft][LoadFace][0x106][OpenMidRight][LoadFace][0x105][OpenMidLeft][ToggleSmile]Shin, tu vas bien?[A]
+[OpenMidRight]Que se passe-t-il, Dame Sue?
+Tu n'as pas l'air bien...[A]
+[OpenMidLeft]J'ai entendu que tu as A©tA©
+embuscadA>...[A]
+[OpenMidRight]Je ne suis pas blessA>, ma Dame.[A]
+[OpenMidLeft]...Shin, je veux que tu te retires
+en arriA{re.[A]
+Je vais prendre le relais.[A]
+[OpenMidRight]Que dis-tu, Dame Sue?
+Cela devrait A©tre l'inverse![A]
+[OpenMidLeft]J'ai pris ma dA©cision.
+Tu vas te retirer.[A]
+[OpenMidRight]Mais...[A]
+[OpenMidLeft]Retire-toi en arriA{re, Shin!
+C'est un ordre.[A]
+[OpenMidRight]Y a-t-il un problA{me?
+Tu n'agis pas comme d'habitude.[A]
+[OpenMidLeft]...Tout le monde...
+Ils ont tous A©tA© tuA©s par Biran...[A]
+Je n'ai mAªme pas pu retrouver le traA|tre
+dans nos rangs, et...ils ont tous A©tA© tuA©s,[A]
+juste devant mes yeux...[A]
+J'etais impuissant, Shin.[A]
+Je ne veux pas ressentir cela encore.
+Je ne veux pas te perdre![A]
+[OpenMidRight]Dame Sue...[A]
+[OpenMidLeft]Tu ne dois pas mourir avant moi.
+Compris?[A]
+[OpenMidRight]J'ai reA§u l'ordre de te protA©ger,
+Dame Sue. Il n'y a pas moyen que je te
+laisse et meurs.[A]
+[OpenMidLeft]Promets-tu?[A]
+[OpenMidRight]Je jurerai par notre PA©re le Ciel
+et notre MA©re la Terre.[A]
+[0350]
+[OpenMidLeft][LoadFace][0x105][OpenMidRight][LoadFace][0x113][OpenMidLeft][ToggleSmile]Tu es...bizarre.[A]
+[OpenMidRight]Je...je le suis?[A]
+[OpenMidLeft]Les femmes de Sacae prennent rarement
+des armes. M^me si elles le font,
+elles choisiraient un arc.[A]
+Tu ne verrais que rarement une fille
+prendre une >p>e.[A]
+[OpenMidRight]Oh...[A]
+Je n'ai jamais vu un Sacaean comme
+toi avant.[A]
+[OpenMidRight]Je-Je suis d>sol>...[A]
+[OpenMidLeft]Non, je ne t'accuse pas.
+Je le respecte en fait.[A]
+Les gens peuvent aussi vivre librement comme toi...
+Tu m'as appris une leçon.[A]
+[OpenMidRight]Je pense que tu exag{res...[A]
+Mais c'est agr>able de t'entendre
+dire ça.[A]
+[OpenMidLeft][ToggleSmile]Tu as de beaux yeux.[A]
+[OpenMidRight]Qu-Quoi?[A]
+[OpenMidLeft]Ça doit ^tre parce que tu regardes
+droit devant ton r^ve de[A]
+ma|triser l'>p>e.[A]
+Je prierai pour que ton r^ve se
+r>alise un jour.[A]
+[OpenMidRight][ToggleSmile]Oui!
+Merci![A]
+[0353]
+[OpenMidRight][LoadFace][0x10C][ToggleSmile]Hmm...[A]
+...Mais pourquoi est-ce que je m'inqui{te tant
+pour lui?[A]
+...Je ne peux pas comprendre ça non plus.[A]
+[ToggleMouthMove]Quoi qu'il en soit.[A]
+[ToggleMouthMove]Je dois trouver un moyen de lui parler
+.[A]
+[OpenMidLeft][LoadFace][0x105][OpenMidRight][ToggleMouthMove]...[A]
+[OpenMidRight][ToggleMouthMove]Oh...[A][Clear]
+[OpenMidLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidRight]Euh, euh...heu...
+[ToggleSmile]B-Bonjour![A]
+[OpenMidLeft][ToggleSmile]Oui, bonjour...[A]
+[OpenMidRight]Euh, qu...quoi...[A]
+[OpenMidLeft]?[A]
+[OpenMidRight]Q-Quoi...quoi...genre...[A]
+[OpenMidLeft]Quel genre...? [A]
+[OpenMidRight]Quel type de nourriture aimes-tu?
+...... ...Mince...[A]
+[OpenMidLeft]Des fruits.[A]
+[OpenMidRight]Hein?[A]
+[OpenMidLeft]Quel type de nourriture j'aime, n'est-ce pas?
+J'aime les fruits.[A]
+[OpenMidRight]Euh...
+...As-tu entendu que je parlais tout seul?[A]
+[OpenMidLeft]C'>tait difficile de ne pas >couter avec
+une voix si forte.[A]
+[OpenMidRight]Euh...heu...[A]
+[OpenMidLeft]Si tu veux me parler,
+n'h>site pas.[A]
+[OpenMidRight][ToggleSmile]Tout va bien!?[A]
+[OpenMidLeft]Bien sûr...
+Nous sommes dans la m^me arm>e.[A]
+[OpenMidRight]Oui![A]
+[0356]
+[OpenMidLeft][LoadFace][0x105][.....][OpenMidRight][LoadFace][0x12A][ToggleSmile]Shin!
+Derri{re toi![A]
+[OpenMidLeft]![A]
+[OpenMidRight]Ça va?[A]
+Je suppose que m^me toi tu as des probl{mes
+quand tu es entour>.[A]
+[OpenMidLeft]Tu n'avais pas besoin de faire ça.[A]
+[OpenMidRight]Eh bien, je l'ai vu.
+C'>tait une r>action automatique.[A]
+[OpenMidLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidRight]Eh bien, je vais y aller maintenant.[A]
+Assure-toi de ne pas recommencer
+< tirer sur moi![A]
+[OpenMidLeft]Je ne ferai pas cette erreur.[A]
+[OpenMidRight][ToggleSmile]Tu l'as bien fait l'autre jour![A]
+...Eh bien, nous sommes en pleine action, donc ça
+ne peut pas ^tre >vit> si tu fais parfois[A]
+une erreur.[A]
+[OpenMidLeft][ToggleSmile]Je ne suis pas assez stupide pour pointer mon
+arc sur un alli>.[A]
+...Il n'y a aucune chance que je te tire dessus.[A]
+[OpenMidRight]...Oui, tu as raison![A]
+[OpenMidLeft]Je serai juste derri{re toi.
+Laisse-moi les ennemis que tu as rat>s.[A]
+[OpenMidRight][ToggleSmile]Oui, je le ferai![A]
+[0359]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x106][OpenMidLeft]Tu as l'air beaucoup mieux maintenant,
+Sue.[A]
+[OpenMidRight]Oui.[A]
+[ToggleSmile]Je ne peux toujours pas oublier que je n'ai pas pu sauver
+nos camarades, mais j'ai d>cid> de ne pas[A]
+m'attarder sur le pass>.[A]
+[ToggleSmile]Je vais me tourner vers l'avenir.[A]
+[OpenMidLeft]Ah, il semble que tu as appris
+quelque chose de notre balade l'autre jour.[A]
+[OpenMidRight]J'ai pu >couter beaucoup de
+voix de la nature pour une fois.[A]
+[OpenMidLeft]Bien![A]
+[ToggleSmile]Je ne pouvais pas supporter de te voir
+si inquiet.[A]
+[OpenMidRight]Je n'ai jamais eu un tel regard sur mon visage.[A]
+[OpenMidLeft]Les autres ne sauraient pas,
+mais moi je le sais.[A]
+Je suis ton grand-p{re.
+Je te connais depuis ta naissance.[A]
+[OpenMidRight]Oh...
+Papi.[A]
+[OpenMidLeft]Quoi?[A]
+[OpenMidRight][ToggleSmile]Merci.[A]
+[OpenMidLeft][ToggleSmile]Je faisais juste mon devoir...
+en tant que grand-p{re.[A]
+[OpenMidRight][ToggleSmile]Oui, je sais.[A]
+[035C]
+[OpenMidLeft][LoadFace][0x106][OpenMidRight][LoadFace][0x10B]
+[OpenMidLeft][ToggleSmile]Wolt?[A]
+Quel est le probl{me?
+Tu es essouffl>.[A]
+[OpenMidRight]...Mince, c'est vraiment dur d'essayer de suivre
+un cheval...[A]
+Je veux dire, souviens-toi comment tu as dit que c'>tait plus facile
+de suivre ta cible < cheval?[A]
+Donc...[A]
+[OpenMidLeft][ToggleSmile]Tu as essay>?[A]
+[OpenMidRight][ToggleSmile]Je ne saurais pas < moins d'essayer.[A]
+[OpenMidLeft][ToggleSmile]Comment ça s'est pass>?[A]
+[OpenMidRight][ToggleSmile]Eh bien, tu ne peux pas battre la vitesse d'un cheval.[A]
+Pourtant, je pense que c'est plus stable < pied, donc...[A]
+[OpenMidLeft][ToggleSmile]Je pensais que c'>tait dangereux d'essayer quelque chose
+auquel tu n'es pas habitu> au combat ?[A]
+[OpenMidRight]...Oh.[A]
+Eh bien, je ne l'ai essay> que bri{vement.
+Donc, c'est bon.[A]
+[OpenMidLeft]Si tu veux profiter de la vitesse d'un cheval,
+tu peux monter derri{re moi.[A]
+[OpenMidRight][ToggleSmile]Ça te va ?[A]
+[OpenMidLeft][ToggleSmile]Bien que, je ne pense pas que tu pourras bien
+tirer...[A]
+[OpenMidRight][ToggleSmile]Tirer tr{s bien ?[A]
+Je ne pourrais m^me pas rester en selle !
+Ouais...[A]
+Je pense que je devrais rester au sol.
+Cela semble plus adapt> pour moi.[A]
+[OpenMidLeft][ToggleSmile]Hehehe.
+Peut-^tre que tu as raison.[A]
+[035F]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x110][OpenMidLeft][ToggleSmile]Les sept affinit>s...[A]
+Leurs effets n'appara|tront que
+< travers des liens avec d'autres personnes.[A]
+Quand ton cœur est li> <
+celui de quelqu'un d'autre...[A]
+C'est alors que les >l>ments r>v{lent
+leur v>ritable pouvoir.[A]
+[OpenMidRight][ToggleSmile]Oui.[A]
+Saint Elimine a aussi dit de ch>rir
+tes relations.[A]
+[OpenMidLeft][ToggleSmile]Hmm...[A]
+Je me demande si nous avons pu
+lier nos cœurs l'un < l'autre.[A]
+[OpenMidRight][ToggleSmile]Je suis sûr que oui.[A]
+Nous n'avons pas encore d>couvert
+quels effets cela a...[A]
+[0362]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x12F][OpenMidLeft][ToggleSmile]Je suis d>sol>, Gonzales.[A]
+Il semble que chaque fois que tu es avec
+moi, tu te blesses.[A]
+[OpenMidRight]C'est bon.[A]
+[OpenMidLeft]Tiens,
+je te donne ça en guise d'excuse.[A]
+[OpenMidRight]Qu'est-ce que c'est ?[A]
+[OpenMidLeft]C'est un couvre-chef que nous du
+clan Kutolah portons.[A]
+Cela irait bien < un brave guerrier comme
+toi.[A]
+[OpenMidRight]...Merci.[A]
+[OpenMidLeft]Prends ça aussi.[A]
+C'est un vin fait de lait de cheval.
+Nous le buvons lors des festivit>s.[A]
+[OpenMidRight]Je suis heureux.[A]
+Je bois.[A]
+[OpenMidLeft]Attends,
+ne... bois pas trop...[A]
+[OpenMidRight]Hein ?[A]
+Uhhhhhhhh ?[A][ClearFace]
+[OpenMidLeft]Gonzales !
+Peux-tu te lever ?[A]
+Ce vin est tr{s fort.[A]
+Tu ne devrais pas en boire autant
+d'un coup.[A]
+[OpenMidRight]Uhhhhh...[A]
+[0365]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x114][OpenMidLeft][ToggleSmile]Rutger.[A]
+Que feras-tu apr{s cette guerre ?
+As-tu un endroit o} aller ?[A]
+[OpenMidRight]...Non.[A]
+[OpenMidLeft]Je le pensais.[A]
+Alors voudrais-tu rejoindre le
+clan Kutolah ?[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Notre clan a perdu,
+mais nous n'avons pas >t> d>truits.[A]
+Une fois la guerre termin>e, nous nous rassemblerons
+dans les plaines < nouveau.[A]
+Ce serait utile si tu >tais
+avec nous.[A]
+[OpenMidRight]...Je ne prends pas d'offres.[A]
+[OpenMidLeft]Ce n'est pas une offre.[A]
+Je te demande cela car j'ai
+foi en ta force en tant que guerrier.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Hm...
+Personne difficile, je vois.[A]
+[OpenMidLeft]Alors je ne dirai plus rien.[A]
+Mais souviens-toi toujours que si tu
+changes d'avis, nous t'[A]
+accueillerons < bras ouverts.[A]
+Garde cela en t^te...
+o} que tu ailles.[A]
+[OpenMidRight][ToggleMouthMove]......[A][Clear]
+[OpenMidRight][ToggleMouthMove]...Ouais.[A]
+[0368]
+[OpenMidLeft][LoadFace][0x108][OpenMidRight][LoadFace][0x122]
+[OpenMidRight][ToggleSmile]Barth...[A]
+Que penses-tu qu'il arrivera
+< Ostia maintenant, sans mon p{re ?[A]
+[OpenMidLeft]A moins que quelqu'un ne reconstruise Ostia apr{s que cette
+guerre soit finie, elle sombrera de plus en[A]
+plus dans le chaos.[A]
+Cette personne, c'est toi, Dame Lilina.[A]
+[OpenMidRight]Mais...
+Je ne pense pas ^tre qualifi>e.[A]
+Je vais juste ^tre une
+nuisance pour vous tous...[A]
+Tu... penses aussi cela,
+n'est-ce pas ?[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[ToggleMouthMove]Je ne sais pas comment une personne au pouvoir
+devrait ^tre, mais...[A][Clear]
+Quand tu as dit que tu voulais faire confiance
+< tes serviteurs, je n'ai certainement pas[A]
+eu l'impression que tu te trompais en
+pensant cela.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]J'ai une chose < te dire,
+ma dame.[A]
+Peu importe quel chemin que
+tu suivras dor>navant,[A]
+nous, les chevaliers, pr^terons
+notre loyaut> pour te soutenir.[A]
+[036B]
+[OpenMidLeft][LoadFace][0x108][OpenMidLeft][ToggleSmile]?[A]
+Quelqu'un fait des swings d'entra|nement...? [A]
+[ClearFace][......][OpenMidRight][LoadFace][0x116]
+[OpenMidRight]Ouf...[A]
+Je me demande si je me suis rapproch>
+de Sir Barth maintenant.[A]
+[OpenMidLeft][LoadFace][0x108]Oujay.[A]
+[OpenMidRight]Woah!?[A]
+Oh, Sir Barth!
+Tu m'as fait peur.[A]
+[OpenMidLeft][ToggleSmile]Bien,
+tr{s bien.[A]
+Tu vois, ton corps s'est
+habitu> < s'entra|ner.[A]
+[OpenMidRight][ToggleSmile]Oui, j'ai l'impression de devoir
+continuer < bouger mon corps.[A]
+Et de plus, je d>testerais perdre quelqu'un
+parce que je n'>tais pas assez fort.[A]
+[OpenMidLeft][ToggleSmile]Je vois que tu as appris ta leçon.[A]
+Si tu gardes l'habitude de t'entra|ner,
+tu ne te fatigueras jamais en bataille.[A]
+Peu importe si tu es un
+Chevalier d'Armure ou Mercenaire.[A]
+[OpenMidRight]Quoi?[A]
+Mais je pensais que tu voulais
+faire de moi un Chevalier d'Armure.[A]
+[OpenMidLeft]J'ai juste dit ça pour te faire
+t'entra|ner comme une habitude.[A]
+Je sais que ta constitution ne pourrait
+pas supporter une armure lourde.[A]
+[OpenMidRight]Vraiment?[A]
+[OpenMidLeft]Ça t'a encourag> davantage,
+n'est-ce pas?[A]
+[OpenMidRight]C'est vrai?
+Je me demande...[A]
+[OpenMidLeft]Qu'est-ce que tu as dit?[A]
+[OpenMidRight]Non, rien...[A]
+[036E]
+[OpenMidLeft][LoadFace][0x108][OpenMidRight][LoadFace][0x109][OpenMidLeft][ToggleSmile]Bors,
+j'ai toujours voulu te demander...[A]
+[OpenMidRight]Demande-moi quoi?[A]
+[OpenMidLeft]Pourquoi voulais-tu devenir un
+Chevalier d'Armure?[A]
+[OpenMidRight]Parce que je voulais prot>ger ceux
+que j'aime avec cette armure.[A]
+[OpenMidLeft]Je vois.[A]
+[OpenMidRight]Et toi?[A]
+[OpenMidLeft]Je suis devenu Chevalier d'Armure parce
+qu'ils sont les plus forts combattants.[A]
+Je crois qu'en un contre un, aucun
+autre unit> ne peut >galer le Chevalier d'Armure.[A]
+...Ce qui est probablement pourquoi je n'ai pas pu
+prot>ger Lady Lilina contre une grande horde...[A]
+[OpenMidRight]Encore ça?[A]
+[OpenMidLeft]Cela est arriv> parce que je n'>tais pas
+assez fort.[A]
+Si j'avais eu assez de pouvoir pour arr^ter la
+r>bellion tout seul,[A]
+je n'aurais pas laiss> la situation
+devenir incontr_lable.[A]
+Je dois devenir encore plus fort.[A]
+[OpenMidRight]...Je vois.[A]
+[ToggleSmile]...Alors tu dois devenir une lance
+plus forte que toutes les autres.[A]
+Et je deviendrai un bouclier plus
+r>sistant que tous les autres.[A]
+[OpenMidLeft][ToggleSmile]Une lance et un bouclier...[A]
+[OpenMidRight][ToggleSmile]Faisons ensemble le chemin pour les
+vies que nous m{nerons < l'avenir.[A]
+[OpenMidLeft]Ça sonne bien, ami![A]
+[0371]
+[OpenMidLeft][LoadFace][0x108][OpenMidRight][LoadFace][0x1BD][OpenMidRight][ToggleSmile]Sir Barth,
+comment puis-je am>liorer mes comp>tences?[A]
+[OpenMidLeft][ToggleSmile]Tu es d>j< un vrai
+chevalier ostien, Wendy.[A]
+Je n'ai rien <
+te critiquer.[A]
+[OpenMidRight][ToggleSmile]Merci![A]
+Mais...
+Sir Barth...[A]
+Peux-tu...
+dire quelque chose?[A]
+[OpenMidLeft][ToggleSmile]Quelque chose?
+Quoi?[A]
+[OpenMidRight]Euh...[A]
+Je suis sûr qu'il y a quelque chose
+sur lequel je dois travailler, alors...[A]
+[OpenMidLeft]Non.[A]
+A partir de maintenant,
+tu dois te juger toi-m^me.[A]
+[OpenMidRight]Mais...[A]
+[OpenMidLeft]Qu'est-ce qui ne va pas?
+Pourquoi as-tu l'air si d>courag>?[A]
+[OpenMidRight]Je...
+Je veux que tu m'enseignes plus...[A]
+[OpenMidLeft]? [A]
+[OpenMidRight]Ne...
+Ne me laisse pas, Sir Barth...[A]
+[OpenMidLeft]Hein?
+De quoi parles-tu?[A]
+Nous sommes maintenant des camarades
+combattant ensemble.[A]
+Je ne te laisserais pas.[A]
+[OpenMidRight][ToggleSmile]Vraiment?[A]
+[OpenMidLeft][ToggleSmile]Bien sûr.[A]
+...Nous avons assez perdu de temps
+< parler comme ça.[A]
+Allons-y, Wendy![A]
+[OpenMidRight][ToggleSmile]Oui![A]
+[0374]
+[OpenMidLeft][LoadFace][0x108][OpenMidRight][LoadFace][0x11D][OpenMidLeft][ToggleSmile]Ashtor.[A]
+...Comment ça s'est pass>?[A]
+[OpenMidRight]Oui.[A]
+Ça a pris du temps, mais
+je suis beaucoup plus confiant.[A]
+La princesse est innocente.[A]
+[OpenMidLeft]Je vois...[A]
+[OpenMidRight]La princesse Guinevere fait vraiment
+confiance au g>n>ral Roy.[A]
+Tout le monde ici aussi.
+Eh bien, que sais-tu...[A]
+Le lien de ce groupe h>t>roclite est
+assez fort.[A]
+[OpenMidLeft]Oui...[A]
+Je suis soulag>.[A]
+[OpenMidRight]Euh-huh.
+Donc, c'est r>gl>.[A]
+Quand nous aurons quelqu'un de nouveau, je
+veillerai sur lui.[A]
+[OpenMidLeft]Je suis d>sol> de devoir te donner
+tout ce travail sale...[A]
+[OpenMidRight][ToggleSmile]H>, ne te laisse pas d>ranger.
+C'est ce que je fais.[A]
+[0377]
+[OpenMidLeft][LoadFace][0x122][OpenMidRight][LoadFace][0x109][OpenMidRight]Tu as l'air bien mieux aujourd'hui,
+ma dame.[A]
+[OpenMidLeft]Oui, je me sens beaucoup mieux maintenant.[A]
+[OpenMidRight]C'est bon < entendre.[A]
+[OpenMidLeft][ToggleSmile]Ce n'est pas comme si Roy m'>vitait ou
+quoi que ce soit...[A]
+C'est juste qu'il semblait changer,
+et j'>tais laiss>e pour compte.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Je sautais juste aux conclusions
+et m'inqui>tais pour rien...[A]
+Une fois que j'ai r>alis> ça, ça
+semblait si ridicule.[A]
+[ToggleSmile]Je suis encore une enfant, n'est-ce pas?[A]
+[OpenMidRight][ToggleSmile]Dame Lilina...[A]
+[OpenMidLeft][ToggleSmile]Bors, resteras-tu toujours
+< mes c_t>s dor>navant?[A]
+[OpenMidRight]...Je suis un chevalier,
+et ma loyaut> est avec toi.[A]
+Je serai toujours l< pour toi.[A]
+[OpenMidLeft]Merci, Bors...[A]
+[037A]
+[OpenMidLeft][LoadFace][0x1BD][OpenMidRight][LoadFace][0x109]
+[OpenMidLeft][ToggleSmile]Bors...[A]
+[OpenMidRight][ToggleSmile]Whoa, W-Wendy!
+Nous nous rencontrons vraiment souvent...[A]
+[OpenMidLeft][ToggleSmile]Oui, fr{re.
+Avais-tu besoin de quelque chose?[A]
+[OpenMidRight][ToggleSmile]Non, rien.
+Juste...[A]
+[OpenMidLeft][ToggleSmile]Bors...[A]
+[OpenMidRight][ToggleSmile]Hm?[A]
+[OpenMidLeft][ToggleSmile]Je suis vraiment reconnaissante pour ta
+consid>ration tout le temps.[A]
+Mais je suis un chevalier d'Ostia.[A]
+Je m'entra|ne pour pouvoir
+devenir comme toi.[A]
+[OpenMidRight][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidLeft]Si je veux devenir forte, je ne peux
+pas d>pendre de toi tout le temps.[A]
+Je vais bien, vraiment, alors
+s'il te pla|t, ne t'inqui{te pas...[A]
+Je dois y aller.[A]
+...Je te suis vraiment reconnaissante,
+fr{re.[A][ClearFace][.......]
+[OpenMidRight][ToggleSmile][ToggleMouthMove]......[ToggleMouthMove][A]
+...Je vois...[A]
+Elle a beaucoup grandi.[A]
+Je suppose que c'>tait moi...
+qui >tais enfantin...[A][Clear]
+Wendy, je te souhaite bonne chance.[A]
+[037D]
+[OpenMidLeft][LoadFace][0x11D][OpenMidRight][LoadFace][0x109][OpenMidRight][ToggleSmile]Ashtor.[A]
+[OpenMidLeft][ToggleSmile]Eh...?
+Oh, Bors.[A]
+Allez,
+prends un verre avec moi...[A]
+[OpenMidRight][ToggleSmile]Arr^te de te bl[mer.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Nous avons perdu Lord Hector.
+La responsabilit> est de nous tous.[A]
+Mais... Quand m^me...
+Nous ne devons pas regarder en arri{re.[A]
+Nous devons avancer.[A]
+Nous devons r>aliser le r^ve que Lord
+Hector n'a pas pu accomplir.[A]
+Et nous avons besoin de toi pour ça, Ashtor.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[ToggleMouthMove]Toi... pourquoi?[A]
+[OpenMidLeft]Pourquoi d>fends-tu un ivrogne,
+un bon < rien comme moi...?[A]
+[OpenMidRight]C'est parce que tu es
+un chevalier d'Ostia.[A]
+[OpenMidLeft]...Un chevalier?
+Qui...moi?[A]
+[OpenMidRight]Bien que tu n'aies pas
+>t> officiellement adoub>...[A]
+Tu as combattu de ta vie pour
+d>fendre Lord Hector.[A]
+C'est plus que suffisant
+pour faire de toi un chevalier loyal.[A]
+Du moins, je le pense.[A]
+[OpenMidLeft][ToggleMouthMove].....[A]
+[ToggleMouthMove]...Bo..rs... Je...[A]
+[OpenMidRight][ToggleSmile]Ashtor, marchons sur le chemin...
+[CloseSpeechFast]et r>alisons le r^ve de notre ma|tre.[A]
+[0380]
+[OpenMidLeft][LoadFace][0x109][OpenMidRight][LoadFace][0x116][OpenMidRight]Monsieur Bors, tu as dit l'autre jour que
+il doit toujours y avoir une cause en bataille.[A]
+[OpenMidLeft][ToggleSmile]Oui.[A]
+Et pour cette cause, tu dois ^tre pr^t
+< traverser toutes les >preuves.[A]
+As-tu une telle cause?[A]
+[OpenMidRight]Eh bien...
+Malheureusement, je n'en ai pas.[A]
+Je suis devenu mercenaire pour nourrir
+ma famille.[A]
+Donc je n'ai pas vraiment de cause...[A]
+[OpenMidLeft]Tu en as une juste l<.[A]
+[OpenMidRight]Hein?[A]
+[OpenMidLeft]Nourrir ta famille est une grande cause.[A]
+Et pour cette cause, tu t'entra|nes.
+et devenir plus fort, plus fort qu'[A]
+quiconque d'autre.[A]
+[OpenMidRight]O-Oui![A]
+[OpenMidLeft]Une cause n'est pas juste limit>e
+aux grandes choses comme d>fendre[A]
+ton pays ou sauver le monde.[A]
+D'accord?[A]
+[0383]
+[OpenMidLeft][LoadFace][0x122][OpenMidRight][LoadFace][0x1BD][OpenMidRight][ToggleSmile]Dame Lilina,
+tu es une personne >trange.[A]
+[OpenMidLeft][ToggleSmile]Etrange?
+Pourquoi?[A]
+[OpenMidRight][ToggleSmile]Tu es dans une position
+bien plus >lev>e que nous...[A]
+Mais tu viens quand m^me nous parler
+avec un sourire sur ton visage.[A]
+Cela semble...>trange.[A]
+[OpenMidLeft][ToggleSmile]Tu le penses?
+Je veux juste ^tre amie avec toi.[A]
+[OpenMidRight][ToggleSmile]A-Ami?[A]
+Je ne pense pas que ce soit
+possible, ma dame...[A]
+Tu es ma ma|tresse![A]
+[OpenMidLeft][ToggleSmile]Cela ne change rien.[A]
+Tu es la seule fille de mon [ge
+qui a grandi dans la m^me r>gion.[A]
+Ne nous inqui>tons pas de qui est le
+ma|tre ou le serviteur...[A]
+[OpenMidRight][ToggleSmile]Dame Lilina![A]
+Tu portes l'avenir d'Ostia
+sur tes >paules.[A]
+Tu es diff>rente de nous.[A]
+Tu comprends, n'est-ce pas?[A]
+[OpenMidLeft]...Alors nous ne pouvons pas ^tre amis?[A]
+[OpenMidRight]Je suis d>sol>e.[A]
+Mais je suis tr{s reconnaissante pour
+ta consid>ration.[A]
+Peut-^tre que nous ne pouvons pas ^tre amis,[A]
+mais voudrais-tu me permettre de venir
+discuter avec toi de temps en temps?[A]
+[OpenMidLeft][ToggleSmile]Bien sûr![A]
+...Merci, Wendy.[A]
+[0386]
+[OpenMidLeft][LoadFace][0x1BD][OpenMidRight][LoadFace][0x116][OpenMidRight]Comment vas-tu, Wendy?[A]
+[OpenMidLeft][ToggleSmile]Je vais bien, bien sûr.[A]
+Je ne peux pas me plaindre si je veux
+^tre une forte Chevali{re Armure.[A]
+[OpenMidRight]Oui, moi aussi.
+Si je veux ^tre un mercenaire puissant...[A]
+[OpenMidLeft]...Oujay, merci.[A]
+[OpenMidRight]Qu-Quoi?[A]
+[OpenMidLeft]J'ai pu continuer d'essayer
+parce que je te compare.[A]
+Si je ne t'avais pas avec moi, je
+aurais probablement abandonn>, en disant[A]
+'Ce ne serait pas possible
+pour une fille de toute façon.'[A]
+[OpenMidRight]...Je ressens la m^me chose.[A]
+J'ai pu arriver jusqu'ici
+gr[ce < toi.[A]
+Nous sommes quittes.[A]
+[OpenMidLeft]Oui.[A]
+Mais je ne me laisserai pas
+perdre contre toi.[A]
+[OpenMidRight]Je te renverrai ces mots,
+Wendy![A]
+[0389]
+[OpenMidLeft][LoadFace][0x11D][OpenMidRight][LoadFace][0x1BD][OpenMidRight][ToggleSmile]Monsieur Asthor![A]
+[OpenMidLeft][ToggleSmile]Ah, Wendy.
+Belle comme toujours.[A]
+[OpenMidRight][ToggleSmile]Tu ne peux pas me flatter comme ça.
+Je comprends pour ta jambe.[A]
+Mais!
+J'ai encore beaucoup < te dire![A]
+D'abord,
+sur tes habitudes de boisson...[A]
+[OpenMidLeft]...Oh mince...[A]
+[OpenMidRight]Non, tu ne t'en tireras pas.[A]
+Tu devras te comporter comme un vrai
+chevalier ostien < partir de maintenant![A]
+[OpenMidLeft]Euh-huh...[A]
+[038C]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x10A]
+[OpenMidRight]Prince Mildain...[A]
+[OpenMidLeft][ToggleSmile]Ne m'appelle pas comme ça...
+Je ne suis qu'un simple barde ici.[A]
+Je ne suis pas ton prince,
+et tu n'es pas mon g>n>ral.[A]
+Cela ne te d>range pas juste pour
+l'instant, n'est-ce pas?[A]
+[OpenMidRight]...Oui.[A]
+Alors je te jure fid>lit> en tant
+qu'^tre humain, pas en tant que g>n>ral.[A]
+[OpenMidLeft]...C'est si difficile
+de plier tes voies.[A]
+[OpenMidRight]Ma volont> inflexible est ma force.[A]
+[OpenMidLeft]...Cette guerre se terminera bient_t.[A]
+Le g>n>ral Roy est encore jeune,
+mais il comprend le peuple.[A]
+Il m{nera non seulement l'Etrurie, mais
+tout le continent vers un Âge d'Or de paix.[A]
+[OpenMidRight]Oui.[A]
+[OpenMidLeft]Je devrais faire quelque chose aussi,
+n'est-ce pas?[A]
+[OpenMidRight]Je te suivrai
+o} que tu ailles.[A]
+[038F]
+[OpenMidLeft][LoadFace][0x135][OpenMidRight][LoadFace][0x10A][OpenMidLeft][ToggleSmile]...Tu ne vas pas
+me laisser seule, n'est-ce pas?[A]
+[OpenMidRight]Bien sûr que non.
+Tu m'as rendu un grand service.[A]
+Ce serait d>shonorer le nom de ma
+famille si je ne le rendais pas.[A]
+[OpenMidLeft]Oh l< l<,
+vous les chevaliers ^tes si t^tus.[A]
+Je jure, si tu trouvais de l'or dans la
+rue, tu n'oserais pas le prendre.[A]
+[OpenMidRight]Mon dieu...[A]
+[OpenMidLeft]Soupir....
+D'accord, laisse-moi r>fl>chir...[A]
+[ToggleSmile]...D'accord, voici ce que je veux.[A]
+Je veux que toi et ton roi
+fassiez de votre pays un bon endroit.[A]
+Faites-en une nation qui ne va pas
+provoquer des guerres stupides.[A]
+Et faites-en une nation o} les gens
+peuvent voyager et faire des affaires en s>curit>.[A]
+Je vais faire faillite si vous ne
+faites pas cela pour moi.[A]
+[OpenMidRight][ToggleSmile][ToggleMouthMove]...Oies...[ToggleMouthMove][A]
+Tu m>rites bien mieux
+que d'^tre un pirate.[A]
+Je promets de satisfaire
+tes demandes.[A]
+Je jure ma vie pour elles![A]
+[0392]
+[OpenMidLeft][LoadFace][0x10A][OpenMidRight][LoadFace][0x11B][OpenMidLeft][ToggleSmile]Igrene.[A]
+[OpenMidRight]Qu'est-ce que c'est,
+Seigneur Douglas?[A]
+[OpenMidLeft][ToggleMouthMove]...[A]
+[ToggleMouthMove]J'ai d>j< dit cela,
+mais en tant que G>n>ral Etrurien,[A]
+je ne peux pas te promettre ce que tu demandes.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Cependant, je ferai de mon mieux pour
+satisfaire ta demande.[A]
+Je vais r>pandre la nouvelle que parmi les
+h>ros qui ont sauv> le roi, il y avait des guerriers[A]
+de Nabata.[A]
+Je vais persuader les nobles de ne jamais
+troubler ta paix en Arcadie.[A]
+[OpenMidRight]...Je me souviendrai de ces mots.[A]
+Je suppose que c'est tout ce que je peux te demander
+maintenant.[A]
+[OpenMidLeft]Pardonne-moi.[A]
+[0395]
+[OpenMidLeft][LoadFace][0x11A][OpenMidRight][LoadFace][0x10A][OpenMidRight][ToggleSmile]Percival.[A]
+Il est peut-^tre un peu t_t pour dire
+cela, mais..[A]
+[OpenMidLeft]Oui?[A]
+[OpenMidRight]Je pense < prendre ma retraite en tant que
+Grand G>n>ral apr{s cette guerre.[A]
+[OpenMidLeft]Quoi!?[A]
+Alors le poste le plus >lev> dans le
+militaire Etrurien serait vide![A]
+[OpenMidRight]Je veux que tu...
+prennes ma place.[A]
+[OpenMidLeft]Je suis encore jeune, Seigneur Douglas.
+Je ne peux pas assumer un tel poste...[A]
+[OpenMidRight]Tu es jeune?
+Que dire de notre commandant, Roy?[A]
+Il est bien plus jeune que toi,
+et il nous dirige tous.[A]
+[OpenMidLeft]Oui, mais...[A]
+[OpenMidRight]Les jeunes ne grandiront pas si de vieux
+v>t>rans continuent < monopoliser leurs postes.[A]
+Percival, tu es intelligent, fort
+et un bon leader.[A]
+De plus, une fois que le prince revient, le
+roi abdiquera.[A]
+[OpenMidLeft]Seigneur Douglas![A]
+Ceux qui sont au service ne doivent pas parler de
+l'h>ritage du tr_ne...[A]
+[OpenMidRight]C'est tout < fait correct.[A]
+Je sers le roi
+depuis des d>cennies maintenant.[A]
+Je le connais mieux que quiconque.[A]
+Je suis sûr qu'une fois qu'il apprendra la survie du prince,
+il lui donnera le tr_ne[A]
+sans h>sitation.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Nous devons reconstruire l'Etrurie
+aux c_t>s de notre nouveau roi.[A]
+L'Etrurie rena|tra avec
+l'aide de vous, les jeunes.[A]
+Je compterai sur toi, Percival.[A]
+[OpenMidLeft]...Je jurerai ma vie pour cela.[A]
+[0398]
+[OpenMidLeft][LoadFace][0x10A][OpenMidRight][LoadFace][0x134][OpenMidLeft][ToggleSmile]Cecilia.[A]
+[OpenMidRight]Oui, Seigneur Douglas?[A]
+[OpenMidLeft]Je dois te remercier.[A]
+Tu as aid> un vieux,
+soldat sans valeur comme moi.[A]
+[OpenMidRight]...
+Que fais-tu...[A]
+[OpenMidLeft]Chaque fois que je me bats,
+je sens mon [ge.[A]
+Les soldats [g>s ne servent < rien.
+Mon temps est termin>.[A]
+Il est maintenant temps pour vous de mener
+l'Etrurie vers un avenir radieux.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove]Je n'ai jamais entendu dire quelque chose
+d'aussi stupide, Seigneur Douglas.[A]
+[OpenMidLeft]......[A]
+[OpenMidRight]Un avenir radieux pour l'Etrurie?
+Tu peux en parler apr{s notre victoire.[A]
+M^me si nous gagnons cette guerre, nous avons
+beaucoup de soucis.[A]
+Nous devons reconstruire notre terre et regagner
+la confiance des autres nations.[A]
+L'avenir de l'Etrurie vient...
+apr{s tout cela.[A]
+[OpenMidLeft]Hm...[A]
+[OpenMidRight]Et tu vas mettre toute cette responsabilit>
+sur nous, pendant que tu te reposes?[A]
+Je ne pense pas, Seigneur Douglas.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[ToggleMouthMove]...Tu as vraiment gagn>
+en confiance.[A]
+[OpenMidRight]C'est gr[ce < toi.[A]
+Maintenant, si tu te sens vaincu,
+pourquoi ne pas ^tre utile?[A]
+[OpenMidLeft]Hm...tr{s bien.[A]
+Je suppose que je ne peux pas ^tre surpass> par
+vous, les amateurs, encore.[A]
+Soupir...[A]
+[OpenMidRight][ToggleSmile]Bien sûr, Seigneur Douglas.[A]
+[039B]
+[OpenMidLeft][LoadFace][0x10A][OpenMidRight][LoadFace][0x126][OpenMidRight]P{re!
+P{re![A]
+[OpenMidLeft]Qu'est-ce qu'il y a, Lalum?[A]
+[OpenMidRight]J'ai enfin trouv> un moyen de
+vraiment te remonter le moral![A]
+[OpenMidLeft][ToggleSmile]Lalum...
+C'est le sentiment qui compte.[A]
+Ta consid>ration est assez
+d'encouragement.[A]
+Tu n'as pas besoin de te stresser
+autant, Lalum.[A]
+[OpenMidRight]Je ne me stresse pas![A]
+Si tu as l'air triste,
+alors je me sens mal aussi.[A]
+Mais si tu ris,
+alors je me sens heureux aussi![A]
+[OpenMidLeft][ToggleSmile]Lalum...
+Tu es vraiment une bonne fille.[A]
+Merci.[A]
+[OpenMidRight]Non, merci < toi.[A]
+Merci de m'avoir ramass>e dans la rue
+et de me traiter comme ta propre fille.[A]
+Je...[A]
+J'aime en fait qui je suis maintenant,
+apr{s que tu m'aies adopt>e.[A]
+[OpenMidLeft]Lalum...[A]
+[OpenMidRight]Oh![A]
+P{re, tu as l'air tout
+larmoyant encore![A]
+[OpenMidLeft]Oups...
+Je dois faire attention.[A]
+[OpenMidRight]D'accord, laisse-moi te remonter le moral
+avec ma derni{re danse![A]
+[039E]
+[OpenMidLeft][LoadFace][0x11C][OpenMidRight][LoadFace][0x10B][OpenMidLeft][ToggleSmile]Ah, Wolt.[A]
+Tu n'as pas l'air si troubl> pour
+une fois.[A]
+Eh bien, veux-tu toujours que je
+t'apprenne < manier une >p>e?[A]
+[OpenMidRight]Non, apr{s avoir entendu tes mots, j'ai
+abandonn> mon h>sitation.[A]
+Je vais perfectionner mes comp>tences avec
+mon arc, et je vais m'entra|ner pour que Roy[A]
+puisse compter sur moi sans doute![A]
+[OpenMidLeft]Tr{s bien.[A]
+Avec cette attitude, il semble que
+je peux te laisser prendre ma place.[A]
+[OpenMidRight]Quoi?
+M-Mais si tu pars maintenant...[A]
+[OpenMidLeft]Calme-toi, je n'ai pas dit tout de
+suite.[A]
+Pourtant, ce ne sera pas si loin.[A]
+Une fois que je serai parti, tu devras
+prendre soin de Ma|tre Roy?[A]
+[OpenMidRight]Moi...? [A]
+[OpenMidLeft]Peut-^tre que suivre un vieux homme
+comme moi serait embarrassant?[A]
+[OpenMidRight]Non, ce n'est pas ça...[A]
+C'est juste que...
+puis-je vraiment le faire...? [A]
+[OpenMidLeft]Voil<, tu vois?
+Tu dois corriger ton manque de confiance.[A]
+Tu vas inqui>ter Ma|tre Roy avec une
+attitude comme ça.[A]
+[OpenMidRight]Oui...[A]
+[OpenMidLeft]Tu peux le faire.
+Aie confiance en toi![A]
+[03A1]
+[OpenMidLeft][LoadFace][0x118][OpenMidRight][LoadFace][0x10B][OpenMidRight][ToggleSmile]98...[A]
+99...[A]
+[OpenMidLeft]Wolt?[A]
+[OpenMidRight]Monsieur Alan![A]
+[OpenMidLeft]Tu t'entra|nes aussi?[A]
+[OpenMidRight]Oui.[A]
+Apr{s avoir regard>, je ne pouvais pas
+rester l< < attendre.[A]
+Je dois devenir fort
+pour prot>ger Ma|tre Roy aussi.[A]
+[OpenMidLeft]Je vois.
+C'est l'esprit![A]
+Deviens fort,
+et surprends Ma|tre Roy![A]
+[OpenMidRight]Oui![A]
+[03A4]
+[OpenMidLeft][LoadFace][0x119][OpenMidRight][LoadFace][0x10B][OpenMidRight][ToggleSmile]Oh, Monsieur Lance.[A]
+[OpenMidLeft]Wolt.
+...Ça va?[A]
+Tes yeux semblent
+plut_t rouges...[A]
+[OpenMidRight]Oui!
+Je vais bien.[A]
+Je lisais juste le livre sur
+les tactiques de guerre que tu m'as pr^t>.[A]
+[OpenMidLeft]Eh bien, bon travail.
+Tu l'as lu toute la nuit?[A]
+[OpenMidRight]Oui![A]
+[OpenMidLeft]D'accord,
+tu pourrais ^tre int>ress> par ceci.[A]
+C'est du m^me auteur, et il d>crit
+ses id>es en d>tail sur 24[A]
+volumes.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Si tu lis ça, alors tu devrais
+pouvoir ma|triser les bases assez facilement.[A]
+Apr{s cela, nous pourrons entrer dans des
+d>tails plus avanc>s...Wolt?[A]
+Tu >coutes?[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove]Y...Oui!
+Bien sûr![A]
+Je ferai de mon mieux...[A]
+[03A7]
+[OpenMidLeft][LoadFace][0x10E][OpenMidRight][LoadFace][0x10C][OpenMidLeft]Dorothy...[A]
+[OpenMidRight][ToggleSmile]Qu'est-ce qu'il y a?[A]
+Je n'ai pas encore entendu d'excuse valable
+au sujet de l'autre jour.[A]
+[OpenMidLeft]Dorothy, je suis d>sol>...[A]
+Je suis d>sol> de ne pas
+avoir compris tes sentiments...[A]
+[OpenMidRight]...Hein?[A]
+[OpenMidLeft]Je vois ce que tu essayais
+de dire l'autre jour.[A]
+Tu voulais direア[A]
+'Si tu demandes < chaque fille...
+pourquoi ne fais-tu pas pareil avec moi?'[A]
+[OpenMidRight]Quoi...!?[A]
+[OpenMidLeft]Dorothy, je ne savais pas que tu
+avais de si forts sentiments pour moi...[A]
+[OpenMidRight]Ah, euh, um...
+C-C'>tait juste...[A]
+[OpenMidLeft]Mais je suis un serviteur de Dieu...[A]
+Je dois ^tre >galement attentionn> envers toutes les femmes.
+S'il te pla|t, pardonne-moi, Dorothy...[A]
+[OpenMidRight]Euh...Euh,
+euh... Je...[A]
+[OpenMidLeft]Comment cela a-t-il sonn>, Dorothy?[A]
+[OpenMidRight][ToggleSmile]...Qu-Quoi?[A]
+[OpenMidLeft][ToggleSmile]J'ai beaucoup r>fl>chi, mais c'>tait le
+meilleur excuse que j'ai pu trouver.[A]
+[OpenMidRight][ToggleSmile]......[A]
+[OpenMidLeft][ToggleMouthMove]V-Violence n'est pas appropri>e,
+Dorothy.[ToggleMouthMove]
+Notre Dieu aimant ne pourrait sûrement pas
+approuver quelqu'un pointant son[A]
+arc sur un alli>...[A]
+[OpenMidRight]Je m'en fiche![A]
+Tu ferais mieux de sortir de ma vue
+avant que je ne te tire dessus![A]
+[OpenMidLeft]Soupir...[A]
+Qu'est-ce qui te rend si en col{re?[A]
+[OpenMidRight]C'est de ta faute![A][OpenMidLeft][ClearFace][OpenMidRight][ClearFace]
+[03AA]
+[OpenMidRight][LoadFace][0x10C]...Oui![A]
+Oui, c'>tait super![A]
+[OpenMidLeft][LoadFace][0x11A][ToggleSmile]Tu sembles t'^tre am>lior>e,
+Dorothy.[A]
+[OpenMidRight][ToggleSmile]G>n>ral Percival![A]
+J'essaie de me d>tendre quand je tire,
+comme tu l'as dit.[A]
+Je pense...
+Je pense que je m'am>liore![.....][A]
+[OpenMidLeft][ToggleSmile]Tu semblais avoir du talent
+avec l'arc.[A]
+C'>tait juste une question de rassembler ta
+confiance, et maintenant que tu[A]
+l'as, tu t'am>lioreras de plus en plus.[A]
+[OpenMidRight]Je peux me d>tendre si je pense que les autres
+d>fendent les lignes de front...[A]
+Il semble que tu puisses parfois
+te sentir en s>curit> m^me sur le champ de bataille.[A]
+[OpenMidLeft]Ah, mais c'est pareil pour
+nous en avant aussi.[A]
+Nous ne pourrions pas charger comme nous
+le faisons, si nous n'avions pas un soutien ad>quat[A]
+des lignes arri{re.[A]
+[OpenMidRight]...Suis-je utile <
+toi aussi, G>n>ral Percival?[A]
+[OpenMidLeft]Oui, tu m'aides beaucoup.[A]
+J'attends avec impatience
+ton soutien dans les futures batailles.[A]
+[OpenMidRight]Oui![A]
+[03AD]
+[OpenMidLeft][LoadFace][0x110][OpenMidRight][LoadFace][0x10C][OpenMidRight]Bishop Yodel![A]
+[OpenMidLeft][ToggleSmile]Oui, Dorothy?[A]
+[OpenMidRight][ToggleSmile]A propos de cette histoire...[A]
+[OpenMidLeft][ToggleSmile]Oui?[A]
+[OpenMidRight][ToggleSmile]J'y ai pens>, mais...
+je ne suis pas tr{s intelligent...[A]
+[ToggleSmile]Donc je ne comprends toujours pas son sens...[A]
+J'ai une id>e de ce que cela
+pourrait ^tre, mais...[A]
+[OpenMidLeft][ToggleSmile]Alors tu as une r>ponse, Dorothy.[A]
+Une histoire n'est qu'une histoire.
+Elle n'a pas de signification d>finie.[A]
+Chaque personne interpr{te l'histoire
+et trouve ses propres r>ponses.[A]
+[OpenMidRight]Oh, bien.[A]
+Bishop Yodel,
+je pense que je me sens mieux maintenant.[A]
+[OpenMidLeft]Vraiment?
+Tr{s bien, Dorothy.[A]
+[OpenMidRight]Oh, que fit Saint Elimine
+apr{s cela?[A]
+L'histoire continue-t-elle?[A]
+[OpenMidLeft]Oui.[A]
+Le voyage de Saint Elimine est
+long.[A]
+Le lendemain, lorsque Saint Elimine
+poursuivait ses voyages...[A]
+[03B0]
+[OpenMidLeft][LoadFace][0x11A][OpenMidRight][LoadFace][0x10D][OpenMidRight]G>n>ral Percival?[A]
+[OpenMidLeft][ToggleSmile]Klein.[A]
+Y a-t-il un probl{me?[A]
+[OpenMidRight][ToggleSmile]Non.
+Je t'ai juste vu, alors...[A]
+[OpenMidLeft][ToggleSmile]Je vois.[A]
+[OpenMidRight][ToggleSmile]Tu sais, je pensais...[A]
+Avant le coup d'Etat, nous n'avons jamais
+travaill> ensemble dans la m^me[A]
+mission.[A]
+Mais maintenant, nous y voil<, nous battons
+c_te < c_te, apr{s avoir[A]
+tous deux quitt> l'arm>e >trurienne et
+^tre sous le commandement du G>n>ral Roy.[A]
+[OpenMidLeft][ToggleSmile]Hm, oui...
+Le destin peut agir de mani{re >trange.[A]
+[OpenMidRight][ToggleSmile]Oui.
+Oh, sur un sujet diff>rent...[A]
+Tes plats pr>f>r>s
+ont-ils chang> ces derni{res ann>es?[A]
+[OpenMidLeft][ToggleSmile]?[A]
+...Non.
+Pourquoi?[A]
+[OpenMidRight][ToggleSmile]C'est juste que le cuisinier >tait un[A]
+peu inquiet.[A]
+Il dit que puisque tu es
+impassible peu importe ce que[A]
+tu manges, il ne sait jamais quoi
+te donner.[A]
+[OpenMidLeft][ToggleSmile]Impassible?
+...Penses-tu vraiment?[A]
+[OpenMidRight][ToggleSmile]Oui, vraiment,
+G>n>ral Percival.[A]
+M^me quand tu as du vin, ton
+expression reste la m^me peu[A]
+importe ce que tu bois.[A]
+Si tu arr^tes de faire des
+expressions, tu oublieras comment.[A]
+[OpenMidLeft][ToggleSmile]Les expressions ne sont pas
+des choses qui peuvent s'oublier.[A]
+[OpenMidRight][ToggleSmile]Je ne serais pas si sûr
+de cela avec toi, G>n>ral Percival.[A]
+[OpenMidLeft]...Eh bien, eh bien.
+Tu deviens audacieux, n'est-ce pas?[A]
+[OpenMidRight]Haha...Je suppose que je
+n'ai pas < m'inqui>ter.[A]
+[03B3]
+[OpenMidLeft][LoadFace][0x115][OpenMidRight][LoadFace][0x10D][OpenMidRight][ToggleSmile]Dieck.[A]
+[OpenMidLeft]...Klein, je t'ai dit de ne pas
+venir me parler si souvent.[A]
+[OpenMidRight]...Je voulais te raconter une histoire.[A]
+Je veux que tu >coutes car nous
+sommes en temps turbulent.[A]
+...C'>tait il y a 15 ans, dans
+la meilleure ar{ne d'Aquleia.[A]
+Un enfant noble a >t> attaqu> par un
+des lions utilis>s dans le[A]
+spectacle d'ouverture.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Un jeune combattant a
+sauv> l'enfant.[A]
+Normalement, c'>tait un >p>iste
+habile qui pouvait vaincre des hommes
+deux fois sa taille avec aisance.[A]
+Mais cette fois, il >tait face < un
+lion, donc il n'est pas sorti indemne.[A]
+Il >tait bless> sur tout le corps, et
+son visage avait quatre profondes cicatrices.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Le noble a engag> le
+>p>iste qui a sauv> son enfant.[A]
+Pendant plusieurs ann>es, le jeune homme
+a servi comme combattant de la famille
+et a fait conna|tre son nom < l'ar{ne.[A]
+Mais un jour, il a soudainement achet>
+sa libert> et est parti.
+L'enfant, qui admirait le
+combattant comme s'il >tait son[A]
+vrai fr{re, pensait qu'il
+avait >t> trahi et >tait triste.[A]
+...Mais maintenant je comprends.[A]
+Tu pensais au mieux pour
+notre famille..[A]
+[OpenMidLeft]Tu...Tu as >t> bien trop gentil
+avec moi, un simple serviteur.[A]
+Lord Pent et sa femme m'ont >lev>
+comme s'il s'agissait de leur vrai enfant,[A]
+malgr> les plaintes et
+les accusations autour d'eux.[A]
+...C'est pourquoi je suis parti.[A]
+[OpenMidRight]Je comprends ce que tu ressens.
+Mais je ne suis pas d'accord avec toi.[A]
+[OpenMidLeft]!?[A]
+[OpenMidRight]Tu pensais toujours
+au mieux pour nous...[A]
+Mais as-tu d>j< consid>r> le fait
+que nous >tions aussi inquiets pour toi?[A]
+Je ne veux pas que nous soyons dans une
+relation o} nous nous ignorons...[A]
+[OpenMidLeft][ToggleSmile]...On dirait que j'>tais >goïste.[A]
+[OpenMidRight]![A]
+Alors tu seras avec nous comme une
+famille < nouveau?[A]
+[OpenMidLeft]Ouais, tu as gagn>, Petit Ma|tre Klein.[A]
+Je ferai en sorte de montrer ma face <[A]
+Lord Pent chaque fois que j'en aurai l'occasion.[A]
+[03B6]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x10D][OpenMidLeft][ToggleSmile]...Nous pouvons avoir un peu
+d'intimit> ici.[A]
+[OpenMidRight]Pr-...Ma|tre Elphin,
+tu voulais me parler?[A]
+C'est < propos d'Etrurie?[A]
+[OpenMidLeft]Non.
+C'est < propos de l'autre jour.[A]
+[OpenMidRight]Oh...[A]
+Parles-tu de la
+chose 'Ma|tre'?[A]
+[OpenMidLeft]Ne trouves-tu pas cela >trange
+qu'un noble d'Etrurie appelle un[A]
+simple barde 'Ma|tre'?[A]
+[OpenMidRight]Oh...!
+Oui, tu as raison![A]
+Pardonne-moi.[A]
+Je t'appellerai Sir
+Elphin < la place...[A]
+[OpenMidLeft]Non.
+Juste 'Elphin' suffira.[A]
+[OpenMidRight]Cela ne suffira pas![A]
+M^me si tu es d>guis>,
+je ne peux pas appeler mon prince[A]
+simplement par son nom.[A]
+[OpenMidLeft][ToggleSmile]Hm...
+...Tu n'as pas chang> du tout.[A]
+[OpenMidRight][ToggleSmile]???[A]
+[OpenMidLeft][ToggleSmile]Hein?[A]
+Te souviens-tu comment tu venais souvent
+au palais avec ton p{re?[A]
+[OpenMidRight][ToggleSmile]Oui...[A]
+Je vais au palais depuis
+aussi longtemps que je me souvienne.[A]
+Comme je n'avais pas de fr{res, je ne pouvais
+m'emp^cher de penser < combien tu >tais[A]
+mignon en tant que tout-petit.
+Et j'>tais encore jeune et fou,[A]
+donc j'ai dit < ton p{re 'Ton fils
+doit maintenant ^tre mon petit fr{re![A]
+'Il doit vivre au palais < partir
+de maintenant.'[A]
+[OpenMidRight][ToggleSmile]Toi, le prince,
+as dit cela?[A]
+[OpenMidLeft][ToggleSmile]Oui.
+J'etais un fool.[A]
+Bien sur, ton pere ne savait pas
+quoi dire.[A]
+Et puis tu as pris la parole.[A]
+[OpenMidRight][ToggleSmile]J'ai fait...? [A]
+[OpenMidLeft][ToggleSmile]Oui.[A]
+Et tu as dit les memes mots.
+'Cela ne suffira pas.'[A]
+[OpenMidRight][ToggleSmile]...Je ne me souviens pas.[A]
+[OpenMidLeft][ToggleSmile]'Je vais etre ton chevalier,
+donc cela ne suffira pas.'[A]
+Ce sont tes mots exacts.
+Tu as aussi ditア[A]
+'Choisis quelqu'un d'autre pour ton
+frere!'[A]
+[OpenMidRight][ToggleSmile]...J-J'etais si impolie...
+Je, euh...Pardonne-moi, ta Majeste..[A]
+[OpenMidLeft][ToggleSmile]Ne t'inquiete pas pour ca.
+Je suis content que tu n'aies pas change.[A]
+...Quand je suis revenu du[Clear]
+[ToggleSmile]bord de la mort, le monde[A]
+avait l'air si different.[A]
+Je suis content que certaines choses
+soient encore les memes.[A]
+[OpenMidRight]Prince Mildain...[A]
+[03B9]
+[OpenMidLeft][LoadFace][0x10D][OpenMidRight][LoadFace][0x128][OpenMidLeft]Tate, quand cette guerre finira, je
+pourrais t'aider a trouver une armee[A]
+qui paie bien.[A]
+[OpenMidRight][ToggleSmile]...Pourquoi?[A]
+[OpenMidLeft][ToggleSmile]Eh bien, meme si tu as dit que
+tu te bats avec nous de ta[A]
+propre volonte, ma presence ici est
+l'une des raisons pour lesquelles tu es reste.[A]
+Je pensais juste que je devrais
+compenser en aidant avec[A]
+tes projets futurs...[A]
+[OpenMidRight][ToggleSmile]...Je peux le faire seul.[A]
+J'apprecie ta consideration,
+mais s'il te plait, ne t'inquiete pas.[A]
+[OpenMidLeft][ToggleSmile]Mais...[A]
+[OpenMidRight][ToggleSmile]Ou ma presence ici est-elle un
+obstacle pour toi?[A]
+[OpenMidLeft]N-Non!
+Pas du tout![A]
+[OpenMidRight]Alors pourquoi me dis-tu
+des choses comme ca![A]
+[OpenMidLeft]...Quel est le probleme, Tate?
+Pourquoi es-tu si bouleverse..?[A]
+[OpenMidRight]Depuis l'autre jour,
+tout ce dont tu parles est[A]
+de me sortir de cette armee...
+Loin de toi![A]
+[OpenMidLeft]Quoi?
+Eh bien, je...[A]
+[OpenMidRight]J'ai choisi de rester a tes cotes
+parce que je t'aime![A]
+Mais toi...
+Tu es si inconsidere![A]
+[OpenMidLeft]Euh, eh bien...
+Je suis desole.[A]
+C'est juste que...Je ne savais pas..
+que tu ressens cela pour moi..[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Donc...[A]
+Tu sais, Tate, tu es aussi
+responsable![A]
+[OpenMidRight]Quoi?[A]
+[OpenMidLeft]Tu continues de m'appeler
+'General Klein, General Kleinア'[A]
+comme si tu voulais garder ta
+distance avec moi![A]
+C'est pourquoi tu me fais penser
+que tu es simplement la[A]
+par responsabilite.[A]
+[OpenMidRight]M-Mais...[A]
+[OpenMidLeft][ToggleSmile]Plus de 'General' dor>navant.
+Appelle-moi Klein, d'accord?[A]
+[OpenMidRight][ToggleSmile]Oui, General Klein.[A]
+[OpenMidLeft][ToggleSmile]Non.
+Klein.[A]
+[OpenMidRight][ToggleSmile]Hein?
+[ToggleSmile]Oh...Oui...Klein.[A]
+[03BC]
+[OpenMidLeft][LoadFace][0x110][OpenMidRight][LoadFace][0x10E][OpenMidLeft]Saul, peut-etre qu'il est temps de
+te liberer de ta mission.[A]
+[OpenMidRight]Que veux-tu dire,
+Eveque Yodel?[A]
+[OpenMidLeft]Je crois que je connais bien
+Ma|tre Roy pour lui faire confiance.[A]
+L'Embl{me du Feu sera en s>curit>
+entre ses mains.[A]
+Ce que nous craignions ne
+se produira certainement pas maintenant.[A]
+N'es-tu pas d'accord?[A]
+[OpenMidRight]Peut-etre que tu as raison.[A]
+..Cependant, je souhaite continuer
+ma mission un peu plus longtemps.[A]
+[OpenMidLeft]Je vois...[A]
+[OpenMidRight]Bien sûr, je comprends ce que
+tu dis, Eveque Yodel.[A]
+Ma|tre Roy est certainement une
+personne noble.[A]
+Pourtant...[A]
+Je pense que ce monde est un peu trop
+laid encore pour que Ma|tre Roy le g{re.[A]
+Je pense que je le sais mieux que
+les autres pr^tres...[A]
+[OpenMidLeft]Saul...[A]
+[OpenMidRight]Eh bien, je suis encore un jeune.
+Tu peux oublier ce que j'ai dit.[A]
+[OpenMidLeft]Je vois...
+D'accord alors.[A]
+...Oh, Saul.[A]
+J'ai r>cemment trouv> ceci...[A]
+[OpenMidRight]Oh?
+C'est...[A]
+[OpenMidLeft]'Toutes les blessures trait>es
+gratuitement. Remises sp>ciales pour les nouveaux membres maintenant.[A]
+Inscrivez-vous aujourd'hui![A]
+Cela... traiter Dieu comme une sorte de
+vuln>rable.[A]
+Je ne veux certainement pas penser
+qu'une personne servant Dieu[A]
+>crirait quelque chose comme ça...[A]
+[OpenMidRight][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidLeft]...Saul, aimerais-tu >couter
+mon discours un petit moment?[A]
+[OpenMidRight]Oh, Ev^que Yodel, je ne suis
+certainement pas digne d'avoir le privil{ge[A]
+d'>couter votre...[A]
+[OpenMidLeft][ToggleSmile]...Voudrais-tu >couter?[A]
+[OpenMidRight]...Oui, oui, je le voudrais,
+Ev^que Yodel...[A]
+[03BF]
+[OpenMidLeft][LoadFace][0x134][OpenMidRight][LoadFace][0x10E][OpenMidRight]Ah!
+G>n>ral Cecilia![A]
+[OpenMidLeft]Saul.[A]
+[OpenMidRight]Je fais confiance que tu as pens>
+< notre r>union de d|ner?[A]
+[OpenMidLeft][ToggleSmile]Ah, oui.[A]
+[ToggleSmile]Tr{s bien, je t'inviterai
+< mon manoir quand la guerre finira.[A]
+[OpenMidRight]J'attends cela avec impatience![A]
+Ce n'est pas tous les jours qu'on est
+invit> dans un manoir noble Etrurien[A]
+haut de gamme.[A]
+[OpenMidLeft][ToggleSmile]Mais tu devrais garder en
+t^te que mon p{re peut ^tre un[A]
+peu... difficile.[A]
+[OpenMidRight]Difficile?
+Que veux-tu dire?[A]
+[OpenMidLeft]Eh bien, ordinairement mon p{re est
+un homme tr{s gentil et attentionn>.[A]
+Cependant, une fois quand j'>tais encore
+enfant, j'ai invit> un ami masculin[A]
+chez nous.[A]
+Quand il a vu ça, il a simplement d>gain>
+son >p>e sur mon ami.[A]
+[OpenMidRight]Euh...[A]
+Est-ce vraiment une question de
+difficult>?[A]
+[OpenMidLeft]Mon p{re a perdu son calme,
+et nous avons essay> de le calmer.[A]
+Cependant, ce n'>tait pas facile.[A]
+Le th> a >t> renvers> partout,
+la table a >t> tranch>e en deux,[A]
+et ce qui devait ^tre une
+f^te de d|ner est devenu plus comme[A]
+une ar{ne.[A]
+Mon ami a r>ussi < s'>chapper avec
+sa vie.[A]
+Ce sera toujours un jour <
+se souvenir.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+Mais mon p{re est toujours du
+bon c_t>.[A]
+[OpenMidLeft][ToggleMouthMove]Tu vois, mon grand-p{re peut ^tre
+encore plus difficile que mon p{re...[A]
+[OpenMidRight][ToggleSmile]Oh, je viens de me souvenir![A]
+J'avais du travail < l'>glise
+que je dois faire.[A]
+Je suis vraiment d>sol>, mais comme il semble
+que organiser une r>union de d|ner serait[A]
+difficile, je vais y aller maintenant...[A]
+Bonne journ>e, G>n>ral Cecilia![A][ClearFace]
+[OpenMidLeft]Oh?
+Eh bien, je suis d>sol> d'entendre cela.[A]
+[03C2]
+[OpenMidLeft][LoadFace][0x10E][OpenMidRight][LoadFace][0x11B][OpenMidRight][ToggleSmile]P{re Saul.[A]
+[OpenMidLeft][ToggleSmile]Oh, Igrene!
+Quel est le probl{me?[A]
+Ah, donc tu as enfin d>cid> de c>der
+< l'envie, et de me voir...[A]
+[OpenMidRight][ToggleSmile]C'est < propos de ce que tu as dit
+l'autre jour...[A]
+Tu as dit que Dieu ne nous aide pas
+parce qu'Il croit en nous.[A]
+[OpenMidLeft][ToggleMouthMove]C'est ce que Saint Elimine a dit.[A]
+Dieu qui a cr>> ce monde est tout-
+puissant.[A]
+Il peut changer les gens et le monde.[A]
+Il peut nous alt>rer, nous humains, pour que
+nous ne nous battions pas[A]
+comme ça.[A]
+Cependant, est-ce vraiment la bonne
+façon?[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Les humains qui agissent selon la volont>
+de Dieu seuls seraient des marionnettes sans esprit.[A]
+Dieu croit que nous, humains, pouvons changer,
+que nous pouvons apprendre de nos erreurs.[A]
+Dieu sait que nous pouvons surmonter nos
+difficult>s pour atteindre l'harmonie.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+Je ne crois pas en Dieu, mais je respecte
+les gens qui pensent comme toi, P{re Saul.[A]
+Je dois y aller maintenant...[A][ClearFace]
+[OpenMidLeft][ToggleSmile]S'il te pla|t, c'est un plaisir pour moi d'^tre
+en mesure de t'aider.[A]
+Maintenant, nous pouvons discuter de notre
+r>union de d|ner.[A]
+[ToggleSmile]...Igrene?
+O} vas-tu?[A]
+[03C5]
+[OpenMidLeft][LoadFace][0x10E][OpenMidRight][LoadFace][0x10F][OpenMidRight][ToggleSmile]P{re Saul...
+Pourquoi n'es-tu pas venu cette nuit-l<?[A]
+Tout le monde attendait avec impatience
+ton sermon...[A]
+[OpenMidLeft][ToggleSmile]Oh, euh...
+Ma gorge ne se portait pas bien ce jour-l<.[A]
+Nous pouvons le faire une autre fois...[A]
+[OpenMidRight][ToggleSmile]Oui.[A]
+P{re Saul, tu es vraiment une
+personne noble.[A]
+[OpenMidLeft][ToggleSmile]...Excuse-moi?
+Noble?[A]
+[OpenMidRight][ToggleSmile]Oui.[A]
+D'habitude, tu sembles ^tre un impie,
+femme fatale.[A]
+A peine quelqu'un que j'appellerais pr^tre.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Mais j'ai enfin r>alis> que
+c'>tait pour une raison compliqu>e.[A]
+Tu faisais un spectacle pour montrer
+combien l'Eglise Elimine est libre.[A]
+[OpenMidLeft][ToggleSmile]Ah...[A]
+Je, euh...je vois.[A]
+[OpenMidRight][ToggleSmile]Agir ainsi causerait
+naturellement des malentendus..[A]
+Tout le monde pense que tu es juste un
+homme paresseux courant apr{s les femmes...[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Mais tu choisis d>lib>r>ment ce chemin
+pour le bien de l'Eglise.[A]
+Je ne pourrais sûrement pas faire de m^me.
+Je te respecte sinc{rement, P{re Saul.[A]
+[OpenMidLeft][ToggleSmile]Euh...[A]
+Eh bien, souviens-toi de te d>tendre
+de temps en temps, d'accord?[A]
+[OpenMidRight][ToggleSmile]Oui, P{re Saul.[A]
+[03C8]
+[OpenMidLeft][LoadFace][0x12E][OpenMidRight][LoadFace][0x10F][OpenMidLeft]Ellen, tu as l'air bien
+mieux maintenant.[A]
+[OpenMidRight]Oui, je me sens comme si je m'>tais
+lib>r>e d'un >norme poids apr{s que tu
+as >t> assez[A]
+gentille pour m'>couter.[A]
+[OpenMidLeft]Bien.[A]
+[OpenMidRight][ToggleSmile]Mais je ne suis pas bien, n'est-ce pas...[A]
+Je suis le clerc, c'est moi qui
+suis cens> t'>couter et[A]
+soulager ton stress..[A]
+[OpenMidLeft]Ellen, ne t'ai-je pas dit avant
+que tu ne devrais pas ruminer[A]
+des choses comme ça?[A]
+[OpenMidRight]Oui...[A]
+[OpenMidLeft]Je suis en fait reconnaissante que tu
+ne m'aies pas dit quand tu es partie[A]
+avec la Princesse.[A]
+[OpenMidRight]Reconnaissante...? [A]
+[OpenMidLeft][ToggleSmile]Bien sûr.[A]
+Tu as prot>g> la Princesse Guinevere
+pendant que j'>tais absente.[A]
+[OpenMidRight][ToggleSmile]Dame Miledy...[A]
+[OpenMidLeft][ToggleSmile]Continuons < travailler ensemble pour
+aider la Princesse Guinevere < l'avenir.[A]
+Donc plus de d>prime pour des choses
+triviales, d'accord?[A]
+[OpenMidRight]Oui.[A]
+[03CB]
+[OpenMidLeft][LoadFace][0x10F][OpenMidRight][LoadFace][0x12A][OpenMidRight]Ellen![A]
+[OpenMidLeft][ToggleSmile]Monsieur...Zeiss.[A]
+[OpenMidRight][ToggleSmile]Ici.[A]
+[OpenMidLeft][ToggleSmile]Ces fleurs...[A]
+[OpenMidRight][ToggleSmile]Elles sont les m^mes que celles que tu
+faisais pousser < Biran, non?[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Ellen?
+Qu'est-ce qui ne va pas?[A]
+Attends, ce sont les mauvaises fleurs?[A]
+[OpenMidLeft][ToggleMouthMove]...Pourquoi...?[A]
+[OpenMidRight][ToggleMouthMove][ToggleSmile]Hein?[A]
+[OpenMidLeft]Pourquoi es-tu toujours...
+si bonne avec moi...? [A]
+[OpenMidRight][ToggleSmile]Euh?
+Ah, euh, eh bien...[A]
+Eh bien, nous venons de la m^me ville,
+et euh...je ne sais pas, c'est juste[A]
+que je ne peux pas...te laisser seule,[A]
+[ToggleSmile]tu sais?[A]
+Je veux rester < tes c_t>s et[.....]
+te prot>ger...[A]
+N'est-ce pas bien?[A]
+[OpenMidLeft][ToggleSmile]Non, je suis tr{s contente...[A]
+[ToggleSmile]Mais je dois rester
+aux c_t>s de la Princesse Guinevere...[A]
+[OpenMidRight]Je sais.[A]
+Je suis aussi un chevalier de Biran, donc
+je prot>gerai la princesse avec[A]
+[ToggleSmile]toutes mes forces.[A]
+Donc d>fendons la Princesse,
+et un jour nous pourrons retourner <[A]
+Biran ensemble![OpenMidLeft]Oui[A]
+Merci Zeiss...
+Merci...[A]
+[03CE]
+[OpenMidRight][LoadFace][0x10F][OpenFarFarLeft][LoadFace][0x121][MoveMidLeft][ToggleSmile]Mademoiselle Ellen![A]
+[OpenMidRight][ToggleSmile]Lou?
+Qu'est-ce qui ne va pas?[A]
+[OpenMidLeft][ToggleSmile]Je pensais avoir vu un ennemi pr{s
+de toi, alors...[A]
+Ouf...[A][......]
+[ToggleSmile]Mais je suppose que je me trompais.
+Merci Dieu.[A]
+[OpenMidRight]Tu veillais sur moi?
+Merci.[A]
+[OpenMidLeft]Bien sûr![A]
+J'ai dit que je te prot>gerais.[A]
+[OpenMidRight]Tu as un cœur si gentil...[A]
+Je suis sûr que Dieu te regarderait
+avec bienveillance.[A]
+[OpenMidLeft]... Quand tu souris comme ça,
+tu as l'air d'un saint![A]
+[OpenMidRight][ToggleSmile]Un saint?
+Moi?[A]
+[OpenMidLeft][ToggleSmile]Oui.[A]
+J'>tais toujours inqui{te parce que tu
+sembles toujours un peu triste.[A]
+Eh bien, je suppose que cela ne peut pas
+^tre >vit> en ce moment...[A]
+Mais je me sens tellement mieux quand
+tu souris comme ça![A]
+[OpenMidRight]Lou, je me sens mieux quand je te vois
+sourire aussi.[A]
+[03D1]
+me parler < moi-m^me?[A]
+[OpenMidLeft]C'>tait difficile de ne pas >couter avec
+une voix si forte.[A]
+[OpenMidLeft]Si tu veux me parler,
+n'h>site pas.[A]
+[OpenMidRight][ToggleSmile]Tout va bien!?[A]
+[OpenMidLeft]Bien sûr...
+Nous sommes dans la m^me arm>e.[A]
+[OpenMidRight]Oui![A]
+[03D4]
+pe.[A]
+Mais c'>tait un leurre...[A]
+Les forces principales ennemies >taient
+juste l< o} tout le monde a fui...[A]
+[OpenMidLeft]Bien.
+Tu as fait de ton mieux.[A]
+Je suis sûr que tu ne peux pas
+l'oublier si facilement,[A]
+mais tu dois au moins passer
+< autre chose.[A]
+[OpenMidRight]Oui...Je vais essayer.[A]
+[03D7]
+[OpenMidLeft][LoadFace][0x110][OpenMidRight][LoadFace][0x12E][OpenMidRight]Bishop Yodel, je dois te remercier
+Pour m'avoir aid> pour que je ne[A]
+me sente pas si isol> dans l'arm>e...[A]
+[OpenMidLeft]Non...
+C'est un plaisir.[A]
+Trifinne...ton ma|tre est une personne
+tr{s bienveillante.[A]
+[OpenMidRight][ToggleSmile]Je lui ai caus> beaucoup de
+stress, aussi.[A]
+Je suis sûr qu'elle n'a jamais voulu
+tourner le dos < Biran...[A]
+Je l'ai entra|n>e avec mes
+motifs >goïstes...[A]
+[OpenMidLeft][ToggleSmile]Tu le penses vraiment?[A]
+[OpenMidRight]...? [A]
+[OpenMidLeft]Je comprends que l'entra|nement
+de Biran impose une loyaut>
+absolue dans ses[A]
+troupes.[A]
+Tant chez leurs chevaliers que chez
+leurs montures.[A]
+[OpenMidRight]Oui.[A]
+[OpenMidLeft]Si c'est le cas, alors pourquoi
+Trifinne suit-elle tes ordres[A]
+et combat-elle contre Biran?[A]
+[OpenMidRight]Eh bien...[A]
+[OpenMidLeft]Je suis sûr qu'il y avait d'autres
+Chevaliers Dragons et m^me ceux de[A]
+Biran dans les rangs ennemis.[A]
+Si cette wyverne est simplement une
+cr>ature qui suivrait les[A]
+ordres de l'arm>e, elle ne serait pas
+ici avec toi maintenant.[A]
+[OpenMidRight]Oui...[A]
+[OpenMidLeft][ToggleSmile]Comprends-tu?[A]
+Cette wyverne a pens> par elle-m^me
+et a pris sa propre d>cision.[A]
+Elle a choisi d'^tre avec toi.[A]
+Tout comme tu as choisi d'^tre avec
+la Princesse Guinevere.[A]
+[OpenMidRight][ToggleSmile]...Elle a pris sa propre d>cision...[A]
+[OpenMidLeft][ToggleSmile]Tu es une personne b>nie,
+Mademoiselle Miledy.[A]
+Tu as toujours des amis proches
+< tes c_t>s.[A]
+Tu n'as pas besoin de moi pour faire
+quoi que ce soit de sp>cial.[A]
+[OpenMidRight]Oui...[A]
+Merci...[A]
+[03DA]
+[OpenMidLeft][LoadFace][0x111][OpenMidRight][LoadFace][0x121][OpenMidRight][ToggleSmile]Chad![A]
+Qu'est-ce qui ne va pas?
+Quelque chose te tracasse?[A]
+[OpenMidLeft]Lugh...[A]
+Non, je pensais juste que ça fait
+longtemps que nous avons rejoint[A]
+cette arm>e.[A]
+Je me demande comment vont les petits...[A]
+[OpenMidRight]Oui, je me le demande.
+[ToggleSmile]J'esp{re qu'ils sont sages
+et >coutent les pr^tres[A]
+d'Elimine...[A]
+[OpenMidLeft][ToggleSmile]Je me demande s'ils nous
+attendent pour revenir...[A]
+[OpenMidRight]...Bien sûr qu'ils le font.
+Nous sommes une famille, non?[A]
+[OpenMidLeft]Tu sais...
+Je suis content que tu sois venu avec moi.[A]
+[OpenMidRight]Oh?[A]
+Alors cela veut dire que tu penses
+que je suis assez fort?[A]
+[OpenMidLeft]Eh bien...[A]
+Je savais d>j< que tu >tais
+fort...[A]
+[OpenMidRight][ToggleSmile]Alors quoi?[A]
+[OpenMidLeft][ToggleSmile]Comment dire cela...[A]
+Tu as un fr{re jumeau,
+Ray, n'est-ce pas?[A]
+Donc je me suis senti un peu
+mis de c_t> m^me si nous trois
+>tions ensemble.[A]
+[OpenMidRight]Qu'est-ce que ça veut dire![A]
+Je t'ai toujours consid>r> comme
+de la famille, tout autant que Ray![A]
+[OpenMidLeft]Oui, je sais!
+Maintenant je comprends mieux.[A]
+Je cr>ais juste un mur autour
+de moi et j'>tais pi>g>.[A]
+Mais maintenant je te consid{re comme
+ma vraie famille.[A]
+[OpenMidRight][ToggleSmile]...D'accord, je te pardonne.[A]
+Tu es mon grand fr{re,
+m^me si tu es un...[A]
+petit...enfantin.[A]
+[OpenMidLeft][ToggleSmile]Quoi!
+Lugh, toi![A]
+[OpenMidRight][ToggleSmile]Hahahaha...[A]
+[03DD]
+[OpenMidLeft][LoadFace][0x125][OpenMidRight][LoadFace][0x111][OpenMidRight][ToggleSmile]H>![A]
+[OpenMidLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidRight][ToggleSmile]Ne m'ignore pas.
+[OpenMidRight]Quand cette guerre sera finie,
+que vas-tu faire ?[A]
+[OpenMidLeft]...Et toi ?[A]
+[OpenMidRight]Je vais d'abord chercher les petits
+enfants.[A]
+Ensuite, j'essaierai de trouver de l'argent
+pour reconstruire l'orphelinat.[A]
+[OpenMidLeft]Alors j'irai avec toi.[A]
+[ToggleSmile]Je peux aider jusqu'A ce que les
+petits se calment.[A]
+[OpenMidRight]...Je le pensais.[A]
+[OpenMidLeft]?[A]
+[OpenMidRight]Au fond, tu es un bon gars
+en toi.[A]
+[OpenMidLeft][ToggleSmile]!![A]
+[OpenMidRight][ToggleSmile]Lugh disait toujours que tu
+>tais gentil.[A]
+Je pensais qu'il essayait
+de te d>fendre comme son fr{re, mais[A]
+je suppose que non.[A]
+Il est bien ton fr{re, et il
+sait comment tu es vraiment.[A]
+[OpenMidLeft][ToggleSmile]...Tu es aussi naïf
+que Lugh ![A]
+Dis ce que tu veux !
+Je m'en vais ![A][ClearFace]
+[OpenMidRight][ToggleSmile]Ha, pas besoin de
+t'embarrasser...[A]
+H> ! Attends !
+Ne t'en va pas vraiment ![A]
+[03E0]
+[OpenMidLeft][LoadFace][0x12C][OpenMidRight][LoadFace][0x111][OpenMidLeft]Salut, Servant, comment ça va ?[A]
+[OpenMidRight][ToggleSmile]...Bien.[A]
+[OpenMidLeft][ToggleSmile]Je t'ai observ>.
+Tu sembles t'am>liorer.[A]
+Bien sûr, tu n'es pas aussi
+bon que moi, cependant.[A]
+[OpenMidRight][ToggleSmile]Ouais, peu importe.[A]
+Je ne suis jamais devenu ton serviteur,
+d'accord.[A]
+[OpenMidLeft]H>, attends.[A]
+Si je ne suis pas ton serviteur, que dirais-
+tu d'[ToggleSmile]^tre mon partenaire ?[A]
+[OpenMidRight][ToggleSmile]...Partenaire ?[A]
+[OpenMidLeft][ToggleSmile]Exact.
+Nous pouvons ^tre partenaires.[A]
+Le c>l{bre duo de voleurs,
+pr^ts A sauver les pauvres ![A][Clear]
+Qu'en dis-tu ?[A]
+[OpenMidRight][ToggleSmile]Duo...[A]
+...Ça ne sonne pas
+tr{s attirant.[A][ClearFace]
+Quoi ?
+Attends une minute ![A]
+C'est le ma|tre voleur qui te fait
+cette offre ![A]
+J'ai dit attends ![A]
+[03E3]
+[OpenMidLeft][LoadFace][0x123][OpenMidRight][LoadFace][0x111][OpenMidLeft]H> !
+Chad ![A]
+Tu vas bien ?[A]
+[OpenMidRight][ToggleSmile]Ouais, je suppose.
+Mais pas aussi bien que toi.[A]
+[OpenMidLeft][ToggleSmile]Mec, tu es toujours comme ça ?[A]
+Tu ne peux pas dire quelque chose comme,[A]
+[ToggleSmile]'H>, Hugh !
+Quoi de neuf ?'[A]
+ou quelque chose avec un grand
+sourire sur ton visage ?[A]
+[OpenMidRight]...Malade.[A]
+[OpenMidLeft]Malade ?
+Allez, viens ![A]
+Tu sais, tu m'as vraiment
+mis en >moi apr{s m'avoir racont> cette histoire.[A]
+Je veux vraiment aider ![A]
+[OpenMidRight]...Monsieur, es-tu vraiment un mage ?[A]
+Tu es sûr de ne pas ^tre une sorte de
+bouffon ou quelque chose ?[A]
+[OpenMidLeft]M-Monsieur ?![A]
+Attends une minute, tu appelles ce
+jeune homme superbement beau, monsieur ?![A]
+[OpenMidRight]Pour moi, tu es un monsieur.[A]
+[OpenMidLeft]Ugh ![A]
+Tu m'as touch> en plein
+cœur tout A l'heure ![A]
+...Pas Monsieur, Monsieur ne fera pas ![A]
+Tu peux m'appeler comme tu veux, mais
+pas Monsieur ![A]
+J'ai une [me tr{s sensible,
+tu sais ![A]
+[OpenMidRight][ToggleSmile]... Hahahahahahahahaha ![A]
+Haha...hee...mon...mon ventre... !
+Hahaha... ![A]
+[OpenMidLeft]!![A]
+[OpenMidRight]Oh mec, c'>tait dr_le.
+Tu es plut_t bizarre, n'est-ce pas ?[A]
+D'accord, je t'appellerai Hugh.
+Ça va, non ?[A]
+Puisque tu dis que tu n'es pas un Monsieur.[A]
+[OpenMidLeft]Donc tu peux rire ![A]
+[OpenMidRight][ToggleSmile]Hein ?[A]
+[OpenMidLeft]Tu sais, tu as toujours ce
+regard dans les yeux.[A]
+Tes sourcils sont toujours fronc>s
+comme ça, tu sais ?[A]
+Et tu as une langue bien pendue,
+tu as une attitude, et tu[A]
+ne souris m^me pas.[A]
+[OpenMidRight]Que dis-tu tout d'un
+coup ?[A]
+[OpenMidLeft]J'ai vu tant d'enfants qui ont perdu
+la capacit> de sourire dans cette guerre.[A]
+Les adultes ont beaucoup de probl{mes, mais
+allez, les enfants doivent rire.[A]
+Bien que les idiots
+qui commencent des guerres ne r>alisent pas ça.[A]
+[OpenMidRight][ToggleMouthMove]...[A]
+[OpenMidLeft][ToggleMouthMove][ToggleSmile]Eh bien, si des enfants
+peuvent encore rire, je suppose[A]
+qu'il y a encore de l'espoir pour ce monde.[A]
+Je sais que c'est difficile pour toi,
+mais assure-toi de rire de temps en[A]
+temps, d'accord?[A]
+[OpenMidRight][ToggleSmile]H-Hey!
+Ne fous pas en l'air mes cheveux![A]
+[OpenMidLeft][ToggleSmile]Hahahaha, d>sol>!
+Eh bien, < plus tard.[A]
+Ne fous pas tout en l'air, tu as compris?[A]
+[ClearFace]
+[OpenMidRight]...Peut-^tre qu'il y a encore de l'espoir
+pour ce monde avec des adultes comme toi...[A]
+[03E6]
+[OpenMidLeft][LoadFace][0x112][OpenMidRight][LoadFace][0x113]
+[OpenMidRight][ToggleSmile]S'il te pla|t, dis-moi,
+Oncle![A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Qu'est-ce que la vraie force...?
+Quel est le chemin...? [A]
+Quoi...[A]
+Que dois-je faire?[A]
+[OpenMidLeft][ToggleSmile]...Fir.[A]
+Tu regardais toujours le dos de ta
+m{re et la suivais.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Et tu es venu me demander conseil
+parce que tu as perdu de vue ta m{re.[A]
+[OpenMidRight][ToggleSmile]...Oui.[A]
+[OpenMidLeft][ToggleSmile]Mais, Fir.[A]
+Tu n'es pas ta m{re,
+ni moi.[A]
+Le chemin que tu cherches
+ne se trouve pas derri{re nous.[A]
+Il est devant toi.[A]
+C'est < toi de tracer
+ce chemin par toi-m^me.[A]
+[OpenMidRight][ToggleSmile]Devant...moi?[A]
+[OpenMidLeft][ToggleSmile]Ce n'est pas quelque chose qui peut
+^tre enseign>.
+C'est quelque chose que tu dois
+d>couvrir par toi-m^me.[A]
+[OpenMidRight][ToggleSmile]...Oui.[A]
+Merci, Oncle![A]
+[03E9]
+[OpenMidLeft][LoadFace][0x112][OpenMidRight][LoadFace][0x120][OpenMidRight][ToggleSmile]...Apr{s qu'elle soit tomb>e malade, ma femme
+a commenc> < me parler de sa famille[A]
+pour la premi{re fois.[A]
+Elle a parl> de son h>ritage, de
+toi, et...d'elle-m^me.[A]
+[OpenMidLeft][ToggleSmile]Je suis sûr que ma sœur >tait heureuse d'^tre
+avec toi quand elle a quitt> ce monde.[A]
+[OpenMidRight][ToggleSmile]C'est < cette >poque que nous
+nous sommes rencontr>s pour la premi{re fois...[A]
+Tu ressemblais < ma femme quand nous
+nous sommes rencontr>s.[A]
+Tu >tais d'une force inhumaine...
+mais dangereuse et intimidante.[A]
+[OpenMidLeft]...Oui.[A]
+A ce moment-l<, je vous ai laiss>s sans
+dire un mot.[A]
+Tu as dû penser quel
+[ToggleSmile]terrible fr{re j'>tais.[A]
+[OpenMidRight][ToggleSmile]Non, pas du tout.NL
+[03EC]
+[OpenMidLeft][LoadFace][0x112][OpenMidRight][LoadFace][0x114][OpenMidLeft]...As-tu besoin de quelque chose,
+Rutger?[A]
+[OpenMidRight][ToggleSmile]Je veux te poser une question.[A]
+[OpenMidLeft][ToggleSmile]Oui?[A]
+[OpenMidRight][ToggleSmile]Je ne sens aucune haine dans ta lame...[A]
+Tu sembles te fondre dans l'air
+quand tu attaques.[A]
+M^me les lames les plus lourdes et
+les plus fortes ne peuvent pas couper l'air...[A]
+Ta lame les battrait toutes.
+Je veux devenir plus fort.[A]
+Si tous les chemins de l'>p>e m{nent
+< un seul endroit, alors pourrais-je[A]
+me fondre dans l'air
+comme tu le fais?[A]
+[OpenMidLeft][ToggleSmile]...Tu viens de Sacae,
+n'est-ce pas?[A]
+[OpenMidRight][ToggleSmile]...Oui.[A]
+[OpenMidLeft][ToggleSmile]Je suis n> < Sacae aussi.[A]
+J'ai grandi sous la protection de
+notre P{re le Ciel, et notre[A]
+M{re la Terre.[A]
+Ils sont tout ce qui est dans mon
+>p>e.[A]
+[OpenMidRight][ToggleSmile]Je ne suis pas un pur Saca>en...[A]
+Je ne pourrais pas les sentir
+comme tu le fais...[A]
+[OpenMidLeft][ToggleSmile]C'>tait vrai quand tu
+>tais jeune?[A]
+[OpenMidRight]!![A]
+[OpenMidLeft]Tu as pu entendre le ciel
+et la terre autrefois.[A]
+Bien que ta haine semble couvrir
+tes oreilles.[A]
+[OpenMidRight][ToggleSmile]...Penses-tu que je pourrai
+les entendre quand cette guerre se termine?[A]
+[OpenMidLeft][ToggleSmile]Bien sûr que tu le pourras.[A]
+La brise qui traverse
+les plaines...[A]
+Elle n'oublie jamais ceux qu'elle
+aime.[A]
+[03EF]
+[OpenMidLeft][LoadFace][0x112][OpenMidRight][LoadFace][0x12A]
+[OpenMidLeft]Zeiss.[A]
+[OpenMidRight][ToggleSmile]Oui?[A]
+[OpenMidLeft][ToggleSmile]Pourquoi...[A]
+Pourquoi m'as-tu racont> cette
+histoire?[A]
+[OpenMidRight][ToggleMouthMove]...Je pensais que tu[A]
+[ToggleMouthMove][ToggleSmile]pourrais me guider...
+Peut-^tre pourrais-tu m'aider[A]
+< me d>barrasser de mon h>sitation...[A]
+[OpenMidLeft][ToggleSmile]...Malheureusement, je n'ai pas de
+mots de guidance pour toi.[A]
+Mais...
+Je peux dire ceci.[A]
+C'est < toi de tailler[Clear]
+[OpenMidLeft]ton propre chemin.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Zeiss...[A]
+Je pense que tu as dAj<
+une rAponse.[A]
+[OpenMidRight][ToggleSmile]...Peut-etre.
+Peut-etre...[A]
+Je voulais juste que quelqu'un me dise
+que le chemin que j'ai pris n'etait pas[A]
+une erreur.[A]
+[OpenMidLeft][ToggleSmile]Alors...[A]
+[OpenMidRight][ToggleSmile]Oui, je comprends maintenant.[A]
+J'ai choisi de me retourner contre mon pays...
+Et je ne regrette pas cette dAcision.[A]
+[03F2]
+[OpenMidLeft][LoadFace][0x112][OpenMidRight][LoadFace][0x130][OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Ma|tre Karel...[A]
+[OpenMidLeft][ToggleSmile]Je suppose que je devrais te dire la
+vEritE.[A]
+Garder le silence pour cacher sa
+honte serait s'>carter du[A]
+chemin de l'epee.[A]
+[OpenMidRight]Honte?
+Tu as sauv> mon village...[A]
+[OpenMidLeft]Non.[A]
+Je n'ai jamais pens> < sauver le
+village.[A]
+Je voulais juste tuer.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]J'>tais comme un d>mon < l'>poque...
+poss>d> par l'epee.[A]
+Je vagabondais sans but
+cherchant des gens pour satisfaire ma[A]
+soif de sang.[A]
+Tant que je pouvais couper, tant que
+je pouvais tuer, peu importait[A]
+qui c'>tait.[A]
+...M^me si c'>tait un nourrisson dans un
+village o} je m'>tais arr^t>.[A]
+[OpenMidRight]![A]
+[OpenMidLeft]Tu n'as pas de raison de me remercier.
+On m'appelle le Saint de l'Epee...[A]
+Mais c'est un faux nom.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove]Mais...[A]
+Je ne peux pas imaginer que ce que tu
+[ToggleSmile]dis est vrai quand je te regarde[A]
+maintenant.[A]
+Toi, te tenant devant moi maintenant,
+es le Saint de l'Epee que j'avais[A]
+toujours imagin> dans mon esprit.[A]
+Quoi...
+Que s'est-il pass>...?[A]
+[OpenMidLeft][ToggleSmile]...Certaines choses tu r>aliseras seulement
+apr{s avoir perdu autre chose.[A]
+Cependant, au moment o} ma
+folie m'a quitt>...[A]
+Il >tait d>j< trop tard.[A]
+[03F5]
+[OpenMidRight][LoadFace][0x120][OpenMidRight][ToggleSmile]Fiiiiir![A][Clear]
+[OpenMidRight]Fi-[A]
+[OpenMidLeft][LoadFace][0x113]Je t'entends![A]
+[OpenMidRight]Ah, Fir.
+Tu allais bien...[A]
+[OpenMidLeft]P{re!
+Ça suffit![A]
+Je vais tr{s bien toute seule!
+Je n'ai pas besoin de ta surprotection![A]
+[OpenMidRight][ToggleSmile][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]...Pardonne-moi.
+J'avais tort...[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Pardonne-moi, ma fille...[A]
+Je voulais juste compenser
+notre temps perdu ensemble.[A]
+[OpenMidLeft]Temps...perdu?[A]
+[OpenMidRight]Oui...[A]
+Quand tu >tais encore une petite fille,
+ta m{re et moi >tions toujours[A]
+en train de nous entra|ner.[A]
+Je regrette maintenant de ne pas t'avoir
+assez remarqu>e.[A]
+Tu n'as jamais connu la chaleur et
+la protection de tes parents...[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Mais tu as grandi pour devenir une
+jeune femme forte et confiante.[A]
+Cependant, ce n'est pas gr[ce < moi.[A]
+Alors je voulais juste pouvoir
+t'aider de toutes les mani{res possibles...[A]
+[OpenMidLeft]P{re...
+Tu as toujours >t> gentil et aimant.[A]
+Chaque fois que j'>tais sur le point de
+m'effondrer, tu me tenais dans tes[A]
+bras forts et me r>confortais...[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]P{re...
+J'>tais heureuse.[A]
+[OpenMidRight][ToggleSmile]Fir...
+Oh, ma fille.[A]
+[OpenMidLeft]P-P{re![A]
+S'il te pla|t, ne pleure pas dans un
+endroit comme celui-ci![A]
+[03F8]
+[OpenMidLeft][LoadFace][0x130][OpenMidRight][LoadFace][0x113][OpenMidRight][ToggleSmile]![A]
+[OpenMidLeft]Attends, Fir!
+Ne pars pas.[A]
+J'ai besoin de te parler.[A]
+[OpenMidRight]Je-Je...[A]
+Je me suis jur> que je vivrais
+par l'epee.[A]
+Mais...[A]
+je trouve mon esprit errant, et
+je pense toujours < toi![A]
+[OpenMidLeft]Fir...[A]
+[OpenMidRight]G-Goodbye![A][ClearFace]
+[OpenMidLeft]Fir![A]
+[OpenMidRight][LoadFace][0x113]Quoi-...[A]
+[OpenMidLeft]Te souviens-tu
+de la premi{re fois que nous nous sommes rencontr>s?[A]
+[OpenMidRight]Oui...[A]
+[OpenMidLeft]Depuis ce jour, je veux te
+dire quelque chose.[A]
+Mais je n'ai pas eu le courage
+de le faire.[A]
+M^me apr{s notre au revoir,
+j'ai regrett> de ne pas t[A]
+avoir dit ce que je ressentais.[A]
+[OpenMidRight][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidLeft]Je pensais vraiment que c'>tait un miracle
+quand nous nous sommes rencontr>s sur cette |le.[A]
+Et...[A]
+Bien que je l'aie gard> en moi
+jusqu'< maintenant, je n'h>siterai plus.[A]
+Je dois te le dire.[A]
+[OpenMidRight]M-Monsieur Noah...[A]
+[OpenMidLeft]Fir,
+je...[A][Clear]
+[OpenMidLeft]Je t'aime.[A]
+[03FB]
+[OpenMidRight][LoadFace][0x113][OpenMidLeft][LoadFace][0x114][OpenMidRight]Rutger.[A]
+Attends, s'il te pla|t, ne me regarde pas
+comme ça...[A]
+Je ne suis pas ici pour me battre.[A]
+[OpenMidLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidRight]Mais tes comp>tences sont en effet impressionnantes.
+Je te vois toujours comme un objectif < atteindre.[A]
+J'aimerais pouvoir ^tre aussi fort que toi...[A]
+[OpenMidLeft][ToggleSmile]...Sois juste toi-m^me.[A]
+[OpenMidRight]Quoi ?[A]
+[OpenMidLeft]Ma lame est couverte de sang.[A]
+Il n'est pas n>cessaire de voir ton objectif
+l<-dedans.[A]
+[OpenMidRight][ToggleMouthMove]......[ToggleMouthMove][A]
+[ToggleSmile]Quelqu'un m'a dit un jour...[A]
+'Tous les chemins de l'>p>e m{nent <
+un seul endroit.'[A]
+Je n'ai pas encore d>couvert si
+c'est vrai ou non, mais je peux[A]
+dire que ton >p>e est d>finitivement
+sur un certain chemin.[A]
+Mais j'ai encore beaucoup < apprendre.[A]
+[OpenMidLeft][ToggleSmile]...Pense ce que tu veux.[A]
+[03FE]
+[OpenMidLeft][LoadFace][0x114][OpenMidRight][LoadFace][0x115][OpenMidRight][ToggleSmile]Rutger, ça va ?
+Tu n'as pas l'air bien.[A]
+[OpenMidLeft]...J'ai des probl{mes de sommeil.[A]
+[OpenMidRight]C'est < propos du chef de l'attaque Bulgar
+que tu as vue l'autre jour ?[A]
+[OpenMidLeft]...Non.
+Eh bien...peut-^tre.[A]
+M^me apr{s l'avoir vu mort, mes
+cauchemars persistent encore.[A]
+Lors de cette attaque...
+Ils m'ont laiss> seul en vie...[A]
+La raison >tait que je...
+ne ressemblais pas < un natif Sacae.[A]
+[OpenMidRight]Difficile de tuer quelqu'un avec la
+m^me couleur de peau.[A]
+Mais tu as du sang Sacaen en[A]
+toi, n'est-ce pas ?[A][OpenMidLeft]Oui.[A]
+La m{re de mon p{re et le
+p{re de ma m{re >taient Saca>ens.[A]
+Bulgar est pr{s de la fronti{re de Biran, donc il
+y a beaucoup de gens m>lang>s l<-bas.[A]
+Mais g>n>ralement, le c_t> Sacaen est
+plus fort dans l'apparence des enfants[A]
+dans l'apparence des enfants m>lang>s.[A]
+Mais moi...[A]
+C'est seulement en moi que le c_t> Biran est
+ressorti plus, donc j'ai >t> gard> en vie...[A]
+Les gens de Bulgar...ils ont >t>
+gentils avec moi, m^me si je paraissais[A]
+diff>rent...[A]
+Mais eux...ils ont >t> tu>s,
+si brutalement ![A]
+Je dois d>truire Biran...![A]
+Cet homme seul ne suffit pas pour
+satisfaire ma vengeance...[A]
+[OpenMidRight]Je pensais que tu avais un genre de
+fardeau, mais maintenant je le vois clairement...[A]
+[ToggleSmile]Eh bien, je suppose que je vais te suivre
+dans cette voie.[A]
+[OpenMidLeft][ToggleSmile]Je n'ai pas besoin de sympathie ![A]
+[OpenMidRight][ToggleSmile]Allez, tu sais < quel point je
+suis fort, n'est-ce pas ?[A]
+Si tu veux vraiment affronter Biran,
+il n'y a pas de meilleur alli> que moi.[A]
+Qu'en dis-tu ?[A]
+[OpenMidLeft][ToggleSmile]...Fais comme tu veux.[A]
+[OpenMidRight][ToggleSmile]Et donc je le ferai.
+Eh bien, allons-y, partenaire ![A][ClearFace]
+[OpenMidLeft][ToggleSmile]Dieck...
+Je suis d>sol>.[A]
+[0401]
+[OpenMidLeft][LoadFace][0x115][OpenMidRight][LoadFace][0x11E][OpenMidRight][ToggleSmile]Fr{re...[A]
+[OpenMidLeft][ToggleSmile]Quoi ?[A]
+[OpenMidRight][ToggleSmile]D>sol>, tu gagnes.[A]
+L'autre jour, j'ai failli me faire tuer, et
+puis je me suis rappel> ce que tu m'as dit.[A]
+Peut-^tre que je me laissais emporter...[A]
+[OpenMidLeft]Je vois.[A]
+[OpenMidRight]Donc apr{s ça, j'ai suivi
+tes conseils...[A]
+[OpenMidLeft][ToggleSmile]Je peux voir que tu l'as fait, car
+tu es toujours en vie.[A]
+Si tu peux pr^ter attention < la
+vue d'ensemble, tu ne te feras pas[A]
+tuer si facilement.[A]
+Avec ta force, tu peux
+impressionner les gens sans toujours[A]
+te pr>cipiter comme ça.[A]
+[OpenMidRight][ToggleSmile]...Fr{re, ça va ?
+Tu es comme, en train de me complimenter.[A]
+Ça fait...bizarre.[A]
+[OpenMidLeft]Ah, tais-toi.
+Allez, on y va.[A]
+[0404]
+[OpenMidLeft][LoadFace][0x11F][OpenMidRight][LoadFace][0x115][OpenMidRight]Alors...[A]
+On dirait que nous sommes tous les deux encore
+vivant.[A]
+[OpenMidLeft]Oui.[A]
+[OpenMidRight]...Dr_le, n'est-ce pas?[A]
+[OpenMidLeft]Quoi?[A]
+[OpenMidRight]Nous sommes des mercenaires.[A]
+On se soucie pas de qui gagne, tout
+ce qui nous importe, c'est l'argent et[A]
+nos vies.[A]
+Mieux vaut juste partir
+que de rester et se faire tuer.[A]
+Mais...c'est bizarre.[A]
+On traverse toutes ces
+batailles incroyablement dures, et je[A]
+n'ai toujours pas envie de fuir
+loin.[A]
+Roy...il me fait sentir que je
+peux me battre et mourir pour son[A]
+but sans regrets.[A]
+[OpenMidLeft]Bien sûr.
+Je ressens ça aussi.[A]
+[0407]
+[OpenMidLeft][LoadFace][0x115][OpenMidRight][LoadFace][0x129][OpenMidRight]Dieck![A]
+Tu vois comment j'ai ajust> mon
+rythme aux autres derni{rement?[A]
+[OpenMidLeft]Oui...[A]
+Mais tu ne devrais pas leur faire
+trop confiance non plus.[A]
+[OpenMidRight][ToggleSmile]Hein?[A]
+C'est diff>rent de ce que tu
+disais avant![A]
+[OpenMidLeft][ToggleSmile]Ce que j'ai dit >tait une ligne directrice
+pour le combat.[A]
+Ce que je dis maintenant est une ligne
+directrice pour un mercenaire.[A]
+[OpenMidRight]Pour un mercenaire...[A]
+[OpenMidLeft]Un mercenaire doit se d>brouiller.
+Personne ne veillera sur toi.[A]
+Tu dois ^tre sceptique.[A]
+Tu devrais m^me te m>fier que je puisse
+donner des ordres juste pour assurer ma[A]
+propre s>curit>.[A]
+[OpenMidRight]Ce n'est pas un probl{me.[A]
+[OpenMidLeft]Hein?[A]
+[OpenMidRight]Tu ne penserais pas < ça.[A]
+[OpenMidLeft]On ne sait jamais.[A]
+[OpenMidRight]Je sais.
+Lott et Ward aussi.[A]
+C'est pourquoi on peut confier nos
+vies < toi.[A]
+[OpenMidLeft]...Ne deviens pas trop fier, gamin.[A]
+[OpenMidRight]Teehee...[A]
+[040A]
+[OpenMidLeft][LoadFace][0x116][OpenMidRight][LoadFace][0x122][OpenMidLeft][ToggleSmile]Dame Lilina, < propos de l'autre jour...
+Je suis d>sol>.[A]
+J'ai dit plus que je n'aurais dû.[A]
+[OpenMidRight]Oujay.[A]
+[OpenMidLeft]Oui?[A]
+[OpenMidRight]Je suis d>sol>, j'>tais si stupide.
+Mais je ne veux pas rester ignorant.[A]
+En ce moment, je ne sais rien
+sur la gestion d'un pays, mais j'apprendrai.[A]
+Je ferai d'Ostia un pays o}
+nos enfants pourront toujours[A]
+^tre heureux.[A]
+[OpenMidLeft]...Dame Lilina, ne te
+fatigue pas.[A]
+Mes fr{res vont bien
+gr[ce au marquis ostien.[A]
+M^me Dieu ne peut sauver tous
+les gens.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove][ToggleSmile]Mais je peux dire ceci,
+Dame Lilina...[A]
+Ma sœur, o} qu'elle soit...[A]
+Elle t'aurait beaucoup aim>e.[A]
+[040D]
+[OpenMidLeft][LoadFace][0x126][OpenMidRight][LoadFace][0x116]
+[OpenMidRight]Lalum![A]
+[OpenMidLeft]Quoi?[A]
+Oh, je sais.[A]
+Tu voulais juste voir cette danse
+si d>sesp>r>ment, n'est-ce pas?[A]
+[OpenMidRight]Ta danse...[A]
+Je pense l'avoir vue
+quelque part avant.[A]
+[OpenMidLeft]Hein?
+Tu l'as?[A]
+[OpenMidRight]Oui.[A]
+Un petit groupe d'artistes est
+pass> dans mon village quand j'>tais[A]
+plus jeune.[A]
+Je suis all> les voir...et une
+petite fille dansait au[A]
+centre.[A]
+Elle a tr>buch> quelques fois et a
+fait des erreurs, mais elle essayait[A]
+vraiment fort.[A]
+Je traversais des moments difficiles
+< l'>poque, mais la danse de cette fille[A]
+m'a un peu remont> le moral.[A]
+[OpenMidLeft][ToggleSmile]Hm...[A]
+Je ne m'en souviens pas.[A]
+[OpenMidRight][ToggleSmile]Je ne pensais pas.
+Mais c'>tait vraiment agr>able.[A]
+Tu dois sûrement remonter le moral
+< beaucoup de gens avec ta[A]
+danse, o} que tu ailles.[A]
+[OpenMidLeft]Tu me mets mal < l'aise maintenant!
+Mais merci, Oujay.[A]
+Disons que.[A]
+Je te montrerai une de mes
+danses sp>ciales un de ces jours.[A]
+[OpenMidRight]Sp>ciale...? [A]
+[OpenMidLeft]C'est vraiment incroyable![A]
+[OpenMidRight][ToggleSmile]Wow...vraiment?[A]
+[OpenMidLeft][ToggleSmile]H>!
+Tu pensais encore < des choses
+coquines, n'est-ce pas?[A]
+[OpenMidRight][ToggleSmile]N-Non!
+Je ne l'>tais pas![A]
+[0410]
+[OpenMidLeft][LoadFace][0x122][OpenMidRight][LoadFace][0x117][OpenMidLeft]Salut, Garret.[A]
+[OpenMidRight][ToggleSmile]Salut...[A]
+[OpenMidLeft][ToggleSmile]Oui?[A]
+Tu as dit que tu as donn> ton bracelet
+< ce gars aveugle, non?[A]
+[OpenMidRight][ToggleSmile]Que ferais-tu si tu le
+rencontrais < nouveau?[A]
+[OpenMidLeft]Eh bien...[A]
+Je suppose que je n'ai pas besoin de demander.[A]
+[OpenMidRight]Tu te ferais avoir tout autant
+facilement que la derni{re fois et[A]
+ferais n'importe quoi pour lui, je suppose.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Pourquoi tiens-tu tant <
+des inconnus?[A]
+Qu'est-ce que tu vas en tirer
+en les aidant?[A]
+Tu devrais juste les ignorer.[A]
+[OpenMidLeft]...Si je vois quelqu'un dans le besoin, je
+sentirais que je veux faire[A]
+quelque chose pour l'aider.[A]
+Si je rencontrais < nouveau ce vieil homme,
+je lui donnerais probablement[A]
+quelque chose...encore.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove]...Oh eh bien, je suppose que certains
+gens naissent juste stupides.[A][Clear]
+Oh oui...
+Je dois te donner ça.[A]
+[OpenMidLeft]?[A]
+[ToggleSmile]?
+Qu'est-ce que c'est?[A]
+C'est beau...[A]
+[OpenMidRight][ToggleSmile]Je ne sais pas.[A]
+Un vieux gars qui a dit qu'il t'avait rencontr>
+est venu me voir l'autre jour.[A]
+Il m'a demand> de te donner ça.[A]
+Il a aussi dit qu'il >tait vraiment
+reconnaissant envers toi.[A]
+[OpenMidLeft]Mais...
+J'ai rencontr> ce vieil homme il y a...[A]
+[OpenMidRight]Je-je ne sais pas![A]
+Quoi qu'il en soit, il voulait que je te donne
+ça.[A]
+Prends-le juste.[A][ClearFace]
+[OpenMidLeft]Garret...[A]
+[0413]
+[OpenMidLeft][LoadFace][0x135][OpenMidRight][LoadFace][0x117][OpenMidRight][ToggleSmile]Eh bien...[A]
+L'argent facile n'est pas facile <
+trouver, n'est-ce pas.[A]
+Naviguer semble ^tre une pire
+option chaque fois que j'en entends parler.[A]
+[OpenMidLeft][ToggleSmile]Tu penses ça?
+La mer est un bel endroit.[A]
+[OpenMidRight][ToggleSmile]Mais tu es toujours sur l'eau,
+non?[A]
+C'est juste bleu sans fin[A]
+peu importe o} tu regardes.[A]
+[OpenMidLeft][ToggleSmile]Non, la mer n'est pas seulement bleue.
+Parfois, elle devient dor>e.[A]
+[OpenMidRight][ToggleSmile]Hein?[A]
+[OpenMidLeft][ToggleSmile]C'est vrai.[A]
+Quand le soleil se l{ve < l'est...
+ou quand il se couche < l'ouest...[A]
+L'ensemble de l'oc>an est illumin>
+d'un beau dor>...[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleSmile][ToggleMouthMove]L'aube est aussi belle,
+mais je pr>f{re le coucher de soleil.[A]
+Quand tu navigues vers
+le soleil couchant, c'est juste...[A]
+[OpenMidRight][ToggleSmile]Mais tu ne peux pas gagner d'argent
+avec le coucher de soleil.[A]
+[OpenMidLeft]...Tu n'as aucun sens esth>tique.[A]
+[ToggleSmile]D'accord, je te ferai monter sur mon
+bateau un jour.[A]
+Tu ne peux pas te consid>rer comme un vrai
+marin tant que tu n'as pas vu cette beaut>.[A]
+[OpenMidRight]Ça ne va pas me
+rapporter d'argent...[A]
+[0416]
+[OpenMidLeft][LoadFace][0x126][OpenMidRight][LoadFace][0x117][OpenMidRight][ToggleSmile]H>!
+Lalum![A]
+[OpenMidLeft][ToggleSmile]Oui?[A]
+[OpenMidRight][ToggleSmile]Tu te moquais de moi,
+n'est-ce pas![A]
+Tu m'apprenais <
+danser, hein?[A]
+Eh bien, ce n'>tait rien d'autre qu'un
+tas de conneries![A]
+Quand j'ai dans> devant les
+autres, comme tu m'as montr>, ils[A]
+ont tous ri aux >clats![A]
+[OpenMidLeft][ToggleSmile]Vraiment?
+Bien![A]
+[OpenMidRight][ToggleSmile]Quoi!?
+Pourquoi tu...![A]
+[OpenMidLeft][ToggleSmile]Regarde.[A]PNL
+[0419]
+[OpenMidLeft][LoadFace][0x117][OpenMidRight][LoadFace][0x12C][OpenMidLeft][ToggleSmile]Hm?[A]
+[OpenMidRight]...Oh.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Toi encore?
+Merde.[A]
+[OpenMidLeft]H>, attends.[A]
+[OpenMidRight]Que veux-tu![A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[ToggleMouthMove]Je suis un bandit, comme tu dis.[A]
+J'ai pill> des villages et tu>
+des gens innocents.[A]
+Mais...laisse-moi dire ça.[A]
+[OpenMidRight]Quoi?[A]
+[OpenMidLeft]Je...je d>teste aussi les bandits...et
+je d>teste la façon dont j'ai v>cu[A]
+comme eux.[A]
+C'est tout.[A][OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove][ToggleSmile]...Ouais.[A]
+[041C]
+[OpenMidLeft][LoadFace][0x12F][OpenMidRight][LoadFace][0x117][OpenMidRight]Salut, Gonzales.[A]
+[OpenMidLeft][ToggleSmile]Tu...
+G...[A]
+[OpenMidRight][ToggleSmile]Ma|tre Garret.[A]
+[OpenMidLeft][ToggleSmile]Ouais...tu ça.
+Ici.[A]
+Je te donne.[A]
+[OpenMidRight][ToggleSmile]Whoa whoa...[A]
+Tu n'avais pas besoin d'apporter tout
+l'arbre avec toi.[A]
+[OpenMidLeft][ToggleSmile]Tu aimes ça.[A]
+[OpenMidRight][ToggleSmile]Eh bien oui, j'aime, mais ça
+va un peu trop loin...[A]
+Ah bien, qui s'en soucie.
+Merci.[A]
+Tu en veux un peu ?[A]
+[OpenMidLeft][ToggleSmile]Je ne vais pas manger.
+Je ne mange pas de choses >tranges.[A]
+[OpenMidRight]...Et ça veut dire quoi
+?[A]
+Hm ?[A]
+...On dirait que je devrais y aller.
+Allez, Gonzales.[A]
+[ToggleSmile]Allons-y.[A]
+[OpenMidLeft]Ouais.[A]
+[041F]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x118][OpenMidLeft][ToggleSmile]...Tu n'as pas chang> ton
+combat, je vois.[A]
+[OpenMidRight]Tate.[A]
+[OpenMidLeft]Combien de temps vas-tu
+continuer < te battre comme ça ?[A]
+Je comprends ce que tu dis...
+Mais si tu meurs, tout est fini.[A]
+[OpenMidRight]Je comprends ça.[A]
+Il n'y a qu'un certain nombre de choses
+que je peux faire seul.[A]
+Mais je suis un chevalier, donc...[A]
+[OpenMidLeft]Alors...
+[ToggleSmile]Je dois rester < tes c_t>s ?[A]
+[OpenMidRight][ToggleSmile]Tu le ferais... ?[A]
+[OpenMidLeft][ToggleSmile]Si je laisse quelqu'un comme toi seul,
+je m'inqui{te et...je ne peux pas me concentrer ![A]
+Donc si je te soutiens de pr{s,
+ce sera plus facile pour toi aussi, non ?[A]
+Ou... je ne suis pas assez bon... ?[A]
+[OpenMidRight][ToggleSmile]Bien sûr que si ![A]
+Tu es fort, tu peux suivre
+mon cheval, et...[A]
+Avec toi autour, il semble que
+je peux rester hors de danger.[A]
+Je peux te faire confiance pour garder mon dos.[A]
+[OpenMidLeft][ToggleSmile]O-Oh...[A]
+Mais...
+Je suis vraiment bien pour toi... ?[A]
+[OpenMidRight]Bien sûr !
+Tu es un guerrier fort.[A]
+Tu es parfait pour te battre
+< mes c_t>s.[A]
+[OpenMidLeft][ToggleSmile]Non...
+Je voulais dire...[A]
+[OpenMidRight]?[A]
+[OpenMidLeft]Alors... le point est que...
+Je suis celui < tes c_t>s... et...[A]
+[OpenMidRight]?[A]
+[OpenMidLeft]...Rien, oublie ça...
+Eh bien, allez, allons-y.[A]
+Nous devons nous d>p^cher, non ?[A]
+[OpenMidRight]D'accord, partons ![A]
+[0422]
+[OpenMidLeft][LoadFace][0x11C][OpenMidRight][LoadFace][0x118][OpenMidLeft][ToggleSmile]Alan, ton combat a
+>t> impressionnant derni{rement.[A]
+[OpenMidRight]Oui...[A]
+J'essaie de changer mon
+style de combat, comme tu m'as dit.[A]
+[OpenMidLeft]Je vois.[A]
+Hm, tu sembles assez capable de
+prendre la rel{ve apr{s moi.[A]
+[OpenMidRight]Prendre la rel{ve ?[A]
+[OpenMidLeft]Je suis vieux.[A]
+Je dois faire place < la jeune
+g>n>ration, pour Roy.[A]
+Je veux que tu prennes soin de Roy
+< ma place.[A]
+[OpenMidRight]M-Moi... ?[A]
+Peut-^tre que suivre un vieux comme
+moi serait embarrassant ?[A]
+[OpenMidRight][ToggleSmile]Bien sûr que non !
+C'est un honneur ![A]
+Je prot>gerai Ma|tre Roy de ma vie
+et apporterai plus de prosp>rit> < Pherae...[A]
+[OpenMidLeft][ToggleSmile]Calme-toi.
+Je t'ai dit que ton feu m'inqui>tait.[A]
+[OpenMidRight]Oui...[A]
+[OpenMidLeft]Il n'est pas n>cessaire de s'>nerver.
+Ma|tre Roy est encore jeune.[A]
+Tu dois grandir avec lui, en tant que
+chevalier, et en tant que personne.[A]
+[0425]
+[OpenMidLeft][LoadFace][0x118][OpenMidRight][LoadFace][0x119][OpenMidRight]Alan, < propos de l'autre jour...[A]
+[OpenMidLeft]Tu veux dire quand nous perdons ?[A]
+Tu dis toujours que tu
+vas te sacrifier,[A]
+ou quelque chose de ridicule comme ça ?[A]
+[OpenMidRight]Non, j'ai abandonn> cette id>e.[A]
+...Tes mots >taient une claque au visage,
+pour ainsi dire.[A]
+Peut-^tre que je me d>valorisais parce que
+je suis < Pherae depuis le moins de temps.[A]
+[OpenMidLeft]Ton travail est sans >gal.
+Sauf le mien, bien sûr.[A]
+[OpenMidRight]D'o} vient ta confiance ?
+Je t'envie vraiment parfois.[A]
+[OpenMidLeft]Bien sûr que j'ai confiance.
+Comment pourrais-je perdre contre toi ?[A]
+[OpenMidRight]...Tu ferais mieux de te souvenir de ces mots, car
+tu les entendras encore de ma part.[A]
+[OpenMidLeft]Ha, jamais ![A]
+A plus apr{s la bataille ![A]
+[OpenMidRight]Oui.[A]
+[OpenMidLeft][ToggleSmile]Lance ?[A]
+[OpenMidRight][ToggleMouthMove]Quoi?[A]
+[OpenMidLeft][ToggleMouthMove]Meme si on perd, tu ne seras pas seul
+A rester et A combattre pour gagner du temps![A]
+Tu ferais mieux de t'en souvenir![A]
+[OpenMidRight]Bien sAûr![A]
+[0428]
+[OpenMidLeft][LoadFace][0x118][OpenMidRight][LoadFace][0x11E][OpenMidRight][ToggleSmile]Aaaarrr![A]
+[OpenMidLeft]...![A]
+[ToggleSmile]Tu...t'Ameliores, Ward![A]
+[OpenMidRight]Y...Toi aussi![A]
+Tu deviens plus fort chaque fois
+que je te vois.[A]
+[OpenMidLeft][ToggleSmile]Je suis encore faible.
+Je dois devenir encore plus fort.[A]
+[OpenMidRight]Heh, alors je deviendrai plus fort
+que cela![A]
+Peu importe combien d'ennemis sortent,
+je les >craserai tous avec ma hache...[A]
+[OpenMidLeft][ToggleSmile]Ennemis...[A]
+Ward.[A]
+[OpenMidRight]Quoi?[A]
+[OpenMidLeft]Comment vois-tu cette bataille?[A]
+[OpenMidRight]Que veux-tu dire, comment?[A]
+[OpenMidLeft]Penses-tu qu'on peut gagner?[A]
+[OpenMidRight][ToggleSmile]Quoi?
+Bien sAûr qu'on va gagner.[A]
+Je suis de ce cOtE, aprEs tout.[A]
+Comment pourrions-nous perdre?
+Et nous t'avons aussi.[A]
+Aucun ennemi n'aurait de chance
+contre nous deux.[A][OpenMidLeft]Haha...
+C'est vrai, j'ai oubli>.[A]
+Il n'y a pas moyen qu'on perde.[A]
+Ce n'est pas du tout moi de m'inqui>ter
+comme ça.[A]
+D'accord!
+Chargez![A]
+[OpenMidRight]Oh ouais!
+Allons les chercher![A]
+[042B]
+[OpenMidLeft][LoadFace][0x11C][OpenMidRight][LoadFace][0x119][OpenMidLeft][ToggleSmile]Lance.[A]
+[OpenMidRight][ToggleSmile]Ah, Sir Marcus.[A]
+[OpenMidLeft][ToggleSmile]Ma|tre Roy m'a dit l'autre jour
+que tu lui racontais des histoires de[A]
+d'autres parties du continent.[A]
+[OpenMidRight]Si mon exp>rience peut servir A Ma|tre
+Roy, alors je ferai de mon mieux pour l'enseigner.[A]
+[OpenMidLeft]Bien.[A]
+Eh bien, il semble que je peux maintenant
+prendre ma retraite sans soucis.[A]
+[OpenMidRight][ToggleSmile]Sir Marcus, que dis-tu?
+Nous avons encore beaucoup A apprendre de toi.[A]
+[OpenMidLeft]Pas si nous t'avons.[A]
+Tu peux prendre ma place une fois
+que je suis parti.[A]
+[OpenMidRight]Moi?
+Mais je ne suis pas un natif de Pherae...[A]
+[OpenMidLeft]Tu t'inqui{tes encore pour
+des choses comme ça?[A]
+Ma|tre Roy ne s'inqui{te certainement pas.[A]
+[OpenMidRight]...D'accord, alors je prendrai ta
+place quand le moment viendra.[A]
+Mais cela est dans un futur lointain.[A]
+Tu es encore bien, et tu dois
+rester notre exemple.[A]
+[OpenMidLeft]Eh bien, peut-^tre que je peux.
+On ne sait jamais.[A]
+[042E]
+[OpenMidLeft][LoadFace][0x119][OpenMidRight][LoadFace][0x11F][OpenMidRight][ToggleSmile]Comment vois-tu cette bataille?[A]
+[OpenMidLeft]Que veux-tu dire?[A]
+[OpenMidRight]Penses-tu qu'on a
+une chance de gagner?[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[ToggleMouthMove]Honn^tement, je ne sais pas.
+Eh bien, nous sommes s>v{rement en inf>riorit>.[A]
+L'ennemi peut se permettre d'envoyer de nouvelles
+troupes tout le temps, tandis que nous devons[A]
+faire attention A ne pas perdre m^me
+une troupe.[A]
+[OpenMidRight]Ouais...[A]
+Nos conditions de d>part sont juste
+si diff>rentes.[A]
+[OpenMidLeft]Mais Ma|tre Roy pense parfois A des plans
+qui d>passent mes petites pens>es.[A]
+Il a fait des merveilles
+dans les batailles jusqu'ici.[A]
+Sous sa direction, j'ai l'impression que
+nous ne pourrions jamais perdre.[A]
+Ma|tre Roy nous m{nera sûrement
+A la victoire.[A]
+[OpenMidRight]Je vois...[A]
+... Tu n'es pas du genre A favoriser
+quelqu'un juste parce qu'il est ton ma|tre.[A]
+Donc si tu le dis, cela doit ^tre vrai.
+Alors je ferais mieux de commencer A croire aussi...[A]
+[ToggleSmile]Dans notre victoire, et notre leader.[A]
+[0431]
+[OpenMidLeft][LoadFace][0x11A][OpenMidRight][LoadFace][0x134][OpenMidLeft][ToggleSmile]Cecilia?
+Tu as l'air troubl>e.[A]
+[OpenMidRight]Percival...[A]
+Je me demandais juste ce que
+deviendra Etrurie aprEs tout ça...[A]
+[OpenMidLeft]Juste ce que tu penses.[A]
+...Mais je pense qu'il n'y a qu'une
+seule r>ponse A cette question.[A]
+[OpenMidRight]Quoi?[A]
+[OpenMidLeft]Etrurie retrouvera sa gloire d'antan.[A]
+Elle deviendra encore plus prosp{re
+qu'auparavant.[A]
+[OpenMidRight]...Tu le penses?[A]
+[OpenMidLeft]Bien sAûr.[A]
+Nous allons le faire de nos
+propres mains.[A]
+[OpenMidRight]Oh...[A]
+[OpenMidLeft]Tu ne dois pas perdre espoir, Cecilia.[A]
+Si les g>n>raux d'Etrurie abandonnent,
+alors qui reconstruira notre pays?[A]
+[OpenMidRight][ToggleSmile]Oui...
+Tu as raison, Percival.[A]
+[0434]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x11A][OpenMidRight][ToggleSmile]Elphin.[A]
+Tu parlais de tes
+chansons pour tes futurs voyages...[A]
+[OpenMidLeft][ToggleSmile]A propos de l'>tat d'Etruria
+apr{s le d>c{s du prince?[A]
+[OpenMidRight][ToggleSmile]Oui.[A]
+Vas-tu le chanter dans divers
+pays apr{s la fin de la guerre?[A]
+[OpenMidLeft][ToggleSmile]C'est ce que j'ai l'intention de faire.[A]
+Je voyage non seulement pour chanter,
+mais aussi pour apprendre.[A]
+[OpenMidRight][ToggleSmile]...Vas-tu visiter le
+palais d'Etrurie?[A]
+[OpenMidLeft][ToggleSmile]Oui, bien sûr que je le ferai.[A]
+J'attends que mon s>jour en Etrurie
+soit le plus long.[A]
+[OpenMidRight][ToggleSmile]O} iras-tu apr{s avoir
+visit> le palais?[A]
+[OpenMidLeft][ToggleSmile]Nulle part...[A]
+J'ai l'intention de rester et de chanter pour le
+Royaume d'Etrurie aussi longtemps que[A]
+je vis.[A]
+[OpenMidRight][ToggleSmile]...As-tu ma parole l<-dessus?[A]
+[OpenMidLeft][ToggleSmile]...Je jurerai mon honneur l<-dessus.[A]
+[0437]
+[OpenMidRight][LoadFace][0x11A][OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidRight]......[A]
+......[A][Clear]
+[OpenMidRight][ToggleSmile][ToggleMouthMove]...Bizarre...[A]
+Elle n'>tait rien de plus qu'un ennui,
+mais maintenant qu'elle est partie, il semble...[A]
+[OpenMidLeft][LoadFace][0x126][ToggleSmile]...Seule?[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Vraiment?
+Oui![A]
+Je savais que tu aimais ma pr>sence![A]
+[OpenMidRight][ToggleSmile]...Je n'ai pas dit ça.[A]
+[OpenMidLeft][ToggleSmile]Ne mens pas.[A]
+Tu as dit que ça semblait juste
+seul sans moi.[A]
+[OpenMidRight][ToggleSmile]...Non,
+je n'ai pas dit ça.[A]
+[OpenMidLeft][ToggleSmile]Je le savais![A]
+M^me le G>n>ral Percival ne peut vivre
+sans ma danse.[A]
+D'accord, je viendrai te voir chaque
+matin dor>navant et te ferai une[A]
+danse de r>veil![A]
+[OpenMidRight][ToggleSmile]...Tu sembles ^tre au-del<
+de ma compr>hension.[A]
+[043A]
+[OpenMidLeft][LoadFace][0x12D][OpenMidRight][LoadFace][0x11B][OpenMidRight][ToggleSmile]Oh?[A]
+Tu sembles ^tre de bonne
+humeur, Sophia.[A]
+[OpenMidLeft][ToggleSmile]Oui...[A]
+Je parlais...aux autres personnes
+dans l'arm>e...[A]
+Les gens de l'ext>rieur...
+ils sont tous gentils...[A]
+[OpenMidRight][ToggleSmile]Je vois...
+C'est bien.[A]
+[OpenMidLeft][ToggleSmile]Ce serait bien...
+si nous pouvions ^tre amis...[A]
+avec les gens de l'ext>rieur...[A]
+[OpenMidRight]Oui...[A]
+Mais l'a|n> nous a dit de ne pas
+parler avec les >trangers.[A]
+[OpenMidLeft]Oui...[A]
+[OpenMidRight]Je comprends ce qu'il dit...[A]
+Les pouvoirs des dragons pourraient facilement
+d>truire des pays entiers.[A]
+Si les >trangers d>couvraient,
+ils se battraient sûrement pour cela.[A]
+J'ai vu de nombreux conflits comme
+ça dans ma vie...[A]
+[OpenMidLeft]Oui...[A]
+Mais...un jour...[A]
+[OpenMidRight]Oui...[A]
+Si nous pouvons vivre ensemble avec
+les dragons, il ne devrait pas y avoir de[A]
+raison pour que les >trangers ne puissent pas...[A]
+[043D]
+[OpenMidLeft][LoadFace][0x11D][OpenMidRight][LoadFace][0x11B][OpenMidRight][ToggleSmile]Oh...[A]
+[OpenMidLeft][ToggleSmile]D'accord, je suppose que l'homme rejet>
+devrait s'>clipser maintenant...[A]
+[OpenMidRight][ToggleSmile]Attends!
+Golrois...![A]
+...Je veux dire, Astol.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Regarde ceci s'il te pla|t...[A]
+Mon mari le portait quand
+je l'ai rencontr> pour la premi{re fois.[A]
+[OpenMidLeft][ToggleSmile]Que sont ces gribouillis?[A]
+[OpenMidRight][ToggleSmile]Ce ne sont pas des gribouillis.[A]
+C'est un embl{me donn> aux
+espions lyciens.[A]
+J'ai aussi fait des recherches sur quel
+genre de travail ils font...[A]Et...
+je comprends maintenant...[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Les espions portent des informations qui sont
+incroyablement dangereuses pour l'ennemi[A]
+si elles sont divulgu>es.[A]
+Si un espion se fait attraper, l'ennemi
+fouillera profond>ment dans ses faiblesses.[A]
+Les membres de la famille et les amants sont pris
+en otage...[A]
+Et l'espion subit des tortures sans fin
+jusqu'< ce qu'il r>v{le chaque d>tail de[A]
+l'information qu'il poss{de.[A]
+C'est pourquoi les espions doivent ^tre seuls...[A]
+Ils ne doivent pas avoir de famille ou d'amis,
+ou d'amants...[A]
+[OpenMidLeft][ToggleSmile]...Je suis d>sol> de te dire cela, mais...
+Ce gars est mort.[A]
+Il a >t> d>vor> par les sables mouvants de
+Nabata.[A]
+Tout ce discours sur les espions et autres...
+C'est juste ton imagination.[A]
+Ou peut-^tre as-tu vu une illusion dans le
+chaleur du desert.[A]
+[OpenMidRight][ToggleMouthMove][ToggleSmile]......[A]
+[ToggleMouthMove]Je...vois...[A]
+Alors...
+Je devais r^ver...[A]
+Je devais avoir un r^ve de
+une courte p>riode de bonheur...[A]
+[OpenMidLeft]...Igrene.
+...Non...[A][Clear]
+D>sol>, oublie ça.[A]
+[OpenMidRight][ToggleMouthMove]......[ToggleMouthMove][A][ClearFace][......]
+[OpenMidLeft][CloseSpeechFast]Juste...oublie tout.
+...S'il te pla|t.[A]
+[0440]
+[OpenMidLeft][LoadFace][0x11C][OpenMidRight][LoadFace][0x122][OpenMidRight][ToggleSmile]Ouf...[A]
+[OpenMidLeft]Dame Lilina,
+y a-t-il un probl{me?[A]
+[OpenMidRight][ToggleSmile]Marcus...
+Que pense...[A]
+Que pense Roy de moi?
+Je...[A]
+Je ne suis plus si sûr.[A]
+[OpenMidLeft][ToggleMouthMove].......[A]
+[OpenMidRight][ToggleMouthMove]Roy, il est...[A]
+Je l'ai toujours...aim>...
+depuis longtemps maintenant.[A]
+[OpenMidLeft][ToggleSmile]Alors pourquoi ne pas aller le voir et
+d>couvrir par toi-m^me, ma dame?[A]
+[OpenMidRight]Quoi...?
+Mais...[A]
+[OpenMidLeft]Je n'ai pas beaucoup d'exp>rience
+dans ce genre de choses, mais j'ai entendu les servantes[A]
+au ch[teau dire que ce n'est plus
+l'[ge o} les femmes devraient[A]
+rester assises < attendre.[A]
+Dame Lilina, si tu devais t'avancer
+vers lui en premier, Ma|tre Roy[A]
+tomberait sûrement pour toi.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove][ToggleSmile]Oui...
+Oui.[A]
+Je suis celle qui le conna|t
+le plus longtemps.[A]
+Je ne peux pas perdre face
+aux autres filles![A]
+[OpenMidLeft]C'est l'esprit,
+Dame Lilina![A]
+[0443]
+[OpenMidLeft][LoadFace][0x11D][OpenMidRight][LoadFace][0x122]
+[OpenMidLeft]Seigneur Hector...
+Il n'a pas boug> d'un pouce m^me quand[A]
+il a vu que je fuyais.
+Alors j'ai couru.[A]
+J'>tais presque < la porte, et le
+Seigneur Hector restait immobile.[A]
+Je ne savais pas ce qui se passait,
+je me suis retourn> et[A]
+lui ai cri>, 'Je m'en vais!
+Tu ne vas rien faire!?'[A]
+Une voix lourde m'est revenue,
+'Fuis si tu le souhaites. Tu peux garder[A]
+le tr>sor aussi.
+Mais cela te rend-il heureux?[A]
+Veux-tu vivre ta vie
+dans l'ombre, en constante peur[A][Clear]
+d'^tre retrouv>e? Est-ce vraiment
+ce que tu veux?'[A]
+J'ai couru comme un fou, ma dame. J'ai fui
+le ch[teau, sa voix.[A]
+Apr{s ça, j'ai juste err>
+dans la r>gion sans but toute la nuit.[A]
+L'aube s'est lev>e... et je me suis retrouv>
+devant le ch[teau.[A]
+[Clear]
+Le Seigneur Hector >tait l<.[A]
+[OpenMidRight][ToggleMouthMove].....[A]
+[OpenMidLeft][ToggleMouthMove]Depuis ce jour, je travaille
+pour lui, ma dame.[A]
+Il m'a chang>.[A]
+[OpenMidRight][ToggleSmile]Alors c'est ce qui s'est pass>...[A]
+[OpenMidLeft]Dame Lilina, je peux dire cela
+< n'importe qui, < tout moment.[A]
+Ton p{re...
+>tait vraiment un homme honorable.[A]
+[0446]
+[OpenMidRight][LoadFace][0x11E][OpenMidLeft][LoadFace][0x129][OpenMidRight][ToggleSmile]O} est-elle all>e?[A]
+[OpenMidLeft][ToggleSmile]Oh, c'est Ward.[A]
+Que fais-tu ici?[A]
+[OpenMidRight][ToggleSmile]Je t'ai dit de laisser cette partie
+< moi.[A]
+Cela ne veut pas dire que tu peux juste partir
+tout seul![A]
+Nous devons >couter les ordres du chef...[A]
+[OpenMidLeft]Mais si nous restons < attendre les
+ordres, nous pourrions manquer une grande chance![A]
+[OpenMidRight]Tu ne comprends pas?![A]
+Que se passerait-il si tu sortais tout seul
+au milieu d'une bande d'archers ennemis?![A]
+Pourquoi devons-nous toujours avoir des gens
+comme toi qui ne r>fl>chissent pas avant[A]
+d'agir...[A]
+[OpenMidLeft]? [A]
+Je pensais que tu >tais en col{re < propos
+de mon d>part seul.[A]
+[OpenMidRight]Bien sûr que je le suis![A]
+Nous devons travailler en >quipe au combat...[A]
+[OpenMidLeft]Alors de quoi s'agissait tout ça
+avec les archers et tout?[A]
+[OpenMidRight]!![A]
+C-C'>tait...[A]
+[OpenMidLeft][ToggleSmile]...T'>tais inquiet pour moi?[A]
+[OpenMidRight][ToggleSmile]Q-Q-Qu'est-ce que tu racontes![A]
+N-N-Non, pas du tout![A]
+J-J'>tais juste en train de te dire comment nous
+devrions agir au combat...[A]
+[OpenMidLeft]Ward, tu tr>buches sur tes mots.[A]
+[OpenMidRight]Erg...[A]
+[OpenMidLeft][ToggleSmile]H>, Ward.[A]
+[OpenMidRight][ToggleSmile]Quoi?[A]
+[OpenMidLeft][ToggleSmile]Merci.[A]
+[OpenMidRight][ToggleSmile]...Laisse-moi tranquille.[A]
+Ce n'est pas du tout comme toi.[A]
+[OpenMidLeft][ToggleSmile]Ouais...tu as raison.[A]
+[0449]
+[OpenMidLeft][LoadFace][0x11E][OpenMidRight][LoadFace][0x11F][OpenMidRight]Ward, tu agis bizarrement lately.[A]
+Tu as quelque chose < me dire?[A]
+[OpenMidLeft]...Lot.[A]
+Ouais?[A]
+Ne meurs pas.[A]
+Tu ferais mieux de ne pas mourir.[A]
+[OpenMidRight]Quoi...[A]
+[OpenMidLeft]Si tu >tais tu>,
+que se passerait-il pour Myu?[A]
+Elle est encore juste une petite fille, et
+elle sera forc>e de vivre seule.[A]
+[OpenMidRight]Mais tu es pareil.[A]
+Si tu >tais tu>, Mary
+serait boulevers>e.[A]
+[OpenMidLeft]Oh, bien sûr, comme si cette garce
+allait ^tre boulevers>e pour moi.[A]
+[OpenMidRight]...Tu ne ressens vraiment pas
+cela.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Ce n'est pas que 'je' ne vais pas mourir.
+'Nous' ne mourrons pas.[A]
+Finalement, nous rentrerons,
+de retour dans notre ville natale.[A]
+[OpenMidLeft]...C'est juste un village d>labr>
+avec des rivi{res sales et pas de vert du tout.[A]
+[OpenMidRight]Mais c'est notre ville natale, et
+il y a des gens qui nous attendent l<-bas.[A]
+[OpenMidLeft]Ouais, tu as raison.[A]
+[044C]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x11E][OpenMidLeft]Eh bien, on se revoit.[A]
+Eh bien?[A]
+Regarder mon visage ne te donne-t-il pas
+envie d'aider?[A]
+[OpenMidRight][ToggleSmile]Non.[A]
+[ToggleSmile]...Mais...[A]
+Quand cette guerre sera finie, ce serait
+une bonne id>e de retourner dans ma[A]
+ville natale.[A]
+Si je m'ennuie, je pourrais passer
+et aider.[A]
+[OpenMidLeft]As-tu de la famille chez toi?[A]
+[OpenMidRight]Quoi?[A]
+[ToggleSmile]Ouais, j'ai une grande sœur
+qui crie toujours apr{s moi.[A]
+[OpenMidLeft]...Sigh...[A]
+Tu es plut_t stupide,
+n'est-ce pas?[A]
+[OpenMidRight]Stupide?[A]
+Que veux-tu dire par stupide...[A]
+[OpenMidLeft][ToggleSmile]Tu as un foyer o} retourner.[A]
+Tu as quelqu'un qui t'attend.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Tu peux nous aider si tu veux,
+mais tu dois retourner chez[A]
+ta sœur.[A]
+Compris?[A]
+[OpenMidRight][ToggleSmile]O-Ouais, tu n'as pas besoin de me le dire...
+Mince...grande sœur maintenant...[A]
+[044F]
+[OpenMidLeft][LoadFace][0x11F][OpenMidRight][LoadFace][0x129][OpenMidRight]H>, Lot![A]
+[OpenMidLeft][ToggleSmile]Thany.[A]
+Tu sembles bien te porter lately.[A]
+[OpenMidRight][ToggleSmile]Tu vois?[A]
+Je fais plus attention maintenant,
+non?[A]
+Je ne fonce plus comme avant.[A]
+[OpenMidLeft][ToggleSmile]Ouais, compar> < avant.[A]
+[OpenMidRight]Mince, juste 'compar> <
+avant', hein...[A]
+[ToggleSmile]Oh ouais, j'avais quelque chose
+< te dire aussi.[A]
+[OpenMidLeft][ToggleSmile]Quelque chose < me dire?[A]
+[OpenMidRight][ToggleSmile]Ouais.[A]
+Les choses dont tu devrais faire
+attention en bataille![A]
+Veux-tu les entendre?[A]
+[OpenMidLeft][ToggleSmile]Eh bien, ouais.[A]
+[OpenMidRight][ToggleSmile]Alors donne-moi ton oreille
+un instant.[A]
+[OpenMidLeft][ToggleSmile]D'accord...
+Comme ça?[A]
+[OpenMidRight][ToggleSmile]...[A]
+Ne te stresse pas
+trop, grand fr{re.[A]
+[OpenMidLeft][ToggleSmile]Quoi...![A]
+[OpenMidRight][ToggleSmile]Et ça venait de la mignonne
+petite sœur de Lot![A]
+[OpenMidLeft][ToggleSmile]H>![A]
+Thany![A]
+[OpenMidRight][ToggleSmile]Hahahaha![A]
+[0452]
+[OpenMidLeft][LoadFace][0x133][OpenMidRight][LoadFace][0x11F][OpenMidLeft]H>, comment ça va?[A]
+[OpenMidRight][ToggleSmile]Ouais, je suis toujours en vie.[A]
+[OpenMidLeft][ToggleSmile]Ne meurs pas.
+Je compte sur toi pour survivre.[A]
+[OpenMidRight][ToggleSmile]Je ne pr>vois pas de mourir.
+J'ai une sœur chez moi.[A]
+Et aussi...[A][OpenMidLeft][ToggleSmile]Aussi quoi?[A]
+[OpenMidRight][ToggleSmile]Non, rien.[A]
+[OpenMidLeft][ToggleSmile]Oh, je comprends.[A]
+Tu as quelqu'un de sp>cial
+qui t'attend, hein?[A]
+Eh bien, eh bien, n'es-tu pas le chanceux
+homme.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove][ToggleSmile]Quoi qu'il en soit, je pr>vois de rentrer bient_t,
+< condition de rester en vie...[A]
+[OpenMidLeft][ToggleSmile]Tu t'inqui{tes encore pour ça?[A]
+[OpenMidRight][ToggleSmile]L'ennemi devient plus fort
+tout le temps.[A]
+Je ne sais pas combien de temps je
+tiendrai.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Je sais que nous gagnerons < la fin...[A]
+Mais je ne sais pas si je vais ^tre
+capable de rentrer chez moi.[A]
+[OpenMidLeft]Allez,
+ne sois pas si stupide.[A]
+[OpenMidRight]...Je suis stupide?[A]
+[OpenMidLeft]Quelqu'un de ton age devrait
+profiter de la vie![A]
+Je sais que tu t'inqui{tes probablement
+pour ta soeur et toutes sortes de choses.[A]
+Mais tu dois courir
+plus librement.[A]
+Tu vas probablement te heurter aux murs et
+te cogner la t^te de temps en temps,[A]
+mais c'est la vie.[A]
+[OpenMidRight]...Je ne pense pas vouloir
+me cogner la t^te.[A]
+[OpenMidLeft]Ne t'inqui{te pas, m^me si tu meurs,
+je m'occuperai des choses pour toi.[A]
+[ToggleSmile]Pour que tu puisses sortir et te
+faire tuer sans soucis![A]
+...Tu sais?[A][ClearFace]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove]Elle semblait dire quelque chose
+de diff>rent de ce qu'elle disait[A]
+au d>part...[A]
+Mais... essayait-elle de me remonter le moral?[A]
+[0455]
+[OpenMidLeft][LoadFace][0x120][OpenMidRight][LoadFace][0x12F][OpenMidLeft][ToggleSmile]Ah, Gonzales.[A]
+[OpenMidRight]Je...[A]
+[OpenMidLeft]Ne dis rien, Gonzales.[A]
+Je peux le voir dans tes yeux.[A]
+Tu es devenu fort.[A]
+Tu as parcouru un long chemin.[A]
+[OpenMidRight]Je, je...[A]
+[OpenMidLeft]Je sais ce que tu veux dire,
+Gonzales.[A]
+Et je suis compl{tement d'accord avec toi.[A]
+Je suis heureux que tu sois
+arriv> jusqu'ici.[A]
+[OpenMidRight]Je...[A]
+[OpenMidLeft]Mais ce n'est pas encore fini.[A]
+Le chemin vers un vrai guerrier est long
+et difficile.[A]
+Maintenant viens, Gonzales.[A]
+Partons < la recherche de plus de pouvoir![A]
+[OpenMidRight]Je...[A]
+[0458]
+[OpenMidLeft][LoadFace][0x120][OpenMidRight][LoadFace][0x12A][OpenMidLeft][ToggleSmile]Zeiss.[A]
+[OpenMidRight]Oui?[A]
+[OpenMidLeft]On dirait que nous nous entendons bien.[A]
+Je sens que je peux r>v>ler ma vraie
+force quand je me bats[A]
+< tes c_t>s.[A]
+[OpenMidRight][ToggleSmile]Oui, je peux aussi me battre sans souci
+avec toi autour.[A]
+C'est comme si... quelque chose de grand
+me prot>geait.[A]
+[OpenMidLeft][ToggleSmile]Hm, si j'avais un fils, je l'aurais
+>lev> en un jeune homme[A]
+comme toi.[A]
+Tu es vraiment le partenaire parfait
+pour ma fille.[A]
+[OpenMidRight][ToggleSmile]Euh...
+Merci.[A]
+[OpenMidLeft][ToggleSmile]D>sormais, pense < moi comme ton p{re
+et n'h>site pas < me dire quoi que ce soit.[A]
+C'est clair, fils?[A]
+[OpenMidRight]Euh, ouais...
+Merci beaucoup.[A]
+[045B]
+[OpenMidLeft][LoadFace][0x120][OpenMidRight][LoadFace][0x12C]
+[OpenMidRight][ToggleSmile]...Notre village a >t> brûl>
+au sol pendant la guerre.[A]
+Une bande de soldats est venue et
+nous a ordonn> de mettre nos maisons < feu.[A]
+Personne ne l'a fait... Je veux dire, qui le ferait?
+C'>tait notre maison. Bient_t les[A]
+soldats se sont impatients et ont d>gain>
+leurs >p>es... C'est alors qu'un[A]
+des villageois a pris une torche
+et a commenc> < mettre le[A]
+feu. Ce l[che...
+c'>tait mon p{re.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Toutes nos maisons et
+nos cultures ont >t> brûl>es... Et m^me[A]
+alors, tout ce que mon p{re a fait, c'>tait
+rester l< et regarder. ...[A]
+Je l'ai d>test> depuis.
+Je me suis jur> que je[A]
+ne deviendrais jamais un l[che
+qui se prosterne devant[A]
+un tel pouvoir. C'est pourquoi je...[A]
+[OpenMidLeft]Cath... tu as tort.[A]
+[OpenMidRight]Quoi?[A]
+[OpenMidLeft]Personne ne prendrait plaisir <
+brûler son propre village.[A]
+Mais ton p{re... il avait
+quelque chose qu'il devait prot>ger.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Ton p{re n'avait pas la
+force de vaincre les soldats.[A]
+Mais il se battait quand m^me.
+Il serrait les dents et[A]
+se battait pour prot>ger quelque chose[A]
+qui >tait plus important que
+sa maison et ses cultures. ...[A]
+Il se battait pour te prot>ger.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove]...... Ha...[A]
+Je ne pense pas.
+Mon p{re est juste un l[che.[A]
+[ToggleSmile]Il n'est rien comme toi.[A]
+Mais... je suppose que je pourrais
+le voir de cette façon...[A]
+[045E]
+[OpenMidLeft][LoadFace][0x125][OpenMidRight][LoadFace][0x121][OpenMidLeft][ToggleSmile]Lugh, je dois te dire
+quelque chose.[A]
+[OpenMidRight][ToggleSmile]Qu'est-ce que c'est, Ray?[A]
+[OpenMidLeft][ToggleSmile]Je... je suis d>sol> d'avoir quitt>
+l'orphelinat sans rien dire.[A]
+Je... Euh...
+Je vais m'excuser pour ça...[A]
+[OpenMidRight][ToggleSmile]Non, c'est bon maintenant.[A]
+Je comprends.[A]
+[OpenMidLeft][ToggleSmile]A-Ah![A]
+Je ne dispara|trai plus jamais sans
+avertir![A]
+[OpenMidRight][ToggleSmile]Ouais?[A]
+[OpenMidLeft][ToggleSmile]Alors tu vas arr^ter de
+tourner autour de moi tout le temps?[A]
+Allez, s'il te pla|t!![A]
+[OpenMidRight]...Y a-t-il un probl{me si
+je suis pr{s de toi?[A]
+[OpenMidLeft]Euh...[A]
+N-Non, ce n'est pas le cas,
+mais...[A]
+[OpenMidRight][ToggleSmile]Alors quel est le probl{me?[A]
+On ne sait jamais combien de fois on sera
+ensemble une fois grands.[A]
+[OpenMidLeft][ToggleSmile]... Lugh?[A]
+[OpenMidRight][ToggleSmile]Si...[A]
+Si je ne survis pas < cette guerre,
+promets-moi de prendre les petits[A]
+< l'Eglise d'Elimine.[A]
+[OpenMidLeft][ToggleSmile]Ne dis pas ça.
+Nous allons tous les deux survivre.[A]
+[OpenMidRight][ToggleSmile]Ouais... tu as raison.[A]
+Quelque chose ne va pas chez moi aujourd'hui.[A]
+[OpenMidLeft][ToggleSmile]Je ne te laisserai pas mourir.[A]
+Tu es mon fr{re, mon seul
+fr{re.[A]
+[OpenMidRight][ToggleSmile]Merci, Ray.[A]
+[0461]
+[OpenMidLeft][LoadFace][0x123][OpenMidRight][LoadFace][0x121][OpenMidLeft][ToggleSmile]Lugh, < propos de l'autre jour...[A]
+[OpenMidRight]Je suis d>sol>![A]
+Tu as dit que ça allait, mais je
+t'ai juste ignor> et... je suis sûr que tu[A]
+n'aimais pas qu'un gamin soit si arrogant...[A]
+[OpenMidLeft]Idiot, pourquoi tu t'excuses
+apr{s m'avoir aid>?[A]
+[OpenMidRight]Mais tu semblais m'>viter
+apr{s ça, alors j'ai pens> que peut-^tre[A]
+tu >tais en col{re...[A]
+[OpenMidLeft]...J'>tais g^n>, qu'est-ce que
+tu en penses![A]
+[OpenMidRight]Quoi?
+Pourquoi?[A]
+[OpenMidLeft]Parce que...[A]
+Personne ne s'est jamais autant souci> de moi
+dans toute ma vie...[A]
+Ma grand-m{re >tait celle qui m'a >lev>,
+mais c'>tait une sacr>e garce.[A]
+J'ai eu des blessures bien pires que
+celle-ci, mais elle ne voulait pas utiliser ses[A]
+[ToggleSmile]b[tons pour me soigner du tout![A]
+J'>tais juste si heureux que tu
+semblais si pr>occup>...[A]
+Lugh, merci, mec.[A]
+Tu es maintenant mon ami pour toujours.[A][OpenMidRight]Bien sûr, Hugh!
+Soyons amis pour toujours!![A]
+[0464]
+[OpenMidRight][LoadFace][0x12E][OpenMidLeft][LoadFace][0x121][OpenMidLeft]Bonjour, Mademoiselle Miledy.[A]
+[OpenMidRight][ToggleSmile]Lugh![A]
+[OpenMidLeft]...Je suis d>sol> d'^tre parti
+comme ça l'autre jour.[A]
+[OpenMidRight][ToggleSmile]Non, ça va.[A]
+Je suis content que tu parles <
+nouveau avec moi.[A]
+[OpenMidLeft]Oui.[A]
+Je ne voulais pas que les choses se finissent
+comme ça.[A]
+[ToggleSmile]...Vas-tu >couter mon histoire?[A]
+[OpenMidRight]Bien sûr.[A]
+Mes parents sont morts quand j'avais quatre ans, et
+depuis, je vis dans un[A]
+orphelinat en Lycia.[A]
+C'>tait un petit orphelinat, avec sept
+enfants et juste un pr^tre que nous[A]
+appelions P{re.[A]
+Les plus vieux >taient mon fr{re jumeau
+Ray, et un autre garçon appel> Chad, et[A]
+moi, donc nous trois prenions soin des
+petits.[A]
+Nous >tions pauvres, mais nous >tions
+quand m^me heureux.[A]
+Mais depuis que Biran a commenc> la guerre,
+nos vies ont chang>.[A]
+La nourriture a commenc> < manquer, et nous
+devions parfois mendier...[A]
+Chad... il a commenc> < voler de la nourriture sans
+dire < P{re...[A]
+Ray en a eu assez de ce mode de vie
+et est soudainement parti un jour sans[A]
+dire < personne.[A]
+Je... Nous d>testions Biran.[A]
+Biran >tait celui qui nous a fait ça...
+Biran a tu> P{re...[A]
+Je voulais juste que Biran disparaisse.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]C'est ce que je me disais.[A]
+..La col{re te pousse plus que
+la tristesse...[A]
+La col{re m'a gard> en vie... pour que je puisse
+prot>ger les petits...[A]
+...Ouf...[A]
+Donc... pour l'instant, jusqu'< la fin de cette guerre...
+je dois garder ma col{re contre Biran.[A]
+...Mais, tu es de notre c_t>, non?
+Je n'ai pas < te haïr...[A]
+N'est-ce pas?[A]
+[OpenMidRight][ToggleSmile]Je serais tellement soulag> si
+tu ne me d>testais pas, Lugh.[A]
+Si tu me le permets, je veux
+t'aider en tant qu'ami... Lugh.[A]
+[OpenMidLeft]Merci, Mademoiselle Miledy.[A]
+[0467]
+[OpenMidLeft][LoadFace][0x122][OpenMidRight][LoadFace][0x12F][OpenMidLeft][ToggleSmile]Attends!
+Gonzales![A]
+Qu'est-ce qui ne va pas?[A]
+Pourquoi tu m'>vites?[A]
+[OpenMidRight]Ch... Ferme-la![A]
+[OpenMidLeft]Ah![A]
+[OpenMidRight]Va... va-t'en!
+Vas-y, vas-y, vas-y![A][ClearFace]
+[OpenMidLeft][ToggleMouthMove]......[A][ClearFace][.......]
+[OpenMidRight][LoadFace][0x12F][ToggleMouthMove]Ça fait mal si on parle...
+Je sais...[A]
+Je suis moche, tu es jolie...
+Je ne suis pas comme toi.[A]
+Mais... je n'oublierai jamais.
+Je reste humain gr[ce < toi...[A]
+Je n'oublierai jamais.[A][Clear]
+...Merci...[A][.......]
+[OpenMidLeft][LoadFace][0x122]...Non.[A]
+[OpenMidRight]Li...lina?[A]
+Ce mot...
+Tu l'utilises quand tu es heureux.[A]
+Tu ne l'utilises pas quand
+tu es... en train de quitter quelqu'un.[A]
+[OpenMidRight]Lilina...
+Tu pleures?[A]
+Toi aussi...
+Pourquoi pleures-tu?[A]
+[OpenMidRight]Je...
+Je...[A]
+[OpenMidLeft]Gonzales...
+Je veux ^tre avec toi.[A]
+[OpenMidRight]Lilina...[A]
+Ne me dis pas de partir...
+S'il te pla|t...[A]
+[OpenMidRight]Lilina...
+Je...je...[A]
+[OpenMidLeft]Gonzales...[A]
+[OpenMidRight]Uhhh...[A]
+[046A]
+[OpenMidLeft][LoadFace][0x124][OpenMidRight][LoadFace][0x123][OpenMidRight][ToggleSmile]Grand-m{re![A]
+[OpenMidLeft]Quoi.[A]
+Mon vieux >tait bon en magie noire?
+Je ne me souviens pas vraiment.[A]
+[OpenMidLeft]...Pourquoi?[A]
+Eh bien, j'essayais d'>tudier la magie
+noire au d>but, mais je n'y[A]
+arrivais pas du tout, tandis que
+ce gamin dont je parlais[A]
+s'en sortait bien en apprenant seul.[A]
+Alors j'ai pens> que je n'avais pas
+le talent, alors je suis juste pass>[A]
+< la magie anima.[A]
+Mais le truc, c'est, comment puis-je ne pas
+avoir de talent quand j'ai ton[A]
+sang?[A]
+Alors je me demandais si mon vieux
+avait le talent ou non.[A]
+[OpenMidLeft]Ton p{re avait plus de talent en
+magie noire que tu ne pourrais jamais esp>rer.[A]
+Quoi?
+Ça n'a pas de sens.[A]
+...Attends![A]
+J'ai compris![A]
+C'est ça![A]
+[OpenMidLeft]A quoi penses-tu maintenant?[A]
+[OpenMidRight]Je ne suis pas ton vrai petit-fils, hein!?
+O-Ouille![A]
+Pourquoi tu as fait ça?[A]
+[OpenMidLeft]J'exprime mon d>goût pour ta
+stupidit>.[A]
+Tu es en effet mon petit-fils.[A]
+C'est moi qui t'ai amen> dans
+ce monde.[A]
+[OpenMidRight][ToggleSmile]Tu rigoles![A]
+Mes beaux traits ne peuvent pas
+venir de ton visage rid>![A]
+[OpenMidLeft]J'>tais une beaut> >blouissante quand j'avais
+ton [ge.[A]
+Je sortais avec des hommes comme toi et je les
+larguais apr{s qu'ils aient d>pens> tout leur[A]
+argent sur moi.[A]
+[OpenMidRight][ToggleSmile]Aïe...[A]
+[OpenMidLeft]Ta gentillesse vient de ton p{re,
+et ton talent pour la magie anima vient[A]
+de ta m{re.[A]
+Ta stupidit>... ça vient probablement
+de ton grand-p{re.[A]
+[OpenMidRight]Quoi?
+Ma m{re n'>tait pas Chaman?[A]
+[OpenMidLeft][ToggleSmile]Au d>but, j'>tais d>termin> < faire
+de la femme de mon fils une Chamane.[A]
+Mais ta m{re >tait une jeune dame
+fine avec un talent distinct pour la magie anima,[A]
+alors je n'ai pas pu m'emp^cher de c>der.[A]
+[ToggleSmile]...J'>tais fier d'eux deux...
+Mais ils sont morts si jeunes.[A]
+[OpenMidRight]Tu dois ^tre d>çu que tout
+ce qu'il te reste est un petit-fils path>tique,[A]
+hein, grand-m{re?[A]
+[OpenMidLeft][ToggleSmile][ToggleMouthMove]......[ToggleMouthMove]
+Le truc >trange, c'est que je ne le suis pas.[A]
+Je ne peux pas dire combien tu m'as manqu>
+de crier apr{s toi quand tu >tais parti.[A]
+Peut-^tre qu'ils sont vraiment plus mignons quand
+ils sont plus emb^tants.[A]
+Je veux certainement que tu vives une
+longue et >panouissante vie, Hugh.[A]
+[OpenMidRight][ToggleSmile]...Grand-m{re.[A]
+[046D]
+[OpenMidLeft][LoadFace][0x125][OpenMidRight][LoadFace][0x123]
+[OpenMidRight][ToggleSmile]Hm?
+Qu'est-ce que c'est?[A]
+[OpenMidLeft]Je te donne ce bijou.[A]
+[OpenMidRight]D'o} viens-ce bijou?[A]
+[OpenMidLeft]Ça ne te regarde pas.[A]
+Quoi qu'il en soit, je te donne ça
+en >change du livre de sorts.[A]
+[OpenMidRight]Non.
+Je ne peux pas accepter ça![A]
+[OpenMidLeft]Pourquoi pas?[A]
+Le bijou suffit pour acheter un autre
+livre Resire.[A]
+[OpenMidRight]Ce n'est pas une question d'argent.
+C'est une question de fiert>.[A]
+...Voyons voir...
+Je veux que tu t'excuses.[A]
+Ensuite, tu peux avoir le
+grimoire gratuitement.[A]
+[OpenMidLeft][ToggleSmile]Ha...[A]
+Je n'arrive pas < croire que tu sois
+si t^tu pour quelque chose de si stupide.[A]
+[OpenMidRight][ToggleSmile]Eh bien, toi aussi.[A]
+Tout ce que tu as < faire, c'est dire
+que tu es d>sol>.[A]
+[OpenMidLeft][ToggleSmile]Eh bien, je ne le ferai pas.[A]
+Je t'ai rembours> avec la
+pierre pr>cieuse.[A]
+[OpenMidRight]Eh bien, je ne l'accepte pas.[A]
+Tu seras dans ma
+dette jusqu'< ce que tu t'excuses![A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight]......[ToggleMouthMove][A]
+[OpenMidLeft]...Hmph...
+Les adultes.[A]
+[OpenMidRight]...Quel petit gamin t^tu.[A]
+[0470]
+[OpenMidLeft][LoadFace][0x12C][OpenMidRight][LoadFace][0x123][OpenMidRight][ToggleSmile]Toi encore!?[A]
+Peu importe combien de fois
+tu viens.[A]
+Je ne te donnerai pas cet argent.[A]
+[OpenMidLeft][ToggleSmile]Tu dis toujours ça?
+Mince![A]
+[OpenMidRight][ToggleSmile]Alors arr^te d'essayer de le prendre![A]
+Je veux dire, n'as-tu pas d>j<
+une tonne d'argent si tu es un voleur?[A]
+[OpenMidLeft]Non.[A]
+Pourquoi le ferais-je?[A]
+[OpenMidRight]Ouais, bien sûr![A]
+Je te vois courir en volant
+des coffres tout le temps![A]
+[OpenMidLeft]Je donne tout aux pauvres.[A]
+[ToggleSmile]Je suis un ma|tre voleur, j'ai ma
+dignit>.[A]
+Je ne garderais m^me pas 1G de l'
+argent que je vole.[A]
+[OpenMidRight][ToggleSmile]Alors...[A]
+Vas-tu donner l'argent que tu
+prends de moi aux pauvres aussi?[A]
+[OpenMidLeft]Bien sûr.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[ToggleMouthMove]H>...[A]
+Tu peux avoir peut-^tre une centaine...[A]
+Non...[A]
+Je peux te donner environ la moiti> de cet
+argent pour...[A]
+[OpenMidLeft]...Non.[A]
+Je suis un ma|tre voleur,
+j'ai ma dignit>.[A]
+Je n'accepte pas d'offres
+d'autres personnes.[A]
+[OpenMidRight]Regarde, je te le donne.
+Prends-le![A]
+[OpenMidLeft]J'ai dit non.
+Je ne le veux pas.[A]
+De plus...[A][Clear]
+J'ai d>j< ton argent.[A]
+[OpenMidRight]Quoi!?[A]
+Quoi... qu'est-ce que c'est!?
+Quand as-tu chang>...[OpenMidLeft][ClearFace][A]
+[OpenMidRight]Cass![A]
+Attends![A]
+Attends une seconde, s'il te pla|t![A]
+[0473]
+[OpenMidLeft][LoadFace][0x124][OpenMidRight][LoadFace][0x125][OpenMidLeft]Eh bien?
+Comment se passe tes >tudes?[A]
+[OpenMidRight][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidLeft]Hm...[A]
+Tu n'as m^me pas le temps de parler,
+hein?[A]
+Tu es impoli, et tu ne sais pas
+respecter tes a|n>s.[A][Clear]
+Mais tu sembles s>rieux au sujet de
+l'apprentissage de la magie noire.[A]
+Dis-moi, pourquoi cherches-tu le pouvoir
+des t>n{bres?[A]
+[OpenMidRight][ToggleSmile]...Ce n'est pas comme si j'avais une
+grande raison.[A]
+J'utilise la magie noire pour moi.[A]
+Je veux prot>ger ceux qui me sont chers,
+et d>truire tous ceux qui s'opposent < moi.[A]
+C'est le pouvoir que je cherche.[A]
+Le pouvoir que tu essaies d'obtenir...[A]
+Ce n'est pas < prendre < la l>g{re.[A]
+Cela peut faire basculer la plan{te si utilis>
+incorrectement.[A]
+[OpenMidRight][ToggleSmile]Hmph...et alors?[A]
+Je ferai exploser une plan{te ou deux n'importe quel jour.[A]
+[OpenMidLeft][ToggleSmile]...Je vois.[A]
+Bien dit, garçon.[A]
+Maintenant viens... viens dans les
+profondeurs des t>n{bres...[A][Clear]
+Bien sûr, tu devras
+>tudier ce livre d'abord.[A]
+[OpenMidRight]...
+...Merci.[A]
+[OpenMidLeft]Hm?
+Qu'est-ce que c'>tait?[A]
+[OpenMidRight]...Rien.[A]
