@@ -73,6 +73,7 @@ La police utilisée dans la ROM ne permet pas nativement l’affichage des carac
 - `textes/`
   - `bruts/` → Fichiers texte originaux (ex: [EF], [F0]...)
   - `convertis/` → Fichiers avec transcodage appliqué
+  - `working/` → Fichiers temporaires de travail (découpé en 5).
 
 - `palettes/` → Palettes personnalisées utilisées pour les sprites
 - `images/` → Portraits, sprites d’animation, assets modifiés
