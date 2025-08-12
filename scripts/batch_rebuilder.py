@@ -4,9 +4,9 @@ import re
 # --------------------------
 # CONFIGURATION
 # --------------------------
-FICHIER_MAPPING = "mapping.json"
-FICHIER_RESULTATS = "result.jsonl"
-FICHIER_SORTIE = "echantillon_traduit.txt"
+FICHIER_MAPPING = "mapping_part5.json"
+FICHIER_RESULTATS = "part5.jsonl"
+FICHIER_SORTIE = "part5_traduit.txt"
 
 TRANSCODAGE = {
     "ê": "^", "à": "<", "é": ">", "è": "{",

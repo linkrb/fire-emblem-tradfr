@@ -1,0 +1,5134 @@
+﻿[0949]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Le groupe rebelle est cens>
+^tre tr{s actif dans ces zones.[A]
+[OpenMidLeft]Oui, selon
+nos sources.[A]
+Mais je comprends aussi qu'au d>but
+de cette semaine, la r>sistance[A]
+a >t> traqu>e par
+l'arm>e d'Etrurie.[A]
+J'ai entendu dire qu'ils >taient
+d>vast>s.[A]
+[OpenMidRight]...Le gouvernement d'Etrurie laisse
+les bandits partir et opprime[A]
+le groupe de r>sistance qui essaie
+d'aider le peuple.[A]
+Ce n'est pas bon...[A]
+[OpenMidLeft]Non, ce n'est pas.[A]
+[OpenMidRight]Pouvons-nous faire quelque chose
+pour aider?[A]
+[OpenMidLeft]Ce serait difficile..[A]
+Nous irions < l'encontre de
+la noblesse d'Etrurie.[A]
+Je ne pense pas que ce soit
+une bonne id>e alors que nous travaillons[A]
+sous les ordres d'Etrurie.[A]
+[OpenMidRight]J'enverrai un messager <
+la G>n>rale Cecilia et je verrai ce[A]
+qu'elle a < dire.[A]
+Nous ne devrions probablement rien faire
+de trop risqu> pour l'instant, mais...[A][OpenMidLeft][ClearFace]
+[OpenFarLeft][LoadFace][0x152][CloseSpeechFast]Ma|tre Roy![A]
+Le Seigneur Zinc qui contr_le cette zone
+envoie des troupes pour attaquer[A]
+les villages afin de trouver un membre
+de la force de r>sistance![A][ClearFace]
+[OpenMidLeft][LoadFace][0x154][FastPrint]Quoi!
+...Devons-nous?[A]
+[OpenMidRight][CloseSpeechFast]Nous n'avons pas le temps d'attendre
+la r>ponse de la G>n>rale Cecilia...[A]
+Mais je veux aider le peuple.[A]
+...M^me si cela signifie aller
+contre les ordres d'Etrurie.[A]
+[OpenMidLeft]Ma|tre Roy...[A]
+[OpenMidRight]Luttons![A]
+Pour que nous puissions ^tre fiers
+quand nous retournerons < Lycia![A]
+[094A]
+[OpenMidLeft][LoadFace][0x136][OpenMidRight][LoadFace][0x12E]
+[OpenMidLeft][ToggleSmile]Eh bien, as-tu pu d>couvrir
+o} se trouve la Princesse Guinevere?[A]
+[OpenMidRight]Non.[A]
+Mais j'ai entendu parler d'un >v^que nomm> Oro
+en charge des mines au nord[A]
+qui pourrait savoir.[A]
+[OpenMidLeft][FastPrint]D'accord,
+alors allons vers le nord.[A]
+[OpenMidRight][CloseSpeechFast]Gale... Je suis d>sol>.[A]
+Le Roi Zephiel voulait garder le cas
+de Guinevere secret, donc il a seulement[A]
+assign> mon groupe pour la chercher.[A]
+Je suis d>sol> de t'avoir m^l>
+< ça...[A]
+[OpenMidLeft]Tu ne devrais pas te soucier
+de choses comme ça.[A]
+[OpenMidRight]Mais tu es l'un des capitaines
+travaillant directement sous la G>n>rale Murdock.[A]
+[OpenMidLeft]La G>n>rale Murdock a accept> que je t'aide
+< sortir.[A]
+En fait, elle veut que je d>couvre
+l'emplacement de la Princesse et de l'Embl{me de Feu.[A]
+[OpenMidRight]...Penses-tu que la Princesse
+Guinevere a l'Embl{me de Feu?[A]
+[OpenMidLeft]Eh bien, c'est ce que
+la royaut> pense.[A]
+Et je pense qu'ils ont raison,
+vu la situation.[A]
+[OpenMidRight][ToggleMouthMove][NormalPrint]......[A]
+[OpenMidLeft][ToggleMouthMove][CloseSpeechFast]Allez,
+ne fais pas cette t^te...[A]
+Probablement la Princesse Guinevere
+a un plan de quelque sorte.[A]
+Viens, allons-y.[A]
+[OpenMidRight][NormalPrint]Oui...[A]
+[094B]
+[OpenMidRight][LoadFace][0x12B][OpenMidRight][NormalPrint][ToggleSmile]...O}...suis-je..?[A]
+[OpenMidLeft][LoadFace][0x15A][FastPrint][ToggleSmile]Es-tu r>veill>?[A]
+[OpenMidRight][NormalPrint][ToggleSmile]...Que...s'est-il pass>...
+avec moi...[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Nous t'avons trouv> allong> < l'
+entr>e du village, tout[A]
+meurtri et couvert de sang.[A]
+Alors nous t'avons ramen> chez nous et
+soign> tes blessures.[A]
+[OpenMidRight][NormalPrint][ToggleSmile]Et tu es...?[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Je suis Mary.
+J'habite ici.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]...Vivre ici...[......]Non![A]
+Ce village sera
+en danger si je reste ici..[A]
+...Ou peut-^tre qu'il est trop tard
+si cela fait d>j< un jour..[A]
+[OpenMidLeft][NormalPrint]?[A]
+[OpenMidRight][CloseSpeechFast]Je suis Elphin...
+Un membre du groupe de r>sistance.[A]
+Le propri>taire terrien va sûrement envoyer
+des troupes ici pour me capturer.[A]
+[OpenMidLeft]Le groupe de r>sistance...[A]
+[OpenMidRight]Mademoiselle Mary,
+tu devrais fuir d'ici.[A]
+Ce village est en danger.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]...Non,
+je vais rester.[A]
+[OpenMidRight][NormalPrint][ToggleSmile]...Pourquoi?[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]J'ai un petit fr{re.[A]
+En ce moment, il est sorti chercher
+du travail avec son ami d'[A]
+< c_t>.[A]
+Son ami m'a demand> de m'occuper
+de sa petite sœur[A]
+pendant qu'ils >taient partis.[A]
+[OpenMidRight][FastPrint][ToggleSmile]Je vois...[A]
+Alors tout ce que je peux faire pour
+proteger ce village est de partir.[A]
+Merci beaucoup
+pour avoir soign> mes blessures.[A]
+S'il te pla|t, prends soin.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Oui, prends
+soin aussi.[A]
+[094C]
+[OpenMidRight][LoadFace][0x14D][OpenMidLeft][LoadFace][0x1D7]
+[OpenMidRight][ToggleSmile]Quel est le probl{me?[A]
+Pourquoi cela prend-il si longtemps pour
+trouver un membre du groupe de r>sistance?![A]
+[OpenMidLeft]L'Arm>e de l'Alliance de Lycia![A]
+Ils se battent pour prot>ger
+les villageois...[A]
+[OpenMidRight]L'Arm>e de l'Alliance?[A]
+Ils iraient contre Etruria?![A]
+[OpenMidLeft]Nous avons reçu un message de Djuto.
+Il dit,[A]
+"L'Arm>e de l'Alliance de Lycia est suspect>e
+de travailler avec les bandits.[A]
+Capturez-les, ou tuez-les,
+si n>cessaire."[A]
+[OpenMidRight][ToggleSmile]Oh?
+Li>s aux bandits?[A]
+Comme c'est ironique![A]
+Donc ils veulent les tuer pour
+sauver leur propre peau...[A]
+[OpenMidLeft][ToggleSmile]Quoi, monsieur?[A]
+[OpenMidRight]Ce n'est pas le continent.
+La force fait le droit ici.[A]
+[OpenMidLeft]Je ne suis pas tout < fait sûr
+de comprendre...[A]
+[OpenMidRight]Ne t'inqui{te pas alors.[A]
+C'est tout ce qu'ils ont dit de
+Djuto?[A]
+[OpenMidLeft]Non.[A]
+Lord Arcard nous a fourni
+des renforts.[A]
+[OpenMidRight]Quoi![A]
+[OpenMidLeft]Ils devraient arriver bient_t.[A]
+[OpenMidRight]Merde![A]
+M^me si nous vainquons l'Arm>e de Lycia,
+nous ne recevrons pas[A]
+tout le cr>dit si nous sommes
+aid>s par des renforts![A]
+Nous devons faire cela rapidement..[A]
+Ah, bien sûr!
+Appelle Scollan![A]
+[OpenMidLeft]Oui monsieur.[A][ClearFace][......]
+[OpenLeft][LoadFace][0x151]Ouais?[A]
+Que puis-je faire pour toi,
+Ma|tre Zinc?[A]
+[OpenMidRight][CloseSpeechFast]Je veux que tu brûles
+tous les villages dans cette zone.[A]
+Tue aussi les villageois.[A]
+[OpenLeft]...Et s'il y a
+un tr>sor?[A]
+[OpenMidRight][FastPrint]Fais-en ce que tu veux.
+D>p^che-toi.[A]
+[OpenLeft][ToggleSmile]Compris, Ma|tre Zinc.
+Hehehehe...[A]
+[094D]
+[OpenMidRight][LoadFace][0x151][FastPrint][ToggleSmile]Gonzales!
+O} est Gonzales![A]
+[OpenMidLeft][LoadFace][0x12F]Ici...
+Je suis ici...[A]
+[OpenMidRight]Il y a un village au sud.
+Tu as compris?[A]
+[OpenMidLeft][NormalPrint]Compris.[A]
+[OpenMidRight][CloseSpeechFast]Cela pourrait ^tre une base cach>e
+pour les forces de r>sistance.[A]
+Ma|tre Zinc dit de le brûler,
+village et tout.[A]
+[OpenMidLeft][NormalPrint]Village et tout...[A]
+[OpenMidRight][CloseSpeechFast]D'accord.
+Maintenant, file![A]
+Un idiot comme toi ne sert qu'
+qu'en temps comme celui-ci.[A]
+Tu ferais mieux de ne pas tout g[cher.[A]
+[OpenMidLeft][FastPrint]Je...Je...[A]
+[OpenMidRight]Tu as un probl{me?[A]
+[OpenMidLeft]N-Non...[A][ClearFace][......]
+[OpenMidRight][CloseSpeechFast]Heh, il a l'air mal,
+mais a ce maudit bon cœur.[A]
+Il ne devrait pas avoir peur de
+d>truire un petit village.[A][Clear]
+Vous les gars,
+vous avez compris aussi?[A]
+[OpenMidLeft][LoadFace][0x150][NormalPrint]Bien sûr, patron![A]
+[094E]
+[OpenMidRight][LoadFace][0x10D][ToggleSmile]Donc c'est l'
+Arm>e de l'Alliance de Lycia...[A]
+[OpenMidLeft][LoadFace][0x128]Ils sont cens>s se battre
+contre les bandits...[A]
+[OpenMidRight]Je sais.[A]
+Mais Lord Arcard dit qu'ils
+se battent avec les bandits[A]
+pour attaquer les villageois.[A]
+Pourquoi font-ils le contraire
+de ce qu'on leur a dit de faire...[A]
+[OpenMidLeft].....[A]
+[OpenMidRight]Tate, peux-tu prendre tes troupes et
+attaquer par le nord?[A]
+Je vais commencer < attaquer d'ici.[A]
+[OpenMidLeft]Oui monsieur.[A][ClearFace]
+[OpenMidRight]Tate!
+Attends.[A]
+[OpenMidLeft][LoadFace][0x128]Oui?[A]
+[OpenMidRight][ToggleSmile]Je vois que tu as des
+fr{res et sœurs.[A]
+[OpenMidLeft]Oui.[A]
+J'ai deux sœurs,
+une plus [g>e, une plus jeune.[A]
+[OpenMidRight]Sont-elles toutes des Chevaliers P>gase
+comme toi?[A]
+[OpenMidLeft]Oui.
+Pourquoi demandes-tu?[A]
+[OpenMidRight]Eh bien, en fait, j'ai une[A]
+petite soeur moi-m^me...[A]
+[OpenMidLeft]Elle doit ^tre tr{s belle
+si elle est ta soeur.[A]
+[OpenMidRight][ToggleSmile]Merci.
+Et oui, elle est jolie.[A]
+Mais j'ai entendu dire qu'elle s'est
+retrouv>e dans un p>trin et je ne sais[A]
+pas o} elle est maintenant..[A]
+[OpenMidLeft]Quoi?
+Oh mon..[A]
+[OpenMidRight]J'ai envoy> des gens pour chercher
+mais ils ne l'ont pas encore trouv>e.[A]
+Si seulement je n'>tais pas en mission,
+je pourrais aller chercher moi-m^me..[A]
+[OpenMidLeft][ToggleMouthMove].....[ToggleMouthMove][A]
+[OpenMidRight]Tate, prends soin de toi.
+Pour le bien de ta famille.[A]
+[OpenMidLeft]Oui,[.....]
+merci.[A]
+[094F]
+[OpenMidRight][LoadFace][0x10D][OpenMidLeft][LoadFace][0x1D7]
+[OpenMidRight][ToggleSmile]D'accord, allons-y.[A]
+[OpenMidLeft]Monsieur, ^tes-vous sûr?[A]
+[OpenMidRight]De quoi?[A]
+[OpenMidLeft]Lord Arcard a dit de laisser la plupart
+des combats aux[A]
+Chevaliers P>gase d'Ilia pour que nous
+l'arm>e >trurienne, subissions le[A]
+moins de pertes.[A]
+[OpenMidRight]Ne sois pas ridicule,
+ce sont des compagnons dignes de confiance.[A]
+Nous attaquerons en m^me temps...
+ou m^me avant eux.[A]
+Compris?[A]
+[OpenMidLeft]Oui monsieur.[A][ClearFace]
+[OpenMidRight]...Pourtant, l'histoire de Lord Arcard
+est >trange..[A]
+L'arm>e de Lycia vient juste d'arriver.[A]
+...Vont-ils se retrouver m^l>s
+aux bandits si rapidement...?[A]
+[0950]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x153]
+[OpenMidLeft][ToggleSmile]Es-tu pr^t?
+Nous allons nous diriger vers le sud![A]
+[OpenMidRight]Capitaine...
+Es-tu sûr que ça ira?[A]
+[OpenMidLeft]Pourquoi?[A]
+[OpenMidRight]Peut-^tre que l'arm>e >trurienne veut
+nous utiliser en premi{re ligne comme des jetables..[A]
+[OpenMidLeft]Qui dit ça?[A]
+[OpenMidRight]Un de nos membres a entendu des rumeurs
+comme ça dans l'arm>e >trurienne.[A]
+[OpenMidLeft]Si tu prends les rumeurs au s>rieux tout le
+temps, tu ne pourras rien faire.[A]
+[OpenMidRight]Mais...[A]
+[OpenMidLeft]De plus, si c'>tait vrai,
+le G>n>ral Klein ne l'approuverait pas.[A]
+[OpenMidRight]Penses-tu vraiment ça?[A]
+[OpenMidLeft]Le G>n>ral Klein n'est pas comme ça.
+Je lui fais confiance.[A]
+[OpenMidRight]...D'accord.[A]
+Alors nous lui ferons confiance aussi,
+car nous te faisons confiance, Capitaine.[A]
+[OpenMidLeft]Merci.
+Allons-y![A]
+[0951]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x14D][OpenMidLeft][ToggleSmile]Lord Zinc, les renforts de
+Djuto devraient arriver bient_t.[A]
+[OpenMidRight]Merde![A]
+Nous avons d>j< assez de probl{mes
+comme ça...[A]
+Je n'ai pas besoin de renforts
+pour prendre tout le cr>dit![A]
+[0952]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x14D][OpenMidLeft][ToggleSmile]Des renforts suppl>mentaires
+arriveront bient_t![A]
+[OpenMidRight]Eh bien...
+J'esp{re que ce sera suffisant...[A]
+[0953]
+[OpenMidLeft][LoadFace][0x12F][OpenMidRight][LoadFace][0x122]
+[OpenMidRight][NormalPrint][ToggleSmile]Excusez-moi![A]
+[OpenMidLeft][FastPrint]Q-Qu'est-ce que tu es!
+Je suis un ennemi![A]
+[OpenMidRight][CloseSpeechFast]Je suis d>sol>...[A]
+Mais tu avais un regard si triste
+dans les yeux.[A]
+[OpenMidLeft]...Il y a un village pr{s
+de la montagne.[A]
+Tu sais?[A]
+[OpenMidRight][FastPrint]Oui, je sais.[A]
+[OpenMidLeft]Laisse les gens s'>chapper.
+Je reçois des ordres, je d>truis le village.[A]
+Donc...[A]
+[OpenMidRight][CloseSpeechFast]Quoi?
+Ne fais pas![A]
+Les gens vivant dans le
+village sont innocents...[A]
+[OpenMidLeft][FastPrint]Non.
+Je ne peux pas d>sob>ir aux ordres.[A]
+[OpenMidRight][CloseSpeechFast]Ne peux-tu pas laisser les gens
+qui te donnent des ordres comme ça?[A]
+[OpenMidLeft]Laisser?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Je sais!
+Tu devrais te battre < nos c_t>s![A]
+Nous prot>geons les villageois.[A]
+[OpenMidLeft][ToggleSmile]...Non...Je suis un monstre...
+Je ne peux pas ^tre avec d'autres gens...[A]
+Les gens lancent des pierres...
+Ils me disent 'va-t'en'...[A]
+Je suis un monstre...
+Pas humain...[A]
+[OpenMidRight]Non![A]
+Bien sûr que tu es humain!
+Tu es aussi un humain au grand cœur.[A]
+Je peux le dire.
+Viens avec nous.[A]
+N'aie pas peur.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Moi, peur?[A]
+Je n'ai pas peur!
+Tout le monde a peur de moi.[A]
+Je n'ai pas peur![A]
+[OpenMidRight][CloseSpeechFast]Non.
+Tu as peur.[A]
+Tu as peur que les gens te lancent
+des pierres, et ils te diront[A]
+de partir encore.[A][ToggleMouthMove]
+[OpenMidLeft][NormalPrint][ToggleMouthMove]......[A]
+[OpenMidRight][CloseSpeechFast]C'est okay.
+Les gens de notre arm>e sont gentils.[A]
+[ToggleSmile]Ils ne seront pas m>chants.
+Allez...sois courageux.[A]
+Ce premier pas pour vivre
+positivement...[A]
+[0954]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x129][FastPrint][ToggleSmile]S-Soeur grande![A]
+[OpenMidLeft]Thany...? [A]
+[OpenMidRight][CloseSpeechFast]Que fais-tu ici?[A]
+[OpenMidLeft]...J'ai un contrat avec
+le G>n>ral Klein d'Etruria.[A]
+Thany...
+Es-tu avec l'Arm>e de l'Alliance?[A]
+[OpenMidRight][NormalPrint]Ouais.[A]
+[OpenMidLeft][FastPrint]Je vois...[.....]
+Alors, il n'y a qu'une chose < faire.[A]
+Tire ta lance![A]
+[OpenMidRight][MoveFarRight][CloseSpeechFast]Non...
+Je ne veux pas me battre contre toi![A]
+[OpenMidLeft]...Thany, tu connais le code
+des chevaliers mercenaires iliens.[A]
+[OpenFarRight]...Ne trahis jamais ton employeur...[A]
+[OpenMidLeft]D'accord.
+Et nous devons suivre ce code,[A]
+m^me si cela signifie se battre
+contre tes propres proches.[A]
+[OpenFarRight][MoveMidRight]Mais...
+L'un de nous pourrait mourir![A]
+[OpenMidLeft][MoveLeft]Je le sais![A]
+Mais nous devons nous battre![A]
+Nous ne pouvons pas d>cevoir la confiance
+des nations en les mercenaires d'Ilia.[A]
+C'est la seule chose que nous avons
+pour nous soutenir![A]
+[OpenMidRight][FastPrint]Tate...[A]
+[OpenLeft][CloseSpeechFast]Maintenant,
+tire ta lance, Thany![A][OpenMidRight][ClearFace][Clear][.......]
+[OpenLeft]...Pourquoi...[A]
+Pourquoi cela devait-il ^tre
+comme ça...? [A]
+[0955]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x129]
+[OpenMidRight][NormalPrint]Tate![A]
+[OpenMidLeft][FastPrint][ToggleSmile]Thany...
+Es-tu pr^te < te battre?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Non!
+Nous n'avons pas < nous battre![A]
+[OpenMidLeft][FastPrint][ToggleSmile]Que dis-tu?
+Je viens de te dire...[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Le G>n>ral Klein a dit qu'il
+nous rejoindrait![A]
+Donc, nous n'avons pas < nous battre![A]
+[OpenMidLeft][NormalPrint][ToggleSmile]Quoi?
+Vraiment...? [A]
+Nous...
+Nous n'avons vraiment pas < nous battre?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Oui!
+Nous n'avons pas < nous battre pour[A]
+suivre le code![A]
+[OpenMidLeft][ToggleMouthMove][NormalPrint]......[A]
+[OpenMidRight][ToggleMouthMove][FastPrint][ToggleSmile]...Tate?[A]
+[OpenMidLeft][ToggleSmile]...Bien...[A]
+[OpenMidRight][ToggleSmile]Tate...[A]
+[OpenMidLeft][ToggleSmile]Dieu merci...
+Vraiment...[A]
+[OpenMidRight]Ne dis pas que nous devons
+nous battre...[A]
+Nous serons toujours ensemble,
+grande soeur...[A]
+[0956]
+[OpenMidLeft][LoadFace][0x128][OpenMidRight][LoadFace][0x129][OpenMidRight][NormalPrint][ToggleSmile]S-Soeur grande![A]
+[OpenMidLeft][FastPrint]Thany...? [A]
+[OpenMidRight]Que fais-tu ici?[A]
+[OpenMidLeft]...J'ai un contrat avec
+le G>n>ral Klein d'Etruria.[A]
+Thany...
+Es-tu avec l'Arm>e de l'Alliance?[A]
+[OpenMidRight][NormalPrint]Ouais.[A]
+[OpenMidLeft][FastPrint]Je vois...[.....]
+Alors, il n'y a qu'une chose < faire.[A]
+Tire ta lance![A]
+[OpenMidRight][CloseSpeechFast]Non, le G>n>ral Klein a dit
+[ToggleSmile]qu'il nous rejoindrait![A]
+[OpenMidRight][CloseSpeechFast]Nous n'avons pas < nous battre![A]
+[OpenMidLeft][NormalPrint][ToggleSmile]Quoi? Vraiment?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Ouais.[A]
+[OpenMidLeft]...D'accord.[A]
+Je te rejoindrai aussi.[A]
+[OpenMidRight]Merci,
+grande soeur![A]
+[0957]
+[OpenMidLeft][LoadFace][0x102][OpenMidRight][LoadFace][0x10D]
+[OpenMidLeft][ToggleSmile]Attends!
+N'es-tu pas un g>n>ral d'Etruria?[A]
+Pourquoi nous attaques-tu!?[A]
+[OpenMidRight]J'ai des ordres sp>cifiques de
+Lord Arcard de te tuer.[A][OpenMidLeft]Il t'a ordonn>?
+Ne vois-tu pas ce qui se passe ici?[A]
+Les gens ici souffrent de
+l'abus de leur propri>taire![A]
+Et tu l'aides?
+Tu devrais avoir honte![A]
+[OpenMidRight]...Attends.[A]
+As-tu dit que tu
+aides les villageois?[A]
+[OpenMidLeft]Oui.[A]
+Le marquis ici pille
+les villages, disant qu'il cherche[A]
+des rebelles.[A]
+Nous nous battons pour l'arr^ter.[A]
+Mais tu sembles prendre le parti
+avec lui, donc...[A]
+[OpenMidRight]Je n'ai pas cette intention.[A]
+J'ai entendu que vous >tiez ceux
+travaillant avec les bandits pour faire le mal.[A]
+[OpenMidLeft]Quoi!?[A]
+Pourquoi travaillerions-nous avec
+les bandits?[A]
+Nous voulons juste que les choses soient
+nettoy>es ici pour retourner < Lycia![A]
+[OpenMidRight]...Une telle moquerie.[A]
+[OpenMidLeft]Quoi!?[A]
+[OpenMidRight]Lord Arcard me sous-estime.[A]
+Je ne suis pas assez b^te pour ne pas
+remarquer qui sont les vrais vilains.[A]
+[OpenMidLeft][ToggleSmile]...Comprends-tu maintenant?[A]
+[OpenMidRight]Je suis Klein de la famille
+Reglay d'Etruria.[A]
+Pardonnez-nous de vous avoir attaqu>.[A]
+[OpenMidLeft]!
+Oui![A]
+Je suis le G>n>ral Roy de l'
+Arm>e de l'Alliance de Lycia.[A]
+[OpenMidRight]G>n>ral Roy, je vous conseille
+d'^tre prudent.[A]
+Puisque vous avez tourn> le dos
+< Lord Arcard, il s'assurera[A]
+de rassembler tous ses sbires
+sur ces |les < chaque tentative[A]
+de vous tuer.[A]
+[OpenMidLeft]Je vois...[A]
+[OpenMidRight]Si vous le permettez,
+j'aimerais vous rejoindre.[A]
+[OpenMidLeft]Vraiment!?[A]
+[OpenMidRight]Oui.[A]
+Je souhaite surveiller vos actions
+en tant que g>n>ral >trurien.[A]
+Je devrais ^tre utile en
+tant que combattant et diplomate.[A]
+[OpenMidLeft]Merci.[A]
+[0958]
+[OpenMidLeft][LoadFace][0x103][OpenMidRight][LoadFace][0x10D]
+[OpenMidLeft]Klein![A]
+[OpenMidRight]Clarine?
+Tu es en s>curit>?[A]
+Dieu merci...[A]
+[OpenMidLeft]Je suis d>sol>e d'^tre partie sans
+te le dire.[A]
+Mais je voulais te voir
+tellement![A]
+[OpenMidRight][ToggleSmile]Les choses que tu ferais...[A]
+Eh bien, tu es en s>curit>, et c'est
+ce qui compte.[A]
+[ToggleSmile]...Et qu'est-ce qui t'am{ne ici?[A]
+As-tu trouv> quelqu'un de fiable
+< engager?[A]
+[OpenMidLeft][ToggleSmile]Non, j'ai rejoint l'Arm>e de l'
+Alliance de Lycia et je me bats < leurs c_t>s.[A]
+[OpenMidRight][ToggleSmile]L'Arm>e de l'Alliance de Lycia?![A]
+[OpenMidLeft][ToggleSmile]Oui![A]
+Mes b[tons de soin
+ont >t> tr{s utiles![A]
+[OpenMidRight]...Je vois.[A]
+Je pensais que tes yeux avaient l'air...
+plus vifs.[A]
+[OpenMidLeft]Je suis maintenant une dame, c'est ça.[A]
+[OpenMidRight][ToggleSmile]...Laisse-moi te poser cette question.[A]
+Quel genre d'individu
+est le G>n>ral Roy?[A]
+[OpenMidLeft][ToggleSmile]Hmm...
+Il manque un peu de finesse pour un noble...[A]
+Je pense surtout qu'il doit prendre
+soin de ses cheveux un peu plus..[A]
+[OpenMidRight]...Laisse-moi reformuler la question.[A]
+[ToggleSmile]Le G>n>ral Roy travaille-t-il avec les
+bandits et attaque les gens ici?[A]
+[OpenMidLeft][MoveMidLeft]Non, bien sûr que non!
+Nous sommes ici pour vaincre les bandits![A]
+[OpenMidRight]Je vois...[A]
+[OpenMidLeft]Les Etruriens ici sont des gens
+malveillants et malfaisants...[A]
+C'est tellement embarrassant.[A]
+Klein...
+Travailles-tu pour eux?[A]
+[OpenMidRight]Non.[A]
+Du moins pas maintenant
+apr{s avoir entendu ton histoire.[A]
+[OpenMidLeft]Quoi?[A]
+[OpenMidRight]J'ai >t> envoy> ici pour prot>ger
+les villageois.[A]
+Pour accomplir ma mission, je rejoins
+l'Arm>e de l'Alliance de Lycia.[A]
+[OpenMidLeft][ToggleSmile]Klein![A]
+[OpenMidRight]Alors allons-y, d'accord?
+Veux-tu me pr>senter au G>n>ral Roy?[A]
+[OpenMidLeft][MoveLeft]Bien sûr!
+Je t'aime, Klein.[A]
+[0959]
+[OpenMidLeft][LoadFace][0x10D][OpenMidRight][LoadFace][0x128]
+[OpenMidLeft]Tate![A]
+[OpenMidRight][ToggleSmile]G>n>ral Klein![.....]
+Quel est le probl{me?[A]
+[OpenMidLeft]J'ai pris ma d>cision.[A]
+Nous allons nous battre aux c_t>s
+du G>n>ral Roy dans l'Arm>e de l'Alliance de Lycia.[A]
+[OpenMidRight]Compris, monsieur.
+Alors nous le ferons aussi.[A]
+[OpenMidLeft]Tu ne vas pas demander pourquoi?[A]
+[OpenMidRight]Nous sommes des mercenaires.[A]
+Nous suivons chaque
+ordre de notre employeur.[A]
+De plus...[.....][A]
+[OpenMidLeft]De plus?[A]
+[OpenMidRight][ToggleSmile]Je fais confiance < ce que tu[.....]
+ne feras pas de mauvais jugements.[A]
+[OpenMidLeft]Merci, Tate.[A]
+[095A]
+[OpenMidLeft][LoadFace][0x103][OpenMidRight][LoadFace][0x10D]
+[OpenMidLeft]Klein![A]
+[OpenMidRight]Clarine![A]
+Je suis content que tu ailles bien.[A]
+J'etais inquiet quand j'ai entendu
+[ToggleSmile]que tu as disparu.[A]
+[OpenMidLeft]Je suis d d>sol>.
+Je ne pouvais pas attendre de te voir.[A]
+[OpenMidRight][ToggleSmile]Les choses que tu ferais...[A]
+Eh bien, tu es en s>curit> et c'est
+ce qui compte.[A]
+[ToggleSmile]Et qu'est-ce qui t'am{ne ici?[A]
+As-tu trouv> quelqu'un de fiable
+pour embaucher?[A]
+[OpenMidLeft][ToggleSmile]Je me bats aux c_t>s
+de l'Arm>e de l'Alliance de Lycia.[A]
+[OpenMidRight][ToggleSmile]L'Arm>e de l'Alliance!?[A]
+[OpenMidLeft][ToggleSmile]Oui.[A]
+[OpenMidRight][ToggleSmile]Eh bien...
+Tu as travers> beaucoup de choses.[A]
+[OpenMidLeft][ToggleSmile]Je suis une dame maintenant,
+je le suis.[A]
+[095B]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x18A]
+[ToggleSmile]...Nous, les rebelles, avons subi une
+d>faite humiliante ici.[A]
+Tiens, prends ça.
+Je vais chercher d'autres survivants.[A]
+Tant que nous pouvons trouver notre chef,
+nous avons encore de l'espoir.[A]
+[095C]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x189]
+[ToggleSmile]Merde!
+Juste parce que ces idiots rebelles[A]
+font du bruit, nous, gens ordinaires,
+devons faire face aux[A][Clear]
+cons>quences. Quoi...
+Tu sais ce qui arrive si nous[A]
+allons contre notre propri>taire.
+Nous voulons juste mener une vie normale.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]H>...
+J-J'attends.[A]
+Je ne peux rien faire...
+sauf prendre ça...[A]
+[095D]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x184]
+[ToggleSmile]Je me demande comment va Mary...
+Son fr{re et ses amis sont[A]
+tous l<-bas < essayer de gagner de l'argent.
+C'est trop dangereux de sortir[A]
+maintenant... Peux-tu aller v>rifier sur elle?
+Tiens, je te donne ça, donc...[A]
+[095E]
+[OpenMidLeft][LoadFace][0x11E][OpenMidRight][LoadFace][0x15A]
+[OpenMidRight][NormalPrint]Ward![A]
+[OpenMidLeft][FastPrint]Soeur!
+C'est bon de te voir.[A]
+[OpenMidRight]Tu es revenue?[A]
+[OpenMidLeft][ToggleSmile]Eh bien pas vraiment...
+Nous sommes juste venus ici pour une mission...[A]
+[OpenMidRight]...Tu ne reviendras plus?[A]
+[OpenMidLeft][CloseSpeechFast]Non! Ce n'est pas le cas![A]
+...Mais je ne suis pas pr^te < revenir.
+Attends,[A]
+je reviendrai avec beaucoup d'
+argent pour que nous puissions vivre plus facilement.[A]
+[OpenMidRight][ToggleSmile]Je me fiche de ça...
+Je veux juste que tu sois en s>curit>.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]Soeur...[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Je sais que c'est inutile de te dire
+d'^tre prudente avec cette personnalit>[A]
+la tienne... mais souviens-toi qu'il
+y a des gens qui s'inqui{tent pour toi. D'accord?[A]
+[OpenMidLeft][ToggleMouthMove][NormalPrint]......[A]
+[OpenMidRight][ToggleMouthMove][FastPrint]Tiens, prends ça.[A]
+[OpenMidLeft][NormalPrint][ToggleSmile]Qu'est-ce que c'est?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]C'est une arme sp>ciale.[A]
+J'ai soign> les blessures d'un voyageur
+il y a quelque temps, et il l'a laiss>e[A]
+en retour. Tu peux l'utiliser, n'est-ce pas?[A]
+[OpenMidLeft]Merci, soeur!
+Je dois y aller.[A]
+[OpenMidRight][FastPrint]Fais attention...[A]
+[095F]
+[OpenMidLeft][LoadFace][0x11F][OpenMidRight][LoadFace][0x15A]
+[OpenMidLeft][NormalPrint][ToggleSmile]Mary...[A]
+[OpenMidRight][FastPrint][ToggleSmile]Beaucoup!
+Tu es revenue?[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Non...
+Nous nous sommes juste arr^t>s pour une mission.[A]
+[OpenMidRight][FastPrint]Oh...
+Myu sera triste.[A]
+[OpenMidLeft][CloseSpeechFast]Depuis que maman est morte,
+je t'ai fait prendre soin de Myu.[A]
+Je suis d>sol>.[A]
+[OpenMidRight][FastPrint]Non...ne sois pas...[A]
+[OpenMidLeft][NormalPrint]Un jour...[A]
+[OpenMidRight]![A]
+[OpenMidLeft][FastPrint]Un jour je reviendrai.
+...Puis-je te laisser Myu jusqu'< ce moment?[A]
+[OpenMidRight]...Peux-tu promettre?[A]
+[OpenMidLeft]...Oui.[A]
+[OpenMidRight][CloseSpeechFast]Ne mens pas... Tu vas < la guerre.
+Il n'y a aucune garantie que tu reviendras.[A]
+[OpenMidLeft][ToggleMouthMove][NormalPrint]......[A]
+[OpenMidRight][ToggleMouthMove][FastPrint][ToggleSmile]Mais je t'attendrai.
+Sans faux espoir...[A]
+[OpenMidLeft][NormalPrint][ToggleSmile]Je suis d>sol>.[A]
+[OpenMidRight][FastPrint][ToggleSmile]Oh, prends ça.[A]
+[OpenMidLeft][NormalPrint][ToggleSmile]Quoi?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]C'est une arme magique qui
+t'aidera < tenir ta promesse.[A]
+[OpenMidLeft][FastPrint]Merci, je l'appr>cie.
+Eh bien... je dois y aller.[A]
+[OpenMidRight][ToggleSmile]Fais attention...[A]
+[0960]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x15A][ToggleSmile]As-tu vu mon fr{re?[A]
+Son nom est Ward,
+et c'est un mercenaire...[A]
+As-tu au moins
+entendu parler de lui?[A]
+[0961]
+[OpenMidLeft][LoadFace][0x11E][OpenMidRight][LoadFace][0x15B]
+[OpenMidRight][FastPrint]C'est Ward![A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Salut, comment tu vas?
+...Allez,[A]
+tu peux au moins dire 'grand
+fr{re Ward' au lieu de juste Ward?[A]
+[OpenMidRight][ToggleSmile]Mais... Ward c'est Ward.[A]
+[OpenMidLeft][FastPrint]Ah, laisse tomber.
+Tu as l'air d'aller bien.[A]
+[OpenMidRight]Oui![A]
+[OpenMidLeft][ToggleSmile]...De toute façon, c'est dangereux ici.
+Va te cacher dans les collines ou quelque chose.[A][OpenMidRight]...Tout seul?[A]
+[OpenMidLeft]Soeur est toujours l<, non?
+Elle te prendra.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Oui, grande soeur Mary est l< aussi.[A]
+[OpenMidLeft][ToggleSmile]Tu appelles soeur 'grande soeur'
+et moi juste 'Ward', hein?[A]
+[OpenMidRight][NormalPrint][ToggleSmile]Oh.
+Tiens.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]C'est quoi ça?
+Une plume?[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Ça te rend comme un oiseau![A]
+[OpenMidLeft][FastPrint][ToggleSmile]Comme un oiseau?
+Qu'est-ce que ça veut dire?[A]
+[OpenMidRight][ToggleSmile]Comme un oiseau, c'est comme un oiseau.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleMouthMove]???[ToggleMouthMove][ToggleSmile]
+Euh, de toute façon,[A]
+tu me donnes ça?[A]
+[OpenMidRight][ToggleSmile]Non.
+C'est pour mon grand fr{re Lott.[A]
+[OpenMidLeft][FastPrint][ToggleSmile]M^me lui n'est pas juste 'Lott'...[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Hahaha... Je vais voir Mary.
+Voici la plume.[A]
+Donne-la < Lott, d'accord,
+grand fr{re Ward?[A][ClearFace]
+[OpenMidLeft]Elle peut vraiment changer d'avis rapidement...
+[ToggleSmile]Woah fais attention! Ne tombe pas...[A]
+[0962]
+[OpenMidLeft][LoadFace][0x11F][OpenMidRight][LoadFace][0x15B]
+[OpenMidRight]Grand fr{re! Tu es rentr>![A]
+[OpenMidLeft][FastPrint]Myu!
+Tu as >t> sage?[A]
+[OpenMidRight]Oui![A]
+J'ai >t> sage!
+Je n'ai m^me pas mouill> mon lit![A]
+[OpenMidLeft]Bonne fille.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]Lott...
+Pendant que tu >tais parti, Maman...[A]
+[OpenMidLeft]Ouais, je sais...
+Elle est all>e dans un endroit lointain...[A]
+[OpenMidRight]Ici...
+Maman l'a laiss> pour toi.[A]
+Elle a dit que tu en trouverais l'usage.[A]
+[OpenMidLeft][NormalPrint]......[A]
+[OpenMidRight][CloseSpeechFast]Grand fr{re...
+Tu ne vas pas me laisser, hein?[A]
+Tu ne vas pas aller dans un endroit lointain[A]
+sans moi comme Maman...[A]
+[OpenMidLeft][ToggleSmile]Bien sûr que non![A]
+Je reviendrai ici avec plein
+de cadeaux pour toi.[A]
+Alors >coute ce que dit Mary
+et sois une bonne fille, d'accord?[A]
+[OpenMidRight][NormalPrint]D'accord![A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]De toute façon, cache-toi dans les collines avec Mary.
+C'est dangereux ici.[A]
+[OpenMidRight][FastPrint]Oui monsieur...
+[ToggleSmile]Lott?[A]
+[OpenMidLeft][NormalPrint]?[A]
+[OpenMidRight][FastPrint]Tu as promis!
+Tu ne vas pas aller dans un endroit lointain, hein?[A]
+[OpenMidLeft]Ouais...[A][OpenMidRight][ClearFace]
+[OpenMidLeft]J'esp{re pouvoir tenir cette promesse...[A]
+[0963]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x15B]Grand fr{re?[A]
+[ToggleSmile]...Oh.
+Je suis d>sol>...[A]
+[0964]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x182]
+Ah, nos h>ros!
+Je vous remercie au[A]
+nom des villages.
+c'est une >caille d'un vrai Dragon.[A]
+On dit qu'elle te prot{ge avec
+une barri{re magique quand tu[A]
+l'utilises. S'il te pla|t, prends-la.[A]
+[0965]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x186]
+Il y a quelques mois, ma petite-fille
+a disparu. Les villageois ont cherch>[A]
+dans les montagnes pour elle,[A]
+et quand ils l'ont trouv>e,
+elle >tait avec un >norme monstre.[A]
+On lui a jet> des pierres et on l'a chass>...
+Mais ma petite-fille m'a dit qu'[A]
+il l'a trouv>e en train de pleurer et l'a men>e
+au village. ...Si tu vois cet homme,[A]
+pourrais-tu lui donner ça?[A]
+C'est une hache sp>ciale qui est efficace
+contre les >p>es.[A]
+Et...
+[......][Clear]dis-lui que je suis d>sol>.[A]
+[0966]
+[LoadFace][0x14D]Les gens souffrent...? [.....]
+Idiots.[A][Clear]
+Qu'est-ce que ça me fait?
+Leur but est de[A]
+mourir < mon service.[A]
+Je me fiche compl{tement
+des pleurs de ces[A]
+animaux sans valeur.[A]
+[0967]
+[LoadFace][0x14D]
+[ToggleSmile]C'est ma terre...
+Rien qu'< moi...[A][Clear]
+Personne...
+ne doit...[A]
+[0968]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Ma|tre Roy, il y a un
+jeune homme ici[A]
+pour vous voir.[A]
+Il dit qu'il est[A]
+un membre de la[A]
+force de r>sistance.[A]
+[OpenMidRight][ToggleSmile]Laissez-le passer.[A][OpenMidLeft][ClearFace]
+[OpenFarLeft][LoadFace][0x12B]Ah, donc tu es Roy?[A]
+Ravi de te rencontrer,
+je m'appelle Elphin.[A]
+Je suis un membre des[A]
+forces de r>sistance ici.[A]
+[OpenMidRight]Je suis Roy de l'
+Arm>e de l'Alliance de Lycia.[A]
+[OpenFarLeft]Merci d'avoir sauv> notre
+village ici.[A]
+[OpenMidRight]Non, nous avons simplement
+fait ce que nous pensions juste.[A]
+[OpenFarLeft][ToggleSmile]Mais maintenant tu as rebell>
+contre Etruria.[A]
+Certainement tu y avais pens>
+avant d'agir?[A]
+[OpenMidRight]M^me ainsi,
+nous avons fait ce que nous croyions juste.[A]
+Bien que cela soit un signe de r>bellion[A]
+contre Etruria, si la v>rit> sur
+ces |les est rendue publique, ils[A]
+comprendront.
+J'ai envoy> une lettre < un[A]
+membre de confiance de la noblesse
+Etrurienne.[A]
+Si elle prend les mesures[A]
+appropri>es, je pense que nous pouvons
+renverser la situation en notre faveur.[A]
+[OpenFarLeft]Je ne serais pas si sûr de cela...[A]
+[OpenMidRight]Que veux-tu dire?[A]
+[OpenFarLeft]As-tu d>j< pens> qu'il >tait >trange
+qu'Etruria t'ait envoy> pour[A]
+d>barrasser des bandits?[A]
+[OpenMidRight]En fait oui... bien sûr.[A]
+[OpenFarLeft]C'est simplement ma th>orie...[A]
+Mais je crois que ceux qui
+ont demand> ton aide sont[A]
+l'Advisor Roartz et Lord Arcard.[A]
+[OpenMidRight]...Comment sais-tu cela?[A]
+[OpenFarLeft]Pourquoi ces deux-l< ont-ils dû
+>loigner ton arm>e du continent?[A]
+Y aurait-il un probl{me
+si tu >tais rest> en Lycia?[A]
+[OpenMidRight]Oh...[A]
+Je n'y ai jamais pens>
+sous cet angle...[A]
+[OpenFarLeft]Il y a des rumeurs...[A]
+Que Roartz et Arcard sont
+en fait li>s < Biran.[A]
+[0969]
+[OpenMidLeft][LoadFace][0x15A][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][CloseSpeechFast]Es-tu le leader de
+cette arm>e?[A]
+[OpenMidRight][FastPrint][ToggleSmile]Oui.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Je voulais te remercier[A]
+pour avoir prot>g> notre village.[A]
+[OpenMidRight]Non...
+J'ai juste fait ce que je pensais juste.[A]
+[OpenMidLeft]S'il te pla|t, prends ceci comme
+un symbole de notre gratitude.[A]
+[096A]
+[OpenMidLeft][LoadFace][0x1DC][OpenMidRight][LoadFace][0x10D]
+[OpenMidLeft]G>n>ral Klein,[A]
+nous resterons ici et reconstruirons
+la zone, comme vous nous l'avez demand>.[A]
+[OpenMidRight]Bien.[A]
+[OpenMidLeft]Nous souhaiterions pouvoir nous battre
+< vos c_t>s.[A]
+Oh, et voici la fl{che que
+vous nous aviez fait garder.[A]
+Je vais vous la rendre.[A]
+Adieu et bonne chance, G>n>ral Klein.[A]
+[OpenMidRight]Merci.[A]
+[096B]
+[OpenMidRight][LoadFace][0x128][OpenMidLeft][LoadFace][0x153]
+Capitaine![A]
+Nous retournerons < Ilia
+pour faire notre rapport.[A]
+[OpenMidRight]Merci.[A]
+[OpenMidLeft]Oh, et ceci...[A]
+Ta sœur me l'a donn>
+avant notre d>part.[A]
+S'il te pla|t, fais attention...[A]
+[OpenMidRight]Merci.
+Toi aussi fais attention.[A]
+[096C]
+[OpenMidRight][LoadFace][0x187][ToggleSmile]Vite!
+Par ici![A]
+[OpenMidLeft][LoadFace][0x189]E-Etes-vous sûr?
+Si nous nous faisons attraper...[A]
+[OpenMidRight]Idiot![A]
+Si nous restons l<, nous n'avons
+d'autre choix que de travailler et travailler[A]
+jusqu'< ce que nous mourrions![A]
+Tu vas supporter cela?[A]
+N'as-tu pas de famille ou
+quelque chose chez toi?[A]
+[OpenMidLeft]Ouais...[A]
+[OpenMidRight]Si nous nous >chappons vers le nord-est,
+il y a des gens qui peuvent nous aider.[A]
+Nous devons y arriver![A]
+[096D]
+[OpenMidRight][LoadFace][0x146][ToggleSmile]Quoi!
+D'autres personnes se sont >chapp>es!?[A]
+[MoveMidRight]Que faisaient les gardes![A]
+[OpenFarLeft][LoadFace][0x14F]Quelqu'un a mis des
+drogues dans leur nourriture...[A]
+[OpenMidRight]...Cela signifie qu'il y a quelqu'un
+parmi nos rangs qui prend[A]
+contact avec l'ennemi.[A][OpenFarLeft][ClearFace]
+[OpenMidRight]Morgan![OpenLeft][LoadFace][0x1DD][A]
+[OpenMidRight]Je veux que tu poursuis et
+captures ceux qui se sont >chapp>s.[A]
+[OpenLeft]Oui, mon seigneur.[A][SendToBack]
+[OpenMidRight]Je reviendrai A la capitale A Djuto.
+Ne les laissez pas s'echapper.[A]
+Continuez aussi d'envoyer des ouvriers A la mine.
+Je ne peux pas me permettre de perdre cette mine![A]
+[096E]
+[096F]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Elphin,
+ce chAteau au sud-ouest...[A]
+[OpenMidLeft]Oui,
+c'est le chAteau Idina.[A]
+Les gens capturEs sur cette ile[A]
+sont d'abord envoyEs lA-bas avant qu'ils
+soient transportEs A Mt. Ebrakhm.[A]
+Aujourd'hui est justement le jour
+oA les captifs sont envoyEs A la[A]
+mine chaque semaine.[A]
+Les secourir sera difficile si
+nous devons aller tous A la mine.[A]
+[OpenMidRight]Alors nous devons secourir
+ces gens maintenant![A]
+[OpenMidLeft]Oui.[A]
+J'ai dAj< envoyE des espions
+pour infiltrer le chAteau pour aider[A]
+les gens A s'echapper.[A]
+[OpenMidRight]Comment vont-ils libErer
+les captifs?[A]
+[OpenMidLeft]Je leur ai dit d'envoyer les
+captifs vers le nord-est.[A]
+En d'autres termes, ici.[A]
+[OpenMidRight]Alors nous devons d'abord secourir ces
+gens avant d'attaquer le chAteau.[A]
+[0970]
+[OpenMidLeft][LoadFace][0x189][OpenMidRight][LoadFace][0x120]
+[OpenMidRight][ToggleSmile]Donc les gens vivant sur cette
+ile sont capturEs dans ce chAteau?[A]
+[OpenMidLeft]Oui.[A]
+[OpenMidRight]Eh bien, allons secourir
+ces gens, d'accord?[A]
+[OpenMidLeft]...Je suis dEsolE.[A]
+Je sais que tu cherchais ta
+fille, et nous t'avons fait aider[A]
+comme cela...[A]
+[OpenMidRight][ToggleSmile]Eh bien, vous m'avez aidE,
+donc je devrais vous aider aussi.[A]
+De plus, un vrai homme ne regarderait pas
+les gens souffrir A cause de la[A]
+cupiditE de leur marquis et les ignorerait.[A]
+[0971]
+[OpenMidLeft][LoadFace][0x1DD][OpenMidRight][LoadFace][0x1D7]
+[OpenMidRight]Seigneur Morgan,
+les renforts sont prEts![A]
+[OpenMidLeft]Bien.
+Envoyez-les immEdiatement.[A]
+Envoyez-les par l'arriEre pour qu'ils
+puissent dEfendre le chAteau mAme si nous[A]
+devions ^tre entourEs.[A]
+[0972]
+[0973]
+[OpenMidLeft][LoadFace][0x120][OpenMidRight][LoadFace][0x113]
+[OpenMidRight][FastPrint][ToggleSmile]PAPA?
+Que fais-tu ici?[A]
+[OpenMidLeft][ToggleSmile]Ah, Fir!
+Je te cherchais.[A]
+[OpenMidRight][CloseSpeechFast][ToggleSmile]PAPA,
+j'ai pris ma dEcision.[A]
+Je veux devenir un grand
+combattant d'epee comme Maman...[A]
+[OpenMidLeft][ToggleSmile]Je comprends.
+Je ne veux pas te ramener A la maison.[A]
+En fait, je veux t'assister
+dans ton voyage.[A]
+[OpenMidRight][FastPrint][ToggleSmile]M'assister?[A]
+[OpenMidLeft][CloseSpeechFast]Eh bien, je sais qu'il y a beaucoup de
+difficultEs durant un voyage de formation.[A]
+Donc je peux t'aider
+dans les situations difficiles...[A]
+[OpenMidRight]Mais PAPA, si tu continues A m'aider,
+il n'y aurait aucun sens A ma formation.[A]
+[OpenMidLeft][NormalPrint]N'importe quoi.[A]
+[CloseSpeechFast]Ne pourrais-tu pas entra|ner tes
+compEtences d'epee avec ton pEre prEs?[A]
+Ou ne comprends-tu pas l'amour de ton PAPA
+pour s'inquiEter pour toi comme cela?[A]
+[OpenMidRight][FastPrint]Non!
+Ce n'est pas cela...[A]
+[OpenMidLeft][ToggleSmile]Eh bien alors,
+nous nous comprenons.[A]
+Mais d'abord nous devons capturer ce chAteau.[A]
+[ClearFace][OpenMidRight][NormalPrint][ToggleSmile]Sigh....[A]
+[CloseSpeechFast]Je dois dire A Roy que nous
+avons un nouveau membre...[A]
+[0974]
+[0975]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x18B]
+Êtes-vous les gens
+qui nous aidez?[A]
+Alors s'il vous plaIt, prenez ceci.
+Je l'ai pris quand je[A]
+m'echappais du chAteau.
+J'espEre que tout le monde est sorti[A]
+sain et sauf...
+[0976]
+[LoadFace][0x1DD]
+[ToggleSmile]Que fais-tu![A]
+DEp^che-toi et tue[Clear]
+ceux qui se sont echappEs![A]
+...?
+Qu-Qui ^tes-vous!?[A]
+[0977]
+[LoadFace][0x1DD]
+[ToggleSmile]Les forces de rEsistance dans cette
+zone ont >t> EliminEs...[A][Clear]
+Qui...^tes-vous...?[A]
+[0978]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Elphin!
+Es-tu en sAntE?[A]
+[OpenMidLeft][ToggleSmile]Je devrais encore...
+...![A]
+[OpenMidRight][ToggleSmile]Tu devrais rester hors du champ.
+Laisse le combat < nous.[A]
+[OpenMidLeft]Oui...
+Pardonne-moi d'^tre un fardeau...[A]
+[0979]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Bien qu'on ait captur> le ch[teau Idina
+et lib>r> les gens ici, cela ne[A]
+signifie pas qu'on a sauv> tout le monde
+vivant sur ces |les.[A]
+[OpenMidLeft]D'accord.[A]
+Pour lib>rer compl{tement les |les de l'Ouest,
+nous devons nous d>barrasser de la[A]
+capitale >trurienne.[A]
+[OpenMidRight]Donc, nous devons aller < Djuto.[A]
+...Elphin,
+puis-je te demander quelque chose?[A]
+[OpenMidLeft]Qu'est-ce que c'est, Ma|tre Roy?[A]
+[OpenMidRight]Corrige-moi si je me trompe.[A]
+Mais n'es-tu pas quelqu'un de
+haute noblesse >trurienne?[A]
+[OpenMidLeft]!![A][Clear]
+...Qu'est-ce qui te fait penser ça?[A]
+[OpenMidRight]Eh bien...
+Je ne peux pas vraiment l'expliquer, mais...[A]
+Par exemple, ta façon de parler
+semble tr{s >duqu>e.[A]
+A Ostia, j'ai appris < '>tudier'
+les gens et < faire des estimations sur[A]
+eux.[A]
+Quoi qu'il en soit, ai-je raison?[A]
+[OpenMidLeft]Que ferais-tu si je
+>tais ce que tu penses que je suis?[A]
+[OpenMidRight]Quoi?[A]
+Non, je ne ferais rien
+de particulier.[A]
+[OpenMidLeft]?[A]
+[OpenMidRight]Tu dois avoir une raison
+de cacher ton identit>.[A]
+Tu peux me le dire quand tu
+te sentiras < l'aise.[A]
+D'accord?[A]
+[OpenMidLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidRight]Alors allons < Djuto![A]
+Pour sauver ces |les et
+vaincre notre v>ritable ennemi![A]
+[097A]
+[097B]
+[OpenFarLeft][LoadFace][0x189][OpenLeft][LoadFace][0x187][OpenMidRight][LoadFace][0x154]
+[OpenLeft]H>, toi avec la moustache![A]
+[OpenMidRight]Quoi!
+Qui es-tu?[A]
+[OpenLeft]Ici,
+donne ça au G>n>ral Roy.[A]
+Gr[ce < lui, nous pouvons revoir
+nos familles.[A]
+[OpenFarLeft]Nous, les gens des |les de l'Ouest
+n'oublions jamais quand on nous aide![A][SendToBack]
+[OpenLeft]Assure-toi de dire merci
+de notre part.[A][SendToBack]
+[OpenFarLeft]Et que nous exprimons tous notre gratitude
+du fond de nos cœurs![A]
+[097C]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x148]
+[OpenMidRight][ToggleSmile]...
+Donc Narshen est tomb> < Aquleia.[A]
+[OpenMidLeft]Oui.
+Cela a >t> confirm>.[A]
+[OpenMidRight]Je vois...[A][OpenMidLeft][ClearFace]
+[OpenFarLeft][LoadFace][0x146][OpenLeft][LoadFace][0x13D]L-Dame Brenya...
+Que va-t-il devenir de nous?[A]
+[OpenMidRight]S'il te pla|t, ne t'inqui{te pas,
+Seigneur Roartz.[A]
+Nous ne vous n>gligerons pas,
+vous qui nous avez assist>s.[A]
+Je m'en assurerai.[A]
+[SendToBack][OpenFarLeft][ToggleSmile]Merci...[A][SendToBack]
+[OpenMidRight][ToggleSmile]Alors, Seigneur Arcard, tu seras
+charg> de la d>fense de cette terre,[A]
+Talas.[A]
+Seigneur Roartz, ton poste sera le[A]
+ville de Bulgar.[A]
+[OpenFarLeft]Talas!?
+D-D'attends![A]
+C'est trop pr{s d'Aquleia.
+L'ennemi est d>j< trop proche![A]
+[OpenMidRight][ToggleSmile]Alors ce que tu dois faire, c'est
+les vaincre.[A]
+C'est un bon endroit pour >tablir
+des d>fenses car l'ennemi[A]
+attaquera sûrement ici car
+c'est si proche de la capitale.[A]
+Nous pouvons ^tre bien pr>par>s ici.[A]
+[OpenFarLeft][ToggleSmile]Eh bien,
+c'est vrai...[A]
+[OpenLeft]Bulgar...[A]
+C'est dans le pays >tranger
+de Sacae.[A]
+J'entends qu'il y a beaucoup[A]
+de r>bellions parmi les nomades...[A]
+[OpenMidRight][ToggleSmile]Alors force-les < se soumettre.
+N'est-ce pas ta sp>cialit>?[A]
+[OpenLeft][ToggleSmile]Eh bien...[A]
+[OpenMidRight][ToggleSmile]Les rumeurs disent que le commandant ennemi,
+Roy, est encore un garçon.[A]
+Mais il a travers> de nombreux scandales
+et complots et a reconstruit l'arm>e de l'Alliance de Lycia[A]
+et l'a renforc>e
+plus que jamais.[A]
+Compar> < ses >preuves, les tiennes sont
+presque rien.[A]
+Ai-je tort?[A][SendToBack][OpenFarLeft][ToggleSmile]......[A][SendToBack]
+[OpenMidRight]Alors je dois y aller.[A]
+Je prierai pour
+ton succ{s.[A][ClearFace]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[097D]
+[OpenFarLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x148]
+[OpenFarLeft][ToggleSmile]...Es-tu sûr?[A]
+[OpenMidRight]Ce sont des l[ches honteux qui jettent
+loin leur patrie et fuient vers la s>curit>.[A]
+Nous ne devons pas les aider plus que
+n>cessaire.[A]
+Ils devraient ^tre reconnaissants d'avoir
+les troupes terrestres qu'ils ont.[A]
+[OpenFarLeft][ToggleMouthMove]......[A]
+[097E]
+[OpenMidLeft][LoadFace][0x110][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][FastPrint]Nous approchons bient_t
+de la fronti{re >trurienne.[A]
+[OpenMidRight][CloseSpeechFast]Monseigneur Yodel, je dois vous
+remercier pour tout.[A]
+Gr[ce < l'Eglise, nous avons pu[A]
+avancer jusqu'ici avec
+aisance.[A]
+[OpenMidLeft]S'il vous pla|t.[A]
+Si vous n'aviez pas captur> Aquileia,
+nous souffririons de[A]
+pers>cution sous Biran.[A]
+Ceci n'est rien en comparaison
+de ce que vous avez fait pour nous.[A]
+[OpenMidRight][FastPrint][ToggleSmile]Je suis heureux de pouvoir
+vous ^tre utile.[A]
+[OpenMidLeft][CloseSpeechFast]Maintenant...[A]
+Puis-je vous demander une faveur
+tr{s importante?[A]
+[OpenMidRight]Oui, tout ce que je
+peux faire.[A]
+[OpenMidLeft]Si vous d>couvrez autre chose
+sur les Dragons...[A]
+[OpenMidRight]Je comprends.[A]
+Si je d>couvre quelque chose de nouveau, je
+vous informerai imm>diatement.[A]
+[OpenMidLeft][ToggleSmile]Merci![A]
+[ToggleSmile]...[A]
+Oh oui,
+je dois vous dire autre chose.[A]
+Les terres ici...[A]
+Elles sont entour>es de hautes
+montagnes et vall>es.[A][Clear]
+[OpenMidLeft]Et il fait nuit maintenant...[A]
+[OpenMidRight]L'endroit parfait pour une embuscade...[A]
+[OpenMidLeft]Oui.[A]
+Le ch[teau Talas devant
+est sous le contr_le de Biran.[A]
+[OpenMidRight]D'accord.
+Je serai prudent.[A]
+[OpenMidLeft][CloseSpeechFast][ToggleSmile]Oui, s'il vous pla|t.[A]
+Alors, que Saint Elimine
+b>nisse l'Arm>e >trurienne![A]
+[097F]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x168]
+Vous combattez Biran?
+Alors s'il vous pla|t, prenez ce b[ton.[A]
+J'ai entendu qu'une noble princesse
+l'a utilis> autrefois...[A]
+[0980]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17A]
+Nous n'avons pas beaucoup de visiteurs
+ici-haut...[A]
+Quoi?[A]
+L'ennemi allait
+attaquer notre village?[A]
+Je vois...
+Je dois vous remercier pour[A]
+nous avoir inform>s.
+S'il vous pla|t, prenez ceci.[A]
+[0981]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17D]
+J'entends qu'il y a un village
+loin au nord-est.[A]
+C'est trop loin d'ici,
+donc personne ne l'a jamais vu,[A]
+mais je me demande si quelqu'un
+y vit?[A]
+[0982]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x177]
+J'ai vu une personne >trange
+dans les rangs de Biran.[A]
+Probablement un voleur.[A]
+Je pense que vous devriez dire aux
+villageois avant qu'ils ne se fassent voler.[A]
+[0983]
+[LoadFace][0x146][ToggleSmile]P-Pourquoi![A]
+Pourquoi cela m'arrive-t-il
+?![A]
+[0984]
+[LoadFace][0x146][ToggleSmile]Je...suis un...
+noble >trurien...![A][Clear]
+Je ne dois pas mourir...
+ici... Guh![A]
+[0985]
+[OpenFarRight][LoadFace][0x154][OpenRight][LoadFace][0x102]
+[OpenFarRight][SendToBack][ToggleSmile]Seigneur Arcard...[A]
+Quelle fin path>tique pour celui
+qui est devenu si puissant.[A]
+[OpenRight][SendToBack]Eh bien, l'ann>e derni{re, je ne pensais
+pas que nous ferions cela non plus.[A]
+Peut-^tre que le destin peut se r>v>ler
+de la mani{re la plus improbable...[A]
+Et cela pourrait ^tre vrai pour Biran
+aussi...[A]
+[OpenFarRight][ClearFace][OpenMidLeft][LoadFace][0x154]...? [A]
+Ma|tre Roy, qu'est-ce que vous
+tenez dans votre main?[A]
+[OpenRight]Oh, ça?
+C'est l'Embl{me du Feu.[A]
+[OpenMidLeft]Oh...
+Donc ce petit bijou...[A]
+[OpenRight]La princesse Guinevere voulait que je
+le garde.[A]
+Il semblait...[A]
+difficile pour elle de me le
+donner...[A]
+Elle devait esp>rer mettre fin <
+la guerre pacifiquement jusqu'<[A]
+ce qu'il n'y ait plus d'espoir...[A]
+[OpenMidLeft]Hmmm...
+La confiance entre fr{res et sœurs?[A]
+Cela ne semblait pas probable sur
+l'ext>rieur.[A]
+[OpenRight][NormalPrint]Pourquoi pas?[A]
+[OpenMidLeft][CloseSpeechFast]L'ennemi est Zephiel,
+roi de Biran![A]
+On dit qu'il a tu> son propre
+p{re, donc je ne pensais pas qu'[A]
+il serait >mu par la confiance familiale...[A]
+[OpenRight][MoveMidRight]Quoi?!
+Il a tu> son propre p{re?[A]
+[OpenMidLeft][CloseSpeechFast]Tu ne savais pas,
+Ma|tre Roy?[A]
+Zephiel a pris le tr_ne parce que le
+roi pr>c>dent >tait mort.[A]
+Mais comme la mort du roi pr>c>dent
+a >t> si soudaine, il y a[A]
+beaucoup de rumeurs qui circulent.[A]
+[OpenMidRight]Et l'une d'elles est...[A]
+[OpenMidLeft][CloseSpeechFast]...Que Zephiel l'a assassin>.[A]
+[OpenMidRight]...La princesse Guinevere sait
+< ce sujet?[A]
+[OpenMidLeft]Elle doit savoir quelque chose
+< ce sujet, sinon pas du tout.[A]
+[OpenMidRight][NormalPrint][ToggleMouthMove]......[A]
+[0986]
+[OpenMidRight][LoadFace][0x1CD][OpenMidLeft][LoadFace][0x1D7][ToggleSmile]L'arm>e Etrurienne est apparue
+par l'ouest.[A]
+[OpenMidRight]Bien.[A]
+Attirez-les dans notre territoire comme
+pr>vu.[A]
+Nous leur montrerons notre force.
+Les autres clans ont-ils >t> inform>s?[A]
+[OpenMidLeft]Oui.[A]
+Bien qu'il y ait de nombreux clans qui
+expriment leur m>contentement[A]
+envers notre alliance avec Biran, une
+invasion des forces Etruriennes semble[A]
+n>cessiter plus d'attention.[A]
+[OpenMidRight]Je vois.[A]
+...L'arm>e Etrurienne devrait ^tre
+plus facile < g>rer que ce[A]
+"Loup Argent>" puisque l'arm>e
+Etrurienne est une force d'invasion.[A]
+[OpenMidLeft]Les clans s'uniront pour combattre
+les envahisseurs...[A]
+[OpenMidRight]Oui.
+C'est la loi de Sacae.[A]
+Quand nous >tions face au Loup Argent>,
+personne ne nous a aid>s car ils le[A]
+voyaient comme un conflit entre clans.[A]
+[OpenMidLeft]Mais maintenant nous avons Biran
+derri{re nous, donc nous n'avons besoin[A]
+d'aucune aide.[A]
+[OpenMidRight]Exactement.[A]
+Alors bien sûr, il y a beaucoup
+qui n'aiment pas l'id>e que[A]
+c'est Biran qui a le contr_le
+r>el de la politique de Sacae.[A]
+[OpenMidLeft]Oui.[A]
+J'entends dire qu'il y a de nombreux clans
+qui sont d'accord avec les[A]
+tactiques de gu>rilla du Loup Argent>
+et ont rejoint ses forces.[A]
+[OpenMidRight]Il est t^tu.[A]
+Son clan a >t> vaincu, donc il
+devrait nous rejoindre.[A]
+Ce n'est pas comme s'il ne savait pas
+ce qui arrive < ceux qui essaient de[A]
+combattre de front contre Biran.[A]
+[OpenMidLeft]M^me de grandes villes comme Bulgar
+ont >t> attaqu>es et prises par Biran[A]
+depuis qu'elles ont r>sist>.[A]
+[OpenMidRight]D>sormais, ceux qui sont assez
+forts pour manipuler la situation[A]
+autour d'eux survivront, comme nous.
+Et en ce moment, nous devons utiliser la loi[A]
+de Sacae pour le faire.[A]
+[0987]
+[OpenMidLeft][LoadFace][0x157][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Princesse Guinevere...
+Nous approchons de l'arm>e de Biran.[A]
+[OpenMidLeft]...Oui.[A]
+[OpenMidRight]Puisque nous nous rapprochons,
+nous entrons en conflit avec des soldats
+de Biran de plus en plus souvent.[A]
+Il ne faudra pas longtemps avant que nous
+engagions un combat total avec Biran.[A]
+[OpenMidLeft][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenMidRight]Je souhaite te demander quelque
+chose avant que nous le fassions.[A]
+[OpenMidLeft]Qu'est-ce que c'est?[A]
+[OpenMidRight]J'ai entendu des rumeurs...
+que le roi Zephiel est mont> sur le tr_ne[A]
+parce qu'il a tu> son p{re, le
+roi pr>c>dent.[A]
+[OpenMidLeft][MoveFarLeft]!![A]
+[OpenMidRight]Je ne pouvais pas y croire.[A]
+Tu as essay> de l'arr^ter m^me en renonçant
+< ta nationalit>.[A]
+Si le roi Zephiel est un individu fou
+comme le disent les rumeurs, alors tu n'aurais[A]
+pas pens> < faire ce que tu as fait.[A]
+[OpenFarLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Princesse Guinevere,[A]
+j'ai accept> l'Embl{me du Feu non
+pas pour l'utiliser en bataille, mais pour[A]
+essayer de lui trouver une utilit>
+pour mettre fin < cette guerre pacifiquement.[A]
+[OpenFarLeft]Roy...[A]
+[OpenMidRight]Donc, s'il te pla|t, dis-moi
+la v>rit> sur les rumeurs...[A]
+[OpenFarLeft]Je...Je suis d>sol>.
+S'il te pla|t...donne-moi un peu de temps.[A][ClearFace]
+[0988]
+[0989]
+[098A]
+[098B]
+[098C]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17A]
+Tous les clans doivent
+s'unir pour vaincre les envahisseurs...[A]
+[098D]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17A]
+Prie chaque jour le ciel et
+et la terre...[A]
+C'est la loi de Sacae.[A]
+[098E]
+[OpenMidLeft][LoadFace][0xFFFF] [OpenMidRight][LoadFace][0x17C]
+Les clans doivent se mettre en
+arc defensif pour se d>fendre[A]
+contre les envahisseurs.
+C'est la loi de Sacae.[A]
+[098F]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17C]
+Les ennemis feront face < la
+col{re de nos camarades clansmen...[A]
+C'est la loi de Sacae.[A]
+[0990]
+[LoadFace][0x1CD]Oui...
+C'est ça![A]
+Plus pr{s...plus pr{s...[A][Clear]
+Droit dans notre pi{ge![A]
+[0991]
+[LoadFace][0x1CD]Argh...!
+Comment avez-vous pu nous vaincre...[A][Clear]
+Mes calculs...>taient...
+parfaits...[A]
+[0992]
+[OpenMidLeft][LoadFace][0x154][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Ce n'>tait pas facile.[A]
+[OpenMidRight]Mais maintenant nous avons frapp>
+l'ennemi le plus fort
+en Sacae.[A]
+Bien que je sois sûr qu'il reste
+des forces quelque part.[A]
+[OpenMidLeft]Ils doivent se r>unir
+pour planifier une riposte.[A]
+[OpenMidRight]Pouvons-nous d>couvrir o}
+ils se r>unissent?[A]
+[OpenMidLeft]Eh bien, j'ai envoy> un espion
+plus t_t, donc il devrait revenir bient_t.[A]
+Je vais aller v>rifier.[A][ClearFace][.......][LoadOverworldFaces]
+[OpenFarLeft][LoadFace][0x157]......[A]
+[OpenMidRight]Y a-t-il un probl{me,
+Princesse Guinevere?[A]
+[OpenFarLeft][MoveMidLeft]...Je suis venu parler
+de mon fr{re.[A]
+[OpenMidRight]!!
+...Est-ce que ça va?[A]
+[OpenMidLeft]Oui...[A]
+Je veux que tu saches avant que nous
+entrions < Biran...sur les trag>dies[A]
+qui se sont produites.[A]
+Tu as demand> plus t_t si mon fr{re
+avait tu> l'ancien roi.[A]
+[OpenMidRight]Oui...[A]
+[OpenMidLeft]En r>sum>...[.....]
+c'est vrai.[A]
+[OpenMidRight]![A]
+Alors le roi Zephiel a effectivement tu> son
+propre p{re pour s'emparer du tr_ne...[A]
+[OpenMidLeft][MoveLeft]Non![A]
+[OpenMidRight]Non?[A]
+Il n'a pas tu> son p{re
+pour obtenir le tr_ne?[A]
+[OpenLeft]Non...[A]
+Notre p{re a >t> le premier
+< essayer de tuer Zephiel.[A]
+[OpenMidRight]Quoi!?
+Alors le roi Zephiel...[A]
+[OpenLeft]Il...ne pouvait pas supporter les abus
+qu'il subissait de notre p{re.[A]
+Et donc il...[A]
+[OpenMidRight]Quoi...
+Pourquoi...?[A][LoadOverworldFaces]
+[OpenFarLeft][LoadFace][0x154]...Ma|tre Roy![A]
+Nous avons trouv> o} se
+r>unit l'ennemi![A]
+...?
+Quel est le probl{me?[A][SendToBack]
+[OpenLeft]Non...ce n'est rien.
+Peut-^tre plus tard...[A][ClearFace][SendToBack]
+[OpenFarLeft]...Ai-je interrompu un mauvais moment?[A]
+[OpenMidRight]Non, ça va.
+O} est le lieu de la r>union?[A]
+[OpenFarLeft][MoveMidLeft]C'est dans une ville appel>e Bulgar.[A]
+[OpenMidRight]Bulgar...
+J'en ai entendu parler.[A]
+[OpenMidLeft]C'est la plus grande ville de Sacae.[A]
+Bien que maintenant elle ait >t> prise
+par Biran.[A]
+[OpenMidRight]Oh...[A]
+D'accord, nous allons
+y aller bient_t.[A]
+[OpenMidLeft][ClearFace][OpenMidRight][Clear]...Pourquoi l'ancien roi
+a-t-il essay> de tuer son propre fils?[A]
+[0993]
+[OpenMidLeft][LoadFace][0x13D][MoveMidLeft][ToggleSmile]Ils sont l<...!
+Et si vite...[A]
+N'auraient-ils pas pu me donner
+le temps de pr>parer des d>fenses![A]
+[OpenMidRight][LoadFace][0x14E]Nous allons essayer d'arr^ter l'ennemi
+de progresser davantage.[A]
+Vous pouvez vous retirer au palais
+et renforcer vos d>fenses l<-bas.[A]
+[OpenMidLeft]...Pouvez-vous les retenir?[A]
+[OpenMidRight]Nous devons au moins essayer.[A]
+[OpenMidLeft][MoveMidLeft]Si vous ne savez pas si
+vous pouvez gagner ou non...[A]
+[OpenMidRight]Alors que feriez-vous?
+Fuir?[A]
+Dites-moi, o} pensez-vous
+pouvoir vous cacher?[A]
+[OpenMidLeft]......[A]
+[OpenMidRight]Le g>n>ral Brenya m'a donn>
+l'ordre de vous prot>ger.[A]
+Et je le ferai de toutes mes
+forces![A]
+Mais vous ne devez pas avoir peur de
+vous battre non plus![A]
+[OpenMidLeft]...D-D'accord...[A]
+et laisse l'ext>rieur < toi.[A][ClearFace][......]
+[OpenMidLeft][LoadFace][0x1D7]...C'est le plus haut conseiller
+du conseil Etrurien?[A]
+Pourquoi devrions-nous nous battre pour lui
+du tout?[A]
+[OpenMidRight]Ne dis pas ça.[A][Clear]
+Le g>n>ral Brenya ne nous a pas dit
+de le prot>ger de son plein gr>.[A]
+Elle n'avait pas le choix car Etruria
+a uni ses forces avec Biran.[A]
+Donc, nous devons remplir nos
+devoirs en tant que guerriers.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]J'ai aussi obtenu des
+informations que des alli>s du Loup[A]
+Argent r_dent ici.[A]
+Restez sur vos gardes en tout temps.[A]
+[OpenMidLeft]Oui, monsieur.[A]
+[0994]
+[OpenMidLeft][LoadFace][0x157][OpenMidRight][LoadFace][0x102][ToggleSmile]Princesse Guinevere.[A]
+[OpenMidLeft]...Nous nous battons encore aujourd'hui.[A]
+[OpenMidRight]Oui...[A]
+Je suis d>sol>e de ne pas pouvoir trouver
+le temps de parler avec toi en[A]
+loisir.[A]
+[OpenMidLeft]Non, ça va.[A]
+...Mon fr{re a commenc> cela en
+premier.[A]
+[OpenMidRight]Princesse...[A]
+[OpenMidLeft]...Oui?[A]
+[OpenMidRight]Puis-je demander pourquoi
+l'ancien roi de Biran a essay>[A]
+de tuer le roi Zephiel?[A]
+[OpenMidLeft]...Zephiel et moi avons des m{res
+diff>rentes. Donc je suis en r>alit> sa demi-sœur.[A]
+[OpenMidRight]J'ai entendu dire que la m{re de Zephiel
+>tait la princesse Etrurienne.[A]
+[OpenMidLeft]Oui.[A]
+C'>tait un mariage arrang> pour renforcer
+le lien entre Biran et Etruria.[A]
+Cependant, notre p{re avait d>j< une femme
+qu'il aimait < ce moment-l<.[A]
+C'>tait ma m{re.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]Le mariage entre notre p{re
+et la m{re de Zephiel >tait forc>.[A]
+Donc, notre p{re n'aimait pas
+la m{re de Zephiel et pensait toujours[A]
+mal de Zephiel.[A]
+[OpenMidRight]Est-ce pour cela que l'ancien roi
+et le roi Zephiel avaient une mauvaise relation?[A]
+[OpenMidLeft]Non...[A]
+M^me alors, Zephiel essayait toujours
+de gagner l'affection de notre p{re.[A]
+Il excellait dans ses >tudes et son
+entra|nement militaire et faisait toujours de son mieux.[A]
+Il est devenu un h>ritier fier du
+tr_ne de Biran.[A]
+[OpenMidRight][MoveRight]Alors pourquoi le roi a-t-il essay> de...[A]
+[OpenFarRight]Ma|tre Roy!
+Nous sommes pr^ts pour l'attaque![A]
+[OpenRight]D'accord,
+j'arriverai dans une minute![A][Clear]
+Princesse Guinevere,
+je suis d>sol>, mais...[A]
+[OpenMidLeft]Non, ça va.
+Fais attention.[A]
+[0995]
+[OpenRight][LoadFace][0x124][ToggleSmile]Eh bien eh bien...
+Donc ça a commenc>.[A]
+[OpenFarRight][LoadFace][0x107]Il semblerait.[A]
+[OpenMidLeft][LoadFace][0x17B]Juste quand nous pensions que Biran avait
+fini d'envahir, maintenant nous[A]
+devons faire face < Etruria.
+Sigh.[A]
+[OpenFarRight][ToggleMouthMove]......[ToggleMouthMove][A]
+[OpenRight]Pas >tonnant.
+C'est une grande ville commerciale.[A]
+N'importe quelle arm>e voudrait en prendre le contr_le.[.....]
+Eh bien alors...[A]
+[OpenMidLeft]H-Hey attends,
+o} vas-tu?[A]
+[OpenRight]Je vais regarder le combat.
+Voyons voir < quel point Roy est bon.[A]
+[OpenMidLeft]Quoi, maintenant?
+Mais...[A]
+[OpenRight]Ne t'inqui{te pas pour moi.
+Tout ira bien.[A][ClearFace]
+[OpenFarRight][ClearFace][OpenMidLeft]Quoi? H> attends!
+Tu pars aussi?[A]
+[0996]
+[OpenMidLeft][LoadFace][0x14E]Les renforts devraient
+arriver bient_t...[A]
+Je veux que tu[OpenMidRight][LoadFace][0x1D7][OpenMidLeft]ouvres la porte d'entr>e pour
+laisser entrer les renforts quand[A]
+ils arriveront.[A]
+[OpenMidRight]Oui, monsieur.[A]
+[0997]
+[OpenMidLeft][LoadFace][0x14E][OpenMidRight][LoadFace][0x1D7]
+[OpenMidLeft]Dis aux troupes de commencer < attaquer les
+forces de gu>rilla cach>es dans les maisons.[A]
+[OpenMidRight]Oui, monsieur.[A]
+[0998]
+[OpenMidLeft][LoadFace][0x1D7]D'accord, ils devraient ^tre l< bient_t...
+Ouvre la porte![A]
+[0999]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17B]
+Je vendais des armes < Biran
+avant la guerre...[A]
+Mais maintenant qu'ils ont pris
+la ville,[A]
+ils ne me paieront rien!
+Tiens, je te donne cette[A][Clear]
+>p>e tue-dragon,
+peux-tu faire quelque chose?[A]
+Je l'ai cach>e d'eux...
+Tu sais pourquoi...n'est-ce pas?[A]
+[099A]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x179]
+Voudrais-tu un sort magique
+bague d'Etrurie?[A]
+Les gens les achetaient avant,
+mais j'ai dû fermer ma boutique[A]
+< cause de la guerre.
+Tiens, prends-en une...[A]
+Elles ne se vendront de toute façon.[A]
+[099B]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17D]
+Cette statue de d>esse[A]
+apporte de la chance.
+Eh bien, je disais ça[A]
+pour tromper les gens,
+mais je ne peux pas faire affaire[A]
+avec la guerre qui se d>roule.
+Tiens, prends-en une.[A]
+Cela ne t'apportera pas de chance, pourtant.[A]
+[099C]
+[OpenMidRight][LoadFace][0x17F]
+Ouf...[.....]
+J'ai trouv> ça,[A]
+donc je ne le vole pas !
+Je suis sûr que je peux le vendre...[A]
+[OpenMidLeft][LoadFace][0xFFFF]
+[OpenMidRight]Whoa !
+T-Tu viens de Biran ?[A]
+Non, je ne volais pas
+cette >p>e ![A]
+A plus ![A]
+[099D]
+[OpenMidLeft][LoadFace][0xFFFF][OpenMidRight][LoadFace][0x17E]
+C'est un Arc Long,
+un favori des clans Sacae.[A]
+Tiens, prends-en un.
+Utilise-le pour chasser les soldats de Biran[A]
+d'ici ![A]
+[099E]
+[LoadFace][0x14E]Je suis Gel.[A][Clear]
+Voici ma lame...[A]
+Alors que je la balance pour
+la derni{re fois.[A]
+[099F]
+[LoadFace][0x14E]En tant qu'>p>iste...
+C'est...in>luctable.[A]
+[09A0]
+[OpenLeft][LoadFace][0x124][OpenMidRight][LoadFace][0x102]
+[OpenLeft]Hm.[A]
+Tu n'es pas si mauvais,
+n'est-ce pas ?[A]
+[OpenMidRight][ToggleSmile]Q-Qui es-tu !?[A][SendToBack]
+[OpenFarLeft][LoadFace][0x152]Quoi !?
+H> ![A]
+J'ai dit que tu ne pouvais pas entrer.
+Ma|tre Roy est tr{s occup>.[A]
+[OpenMidRight]Quel est le probl{me ?[A]
+[OpenFarLeft]Elle ne cessait de me harceler
+qu'elle voulait te voir.[A]
+Mais tu >tais occup> alors je
+tentais de la faire partir.[A][SendToBack]
+[OpenLeft][ToggleSmile]Ecoute-moi d'abord.[A]
+Ensuite, tu pourras d>cider si tu veux
+te d>barrasser de moi ou non.[A]
+Je pense que j'ai des informations
+qui pourraient t'int>resser.[A]
+[OpenMidRight][ToggleSmile]...Qu'est-ce que c'est ?[A]
+[OpenLeft][ToggleSmile]C'est < propos des b^tes
+qui se transforment en humains.[A]
+[OpenMidRight][......][ToggleSmile]...Je veux parler
+avec elle en priv>.[A]
+Peux-tu quitter la pi{ce ?[A]
+[SendToBack][OpenFarLeft]Oui, monsieur.[A][ClearFace]
+[OpenLeft][MoveMidLeft]Eh bien, eh bien, ça t'a
+int>ress>, n'est-ce pas ?[A]
+[OpenMidRight]Ces b^tes dont tu parles...[A]
+[OpenMidLeft]Exact. Des Dragons.[A]
+[OpenMidRight]Les Dragons dont tu parles...[A]
+Ce ne sont pas les Wyverns que les
+Chevaliers Dragons de Biran utilisent, mais les >tranges[A]
+troupes qui sont m>lang>es avec
+les soldats de Biran...[A]
+[OpenMidLeft]Exactement.[A]
+Ce sont les Dragons qui
+auraient >t> suppos>ment vaincus[A]
+lors des guerres Dragon-Humain.[A]
+[OpenMidRight]...Qui es-tu ?[A]
+[OpenMidLeft]Je suis Niime.[A]
+J'>tudie la magie noire ancienne dans les montagnes,
+donc certains m'appellent l'Hermite de la Montagne.[A]
+Cette guerre...au d>but je pensais que c'>tait juste
+une autre bataille alors je n'y pr^tais pas attention.[A]
+Mais maintenant je sens le mal parmi les
+troupes de Biran, alors j'ai enqu^t>.[A]
+[OpenMidRight]Et as-tu d>couvert
+quelque chose ?[A]
+[OpenMidLeft]Les Dragons sont en effet entour>s
+de myst{re.[A]
+J'ai consult> de nombreux livres anciens
+et des rouleaux, mais je n'ai pu d>chiffrer[A]
+qu'une partie d'entre eux.[A]
+Mais...[A]
+[OpenMidRight]...Mais ?[A]
+[OpenMidLeft]Je suis venue < croire que Biran
+a ressuscit> le Dragon Noir.[A]
+[OpenMidRight]Dragon Noir...[A]
+C'est le chef des
+Dragons que Hartmut a vaincus.[A]
+[OpenMidLeft]Oui.[A]
+[OpenMidLeft]Les Dragons sont simplement une esp{ce
+beaucoup plus avanc>e que les humains.[A]
+Ils ont une vitalit> et une
+intelligence bien sup>rieures aux n_tres.[A]
+Cependant, il y avait une chose dans laquelle les
+Dragons >taient bien en retard par rapport aux humains.[A]
+Le syst{me reproducteur des Dragons >tait
+beaucoup moins efficace que celui des[A]
+humains.[A]
+Mais m^me alors, le Dragon Noir...
+Il avait le pouvoir de cr>er plus de Dragons.[A]
+C'est ce que j'ai appris de mes recherches.[A]
+[09A1]
+[OpenMidRight][LoadFace][0x13D][ToggleSmile]Ils leur ont permis d'entrer pour
+le palais!?[A]
+[MoveMidRight]Explosion![A]
+Si je vais en enfer, alors ce Roy
+y descendra avec moi![A][OpenMidLeft][LoadFace][0x1D7]Seigneur Roartz![A]
+Les restes du Clan Djute disent
+qu'ils viendront < notre aide[A]
+une fois qu'ils auront cach>
+le Mirugre.[A]
+[OpenMidRight]Mirugre?[.....]
+Ah, une des Armes Divines.[A]
+Bien, nous devons tenir le coup d'ici l<![A]
+[09A2]
+[OpenMidLeft][LoadFace][0x124][OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]C'est le manoir de Roartz...[A]
+[OpenMidLeft]Je comprends que ce palais d>tient
+des m>thodes d'attaque par de petites[A]
+fissures dans la structure.[A]
+Tu ne dois pas penser que tu es en s>curit>
+juste parce que ton dos est contre le[A]
+mur.[A]
+[OpenMidRight]Sais-tu beaucoup de choses sur ce
+lieu?[A]
+[OpenMidLeft]Eh bien, je suis au moins l>g{rement connu
+pour en savoir plus que la plupart des gens.[A]
+La rumeur sur le palais est
+quelque chose que j'ai entendu en ville.[A]
+[OpenMidRight]...Sais-tu < quoi ressemble le
+Dragon Noir?[A]
+[OpenMidLeft]Eh bien, je ne peux pas dire que je sois absolument sûr[A]
+< ce sujet.[A]
+Mais j'aimerais le voir de mes
+propres yeux.[A]
+[OpenMidRight]Je pensais...[A]
+Peut-^tre que le Dragon Noir est aussi
+sous forme humaine.[A]
+[LoadOverworldFaces][OpenMidLeft]Peut-^tre.[A]
+Peut-^tre que tous les Dragons sont en
+forme humaine maintenant.[A]
+J'ai aussi entendu des histoires de Dragons en
+forme humaine vivant avec des gens.[A]
+[OpenMidRight][FastPrint]Nabata...[A]
+[OpenMidLeft]Hm?
+As-tu dit quelque chose?[A]
+[OpenMidRight]Non, rien.[A]
+[OpenMidLeft]Je ne sais rien de sp>cifique,
+mais j'ai lu dans un ancien rouleau[A]
+que les Dragons ont commenc> < prendre forme
+humaine seulement apr{s l'Hiver de la Fin.[A]
+[OpenMidRight]L'Hiver de la Fin...[A]
+[OpenMidLeft]Tu en as entendu parler,
+n'est-ce pas?[A]
+[OpenMidRight]Oui, seulement dans la l>gende.[A][Clear]
+'Au Hiver des Fins, les
+lois de la nature ont >t> renvers>es[A]
+< l'envers.[A]
+Le jour est devenu nuit, et
+l'>t> est devenu hiver.'[A]
+[OpenMidLeft]C'est ça.[A]
+Ces rouleaux sont si vieux et endommag>s
+que je n'ai pas pu tous les d>chiffrer,[A]
+mais une chose est claire.[A]
+L'Hiver de la Fin >tait un d>sastre
+assez puissant pour plier et tordre[A]
+la plan{te.[A]
+[OpenMidRight]Qu'est-ce qui l'a caus>?[A]
+[OpenMidLeft]Qui sait...[A]
+La croyance populaire dit que les
+lois de la nature ont >t> tordues quand les[A]
+Dragons ont lib>r> d'>normes quantit>s de
+pouvoir magique, mais je n'ai aucune id>e de ce[A]
+qui s'est r>ellement pass>, non plus.[A]
+Mais il semble certain que les Dragons
+ont commenc> < prendre forme humaine apr{s l'[A]
+Hiver de la Fin.[A]
+[OpenMidRight]Oui, je suis d'accord.[A]
+[OpenMidLeft]Eh bien, de toute façon,
+la v>rit> se trouve < Biran.[A]
+[09A3]
+[OpenMidLeft][LoadFace][0x1CE]Ces porcs d'Etrurie...![A]
+Je vengerai le Clan Djute
+ici m^me, maintenant![A]
+[09A4]
+[OpenMidLeft][LoadFace][0x107]Bien,
+le palais est en chaos.[A]
+Je vais combattre ces troupes de Biran
+[ToggleSmile]seul, jusqu'< la mort![A]
+[09A5]
+[OpenMidRight][LoadFace][0x12C][ToggleSmile]Alors...[A]
+C'est Bulgar, la plus grande ville
+de Sacae.[A]
+J'ai entendu dire qu'elle avait >t> d>molie par Biran,
+mais il y a tant de soldats ici...[A]
+[ToggleSmile]Il doit y avoir un tr>sor.[A]
+[09A6]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft][ToggleSmile]Es-tu le G>n>ral Etrurien
+qui dirige ce groupe?[A]
+Oui.
+Et toi, qui es-tu?[A]
+[OpenMidLeft]Je suis Dayan.[A]
+[OpenMidRight]Dayan...?
+Je l'ai entendu quelque part...[A]
+[OpenMidLeft]Je dois d'abord te remercier.[A]
+Mon clan a toujours combattu contre
+Biran et les clans qui suivaient Biran.[A]
+Nous avons >t> forc>s de recourir < la gu>rilla
+au lieu de les affronter[A]
+face < face.[A]
+Cependant, maintenant que tu as attaqu>
+Biran, les choses commencent <[A]
+pencher en notre faveur.[A]
+[OpenMidRight]Je vois.
+Je suis content d'avoir pu aider.[A]
+[OpenMidLeft]Mais je veux te poser une question.[A]
+Une fois cette bataille termin>e, comptes-tu
+retirer tes troupes[A]
+tout de suite?[A]
+[OpenMidRight]Apr{s cette bataille?[A]
+[OpenMidLeft]Oui.
+Sacae appartient < nous, le peuple Saca>en.[A]
+Si le rEgne autoritaire de Biran est
+seulement remplacE par le rEgne Etrurien,[A]
+nous devrions vous combattre ensuite.[A]
+[OpenMidRight]Juste aprEs cette bataille...
+Cela ne serait pas possible.[A]
+Nous devons avoir Sacae comme base pour
+lancer des attaques directes sur Biran.[A]
+[OpenMidLeft]Quoi...
+Directement dans les terres de Biran?[A]
+[OpenMidRight]Meme si nous pouvions chasser Biran,
+ce ne serait qu'une question de temps[A]
+avant qu'ils ne ripostent.[A]
+Nous devons dEtruire leurs racines.
+N'est-ce pas?[A]
+[OpenMidLeft]Oui, tu as raison.
+Je vois...[A]
+Dans ce cas, je
+vais vous aider.[A]
+[OpenMidRight]Cela nous aiderait enormEmEnt.[A]
+[OpenMidLeft]Mais une fois Biran dEfait, vous
+devez retirer vos troupes de Sacae.[A]
+Est-ce que cela vous convient?[A]
+[OpenMidRight][ToggleSmile]Bien sUr.
+Vous avez ma parole.[A]
+[09A7]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x106]
+[OpenMidRight][ToggleSmile]Grand-pEre...[A]
+[OpenMidLeft][ToggleSmile]Sue!?
+Tu allais bien?[A]
+[OpenMidRight][ToggleSmile]J'ai EtE secouru par cette armEe.[A]
+Mais j'Etais le seul de notre
+clan qui a survEcU...[A]
+[OpenMidLeft]Je comprends...
+C'Etait une bataille difficile.[A]
+[OpenMidRight]Grand-pEre, viens avec nous.
+Cette armEe n'envahira pas Sacae.[A]
+[OpenMidLeft]...Es-tu sUr?[A]
+[OpenMidRight]Je le jure par le ciel et la terre.[A]
+[OpenMidLeft]D'accord.
+Je vais prendre ta parole.[A]
+[09A8]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x105]Chef![A]
+[OpenMidLeft]Shin, tu es revenu!
+Bien, maintenant tu peux nous rejoindre...[A]
+[OpenMidRight][ToggleSmile]Chef...[A]
+Je sers actuellement
+cette armEe.[A]
+[OpenMidLeft]Quoi!
+Est-ce l'ArmEe Etrurienne?[A]
+[OpenMidRight]Oui.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Cette armEe n'envahira pas Sacae.[A]
+Alors, vas-tu te battre avec nous
+aussi?[A]
+[OpenMidLeft]D'accord.
+Je vais prendre ta parole.[A]
+[09A9]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x106]
+[OpenMidRight][ToggleSmile]Grand-pEre...[A]
+[OpenMidLeft][ToggleSmile]Sue!?
+Tu allais bien?[A]
+[OpenMidRight][ToggleSmile]J'ai EtE secouru par cette armEe.[A]
+Mais j'Etais le seul de notre
+clan qui a survEcU...[A]
+[OpenMidLeft]Je comprends...
+C'Etait une bataille difficile.[A]
+[OpenMidRight]Grand-pEre,
+vas-tu te battre avec nous aussi?[A]
+[OpenMidLeft]Oui.[A]
+Cette armEe ne semble pas
+Etre celle qui envahira Sacae...[A]
+[OpenMidRight]Je vois...[A]
+[09AA]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight][LoadFace][0x105]Chef![A]
+[OpenMidLeft]Shin, tu es revenu!
+Bien, maintenant tu peux nous rejoindre...[A]
+[OpenMidRight][ToggleSmile]Chef... Je sers actuellement
+cette armEe.[A]
+[OpenMidLeft]Quoi!
+Est-ce l'ArmEe Etrurienne?[A]
+[OpenMidRight]Oui.[A]
+[OpenMidLeft][ToggleMouthMove]......[A]
+[OpenMidRight][ToggleMouthMove]Cette armEe n'envahira pas Sacae.[A]
+Alors, vas-tu te battre avec nous
+aussi?[A]
+[OpenMidLeft]D'accord.
+Je vais prendre ta parole.[A]
+[09AB]
+[LoadFace][0x13D][ToggleSmile]Q-Qqu'un!
+Venez et dEfendez-moi![A][Clear]
+C'est fini si je suis blessE![A]
+[09AC]
+[LoadFace][0x13D][ToggleSmile]A-Attendez...
+Soyez mon serviteur![A]
+Il n'est pas encore trop tard...[A][Clear]
+Je vais...pardonner votre crime
+d'avoir tournE votre[......] votre lame...[A]
+Vers moi... Guh...![A]
+[09AD]
+[OpenMidRight][LoadFace][0x102]
+[OpenMidRight][ToggleSmile]Le suivant est Biran...[A]
+[OpenMidLeft][LoadFace][0x154]Ma|tre Roy![A]
+Nous avons des rapports que des restes
+du clan Djute se cachent dans des[A]
+ruines prEs de ici.[A]
+[OpenMidRight]Ruines?[A]
+[OpenMidLeft]Oui.[A]
+Et nous avons aussi un captif qui
+dit qu'un arc utilisE durant[A]
+les Guerres Dragon Humain s'y trouve.[A]
+[OpenMidRight]Quoi?
+Alors...[A]
+[OpenMidLeft]Il est trEs probable que
+ce soit une Arme Divine.[A]
+[OpenMidRight]Nous devons nous rendre dans ces ruines!
+Allons-y![A]
+[09AE]
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x154]
+[OpenMidRight][ToggleSmile]Merlinus, j'ai besoin que tu envoies cette
+lettre au Bishop Yodel en Etrurie.[A]
+[OpenMidLeft]Une lettre?
+Puis-je demander ce qu'elle dit?[A]
+[OpenMidRight]C'est l'histoire qu'on a entendue de
+Niime sur les Dragons.[A]
+[OpenMidLeft]Oh?[A]
+De quoi avez-vous discut>
+avec elle sur les Dragons?[A]
+[OpenMidRight]Ça va ^tre long si je te raconte.[A]
+Je n'ai pas encore scell> la lettre donc
+tu peux y jeter un œil si tu veux.[A]
+[OpenMidLeft][MoveFarLeft][OpenFarLeft][FastPrint]D'accord.
+Laisse-moi voir...[A][ClearFace]
+[OpenFarLeft][LoadFace][0x157]...Roy.[A]
+[OpenMidRight]Princesse,
+y a-t-il un probl{me?[A]
+[OpenFarLeft]...Nous entrons < Biran maintenant.[A]
+[OpenMidRight]Oui.
+Nous attaquerons Biran tr{s bient_t.[A]
+Donc... puis-je demander le reste de[A]
+l'histoire maintenant?[A]
+[OpenFarLeft][MoveMidLeft]...Oui.
+C'est pourquoi je suis venu vers toi.[A]
+[OpenMidRight]Le roi Zephiel >tait un >l{ve
+exceptionnel dans ses >tudes, il >tait dou> en guerre...[A]
+Il est devenu l'h>ritier parfait pour le roi.[A]
+[OpenMidLeft]C'est exact.[A]
+[OpenMidRight][CloseSpeechFast]Mais l'ancien roi
+ne l'a pas regard> avec bienveillance.[A]
+[OpenMidLeft]En fait...[A]
+Notre p{re a commenc> < haïr Zephiel
+parce qu'il est devenu un[A]
+jeune brillant et digne.[A]
+[OpenMidRight][NormalPrint]Quoi...
+est-ce que ça veut dire...?[A]
+[OpenMidLeft][CloseSpeechFast]Notre p{re >tait un homme de
+comp>tence et d'intellect ordinaires.[A]
+Donc, l'exceptionnelle comp>tence de Zephiel
+a rendu notre p{re froid envers lui.[A]
+[OpenMidRight][NormalPrint][ToggleMouthMove]Jalousie...? [A]
+[OpenMidLeft][CloseSpeechFast][ToggleMouthMove]Et puis un jour, notre p{re
+a dit < Zephiel que 'le prochain h>ritier[A]
+de Biran serait le mari de Guinevere.'[A]
+[09AF]
+Arm>e de Pherae
+[09B0]
+Arm>e d'Alliance
+[09B1]
+Arm>e d'Alliance
+[09B2]
+Arm>e d'Alliance
+[09B3]
+Arm>e Etrurienne
+[09B4]
+Brigands
+[09B5]
+D>l>gation de Biran
+[09B6]
+Rebelles Lyc>ens
+[09B7]
+Cavalerie de Thria
+[09B8]
+Forces Rebelles
+[09B9]
+Brigands
+[09BA]
+Occupation
+[09BB]
+D>l>gation de Biran
+[09BC]
+D>l>gation de Biran
+[09BD]
+Chevaliers d'Ilia
+[09BE]
+Coup d'>tat
+[09BF]
+Nomades de Sacae
+[09C0]
+Forces de Biran
+[09C1]
+Arm>e de Biran
+[09C2]
+Dragons
+[09C3]
+Arm>e de Roy
+[09C4]
+Arm>e Ostienne
+[09C5]
+Cavalerie de Laus
+[09C6]
+B
+[09C7]
+W
+[09C8]
+L
+[09C9]
+Roy est rentr> chez lui pour reconstruire
+les terres en Lycia qui ont >t>
+pi>tin>es par la guerre. Les gens semblaient
+toujours l'appr>cier, et il a laiss> derri{re lui
+de nombreuses l>gendes au cours de sa vie.
+[09CA]
+Clarine est rentr>e chez elle < Aquleia
+et a v>cu sa vie comme avant
+la guerre. Sa personnalit> n'a jamais chang>, mais
+son charme et sa vraie bont> lui ont valu
+l'admiration et l'amour de ses pairs dans la Noblesse Etrurienne.
+[09CB]
+Apr{s ^tre retourn>e < Nabata,
+Fa n'a plus jamais >t> entendue.
+De nombreux historiens aujourd'hui expriment leur scepticisme
+sur le fait qu'elle ait vraiment exist>...
+[09CC]
+Apr{s ^tre retourn> < Sacae, Shin
+a rejoint son clan nouvellement r>uni.
+Il n'avait jamais grand-chose < dire, mais avec son
+leadership et son habilet> < l'arc, il a r>pandu son
+nom < travers les plaines comme le nouveau Loup Argent.
+[09CD]
+Sue est retourn>e < Sacae et a repris
+sa vie de Nomade. Malgr> le fait de jouer
+un role majeur dans la guerre, elle refusa de revendiquer [A]
+le credit. Certains disent qu'elle leur rappela [A]
+le "Guerrier Divin" Hanon. [A]
+[09CE] [A]
+Sue accompagna Roy en Lycia, [A]
+o} elle l'>pousa et [A]
+devint la ma|tresse de Pherae. Cependant, elle ne put [A]
+renoncer < son amour pour la nature, et son comportement [A]
+troublait parfois ceux qui l'entouraient. [A]
+[09CF] [A]
+Dayan construisit un nouveau clan [A]
+autour de ses fr{res Kutolah restants. [A]
+Sa qu^te ne se fit pas sans oppression, mais [A]
+il utilisa son leadership pers>v>rant pour cr>er l'harmonie [A]
+et mener le clan < devenir le plus grand de Sace. [A]
+[09D0] [A]
+Apr{s son retour, Barth [A]
+fut charg> de l'arm>e ostienne. [A]
+Bien que d>vast> par les trag>dies de [A]
+la mort d'Hector et la r>bellion, le leadership strict de Barth [A]
+mena l'arm>e ostienne < la gloire une fois [A]
+de plus. [A]
+[09D1] [A]
+Bors retourna < Ostia pour aider [A]
+< reconstruire son pays ravag>. [A]
+Sa nature bienveillante lui permit de r>unir [A]
+les gens une fois de plus pour ramener l'harmonie et [A]
+la prosp>rit> < Ostia. [A]
+[09D2] [A]
+Wendy choisit de vivre sa vie comme [A]
+une Chevali{re d'Armure. Ses actions [A]
+donn{rent du courage < beaucoup, et elle est encore [A]
+rappel>e aujourd'hui comme la premi{re femme [A]
+capitaine d'une escouade de Chevaliers d'Armure. [A]
+[09D3] [A]
+Bien qu'< un moment il prit sa retraite [A]
+de l'arm>e, Douglas [A]
+continua de recevoir des demandes d'Etrurie [A]
+pour revenir. Incapable de refuser, il retourna [A]
+au palais pour diriger < nouveau l'Arm>e Etrurienne. [A]
+[09D4] [A]
+Wolt retourna en Lycia avec Roy [A]
+pour l'assister dans la reconstruction de son [A]
+pays natal. Bien que de nombreuses difficult>s se dressaient [A]
+devant eux, Wolt fit de son mieux pour soutenir Roy et [A]
+joua un grand r_le dans la conduite de Lycia vers la prosp>rit>. [A]
+[09D5] [A]
+Dorothy retourna dans sa ville [A]
+natale et mena une vie normale. Elle [A]
+n'>tait jamais la plus flamboyante ni la plus impressionnante [A]
+parmi ses camarades, mais peut-^tre qu'elle fut [A]
+celle qui mena la meilleure vie par la suite... [A]
+[09D6] [A]
+Klein posa son arc et [A]
+devint ambassadeur pour [A]
+l'Etrurie. Il utilisa ses capacit>s diplomatiques pour r>gler [A]
+de nombreuses affaires >trang{res. Pendant qu'il >tait en fonction, [A]
+il s'assura que l'Etrurie >tait le centre d'un [A]
+continent prosp{re. [A]
+[09D7] [A]
+Bien que l'>glise lui proposa [A]
+le poste d'Ev^que, [A]
+Saul le refusa et partit seul, [A]
+servant le peuple < sa mani{re. Il y a [A]
+de nombreuses histoires sur son comportement... [A]
+[09D8] [A]
+Elen retourna < Biran avec [A]
+Guinevere pour reconstruire une [A]
+terre ravag>e par la guerre, et pour r>unir un peuple [A]
+d>vast> par la d>faite. Son travail acharn> et sa nature [A]
+bienveillante lui valurent le titre, [A]
+"La Sainte de Biran." [A]
+[09D9] [A]
+Yodel continua de r>pandre [A]
+la foi de l'Eglise Elimine. [A]
+Il finit par atteindre le poste [A]
+d'Archev^que, mais ne laissa jamais son pouvoir [A]
+l'aveugler face < ceux dans le besoin. [A]
+[09DA] [A]
+Apr{s la guerre, Chad abandonna [A]
+le vol. Il voyagea < travers [A]
+le continent et d>dia sa vie < aider [A]
+les enfants orphelins. Peu de gens pouvaient deviner [A]
+de ses actions qu'il avait commenc> comme un voleur. [A]
+[09DB] [A]
+Karel se retira dans un petit [A]
+village dans les montagnes de [A]
+Biran et v>cut sa vie en paix. Bien que de nombreux [A]
+>p>istes vinrent < lui pour des conseils, il n'enseigna [A]
+jamais directement < aucun d'eux. [A]
+[09DC] [A]
+Fir repartit < nouveau pour [A]
+voyager autour du monde [A]
+en formation. Son nom finit par se r>pandre [A]
+< travers le continent comme la prochaine Sainte Ep>e, et [A]
+ses l>gendes furent racont>es pendant des si{cles < venir. [A]
+[09DD] [A]
+Apr{s la guerre, Rutger [A]
+disparut. Beaucoup affirm{rent [A]
+l'avoir vu autour d'Elibe, mais [A]
+aucun d'eux n'avait de preuve solide. Aujourd'hui, [A]
+son nom n'appara|t que dans les archives de cette guerre... [A]
+[09DE] [A]
+Dieck dissout sa [A]
+bande de mercenaires et [A]
+partit voyager seul. Apr{s cela, il [A]
+continua de participer < diverses batailles. [A]
+Il laissa de nombreuses l>gendes derri{re lui... [A]
+[09DF] [A]
+Garret abandonna la banditisme [A]
+et mena une vie normale. [A]
+Il travailla et s'occupa de ses cultures tout comme [A]
+n'importe quel villageois ordinaire le ferait. Il ne [A]
+prit jamais une arme < nouveau apr{s la fin de la guerre. [A]
+[09E0] [A]
+De retour < Pherae [A]
+avec Roy, Alan proc>da [A]
+< aider son ma|tre < reconstruire la terre pi>tin>e. [A]
+Son feu et sa volont> puissante inspir{rent beaucoup et [A]
+leur donn{rent un nouvel espoir de vivre. [A]
+[09E1]
+De retour A Pherae
+avec Roy, Lance a continu>
+d'aider son ma|tre A reconstruire la terre pi>tin>e.
+Ne perdant jamais son calme, il a jou> un r_le
+majeur pour ramener Pherae A la paix. [A]
+[09E2]
+Percival est revenu en Etrurie
+o} il est devenu le
+nouveau Grand G>n>ral. Il a ensuite continu> A gravir
+les >chelons de la gloire. Son nom est
+retenu pendant des ann>es comme le mod{le du Chevalier Etrurien. [A]
+[09E3]
+Apr{s avoir dit qu'elle
+retournerait A Nabata,
+Igrene a disparu. Il y a des r>cits de gens la voyant
+dans divers endroits autour d'Elibe, mais personne
+ne sait o} ni comment elle a v>cu le reste de sa
+vie. [A]
+[09E4]
+Marcus a finalement pris sa retraite
+en revenant A Pherae.
+Bien qu'il ait essay> de vivre en paix, il n'a jamais
+pu se d>barrasser du flot incessant de chevaliers
+aspirants suppliant de ses conseils. [A]
+[09E5]
+Apr{s la guerre, le nom d'Asthor
+a disparu des
+archives. Les l>gendes disent qu'il a travaill> A reconstruire
+Ostia, mais rien d'autre sur lui n'est connu. [A]
+[09E6]
+De retour chez lui,
+Ward a travaill> A cultiver
+et d>velopper la nature sauvage des |les. Son
+travail a >t> transmis < travers de nombreuses g>n>rations pour
+b[tir la plus grande ville des Îles de l'Ouest. [A]
+[09E7]
+De retour chez lui,
+Lott a >pous> son ami d'enfance
+et a men> une vie >panouie mais modeste.
+Bien qu'il ait jou> un r_le majeur dans la guerre,
+il parlait rarement de cela ouvertement. [A]
+[09E8]
+De retour chez lui,
+Bartre a ouvert un petit bar.
+Sa personnalit> joyeuse a assur> le succ{s, mais ce qui
+attirait vraiment les clients, ce sont
+les histoires qu'il avait A raconter sur sa bravoure en
+bataille. [A]
+[09E9]
+Lugh a construit une >cole de magie
+l< o} se trouvait
+l'orphelinat. Il a accueilli des orphelins et
+d'autres enfants d>favoris>s et leur a appris la magie
+comme moyen de vivre. [A]
+[09EA]
+De retour chez elle, Lilina
+est devenue la Marquise d'Ostia
+et a >pous> Roy peu de temps apr{s.
+Ensemble, Roy et Lilina ont uni Lycia
+et cr>> le Royaume de Lycia, une nation
+b>nie de prosp>rit> et d'harmonie. [A]
+[09EB]
+De retour chez elle, Lilina
+est devenue la Marquise d'Ostia
+et a consacr> son temps A reconstruire sa terre. Elle
+a ensuite reconstruit l'Alliance de Lycia pour cr>er le
+Royaume de Lycia, une nation paisible. [A]
+[09EC]
+Bien que de nombreuses nations aient cherch>
+son service, Hugh a d>clin>
+toutes les offres et a men> sa propre vie. Il >tait toujours
+un casse-pieds en ce qui concerne l'argent, mais ses capacit>s
+magiques lui ont permis de graver son nom dans
+l'histoire. [A]
+[09ED]
+Niime est retourn>e A sa maison isol>e
+dans les montagnes et
+a poursuivi ses recherches. On dit qu'elle
+a r>solu de nombreux myst{res du monde, mais nous ne pouvons
+jamais le savoir avec certitude car elle n'a laiss> aucun document. [A]
+[09EE]
+Ray a voyag> dans le monde, perfectionnant
+ses comp>tences magiques. Bien que
+la magie noire ait >t> presque oubli>e, les efforts de Ray
+l'ont ramen>e A l'attention des gens. Il >tait
+connu pour ^tre dur avec lui-m^me et les autres. [A]
+[09EF]
+Lalum a continu> A voyager autour
+du monde en tant que danseuse.
+Sa danse >nergique a touch> le cœur de
+beaucoup, et son style a >t> transmis
+< travers de nombreuses g>n>rations jusqu'A ce jour. [A]
+[09F0]
+Lalum a accompagn> Roy A Pherae,
+o} ils se sont mari>s. Beaucoup expriment
+leur m>contentement A l'id>e d'introduire une femme
+d'origines inconnues dans la famille, mais Lalum
+a continu> A vivre heureusement avec Roy. [A]
+[09F1]
+De retour A Edessa,
+Yuno a travaill> A r>unir les
+Chevaliers P>gase. Plus tard, on lui a demand> de diriger
+la nouvelle escouade, mais elle a refus> et a men> le reste
+de sa vie heureusement avec Zealot. [A]
+[09F2]
+Tate est revenue A Ilia, o}
+elle a travaill> A r>unir les
+Chevaliers P>gase divis>s. Son travail
+assidu et son leadership ont port> leurs fruits, et les Chevaliers
+P>gase ont progressivement retrouv> leur ancienne gloire. [A]
+[09F3]
+Apr{s la guerre, Thany a
+>t> faite chevali{re et est devenue une
+Chevali{re P>gase < part enti{re. Tout au long de sa carri{re,
+elle a servi comme lieutenant et chef d'escouade, et
+finalement au poste de Chef de Vol. [A]
+[09F4]
+Thany a abandonn> le chemin d'une
+Chevali{re P>gase et est partie [A]
+vers Pherae avec Roy, oA ils se sont mariA. [A]
+Reconstruire le pays Ait un dur processus, mais elle [A]
+encourageA les gens A aider Lycia A [A]
+la prospAritA. [A]
+[09F5]
+Zeiss a aidA Guinevere A [A]
+reconstruire Biran, et alors qu'il [A]
+montait en grade, il Ait Ait critiquA pour son soutien A [A]
+Etruria, mais sa loyautA A Guinevere couplA A [A]
+l'aide de Guinevere lui a valu le respect de ses pairs. [A]
+[09F6]
+AprA la guerre, Elphin [A]
+disparut sans laisser de trace. [A]
+Plusieurs mois plus tard, une annonce officielle [A]
+fut faite en Etruria que le Prince Mildain Ait [A]
+toujours en vie. [A]
+[09F7]
+Cath se mit en route pour voyager [A]
+dans le monde aprA la guerre. [A]
+Elle continua de donner aux pauvres tout en [A]
+exposant les secrets des nobles et [A]
+marchands avares. Son nom reste dans l'histoire comme le [A]
+"MaAtre Voleur." [A]
+[09F8]
+Sophia accompagna Roy [A]
+vers Pherae, oA ils [A]
+se mariA. Bien qu'elle n'Ait jamais Ait trA sA [A]
+bavarde, ses dA cisions avisAes jouA rent un rA le majeur dans la [A]
+reconstruction de Lycia. [A]
+[09F9]
+AprA son retour A Nabata, [A]
+Sophia disparut. Il n'y [A]
+a pas de traces de ce qui est arrivA A Nabata [A]
+aprA la guerre, donc personne ne sait comment Sophia [A]
+a menA sa vie par la suite... [A]
+[09FA]
+Miledy rentra chez elle avec [A]
+Guinevere pour aider A reconstruire le [A]
+nouveau Royaume de Biran. Sa volontA inflexible et son dur [A]
+travail valurent A Guinevere le respect qu'elle mAritA, et Biran [A]
+commenA A retrouver sa prospAritA d'antan. [A]
+[09FB]
+Quand Gonzales rentra chez [A]
+lui dans les Isles de l'Ouest, [A]
+il ne fut pas accueilli par des pierres ou des mots [A]
+durs. Au lieu de cela, les gens acclamA rent le retour [A]
+d'un hA ro. [A]
+[09FC]
+Voulant tester ses [A]
+capacitA s, Noah quitta [A]
+le groupe de Zealot et voyagea dans le monde en tant que [A]
+mercenaire solitaire. Bien que plusieurs nations lui aient [A]
+offert des postes dans leurs armAes, il les [A]
+a tous refusA. [A]
+[09FD]
+Treck resta dans le groupe de Zealot, [A]
+oA il continua [A]
+A se battre en tant que mercenaire. Bien qu'il [A]
+dorme la moitiA du temps, en bataille, il [A]
+dA molissait toujours tous ceux qui osaient se [A]
+dresser sur son chemin. [A]
+[09FE]
+Zealot retourna A Ilia, [A]
+oA il travailla A [A]
+reconstruire le pays ruinA. Il unifia finalement [A]
+les Chevaliers d'Ilia en le Royaume d'Ilia [A]
+et il laissa son nom comme le premier [A]
+roi de la nation. [A]
+[09FF]
+AprA qu'Echidna rentra [A]
+chez elle dans les Isles de l'Ouest, [A]
+les gens Ataient ravis du retour de leur [A]
+hA ro. Son dur travail unit les Isles en [A]
+une nouvelle nation, l'Union Ouest. [A]
+[0A00]
+Cecilia rentra chez elle et [A]
+aida A reconstruire Etruria. [A]
+Son jugement calme et son leadership jouA rent un rA le [A]
+dans la direction d'Etruria vers la prospAritA une fois de plus. [A]
+AprA sa mort, elle Ait connue comme la "Dame [A]
+d'Etruria." [A]
+[0A01]
+Cecilia accompagna Roy A [A]
+Pherae, oA elle aida [A]
+A reconstruire le pays endommagA. Elle finit par >pouser [A]
+Roy, continuant de lui offrir un soutien proche et [A]
+de l'aide en tant que Duchesse de Pherae. [A]
+[0A02]
+Geese rouvrit ses routes [A]
+commerciales, oA il commença A [A]
+retrouver ses profits. Il fit de grandes donations [A]
+aux Isles de l'Ouest, aidant grandement au [A]
+dA veloppement de la rA gion. Cet acte fit de lui le [A]
+"Souverain des Mers." [A]
+[0A03]
+Oujay continua de voyager [A]
+dans le monde en tant que merc- [A]
+enaire et son nom se rA pandit progressivement [A]
+sur le Continent comme un grand guerrier. M^me dans sa [A]
+gloire, il garda le plus grand respect pour ses camarades [A]
+de guerre. [A]
+[0A04]
+TravaillA A reconstruire [A]
+Pherae. [A]
+[0A05]
+Retourna en Etruria. [A]
+[0A06]
+Disparut sans laisser de [A]
+trace. [A]
+[0A07]
+Rejoignit un nouveau clan A Sacae. [A]
+[0A08]
+Rentra chez elle. [A]
+[0A09]
+Renaissa son ancien [A]
+clan. [A]
+[0A0A]
+Reconstruisit l'ArmA [A]
+Ostienne. [A]
+[0A0B]
+TravaillA pour reconstruire Ostia.
+[0A0C]
+V>cut comme un Armure
+Chevalier.
+[0A0D]
+Retrait> pour vivre
+paisiblement.
+[0A0E]
+Aida A reconstruire Pherae.
+[0A0F]
+Retourna A sa vieille
+vie.
+[0A10]
+Devint l'Ambassadeur
+Etrurien.
+[0A11]
+Devint un missionnaire.
+[0A12]
+TravaillA pour reconstruire Biran.
+[0A13]
+R>pandit la parole
+d'Elimine.
+[0A14]
+TravaillA pour aider les orphelins.
+[0A15]
+Retrait> dans un village
+en Biran.
+[0A16]
+Continua A s'entra|ner.
+[0A17]
+Disparut comme le vent.
+[0A18]
+Continua son chemin de
+mercenaire.
+[0A19]
+V>cut une vie normale.
+[0A1A]
+Aida A reconstruire Pherae.
+[0A1B]
+Aida A reconstruire Pherae.
+[0A1C]
+Monta au sommet de
+son arm>e.
+[0A1D]
+Disparut en Nabata.
+[0A1E]
+Appr>cia la vie de retrait>.
+[0A1F]
+Disparut sans laisser de trace.
+[0A20]
+D>veloppa les Isles
+Occidentales.
+[0A21]
+Retourna chez lui pour vivre
+heureux.
+[0A22]
+Ouvrit un petit bar.
+[0A23]
+Construisit une >cole pour
+orphelins.
+[0A24]
+TravaillA pour reconstruire Ostia.
+[0A25]
+Continua ses >tudes
+en magie.
+[0A26]
+Disparut dans les
+montagnes.
+[0A27]
+Voyagea dans le monde.
+[0A28]
+Resta une danseuse.
+[0A29]
+TravaillA sur les
+Chevaliers P>gase.
+[0A2A]
+Devint le nouveau
+Chef de vol.
+[0A2B]
+Retourna chez lui et
+fut fait chevalier.
+[0A2C]
+Aida Guinevere
+A reconstruire Biran.
+[0A2D]
+Disparut avant que quiconque
+ne remarque.
+[0A2E]
+Voyagea dans le monde
+comme un voleur.
+[0A2F]
+Retourna en Nabata.
+[0A30]
+Aida Guinevere
+A reconstruire Biran.
+[0A31]
+Retourna aux
+Isles Occidentales.
+[0A32]
+Se mit en route pour
+tester sa force.
+[0A33]
+Resta un
+chevalier mercenaire.
+[0A34]
+Aida A reconstruire Ilia.
+[0A35]
+Retourna aux
+Isles Occidentales.
+[0A36]
+TravaillA pour reconstruire
+Etrurie.
+[0A37]
+Rouvrit ses routes
+commerciales.
+[0A38]
+Voyagea comme
+un mercenaire.
+[0A39]
+Prince Pheraen.
+[0A3A]
+Troubadour
+[0A3B]
+Dragon Divin
+[0A3C]
+Nomade
+[0A3D]
+Nomade
+[0A3E]
+Loup Argent
+[0A3F]
+Armure
+[0A40]
+Armure Chaleureuse
+[0A41]
+Armure
+[0A42]
+G>n>ral
+[0A43]
+Archer Pheraen
+[0A44]
+Archer
+[0A45]
+Tireur d'>lite
+[0A46]
+Pr^tre
+[0A47]
+Pr^tresse
+[0A48]
+Pr^tre
+[0A49]
+Voleur
+[0A4A]
+Ma|tre d'Ep>e
+[0A4B]
+Myrmidon
+[0A4C]
+Myrmidon
+[0A4D]
+Mercenaire
+[0A4E]
+Berserker
+[0A4F]
+Chevalier Enflamm>
+[0A50]
+Chevalier Vert
+[0A51]
+G>n>ral Chevalier
+[0A52]
+Tireur d'>lite
+[0A53]
+V>t>ran Pherae
+[0A54]
+Voleur
+[0A55]
+Combattant
+[0A56]
+Combattant
+[0A57]
+Poings de Fureur
+[0A58]
+Enfant Anima
+[0A59]
+Seigneur El>gant
+[0A5A]
+Mage Voyageur
+[0A5B]
+Ermite Montagnard
+[0A5C]
+Enfant des T>n{bres
+[0A5D]
+Danseur Charmant
+[0A5E]
+Ailes L>gendaires
+[0A5F]
+Cavalier du Vent
+[0A60]
+Plumes de Raison
+[0A61]
+Foudre Noire
+[0A62]
+Chercheur de V>rit>
+[0A63]
+Ma|tre Voleur
+[0A64]
+Proph{te Nabata
+[0A65]
+Ailes Cramoisies
+[0A66]
+Bandit Doux
+[0A67]
+Chevalier de la Libert>
+[0A68]
+Chevalier Passif
+[0A69]
+Leader Chevalier
+[0A6A]
+D>esse de l'Ouest
+[0A6B]
+Enfant du Royaume
+[0A6C]
+R{gle de la Mer
+[0A6D]
+Petit H>ros
+[0A6E]
+Titre1
+[0A6F]
+Hommes et Dragons vivaient en harmonie
+sur cette terre. Cependant, cette harmonie
+fut bris>e lorsque les hommes soudainement
+commenc{rent < envahir. Dans une grande guerre
+connue plus tard sous le nom de la Purge, les
+deux camps se battirent pour la domination du
+continent. Les lois de la nature furent
+tordues par les vastes quantit>s de
+pouvoir qui furent lib>r>es...
+Les Dragons furent vaincus et
+disparurent de la face du continent.
+L'humanit> commença alors < r>pandre ses
+forces < travers le pays pour peupler la terre.
+Et maintenant, 1000 ans plus tard...
+[0A70]
+[0A71]
+Les hommes et les Dragons vivaient en harmonie
+sur cette terre. Cependant, cette harmonie
+fut bris>e quand les hommes soudainement
+commenc{rent < envahir. Dans une grande guerre
+connue plus tard sous le nom de la Purge, les
+deux camps se battirent pour le contr_le du
+continent. Les lois de la nature furent
+tordues par les vastes quantit>s de
+pouvoir qui furent lib>r>es...
+Les Dragons furent vaincus et
+disparurent de la face du continent.
+L'humanit> commença alors < >tendre ses
+forces < travers le pays pour peupler la terre.
+Et maintenant, 1000 ans plus tard...
+[0A72]
+La Purge...
+La grande guerre entre Dragons et hommes...[A]
+[0A73]
+Les Dragons furent vaincus
+et disparurent d'Elibe...[A]
+[0A74]
+L'humanit> c>l>bra la victoire et puis
+>tendit ses forces < travers le continent...[A]
+[0A75]
+1000 ans se sont >coul>s...[A]
+[0A76]
+Les peuples du continent Elibe ont
+r>pandu technologie et civilisation[A]
+depuis un certain temps maintenant, apr{s que
+les Dragons aient >t> vaincus dans la Purge.[A]
+[0A77]
+A l'ouest se trouve le royaume d'
+Etruria, qui a le plus haut niveau de[A]
+civilisation en Elibe.[A]
+[0A78]
+Le Royaume de Biran, avec une puissante
+arm>e et une attitude pratique et pragmatique[A]
+sur la vie, est situ> < l'est.[A]
+[0A79]
+Ce sont les deux nations les plus fortes en Elibe,
+et les nations inf>rieures se trouvent entre[A]
+elles.[A]
+[0A7A]
+Il y a l'Alliance Lycienne, qui est sous
+la relation conjointe de divers marquis.[A]
+[0A7B]
+Les gens de l'Union des Chevaliers d'Ilia
+travaillent dur < cultiver les terres enneig>es[A]
+au nord.[A]
+[0A7C]
+Dans Sacae vivent divers clans qui chevauchent
+< travers les plaines < cheval.[A]
+[0A7D]
+Bien qu'il y ait eu des affrontements
+occasionnels entre les Etats-nations, il y avait un[A]
+sentiment g>n>ral d'>quilibre des pouvoirs et de
+paix en Elibe.[A]
+Cependant, cet >quilibre fut soudainement
+perturb>...[A]
+[0A7E]
+Le roi Zephiel, dirigeant du Royaume de Biran,
+a envoy> ses forces pour conqu>rir le reste[A]
+d'Elibe.[A]
+[0A7F]
+Les forces de Biran envahirent Sacae et Ilia et
+massacr{rent sans piti> tous ceux qui se[A]
+dressaient contre eux.[A]
+Et maintenant, Biran a montr> des signes d'invasion
+de l'Alliance Lycienne.[A]
+[0A80]
+Un jeune nomm> Roy se trouvait dans le plus
+grand territoire de Lycia, Ostia.[A]
+[LoadOverworldFaces]Il a >t> envoy> comme >tudiant
+transf>r> pour s'entra|ner < devenir le prochain
+marquis de Pherae.[A]
+Cependant, [LoadOverworldFaces]Eliwood, qui est tomb> malade,
+a demand> < Roy de rentrer chez lui.[A]
+[0A81]
+[LoadOverworldFaces]Juste < ce moment-l<, Lilina, la[LoadOverworldFaces]
+fille d'Hector, avait voyag> < Lycia[A]
+pour rendre hommage < Eliwood.[A]
+[0A82]
+Apr{s avoir reçu le message, Roy se d>p^cha
+de rentrer chez lui, emportant avec lui ses fid{les[A]
+chevaliers et [LoadOverworldFaces]Bors, un chevalier d'Ostia
+responsable de la s>curit> de Lilina.[A]
+[0A83]
+L'histoire commence quand Roy atteignit une
+zone < la p>riph>rie de Pherae...[A]
+[0A84]
+[0A85]
+[0A86]
+[0A87]
+[0A88]
+[0A89]
+Il y a un petit village < la fronti{re
+de Pherae et Biran.[A]
+C'est ici que Roy devait rencontrer le
+[LoadOverworldFaces]groupe de mercenaires qu'Eliwood avait engag>[A]
+pour lui.[A]
+[0A8B]
+Juste < l'est du village se trouve un petit ch[teau
+occup> par les forces de Biran.[A]
+Quand Roy atteignit le village,
+le ch[teau >tait dans un >tat chaotique.[A]
+Roy n'avait pas encore appris que la confusion
+qui se d>roulait dans le ch[teau allait[A]
+causer des turbulences dans tout Elibe...[A]
+[0A8C]
+[0A8D]
+[0A8E]
+[0A8F]
+Juste au nord du territoire de Pherae
+se dresse le Ch[teau Araphen.[A]
+L'Alliance Lycienne s'>tait rassembl>e ici pour
+discuter des questions d'affrontement contre[A]
+Biran.[A]
+Cependant, [LoadOverworldFaces]Roy[LoadOverworldFaces] et [LoadOverworldFaces]Guinevere n'>taient qu'< moiti>[A]
+d'un jour du Ch[teau Araphen, quand un[A]
+messager leur apporta des nouvelles qu'ils[A]
+ne pouvaient pas croire.[A]
+Le message >tait ceci :[A]
+"Biran a un trio de g>n>raux d'>lite
+appel>s les Trois Seigneurs Dragons."[A]
+[0A90]
+[LoadOverworldFaces]Deux de ces trois, le G>n>ral Brenya et
+[LoadOverworldFaces]le G>n>ral Narshen, ont attaqu> le[A]
+Ch[teau Araphen et ont presque d>cim>[A]
+l'Arm>e de l'Alliance de Lycia.[A]
+[0A91]
+Bien que le moral de l'Arm>e de Pherae[A]
+ait fortement baiss>, [LoadOverworldFaces]Roy a men> son[A]
+groupe vers le Ch[teau Araphen pour[A]
+trouver des survivants et v>rifier[A]
+les d>g[ts.[A]
+[0A92]
+[0A93]
+[0A94]
+[0A95]
+[0A96]
+[0A97]
+Respectant les derniers souhaits d'Hector,[A]
+Roy se dirigea vers l'ouest en direction[A]
+d'Ostia.[A]
+[LoadOverworldFaces]En chemin, [LoadOverworldFaces]Roy traverse[A]
+le territoire de Laus, gouvern> par[A]
+[LoadOverworldFaces]Lord Eric.[A]
+A premi{re vue, Laus est un territoire[A]
+paisible avec de vastes prairies et des[A]
+ruisseaux clairs,[A]
+mais il y avait de grandes manigances[A]
+se d>roulant en coulisses...[A]
+[0A99]
+Lord Eric, Marquess de Laus, avait[A]
+travaill> avec Biran contre ses alli>s[A]
+de Lycia.[A]
+Cela a donn> < [LoadOverworldFaces]Roy un choc[A]
+suppl>mentaire.[A]
+Lycia, o} Roy avait grandi, n'>tait[A]
+plus un endroit sûr non plus.[A]
+[LoadOverworldFaces]En route pour Ostia, Roy d>cida de[A]
+passer par les montagnes o} les gens[A]
+>vitent rarement les ennuis inutiles.[A]
+[0A9A]
+[0A9B]
+[0A9C]
+[0A9D]
+[0A9E]
+[0A9F]
+Apr{s avoir pris [LoadOverworldFaces]Saul, un pr^tre[A]
+de l'Eglise Elimine, et [LoadOverworldFaces]Dorothy, sa[A]
+garde du corps dans leurs rangs, [LoadOverworldFaces]Roy[A]
+et son groupe travers{rent les montagnes[A]
+et entr{rent dans les terres de [LoadOverworldFaces]Thria,[A]
+situ>es au sud-est d'Ostia.[A]
+Thria est gouvern>e par Lord Orun, un[A]
+demi-fr{re de Lord Hector.[A]
+[0AA0]
+Le ch[teau d'Orun semblait ^tre un[A]
+endroit sûr pour Roy.[A]
+[0AA1]
+Cependant, Biran avait aussi son emprise[A]
+sur les terres de Thria...[A]
+[0AA2]
+[0AA3]
+[0AA4]
+[0AA5]
+En entendant parler de la r>bellion,[A]
+Roy acc>l>ra le pas vers Ostia.[A]
+[0AA6]
+Selon les informations qu'il avait[A]
+recueillies en chemin, [LoadOverworldFaces]le G>n>ral[A]
+Leygance, un des conseillers de Lord Hector,[A]
+avait commenc> une r>bellion avec[A]
+[LoadOverworldFaces]le Lieutenant Devias pour vendre[A]
+Ostia < Biran.[A]
+[0AA7]
+Lilina avait >t> captur>e et prise[A]
+en otage par Leygance. Elle fut[A]
+ensuite emprisonn>e dans le Ch[teau[A]
+Ostia, car Leygance pensait[A]
+qu'il pourrait l'utiliser pour quelque[A]
+chose plus tard.[A]
+[0AA8]
+En entendant ce rapport, Roy et son[A]
+groupe entr{rent < Ostia dans un[A]
+effort pour sauver Lilina.[A]
+[0AA9]
+Ostia, la plus grande et la plus active[A]
+ville de Lycia, allait devenir un[A]
+champ de bataille, teint> de sang...[A]
+[0AAA]
+[0AAB]
+[0AAC]
+[0AAD]
+[0AAE]
+L'arm>e d'Ostia se compose principalement[A]
+de soldats en armure lourde,[A]
+tels que les Chevaliers d'Armure et les[A]
+G>n>raux.[A]
+[LoadOverworldFaces]Avec eux, les d>fenses du Ch[teau[A]
+Ostia ont toujours >t> incroyablement[A]
+fortes.[A]
+Depuis longtemps, le ch[teau est[A]
+r>put> "inconqu>rable."[A]
+Cependant, cette rumeur allait[A]
+^tre prouv>e fausse.[A]
+Par [LoadOverworldFaces]Roy, qui, ironiquement, souhaitait[A]
+prot>ger le ch[teau.[A]
+[0AAF]
+[0AB0]
+[0AB1]
+[0AB2]
+[0AB3]
+[0AB4]
+[0AB5]
+[0AB6]
+Lilina leur montra une caverne
+en p>riph>rie d'Ostia,[A]
+o} la premi{re Arme Divine >tait cach>e.[A]
+La caverne, situ>e au pied d'un volcan,
+allait ^tre une >preuve majeure pour Roy.[A]
+[0AB8]
+[0AB9]
+[0ABA]
+Apr{s avoir chass> le G>n>ral Narshen d'
+Ostia, [LoadOverworldFaces]Roy et son groupe se pr>paraient[A]
+< d'autres attaques de [LoadOverworldFaces]Biran.[A]
+Cependant, le mouvement belliqueux de Biran
+vers Lycia s'est soudainement arr^t>,[A]
+comme pour se moquer de Roy et sa prudence.[A]
+Biran maintenait aussi une position neutre
+concernant l'offre de tr^ve[A]
+d'Etruria.[A]
+Le silence soudain de Biran et son manque de
+d'activit> ne pouvaient ^tre d>crits que comme >tranges.[A]
+[0ABB]
+Avec Hector parti, Eliwood >tait maintenant le
+seul pouvoir durable en Lycia.[A]
+Eliwood convoqua les diff>rents marquis <
+Pherae pour discuter de leurs actions futures.[A]
+[LoadOverworldFaces]Il fut d>cid> qu'Eliwood devait
+devenir le prochain leader de l'Alliance de Lycia[A]
+et qu'une nouvelle Arm>e de l'Alliance de Lycia serait
+>tablie.[A]
+Le but de cette nouvelle arm>e n'>tait pas de
+prendre l'offensive contre Biran, mais[A]
+plut_t d'adopter une posture d>fensive pour Lycia.
+Pour sa victoire contre Biran < Ostia,[A]
+[LoadOverworldFaces]Roy fut choisi pour ^tre le leader de
+la nouvelle arm>e de l'Alliance de Lycia.[A]
+[0ABC]
+Lentement mais sûrement, le peuple de Lycia
+commençait < se redresser.[A]
+Les affaires s'am>lioraient, et les
+attitudes des gens devenaient plus optimistes.[A]
+A cette >poque, Etruria demanda l'aide de Lycia
+pour d>barrasser les [LoadOverworldFaces]Îles de l'Ouest des
+hors-la-loi et bandits qui y faisaient base[A]
+l<.[A]
+[0ABD]
+Les citoyens de Lycia exprim{rent leur m>contentement
+en disant qu'ils ne voyaient aucune raison d'envoyer[A]
+des troupes jusqu'aux Îles de l'Ouest, mais
+parce que Lycia avait besoin de la protection d'Etruria[A]
+contre Biran, ils n'avaient d'autre choix que de
+se plier.[A]
+[LoadOverworldFaces]Ainsi, Roy et l'Arm>e de l'Alliance de Lycia
+travers{rent Etruria et se dirig{rent[A]
+vers les Îles de l'Ouest.[A]
+[0ABE]
+Les Îles de l'Ouest sont les diverses
+|les au large de la c_te ouest d'Elibe.[A]
+Actuellement, elles sont des colonies d'Etruria.
+Les Îles de l'Ouest sont riches en min>raux[A]
+et ressources naturelles, donc l'exploitation[A]
+mini{re est une industrie majeure. Cependant, ces
+min>raux valent une fortune,[A]
+donc divers [LoadOverworldFaces]groupes de hors-la-loi ont voyag>
+l<-bas esp>rant piller les mines[A]
+et vendre les min>raux pour eux-m^mes.[A]
+Ainsi, les habitants des Îles de l'Ouest
+passent leurs journ>es dans une peur constante[A]
+des attaques de bandits.[A]
+Et Roy avait >t> envoy>
+pour vaincre ces bandits.[A]
+[0ABF]
+Roy accompagna Cecilia < la
+capitale d'Etruria, Aquleia.[A]
+[0AC0]
+Apr{s avoir d>battu de la position de Roy et Guinevere,
+la Cour d'Etruria d>cida[A]
+[0AC1]
+qu'ils n'avaient aucune raison d'attaquer Biran
+lorsqu'ils n'avaient pas subi d'offense directe.[A]
+[0AC2]
+Guinevere devait rester sous la protection
+d'Etruria < Aquleia, et l'Arm>e[A]
+de l'Alliance de Lycia devait ^tre une ind>pendante
+[0AC3]
+escouade sous l'Arm>e d'Etruria.
+Pour tester sa valeur, Etruria envoya Roy[A]
+[0AC4]
+vers les Îles de l'Ouest, o} sa
+mission >tait de d>barrasser les |les[A]
+[0AC5]
+des bandits l<-bas. Les Îles
+de l'Ouest sont un archipel sous[A]
+[0AC6]
+la protection d'Etruria, situ> < l'ouest
+du continent. De nombreuses entreprises[A]
+[0AC7]
+mini{res ont fleuri, essayant
+de monopoliser les riches min>raux qui[A]
+[0AC8]
+se trouvent dans les sols des |les. Cependant,
+les richesses attir{rent de nombreux bandits,[A]
+[0AC9]
+et les gens vivaient dans
+une peur constante d'eux...[A]
+[0ACA]
+3 |les s>par>esア Fibirania,[LoadOverworldFaces][A]
+[0ACB]
+Caledonia,[LoadOverworldFaces][A]
+[0ACC]
+[LoadOverworldFaces]et Dia.[A]
+Toutes ces |les sont riches
+en ressources min>rales,[A]
+et l'exploitation mini{re est devenue une grande industrie.[A]
+La plus grande mine est situ>e <
+[LoadOverworldFaces]Mt. Ebrakhm, au nord de Fibirania.[A]
+[LoadOverworldFaces]Roy tourna ses forces vers
+Ebrakhm esp>rant rassembler des informations
+[A]sur les bandits.[A]
+[0ACD]
+Pour atteindre Mt. Ebrakhm, il faut aller
+passE le chAteau situE en [A]
+vallE d'Ebrakhm.[A]
+Donc, Roy envoya un messager vers [LoadOverworldFaces]Nord,[A]
+le propriEtAire du chAteau, pour obtenir
+la permission de traverser ses terres.[A]
+Puisque Roy et son groupe y >taient en raison
+d'une demande officielle d'Etruria,[A]
+ils ne pensaient pas qu'obtenir le soutien de Nord[A]
+serait aussi difficile.[A]
+[0ACE]
+Roy ne pouvait pas croire l'histoire de Lalum.[A]
+Il r>digea rapidement une lettre pour [LoadOverworldFaces]Cecilia
+lui faisant part des horreurs qui se passaient[A]
+sur les Iles de l'Ouest.[A]
+Il lui fit aussi savoir les actions qu'il[A]
+pr>voyait de prendre dor>navant.[A]
+Apr{s avoir envoy> la lettre, Roy et
+son groupe se dirig{rent vers la mine en[A]
+[LoadOverworldFaces]Mt. Ebrakhm pour essayer de sauver les gens[A]
+[0ACF]
+souffrant de travail forc>.[A]
+Etruria avait assign> [LoadOverworldFaces]Bishop Oro
+de l'Eglise Elimine pour superviser[A]
+la mine.[A]
+D>j< une grande quantit> de min>raux avait >t>
+prise, mais il semblait qu'ils en voulaient plus..[A]
+[0AD0]
+Ebrakhm... connu maintenant comme la Mine de la Mort.[A]
+Les cris des gens forc>s au travail
+l<-bas r>sonnent < travers les mines, comme[A]
+le hurlement des fant_mes...[A]
+[0AD1]
+[0AD2]
+[0AD3]
+[0AD4]
+Pour obtenir des informations des
+forces de r>sistance sur les bandits[A]
+[LoadOverworldFaces]sur les Iles de l'Ouest, Roy et son groupe
+se dirig{rent vers l'ouest le long de la c_te.[A]
+[0AD5]
+En chemin, ils tomb{rent sur[A]
+un petit village pris dans un conflit
+constant entre le groupe de r>sistance[A]
+et le propri>taire terrien essayant de se
+d>barrasser d'eux.[A]
+[0AD6]
+[0AD7]
+[0AD8]
+L'Arm>e de l'Alliance de Lycia prit Elphin comme
+tacticien.[A]
+[LoadOverworldFaces]Suivant ses conseils, ils se dirig{rent vers le sud[A]
+vers l'|le de Caledonia.
+Caledonia est l'une des principales |les[A]
+qui composent les Iles de l'Ouest.
+Les deux autres sont Fibirania et Dhia.[A]
+[LoadOverworldFaces]Le chAteau Idina est situ> sur Caledonia. Ici,
+des hommes du monde entier sont rassembl>s[A]
+[0AD9]
+et enferm>s dans des cellules de prison pour ^tre
+emmen>s vers Mt. Ebrakhm, vers les Mines de la Mort.[A]
+[0ADA]
+Lorsque Roy arriva au chAteau Idina,
+la situation semblait d>j< d>sesp>r>e...[A]
+[0ADB]
+[0ADC]
+Pour sauver les gens des Iles de l'Ouest,[A]
+Roy se dirigea vers Djuto, la plus grande
+ville de l'|le et sa capitale.[A]
+[0ADD]
+Selon Elphin, Lord Arcard, qui >tait
+charg> de superviser les Iles de l'Ouest,[A]
+>tait un Etrurien de haute noblesse, mais pas
+d'une grande importance pour le gouvernement[A]
+d'Etruria.[A]
+[0ADE]
+Roy >tait toujours inquiet de la r>ponse d'Etruria
+< son attaque de la capitale,[A]
+[LoadOverworldFaces]mais pour sauver les gens, il devait
+se d>barrasser d'Arcard le plus vite possible.[A]
+[0ADF]
+[0AE0]
+[0AE1]
+[0AE2]
+[0AE3]
+[0AE4]
+Suivant l'exemple d'Elphin, Roy
+se dirigea vers la grotte pr{s de Djuto[A]
+pour obtenir l'Arme Divine.
+[0AE5]
+Mais Roy et son groupe n'>taient pas les[A]
+seuls < conna|tre l'existence de la grotte.[A]
+Une autre bataille les attendait...[A]
+[0AE6]
+[0AE7]
+[0AE8]
+Le coup d'>tat < Aquleia s'est rapidement
+r>pandu dans le reste d'Etruria.[A]
+[0AE9]
+Cecilia s'est >chapp>e avec Guinevere d'Aquleia.
+Elle a aussi form> un groupe Anti-Coup d'>tat[A]
+et a voyag> < travers Etruria
+combattant les forces rebelles.[A]
+[LoadOverworldFaces]Cependant, les forces rebelles avaient Biran de
+leur c_t>.[A]
+[LoadOverworldFaces]Le roi Mordred avait >t> pris en otage,[A]
+ce qui a conduit [LoadOverworldFaces][LoadOverworldFaces]"Grand G>n>ral" Douglas et[A]
+[LoadOverworldFaces]"G>n>ral Chevalier" Percival < ^tre forc>s de
+rejoindre le c_t> des rebelles. Avec ces puissantes[A]
+forces de leur c_t>, les rebelles
+commenc{rent progressivement < repousser le[A]
+groupe Anti-Coup d'>tat d'Etruria.[A]
+[0AEA]
+Les forces Anti-Coup d'>tat avaient >t>
+repouss>es dans un ancien ch[teau sur l'|le[A]
+de [LoadOverworldFaces]Misul < l'ouest d'Etruria.[A]
+[0AEB]
+Roy avait appris que Cecilia avait >t>
+repouss>e par le Coup d'>tat.[A]
+[0AEC]
+En r>ponse, Roy se dirigea vers Misul.[A]
+[0AED]
+Pendant ce temps, le groupe Anti-Coup d'E[A]
+etat >tait attaqu> par une force conjointe[A]
+des forces de Coup d'etat et des troupes de[A]
+Biran.[A]
+Ce n'>tait qu'une question de temps avant[A]
+que les forces Anti-Coup d'etat soient[A]
+vaincues...[A]
+[0AEE]
+[0AEF]
+[0AF0]
+[0AF1]
+[0AF2]
+[0AF3]
+Apr{s avoir sauv> Guinevere et Cecilia, Roy[A]
+se dirigea vers le d>sert de Nabata, suivant[A]
+[LoadOverworldFaces]l'exemple de Sophia.[A]
+[0AF4]
+Selon Sophia, il y avait une[A]
+oasis cach>e dans le d>sert,[A]
+et c'est l< que se trouvait son village,[A]
+Arcadia.[A]
+Cependant, < ce moment-l<, Arcadia[A]
+>tait attaqu>e par les forces de Biran.[A]
+Leur but pourrait ^tre les Dragons[A]
+qui sont cens>s habiter le village.[A]
+[0AF5]
+Bien que l'Arm>e de l'Alliance de Lycia[A]
+se soit d>plac>e aussi vite qu'elle le pouvait[A]
+vers Arcadia,[A]
+une temp^te de sable violente se tenait[A]
+sur leur chemin.[A]
+[0AF6]
+Dans le village cach>, Arcadia,[A]
+se dresse un ancien temple.[A]
+Une des armes divines[A]
+est cens>e y ^tre cach>e.[A]
+Roy et sa compagnie furent rapides <[A]
+suivre les troupes de Biran,[A]
+qui avaient d>j< trouv> leur chemin[A]
+dans le temple...[A]
+[0AF7]
+[0AF8]
+[0AF9]
+[0AFA]
+Apr{s avoir sauv> le village cach> d'Arcadia,[A]
+l'arm>e de Roy trouva son chemin hors[A]
+du d>sert, suivant l'exemple d'Igrene.[A]
+Maintenant, ils se tourn{rent vers Etruria[A]
+pour confronter les forces de Coup d'etat.[A]
+[0AFB]
+A ce stade, un message troublant[A]
+vint de l'Elder d'Arcadia.[A]
+[0AFC]
+Apparemment, Fa, la petite fille Dragon, avait[A]
+quitt> Arcadia, suivant Roy. Si elle[A]
+tombait entre les mains des forces de[A]
+Coup d'etat ou de Biran, qui se tenait[A]
+derri{re elles, ce serait un d>sastre.[A]
+[0AFD]
+D>termin> < trouver Fa, Roy dirigea[A]
+ses forces vers un petit fort[A]
+pr{s de la fronti{re d'Etrurie.[A]
+[0AFE]
+[0AFF]
+[0B00]
+Apr{s avoir sauv> Fa,[A]
+[LoadOverworldFaces]Roy se dirigea vers Aquleia.[A]
+[0B01]
+La capitale d'Etruria,[A]
+Aquleia est aussi la plus grande,[A]
+la ville la plus prosp{re du continent.[A]
+[LoadOverworldFaces]Pr>parant l'attaque de l'Arm>e de[A]
+l'Alliance de Lycia, l'arm>e de Coup d'etat[A]
+concentra ses forces < Aquleia. A l'origine,[A]
+ils avaient pr>vu d'utiliser la garnison de[A]
+la ville pour la d>fense, mais depuis que[A]
+[LoadOverworldFaces]l'Eglise Elimine[A]
+avait rejoint le camp de Roy, l'arm>e de[A]
+Coup d'etat n'avait d'autre choix que de[A]
+se retirer au ch[teau et s'y installer[A]
+par crainte que l'Eglise n'ait encourag>[A]
+les habitants de la ville < protester.[A]
+[0B02]
+L'Eglise Elimine a >t> fond>e par "Saint[A]
+Elimine, un des Huit H>ros. Cette[A]
+organisation religieuse avait de nombreux[A]
+fid{les, principalement < [LoadOverworldFaces]Biran[A]
+et Etruria.[A]
+[LoadOverworldFaces]Roy avait gagn> le soutien de l'Eglise[A]
+pour attaquer Aquleia.[A]
+Cependant, [LoadOverworldFaces]Narshen et ses troupes[A]
+d'>lite attendaient Roy < l'int>rieur du[A]
+ch[teau.[A]
+[0B03]
+[0B04]
+[0B05]
+[0B06]
+[0B07]
+[0B08]
+[0B09]
+A la demande du roi Mordred, Roy[A]
+se dirigea vers la Tour du Saint sur[A]
+les outskirts d'Aquleia.[A]
+[LoadOverworldFaces]La Tour du Saint >tait un lieu de[A]
+culte pour Saint Elimine, un des[A]
+Huit H>ros, et dans la tour se trouvaient[A]
+divers objets saints la concernant.[A]
+Cependant, cette tour sacr>e >tait[A]
+maintenant [LoadOverworldFaces][LoadOverworldFaces]sous le contr_le[A]
+de l'Ev^que Windam,[A]
+qui s'>tait rebell> contre l'Eglise[A]
+Elimine sur ordre de Roartz.[A]
+[0B0A]
+Apr{s que Roy ait captur> Aquleia, d'autres[A]
+forces d'Etrurie afflu{rent vers le groupe[A]
+Anti Coup d'etat,[A]
+chassant la Milice de Coup d'etat.[A]
+Roartz et Arcard furent chass>s d'A[A]
+[LoadOverworldFaces]Etrurie et fuirent [LoadOverworldFaces]vers le[A]
+Le royaume d'Etrurie maintenant libre
+a rejoint ses forces avec l'Arm>e de l'Alliance[A]
+Lycia. Maintenant une force conjointe sous le[A]
+[LoadOverworldFaces]nom de l'Arm>e Etrurienne, leur[A]
+premi{re mission >tait d'entrer en Ilia pour
+finir le Coup d'>tat. Apr{s cela, ils[A]
+[LoadOverworldFaces]lanceraient des attaques directes sur Biran. [LoadOverworldFaces]Roy, nomm> chef de
+l'Arm>e Etrurienne, avait[A]
+le puissant soutien de l'
+Eglise Elimine, gagnant le[A]
+peuple de son c_t>.[A]
+[0B0D]
+Cependant, Roy devait faire face au froid
+glacial d'Ilia, ainsi qu'aux[A]
+[LoadOverworldFaces]troupes d'>lite sous le G>n>ral Murdock,[A]
+le chef des 3 Seigneurs Dragons.
+De plus, certains des puissants[A]
+Chevaliers Iliens s'>taient tourn>s vers Biran.[A]
+[LoadOverworldFaces]Pour commencer, Roy se dirigea vers le Ch[teau
+Raemy, situ> < la fronti{re d'Ilia.[A]
+[0B0E]
+[0B0F]
+[0B10]
+[0B11]
+[0B12]
+[0B13]
+[0B14]
+[0B15]
+[0B16]
+[0B17]
+Apr{s avoir vaincu Arcard, Roy se dirigea
+vers l'est, profond>ment dans les terres gel>es[A]
+d'Ilia. [LoadOverworldFaces]Bient_t, ils entr{rent dans les for^ts
+denses qui caract>risent le centre d'Ilia.[A]
+[LoadOverworldFaces]Cependant, un g>n>ral de Biran,
+l'Ev^que Martel, les attendait[A]
+[LoadOverworldFaces]avec un ancien sort qui aurait
+>t> perdu depuis des si{cles...[A]
+[0B18]
+[0B19]
+[0B1A]
+[0B1B]
+[0B1C]
+[0B1D]
+Apr{s avoir vaincu Martel et travers>
+la for^t,[A]
+[LoadOverworldFaces]Roy et son groupe affront{rent les temp^tes
+de neige qui sont communes aux hivers d'Ilia.[A]
+[LoadOverworldFaces]Le climat rigoureux d'Ilia a >t> une d>fense
+naturelle en soi contre les envahisseurs.[A]
+[LoadOverworldFaces]Coupl> avec la plus grande arme naturelle
+d'Ilia, Sigune, capitaine des Chevaliers[A]
+[LoadOverworldFaces]P>gase qui s'>taient tourn>s vers Biran, se
+pr>parait < attaquer Roy.[A]
+[0B1E]
+[0B1F]
+[0B20]
+[0B21]
+[0B22]
+Apr{s avoir vaincu Sigune,
+[LoadOverworldFaces]Roy se dirigea vers Edessa,[A]
+situ> au nord-est d'Ilia.[A]
+[0B23]
+Le Ch[teau Edessa, appartenant < [LoadOverworldFaces]Zealot, chef des
+Chevaliers Mercenaires Iliens, avait autrefois servi[A]
+de quartier g>n>ral pour les >quipes de Chevaliers[A]
+P>gase >galement.[A]
+[LoadOverworldFaces]Cependant, avec Zealot parti, Biran a vu son
+opportunit> et a attaqu> le ch[teau, forçant[A]
+les Chevaliers Mercenaires et P>gase <
+se soumettre.[A]
+Le Ch[teau Edessa >tait [LoadOverworldFaces]le quartier g>n>ral de Murdock,[A]
+mais depuis que Murdock >tait retourn> < Biran,[A]
+[LoadOverworldFaces]
+Roartz a >t> mis en charge.[A]
+Alarm> par la vitesse de l'Arm>e Etrurienne
+avançant vers Edessa,[A]
+Roartz contacta rapidement les
+diff>rents groupes de chevaliers Iliens demandant[A]
+de l'aide.
+Cependant, leurs r>ponses n'>taient pas prometteuses.[A]
+[0B24]
+[0B25]
+[0B26]
+[0B27]
+[0B28]
+[0B29]
+[0B2A]
+Apr{s avoir repris le Ch[teau Eldessa,
+Roy tourna ses troupes vers les ruines anciennes[A]
+situ>es < la p>riph>rie de la ville.
+Il y a de fortes chances qu'une[A]
+Arme Divine y soit cach>e.[A]
+[0B2B]
+[0B2C]
+[0B2D]
+[0B2E]
+Apr{s que Roy ait captur> Aquleia, d'autres Etruriens
+ont lentement commenc> < changer leurs[A]
+opinions et < exprimer leur opposition au Coup d'>tat.
+Chass>s de leur palais,[A]
+[LoadOverworldFaces]Roartz [LoadOverworldFaces]et Arcard s'enfuirent vers[LoadOverworldFaces]
+Sacae, qui >tait encore sous le contr_le de Biran.[A]
+[0B2F]
+Sacae est la vaste plaine couverte
+de terres au centre du continent.[A]
+Avant l'invasion de Biran, les diff>rentes tribus
+y menaient des vies nomades.[A]
+[0B30]
+L'arm>e Etrurienne a rejoint l'Arm>e de l'Alliance
+Lycia pour former une arm>e unie Etrurie-Lycia[A]
+La d>cision >tait de se diriger
+[LoadOverworldFaces]vers Sacae pour >liminer les[A]
+forces restantes du Coup d'>tat et aussi attaquer [LoadOverworldFaces]Biran,
+qui >tait derri{re eux.[A]
+[LoadOverworldFaces]Pensant que certains groupes de chevaliers
+Etruriens n'approuveraient pas d'^tre vus[A]
+sous l'Arm>e de l'Alliance Lycia, Roy
+nomma officiellement la nouvelle Union l'A[A]
+"Arm>e Etrurienne" et en devint le commandant.[A]
+Roy menait la division responsable[A]
+d'entrer en Sacae.[A]
+[0B31]
+Le peuple de Sacae se m>fie des >trangers
+en premier lieu, mais encore pire,[A]
+[LoadOverworldFaces]Brenya,[A]
+une autre des Trois Seigneurs Dragons,
+avait soumis la plus grande tribu de Sacae,[A]
+le clan Djute, sous soumission.
+[LoadOverworldFaces]Les guerriers du clan Djute[A]
+et les troupes d'>lite de Brenya se tenaient
+devant Roy alors qu'il foulait le sol de Sacae.[A]
+[0B32]
+[0B33]
+[0B34]
+[0B35]
+[0B36]
+[0B37]
+[0B38]
+[0B39]
+[0B3A]
+[0B3B]
+Apr{s avoir vaincu Arcard, Roy traversa
+la fronti{re et [LoadOverworldFaces]entra dans le pays de Sacae.[A]
+Apr{s l'invasion de Biran, le clan Djute,[A]
+le clan le plus puissant de Sacae, devint[A]
+son serviteur. La plupart de ces clans
+qui se sont lev>s contre les deux forces[A]
+alli>es avaient d>j< >t>
+d>cim>s.[A]
+[LoadOverworldFaces]Bien que le "Loup Argent>" Dayan,
+le chef du clan Kutolah,[A]
+ait ripost> avec des tactiques
+de gu>rilla, la situation >tait d>sesp>r>e.[A]
+[LoadOverworldFaces]Sacae >tait devenu
+un territoire de Biran.[A]
+Maintenant, alors que Roy foulait les plaines
+de Sacae, les guerriers du [LoadOverworldFaces]Djute[A]
+se tenaient sur son chemin.[A]
+[0B3C]
+[0B3D]
+[0B3E]
+[0B3F]
+[0B40]
+[0B41]
+[0B42]
+[0B43]
+Apr{s avoir vaincu le clan Djute, Roy se dirigea
+[LoadOverworldFaces]vers Bulgar, la plus grande ville de Sacae.[A]
+[0B44]
+En tant que centre de commerce entre Etruria,
+Biran et Ilia, Bulgar a eu une histoire[A]
+d'^tre une ville libre sans r{gle.
+Cependant, avec l'invasion de Biran,[A]
+[LoadOverworldFaces]
+L'Advisor Roartz avait maintenant le contr_le[A]
+de Bulgar sous la protection de Biran.[A]
+[0B45]
+[LoadOverworldFaces]Roy s'approcha de Bulgar pour le lib>rer et
+obtenir des informations utiles sur l'invasion de Biran.[A]
+[0B46]
+[0B47]
+[0B48]
+Apr{s avoir rencontr> Niime, la "Hermite sur
+la Montagne", les myst{res des[A]
+Dragons de Biran commençaient < se d>voiler.[A]
+Avec encore plus d'inconnues < v>rifier,
+[LoadOverworldFaces]Roy dirigea ses troupes vers un grand[A]
+manoir < la p>riph>rie de Bulgar.[A]
+[0B49]
+L<, l'Advisor Roartz d'Etruria[A]
+pr>parait ses d>fenses contre Roy...[A]
+[0B4A]
+[0B4B]
+Roy se dirigea vers les ruines en Sacae,[A]
+[LoadOverworldFaces]apr{s l'Arme Divine.[A]
+[LoadOverworldFaces]Cependant, les forces restantes du
+clan Djute attendaient Roy dans les ruines...[A]
+[0B4C]
+[0B4D]
+[0B4E]
+Apr{s avoir surv>cu < de nombreuses >preuves,
+Roy foula enfin le sol de Biran.[A]
+[0B4F]
+[LoadOverworldFaces]Guinevere guida Roy vers le[A]
+Temple des Sceaux, mais sur leur chemin
+se tenaient les troupes d'>lite de Biran,[A]
+la plus forte arm>e du continent,
+dirig>e par [LoadOverworldFaces]Lord Murdock, le plus intelligent[A]
+et le plus fort g>n>ral de Biran.[A]
+[0B50]
+Etruria et Biran, les deux forces majeures
+du continent, pr^tes pour[A]
+une guerre totale. Le jour le plus long et
+le plus sanglant jamais vu par Elibe >tait sur le point de commencer...[A]
+[0B51]
+[0B52]
+[0B53]
+[0B54]
+Roy s'aventura profond>ment dans le Temple
+des Sceaux.[A]
+Apparemment, il y avait autre chose
+cach> l< en plus de l'Ep>e des[A]
+Sceaux.[A]
+[LoadOverworldFaces]Cependant, [LoadOverworldFaces]Pereth, un des meilleurs
+chefs de troupes de Murdock, >tait d>j<[A]
+< l'int>rieur du temple et attendait pour attaquer Roy.[A]
+[0B55]
+[0B56]
+[0B57]
+Apr{s avoir obtenu l'Ep>e des Sceaux,
+[LoadOverworldFaces]Roy dirigea ses troupes vers la[A]
+[LoadOverworldFaces]capitale de Biran, o} le roi Zephiel attendait.[A]
+[LoadOverworldFaces]A l'int>rieur du ch[teau, Zephiel attendait avec[A]
+ses gardes personnels < port>e de main.[A]
+[0B58]
+Roy se pr>parait < charger le ch[teau
+pour mettre fin < cette guerre, et ramener[A]
+la paix < Elibe < nouveau...[A]
+[0B59]
+[0B5A]
+[0B5B]
+[0B5C]
+Biran a capitul> avec la mort de Zephiel.
+La grande guerre qui a secou> Elibe[A]
+[LoadOverworldFaces]est termin>e.
+Cependant, le combat de Roy n'>tait pas.[A]
+[0B5D]
+Roy continua de chercher la Pr^tresse
+Sombre, qui pourrait ^tre le Dragon Sombre.[A]
+[LoadOverworldFaces]Suivant la lumi{re >mise par les
+Armes Divines, Roy se dirigea vers le Temple[A]
+[LoadOverworldFaces]du Dragon.[A]
+[LoadOverworldFaces]Cependant, en attendant Roy devant le
+[LoadOverworldFaces]temple se trouvait Brenya, la derni{re[A]
+Seigneur Dragon de Biran. Elle avait rassembl> les
+troupes restantes et attendait[A]
+d'attaquer Roy.[A]
+[0B5E]
+Une bataille avec le royaume mort de Biran...[A]
+Roy avait d>j< le cœur lourd de[A]
+devoir combattre ces "fant_mes".[A]
+[0B5F]
+[0B60]
+lcaring.[A]
+[OpenMidRight]Je vois...[A]
+Yuno >tait assez inqui{te pour
+toi et Thany.[A]
+Te connaissant, je pensais que tu
+allais bien.[A]
+Mais tu sais, Yuno,
+elle s'inqui{te toujours.[A][OpenMidLeft]Oui, je comprends.[A]
+Notre sœur >tait souvent trop douce
+avec Thany et moi.[A]
+Le jour de notre d>part >tait un jour
+mouvement>, c'est vrai.[A]
+Yuno s'inqui>tait constamment pour
+nous, s'inqui>tant pour nos repas, et[A]
+nos v^tements...[A]
+[OpenMidRight][ToggleSmile]Haha, c'est Yuno.[A]
+[0B61]
+[0B62]
+[0B63]
+[0B64]
+[0B65]
+[0B66]
+Apr{s avoir vaincu les troupes restantes
+de Biran, Roy entra dans le Temple du Dragon.[A]
+[LoadOverworldFaces]Il chercha la Pr^tresse Sombre
+pour >viter la m^me[A]
+[LoadOverworldFaces]trag>die que les guerres Dragon Humain[A]
+[LoadOverworldFaces]ne se reproduisent.[A]
+[0B67]
+Ici dans le temple, Roy allait
+apprendre la v>rit> sur les l>gendes qu'il[A]
+avait toujours entendues. Ce que Roy allait entendre
+>tait compl{tement diff>rent de ce qu'[A]
+il avait toujours cru vrai...[A]
+[0B68]
+[0B69]
+[0B6A]
+[0B6B]
+Ici en Lycia, Roy, le jeune h>ritier[A]
+[0B6C]
+de Pherae, >tudiait dans la grande ville[A]
+[0B6D]
+d'Ostia pour se pr>parer < sa
+position. Aujourd'hui, son professeur,[A]
+[LoadOverworldFaces]le G>n>ral Cecilia d'Etrurie, lui
+enseigne des tactiques de bataille...[A]
+[0B6E]
+[0B6F]
+[0B70]
+[0B71]
+[0B72]
+[0B73]
+[0B74]
+[0B75]
+[0B76]
+[0B77]
+[0B78]
+[0B79]
+[0B7A]
+[0B7B]
+[0B7C]
+[0B7D]
+[0B7E]
+[0B7F]
+[0B80]
+[0B81]
+[0B82]
+[0B83]
+[0B84]
+[0B85]
+[0B86]
+[0B87]
+[0B88]
+[0B89]
+[0B8A]
+[0B8B]
+[0B8C]
+[0B8D]
+[0B8E]
+[0B8F]
+[0B90]
+[0B91]
+[0B92]
+[0B93]
+0
+[0B95]
+1
+[0B96]
+2
+[0B97]
+3
+[0B98]
+4
+[0B99]
+5
+[0B9A]
+6
+[0B9B]
+7
+[0B9C]
+8
+[0B9D]
+9
+[0B9E]
+Chap.
+[0B9F]
+[0BA0]
+x
+[0BA1]
+Final
+[0BA2]
+[OpenMidLeft][LoadFace][0x149][OpenMidRight][LoadFace][0x1D7]
+[OpenMidRight][CloseSpeechFast]Votre Majest>,[A]
+nos troupes sont pr^tes![A]
+[OpenMidLeft][NormalPrint]Bien.
+J'arrive tout de suite.[A]
+[0BA3]
+[OpenMidLeft][LoadFace][0x149][OpenMidRight][LoadFace][0x14B]
+[OpenMidLeft]D'accord, allons-y[A]
+pour lib>rer le monde![A]
+[OpenMidRight][NormalPrint]Pour lib>rer
+le monde...[A]
+[0BA4]
+[OpenMidLeft][LoadFace][0x118][OpenMidRight][LoadFace][0x119]
+[OpenMidLeft]Lance, es-tu pr^t? [A]
+[OpenMidRight]Oui, je suis pr^t, Alan! [A]
+[0BA5]
+[OpenMidLeft][LoadFace][0x119][OpenRight][LoadFace][0x102]
+[OpenRight][FastPrint][ToggleSmile]Oh, c'est Lance! [A]
+Quel est le probl{me? [A]
+Pourquoi es-tu si press>?[A]
+[OpenMidLeft]Ma|tre Roy! Des bandits sont apparus[A]
+et attaquent le ch[teau[A]
+pendant que nous parlons!
+[.....]
+[0BA6]
+[OpenFarLeft][MoveLeft][LoadFace][0x102]Allons-y, Marcus! [A] [.....]
+[0BA7]
+[LoadFace][0x11C]Ma|tre Roy, les >p>es sont faibles[A]
+contre les lances.
+Ne fais rien de pr>cipit>.[A]
+[0BA8]
+[OpenFarLeft][MoveMidLeft][LoadFace][0x10F]Ma|tre Roy, ne bougez pas. [A]
+Je vais soigner vos blessures...[A]
+[0BA9]
+[OpenMidLeft][LoadFace][0x102]Merci, [A]
+Mademoiselle Ellen.[A]
+[0BAA]
+[0BAB]
+[0BAC]
+[0BAD]
+[0BAE]
+[0BAF]
+[0BB0]
+[0BB1]
+[0BB2]
+[0BB3]
+[0BB4]
+[0BB5]
+[0BB6]
+[0BB7]
+[0BB8]
+[0BB9]
+[0BBA]
+[0BBB]
+[0BBC]
+[0BBD]
+[0BBE]
+[0BBF]
+[0BC0]
+[0BC1]
+[0BC2]
+[0BC3]
+[0BC4]
+[0BC5]
+[0BC6]
+[0BC7]
+[0BC8]
+[0BC9]
+[0BCA]
+[0BCB]
+[0BCC]
+[0BCD]
+Mille ans apr{s la grande
+guerre entre Dragons et hommes connue
+sous le nom de la Purge...
+[.....]
+[0BCE]
+L'humanit> commençait <
+prosp>rer < nouveau.[A]
+[0BCF]
+Cependant, une invasion soudaine
+de l'est a plong> le continent
+dans la guerre < nouveau.[A]
+[0BD0]
+Ceux qui ont d>clench> la guerre...
+Ceux qui ont souffert...
+Ceux qui se sont lev>s...[A]
+[0BD1]
+D'innombrables personnes ont combattu
+jusqu'< la mort pour prot>ger ce en quoi
+elles croyaient.[A]
+[0BD2]
+C'est l'histoire d'un groupe de
+h>ros qui ont r>sist> < l'>preuve
+du temps durant cette {re de souffrance...[A]
+[0BD3]
+[OpenMidLeft][LoadFace][0x150][OpenMidRight][LoadFace][0x1CB][OpenMidLeft][ToggleSmile]B-Boss!
+Une arm>e envahit notre grotte![A]
+[OpenMidRight]Quoi![A]
+Combien sont-ils?[A]
+[OpenMidLeft]Je ne sais pas, Boss.
+J'esp{re qu'il n'y en a pas trop...[A]
+[OpenMidRight]C'est >trange...[A]
+Les marquis de Lycia devraient avoir
+des probl{mes plus importants que de[A]
+des bandits comme nous.[A]
+[OpenMidLeft]Eh bien ?[A]
+Que faisons-nous ?[A]
+[OpenMidRight]Ils ne savent probablement pas grand-chose
+de cette grotte, de toute façon.[A]
+Il suffit de les attirer sur les
+dalles o} la lave chaude jaillit[A]
+et de s'en d>barrasser.[A]
+[0BD4]
+[OpenMidLeft][LoadFace][0x122][OpenMidLeft][ToggleSmile]Roy, par ici ![A]
+L'Arme Divine se trouve de
+l'autre c_t> de ce gouffre de lave.[A]
+[OpenMidRight][LoadFace][0x102]Lilina, ça va ?[A]
+Tu t'es calm>e ?[A]
+[OpenMidLeft][ToggleSmile]Eh bien...[ToggleSmile]peut-^tre que je ne vais pas
+compl{tement bien, mais ce n'est pas le moment d'^tre triste.[A]
+Je dois prot>ger Ostia,
+comme mon p{re avant moi.[A]
+[OpenMidRight]D'accord...
+[ToggleSmile]Bien pour toi, Lilina.[A][OpenMidRight][ClearFace]
+[OpenMidLeft]Je vais bien parce que tu es
+avec moi, Roy...[A]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]Quoi ?[A]
+Tu viens de dire quelque chose ?[A]
+[OpenMidLeft][ToggleSmile]Non, rien.[A]
+Quoi qu'il en soit, je vais te dire ce que je sais
+sur cette Arme Divine.[A]
+Celle ici est l'>p>e utilis>e
+par Roland, l'un des 'Huit H>ros.'[A]
+[OpenMidRight][ToggleSmile]Ce Roland... c'est le Roi Roland,
+le premier roi d'Ostia ?[A]
+[OpenMidLeft][ToggleSmile]Exact, c'est notre anc^tre.[A]
+Cette >p>e s'appelle 'L'Ep>e Flamboyante,'
+ou le Durandal.[A]
+[OpenMidRight][ToggleSmile]Le Durandal... ce nom a un
+>cho >trange.[A]
+Donc Roland a utilis> le Durandal pour combattre
+les Dragons pendant la Purge.[A]
+[OpenMidLeft][ToggleSmile]C'est ainsi que la l>gende dit.[A]
+Ils disent aussi qu'apr{s la guerre,
+Roland est retourn> dans sa ville natale d'Ostia.[A]
+Il a lev> le Durandal haut au-dessus de sa t^te,
+et la terre devenue st>rile apr{s[A]
+la guerre est soudainement redevenue luxuriante
+de v>g>tation et de vie.[A]
+[OpenMidRight][ToggleSmile]Wow... ça doit ^tre une sacr>e >p>e.[A]
+[OpenMidLeft][ToggleSmile]Eh bien, c'est une arme qui peut vaincre les Dragons.
+Elle doit avoir des pouvoirs sp>ciaux.[A]
+[OpenMidRight][ToggleSmile]Oui.[A]
+...Oh oui, j'ai entendu qu'un groupe
+de bandits a >tabli sa base ici.[A]
+Ça va aller ?[A]
+[OpenMidLeft]? [A]
+Qu'est-ce qui va aller ?[A]
+[OpenMidRight]Je veux dire, il y a toujours la chance qu'ils
+aient pu prendre le Durandal.[A]
+[OpenMidLeft][ToggleSmile]Non, ne t'inqui{te pas.[A]
+Seuls ceux qui sont les successeurs de Roland savent
+comment retirer le Durandal de son fourreau.[A]
+[OpenMidRight]Oh, d'accord.
+Alors tout va bien.[A]
+[ToggleSmile]Tout ce que nous avons < faire est de nous d>barrasser
+des bandits et d'obtenir le Durandal.[A]
+[0BD5]
+[LoadFace][0x1CB]Sigh.[A]
+Que faites-vous ici dans un
+endroit comme celui-ci ?[A]
+Oh bien, mais puisque vous ^tes
+d>j< ici...[A]
+Je ne peux pas vous laisser partir,
+n'est-ce pas ?[A]
+[0BD6]
+[LoadFace][0x1CB][ToggleSmile]Merde...[A]
+Je savais que ça arriverait...[A]
+[0BD7]
+[OpenMidLeft][LoadFace][0x122][ToggleSmile]Roy !
+Le voil< ![A]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]Donc c'est le Durandal...
+C'est une tr{s grande >p>e.[A]
+Je ne pense pas que beaucoup d'entre nous
+pourront la manier.[A]
+[OpenMidLeft]Mais l'histoire dit que Roland
+>tait un homme de petite taille.[A]
+Je pense que c'est la comp>tence de la personne
+avec l'>p>e qui d>termine si oui ou non[A]
+il peut l'utiliser.[A]
+[OpenMidRight]Alors si je deviens meilleur avec mon
+>p>e, je peux aussi l'utiliser ?[A]
+[OpenMidLeft]Eh bien... peut-^tre.[A]
+[OpenMidRight]Peut-^tre ?[A]
+Allez... au moins dis 'probablement.'[A]
+[OpenMidLeft]Hi hi ![A]
+[0BD8]
+[OpenMidLeft][LoadFace][0x154][ToggleSmile]Ma|tre Roy, le voil< !
+Il y avait une >p>e sous l'autel.[A]
+C'>tait une t[che de la sortir,
+mais nous l'avons maintenant.[A]
+[OpenMidRight][LoadFace][0x102]C'est le Durandal...[A]
+Mais valait-il la peine de perdre Lilina...? [A]
+[0BD9]
+[OpenMidRight][LoadFace][0x1D3][ToggleSmile]Donc c'est la fin de la grotte ?[A]
+Tr>sor...
+O} es-tu...[A]
+R>ponds-moi...[A]
+[OpenMidLeft][LoadFace][0x150]
+Patron... tu es sûr de ça ?[A]
+Biran nous a dit de bloquer l'entr>e
+de la grotte.[A]
+S'ils nous attrapent maintenant, nous serons
+renvoy>s en prison ![A]
+[OpenMidRight][MoveRight]Idioot ![OpenMidLeft][MoveFarLeft][A]
+[OpenRight]Nous allons enterrer cette grotte
+de toute façon...[A]
+Donc ils ne sauront pas que nous
+avons pris le tr>sor...[A]
+Si nous enterrons la grotte sans prendre le
+tr>sor, personne ne pourra jamais le[A]
+retrouver...[A]
+As-tu d>j< pens> < ce que le
+tr>sor ressentirait alors ![A]
+[OpenFarLeft]Eh bien...
+'Je suppose que tu as raison.[A]
+[OpenFarLeft][ClearFace][OpenMidLeft][LoadFace][0x151]Patron![A]
+Une arm>e est stationn>e dehors
+de la grotte![A]
+[OpenRight]Quoi?[A]
+Donc ils pensent qu'ils vont prendre
+notre tr>sor, n'est-ce pas?[A]
+Fais prendre les garçons pr{s de l'entr>e
+pour les sortir...[A]
+Et prends tous les coffres au tr>sor...[A]
+Ils sont miens maintenant![A]
+[0BDA]
+[OpenMidRight][LoadFace][0x102]Une Arme Divine se trouve dans cette grotte...[A][Clear]
+Il fait assez sombre ici.[A]
+[OpenMidLeft][LoadFace][0x12B]Selon un >rudit < Djuto,
+s'il y a une Arme Divine ici,[A]
+ce serait sûrement l'Armads,
+la 'Hache de Foudre'.[A]
+[OpenMidRight]Armads...[A]
+Une hache, pas une >p>e cette fois.[A]
+[OpenMidLeft]L'Armads a >t> utilis>e par 'Durban le
+Berserker', le plus grand et le plus[A]
+muscl> des Huit H>ros.[A]
+Un coup de sa hache devait
+^tre un spectacle < voir.[A]
+[OpenMidRight]Elphin, tu sais certainement beaucoup sur
+les Huit H>ros et les Armes Divines.[A]
+[OpenMidLeft]Je suis un barde.
+Je connais beaucoup de mythes et l>gendes.[A]
+[OpenMidRight]Je vois.[A]
+Je veux les entendre, quand nous aurons
+le temps.[A]
+[OpenMidLeft]Bien sûr.[A]
+...Ma|tre Roy, il semble que nous avons
+de la compagnie dans cette grotte.[A]
+[OpenMidRight][ToggleSmile]Vraiment?[A]
+[OpenMidLeft][ToggleSmile]Il y a aussi des vapeurs >tranges
+qui sortent des murs de la grotte.[A]
+Nous devons avancer avec prudence.[A]
+[0BDB]
+[LoadFace][0x1D3]Daaaahhhhhh![A][Clear]
+Rah![A]
+[0BDC]
+[LoadFace][0x1D3]Guh...[A]
+[0BDD]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight][LoadFace][0x102][ToggleSmile]O} est l'Arme Divine?[A]
+[OpenMidLeft]Hmm...[A]
+J'entends le vent venant de derri{re
+le tr_ne.[A]
+[OpenMidRight]Quoi?
+Je ne l'entends pas...[A]
+[MoveRight]Il y a une niche... entre le
+sol et le mur.[A][Clear]
+Oh!
+Ça s'est ouvert![A][Clear]
+...Alors c'est l'Arme Divine?
+Cette hache est >norme.[A]
+[OpenMidLeft]L'Armads...[A]
+Donc c'est ce que Durban le Berserker
+a utilis>.[A]
+Cela semble certainement convenir < un
+puissant guerrier.[A]
+[0BDE]
+[OpenMidLeft][LoadFace][0x152][ToggleSmile]Ma|tre Roy, la voil<![A]
+Il y a une grande hache derri{re le
+tr_ne![A]
+[OpenMidRight][LoadFace][0x102]C'est l'Armads...[A]
+La Hache de Durban...[A]
+[0BDF]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x1C6][ToggleSmile]N'avez-vous pas trouv> l'Arme
+Divine encore![A]
+[OpenMidLeft]Oui, nous pensons qu'elle est < l'int>rieur
+de cet autel, mais il ne s'ouvre pas...[A]
+[OpenMidRight][MoveRight]Brisez-le, forcez-le < s'ouvrir, ou
+faites ce que vous voulez![A]
+Nous n'avons pas beaucoup de temps.[A]
+[OpenMidLeft][MoveFarLeft]Mais nous devons aussi faire face aux
+ennemis qui sont entr>s dans le Temple![A]
+Nous n'avons pas assez d'hommes pour
+utiliser la force sur l'autel![A]
+[OpenRight]Alors nous devons d'abord nous d>barrasser
+de l'ennemi.[A]
+Ensuite, nous pourrons examiner l'autel
+tranquillement.[A]
+[0BE0]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]C'est le sous-sol du
+d>sert?[A]
+Il y a tant... d'eau.[A]
+[OpenMidLeft][LoadFace][0x12D]C'est proche d'une grande source de
+nappe phr>atique...[A]
+C'est pourquoi les plantes et les animaux peuvent
+vivre ici...[A]
+[OpenMidRight]Je vois.[A]
+Donc c'est pourquoi vous avez pu construire un
+village ici.[A]
+Pourtant, comment avez-vous trouv> un endroit
+aussi pratique que celui-ci?[A]
+[OpenMidLeft]Athos...[A]
+Le "Sage Supr^me" Athos est
+celui qui nous a conduits ici...[A]
+[OpenMidRight][ToggleSmile]Quoi?[A]
+Tu veux dire l'Athos des
+Huit H>ros?[A]
+[OpenMidLeft][ToggleSmile]Oui...[A]
+Apr{s la Purge...
+Ma|tre Athos a voyag> < travers Elibe...[A]
+A la fin de son voyage, il est arriv> dans
+un village o} les gens et les Dragons[A]
+vivaient ensemble...[A]
+Mais il a dit que... ce ne serait qu'une
+question de temps avant qu'il soit trouv>[A]
+par d'autres personnes...[A]
+[OpenMidRight]Alors il vous a conduits ici...[A]
+[OpenMidLeft]Oui... et il a cach> son
+Arme Divine < l'int>rieur de ce Temple...[A]
+[OpenMidRight]Et...
+Pouvons-nous utiliser son Arme Divine?[A]
+[OpenMidLeft]Oui...[A]
+Ma|tre Athos a dit que nous devions
+utilise son arme pour proteger Arcadia...[A]
+Et si tu l'utilises...
+ce serait pour nous proteger...[A]
+[OpenMidRight]D'accord.
+Merci.[A]
+[OpenMidLeft]Certains des chemins de ce temple
+vont soudainement couler dans l'eau...[A]
+S'il te plait, fais attention...[A]
+[0BE1]
+[LoadFace][0x1C6]Je... ne m'attendais pas < ce que tu
+te battes si bien contre nous tous.[A]
+[0BE2]
+[LoadFace][0x1C6]O}... as-tu appris...
+< te battre... comme ça...?[A]
+[0BE3]
+[OpenMidLeft][LoadFace][0x12D][OpenMidRight][LoadFace][0x102][OpenMidLeft][ToggleSmile]C'est ici...
+Dans cet autel...[A]
+[OpenMidRight][MoveRight]...[A][Clear]
+Cela ne s'ouvrira pas...[A]
+[OpenMidLeft]Cet autel est fait... pour que
+seuls ceux du village puissent[A]
+l'ouvrir...[A]
+Alors s'il te plait, permets-moi...[A]
+[OpenRight][MoveMidRight]Oui.[A]
+[OpenMidLeft][MoveLeft][ToggleMouthMove]......[A][.......][Clear]
+[ToggleMouthMove]L<...
+Il y a l'Arme Divine.[A]
+[OpenMidRight]Celle qu'Athos a utilis>e ?
+Alors...[A]
+[OpenLeft]Oui...[A]
+L'"El>ment Infernal," Forblaze...[A]
+[0BE4]
+[OpenMidLeft][LoadFace][0x152][OpenMidRight][LoadFace][0x102][OpenMidLeft][ToggleSmile]Je pense que le livre est < l'int>rieur du
+autel, Ma|tre Roy.[A]
+[OpenMidRight]Peux-tu le sortir ?[A]
+[OpenMidLeft]J'ai envoy> des gens demander aux
+villageois < ce sujet.[A]
+[OpenMidRight]D'accord.
+Mais ne les force pas.[A]
+S'ils ne veulent pas le donner
+alors nous le laisserons ici.[A]
+[OpenMidLeft]Oui, monsieur.[A][ClearFace]
+[0BE5]
+[OpenMidLeft][LoadFace][0x152][OpenMidRight][LoadFace][0x102][OpenMidLeft][ToggleSmile]Ma|tre Roy ![A]
+Les villageois nous ont aid>s < retirer le livre
+de l'autel ![A]
+Le voici.[A]
+[OpenMidRight]Qu'est-ce que c'est ?[A]
+[OpenMidLeft][ClearFace][OpenMidLeft][LoadFace][0x12B]
+...Si l'Archsage Athos l'a cach>,
+cela doit ^tre le Forblaze, l'[A][Clear]
+'El>ment Infernal'[A]
+Les l>gendes disent que personne
+ne pouvait >chapper < sa col{re ardente.[A]
+[OpenMidRight]...Nous devons ^tre prudents avec ça.[A]
+[0BE6]
+[OpenMidLeft][LoadFace][0x1D7][OpenMidRight][LoadFace][0x1D5][ToggleSmile]Seigneur Roartz s'est enfui !?[A]
+Alors que va-t-il m'arriver, moi qui me suis
+retourn> contre l'Eglise et ai pris cette[A]
+tour ?[A]
+[OpenMidLeft]Monsieur, le message du Seigneur Roartz est qu'il
+'Ne veut pas perdre de temps avec[A]
+des >v^ques inutiles qui ne peuvent m^me
+pas apprivoiser l'Eglise Elimine.'[A][OpenMidRight]C'est parce que ce maudit Yodel
+s'est mis en travers de mon chemin...[A]
+[OpenMidLeft]Eh bien oui...
+Mais m^me si tu m'en parles...[A]
+[OpenMidRight]...D'accord, tr{s bien...
+Alors c'est notre derni{re mission.[A]
+Si nous devons mourir, alors l'arm>e
+de l'Alliance Lycia tombera avec nous ![A]
+Pr>parez les 'Fl{ches C>lestes' ![A]
+[OpenMidLeft]S'il te plait, attends ![A]
+Si nous utilisons ça, cela frappera nos
+alli>s aussi.[A]
+[OpenMidRight][MoveRight]Silence !
+Je donne les ordres ici ![OpenMidLeft][MoveFarLeft][A][OpenFarLeft][ClearFace]
+[OpenRight]...Je vais leur montrer...
+Hehehe... ![A]
+[0BE7]
+[OpenMidLeft][LoadFace][0x10A][OpenMidRight][LoadFace][0x102][OpenMidLeft]C'est la Tour du Saint.[A]
+L'Arme de Saint Elimine, le livre de sorts
+Aureola, se trouve ici.[A]
+[OpenMidRight]Merci, Seigneur Douglas.[A]
+Tu nous aides, qui >tions tes
+ennemis il y a peu.[A]
+[OpenMidLeft]Tu n'as pas < me remercier.[A]
+Le roi m'a ordonn> de vous aider.
+Ne t'inqui{te pas pour ça.[A]
+[OpenMidRight][ToggleMouthMove]......[A]
+[OpenMidLeft][ToggleMouthMove]De plus, vous ^tes des sauveurs d'Etruria.[A]
+C'est un honneur de pouvoir combattre[A]
+< vos c_t>s.[A]
+[OpenMidRight]Seigneur Douglas...[A]
+[0BE8]
+[0BE9]
+[LoadFace][0x1D5]Mourrez ![A][Clear]
+Tous !
+Tout sera d>truit ![A]
+[0BEA]
+[LoadFace][0x1D5]Hahaha !
+Haha... Ha...[A]
+[0BEB]
+[OpenMidLeft][LoadFace][0x152][OpenMidRight][LoadFace][0x102][OpenMidLeft]Ma|tre Roy,
+je pense que nous avons trouv> le livre de sorts.[A][ClearFace]
+[OpenMidRight]Seigneur Douglas,
+est-ce que c'est... ?[A]
+[OpenMidLeft][LoadFace][0x10A]Oui, c'est ça.[A]
+C'est le 'Pinnacle de Lumi{re,' le
+livre de sorts Aureola, l'[A]
+arme de Saint Elimine.[A]
+[OpenMidRight]Pouvons-nous l'utiliser ?[A]
+[OpenMidLeft]Le roi a dit d'utiliser tout ce que
+tu trouves utile dans la tour.[A]
+Et l'Eglise Elimine est de notre
+c_t> aussi.[A]
+Si nous avons encore des probl{mes, je peux
+n>gocier.[A]
+[OpenMidRight]D'accord.
+Merci, Seigneur Douglas.[A]
+[0BEC]
+[OpenMidLeft][LoadFace][0x152][OpenMidRight][LoadFace][0x102][OpenMidLeft]Ma|tre Roy, je pense que nous
+avons trouv> le grimoire.[A][ClearFace]
+[OpenMidRight]...Cela doit ^tre l'Aureola,
+le 'Pinnacle of Light.'[A]
+Merlinus,[A][OpenMidLeft][LoadFace][0x154]
+[OpenMidRight]Je veux que tu le donnes
+< l'Eglise Elimine.[A]
+[OpenMidLeft][ToggleSmile]Quoi?[A]
+Mais le roi a dit que nous pouvions utiliser
+tout ce que nous avons trouv> dans la tour.[A]
+[OpenMidRight][ToggleSmile]C'est le grimoire que leur
+saint a utilis>.[A]
+Ce serait irrespectueux de le prendre
+sans leur permission.[A]
+[OpenMidLeft]Je vois...[A]
+[0BED]
+[OpenMidLeft][LoadFace][0x110][OpenMidRight][LoadFace][0x102]
+[OpenMidLeft]Ma|tre Roy.[A]
+[OpenMidRight]Ev^que Yodel?
+Que se passe-t-il?[A]
+[OpenMidLeft]A propos de l'Aureola...[A]
+[OpenMidRight]Ah, oui.[A]
+Je vais le retourner < l'>glise
+imm>diatement.[A]
+[OpenMidLeft]S'il te pla|t, ne le fais pas.
+Nous voulons que tu le prennes.[A]
+[OpenMidRight][ToggleSmile]...Es-tu sûr?[A]
+[OpenMidLeft][ToggleSmile]Ce que le Saint Elimine voulait
+vraiment, c'>tait la paix.[A]
+S'il te pla|t, prends-le et mets fin < cette guerre.[A]
+[OpenMidRight]D'accord.
+Je l'utiliserai avec soin.[A]
+[0BEE]
+[OpenMidLeft][LoadFace][0x152][OpenMidRight][LoadFace][0x1E0][OpenMidLeft][ToggleSmile]Seigneur Teck!
+L'ennemi avance![A]
+[OpenMidRight][ToggleSmile]Il n'y a pas besoin de paniquer.[A]
+Ces ruines sont entour>es de beaucoup
+de renforts.[A]
+Ils ne pourront pas entrer si facilement.[A]
+[OpenMidLeft][ToggleSmile]Mais l'ennemi a vaincu les Ilian
+et nos troupes les unes apr{s les autres![A]
+Nous n'avons pas de grandes chances de gagner...![A]
+[OpenMidRight][ToggleSmile]Nous n'avons pas besoin de gagner.[A]
+Le Seigneur Murdock a dit que tout ce que nous devons
+faire, c'est d>fendre cet endroit.[A]
+Nous devons tenir jusqu'< ce que l'ennemi abandonne
+et parte.[A]
+[0BEF]
+[0BF0]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]L'Arme Divine se trouve ici...[A]
+[OpenMidLeft][LoadFace][0x132][OpenMidRight]Z>lote, as-tu entendu parler de cet
+endroit?[A]
+[OpenMidLeft]Oui.[A]
+Je crois que le Marte, la Lance de
+Neige et Glace r>side dans ces ruines.[A]
+[OpenMidRight]Lance de Neige et Glace...[A]
+[OpenMidLeft]Barigan le 'Fid{le' l'a utilis>e
+pendant le Nettoyage.[A]
+[OpenMidRight]Barigan?
+Tous les chevaliers le connaissent.[A]
+J'entendais beaucoup parler de lui
+pendant mes >tudes.[A]
+C'est le meilleur exemple de chevalerie.[A]
+...Ce b[timent semble avoir des murs
+partout.[A]
+Y a-t-il un chemin menant < l'int>rieur?[A]
+[OpenMidLeft]Probablement que les forces restantes de Biran
+ont enterr> les chemins pour se d>fendre.[A]
+[OpenMidRight]Alors ils n'ont pas dû avoir beaucoup
+de temps pour le faire...[A]
+Peut-^tre que les murs sont faibles < certains
+endroits.[A]
+[OpenMidLeft]C'est tout < fait possible.[A]
+[OpenMidRight]D'accord.
+Faisons ce que nous pouvons.[A]
+[0BF1]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]L'Arme Divine se trouve ici...[A]
+[OpenMidLeft][LoadFace][0x127][OpenMidRight]Yuno, as-tu entendu parler de cet
+endroit?[A]
+[OpenMidLeft]Oui.[A]
+Je crois que le Marte, la Lance de
+Neige et Glace r>side dans ces ruines.[A]
+[OpenMidRight]Lance de Neige et Glace...[A]
+[OpenMidLeft]Barigan le 'Fid{le' l'a utilis>e
+pendant le Nettoyage.[A]
+[OpenMidRight]Barigan?
+Tous les chevaliers le connaissent.[A]
+J'entendais beaucoup parler de lui
+pendant mes >tudes.[A]
+C'est le meilleur exemple de chevalerie.[A]
+...Ce b[timent semble avoir des murs
+partout.[A]
+Y a-t-il un chemin menant < l'int>rieur?[A]
+[OpenMidLeft]Probablement que les forces restantes de Biran
+ont enterr> les chemins pour se d>fendre.[A]
+[OpenMidRight]Alors ils n'ont pas dû avoir beaucoup
+de temps pour le faire...[A]
+Peut-^tre que les murs sont faibles < certains
+endroits.[A]
+[OpenMidLeft]C'est tout < fait possible.[A]
+[OpenMidRight]D'accord.
+Faisons ce que nous pouvons.[A]
+[0BF2]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]L'Arme Divine se trouve ici...[A]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight]Elphin, as-tu entendu parler de cet
+endroit?[A]
+[OpenMidLeft]Oui.[A]
+Je crois que le Marte, la Lance de
+Neige et Glace r>side dans ces ruines.[A]
+[OpenMidRight]Lance de Neige et Glace...[A]
+[OpenMidLeft]Barigan le 'Fid{le' l'a utilis>e
+pendant le Nettoyage.[A]
+[OpenMidRight]Barigan?
+Tous les chevaliers le connaissent.[A]
+J'entendais beaucoup parler de lui
+pendant mes >tudes.[A]
+C'est le meilleur exemple de chevalerie.[A]
+...Ce b[timent semble avoir des murs
+partout.[A]
+Y a-t-il un chemin menant dedans?[A]
+[OpenMidLeft]Probablement les forces restantes de Biran
+ont enterr> les chemins pour se d>fendre.[A]
+[OpenMidRight]Alors ils n'ont pas eu beaucoup
+de temps pour le faire...[A]
+Peut-^tre que les murs sont faibles <
+certains endroits.[A]
+[OpenMidLeft]C'est tout < fait possible.[A]
+[OpenMidRight]D'accord.
+Faisons ce que nous pouvons.[A]
+[0BF3]
+[LoadFace][0x1E0][ToggleSmile]Non...
+Je dois r^ver.[A][Clear]
+Comment es-tu pass>
+< travers ces murs?[A]
+[0BF4]
+[LoadFace][0x1E0]Passage, solides...[A]
+[Clear]
+Et conna|tre le vrai
+pouvoir de Biran...[A]
+[0BF5]
+[OpenMidLeft][LoadFace][0x152][ToggleSmile]C'est ici!
+La lance est ici![A][ClearFace]
+[OpenMidRight][LoadFace][0x102][ToggleMouthMove]......[A][Clear]
+[ToggleMouthMove]...C'est la lance de Barigan Martre...[A]
+Elle est magnifique, comme faite de cristal
+et de glace.[A]
+[OpenMidLeft][LoadFace][0x154]Ma|tre Roy,
+les troupes de Biran s'>chappent.[A]
+[OpenMidRight]Oh.[A]
+D'accord.[A]
+[OpenMidLeft]D'accord?
+Nous devons les attaquer maintenant.[A]
+[OpenMidRight]Non, ne le fais pas.[A]
+Ils fuient.
+Ils n'ont plus de volont> de se battre.[A]
+[OpenMidLeft]Mais...[A]
+[OpenMidRight]Ils ont aussi des familles.[A]
+Il n'est pas n>cessaire de se battre plus
+que n>cessaire.[A]
+[0BF6]
+[OpenMidLeft][LoadFace][0x1D7]L'Arm>e d'Etruria est ici![A]
+[OpenMidRight][LoadFace][0x1CE]Ils veulent aussi faire de cet endroit le leur...
+Nous ne laisserons pas cela arriver.[A]
+[ToggleSmile]Dis < nos fr{res que nous d>fendrons
+cette terre jusqu'< la mort.[A]
+Nous vengerons nos camarades morts![A]
+[OpenMidLeft]Oui![A]
+[0BF7]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]L'Arme Divine est ici...[A]
+[OpenMidLeft][LoadFace][0x105][OpenMidRight]Shin, sais-tu quelque chose sur cet
+endroit?[A]
+[OpenMidLeft]Tout ce que je sais, c'est que le Guerrier Divin
+l'arc de Hanon, le Miurgre ou le 'Arc[A]
+des Vents' est gard> ici.[A]
+[OpenMidRight]Hanon...[A]
+Elle et Sainte Elimine >taient les seules
+deux femmes parmi les Huit H>ros.[A]
+[OpenMidLeft]Il semble que oui.[A]
+[OpenMidLeft]...Surveille ton dos.[A]
+Les Djute nous donneront tout ce qu'ils
+ont pour venger leurs clansmen.[A]
+[OpenMidRight]D'accord, nous devons ^tre prudents.
+Allons-y![A]
+[0BF8]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]L'Arme Divine est ici...[A]
+[OpenMidLeft][LoadFace][0x107][OpenMidRight]Dayan, sais-tu quelque chose sur cet
+endroit?[A]
+[OpenMidLeft]Tout ce que je sais, c'est que le Guerrier Divin
+l'arc de Hanon, le Miurgre ou le 'Arc[A]
+des Vents' est gard> ici.[A]
+[OpenMidRight]Hanon...[A]
+Elle et Sainte Elimine >taient les seules
+deux femmes parmi les Huit H>ros.[A]
+[OpenMidLeft]Il semble que oui.[A]
+[OpenMidLeft]...Surveille ton dos.[A]
+Les Djute nous donneront tout ce qu'ils
+ont pour venger leurs clansmen.[A]
+[OpenMidRight]D'accord, nous devons ^tre prudents.
+Allons-y![A]
+[0BF9]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]L'Arme Divine est ici...[A]
+[OpenMidLeft][LoadFace][0x106][OpenMidRight]Sue, sais-tu quelque chose sur cet
+endroit?[A]
+[OpenMidLeft]Tout ce que je sais, c'est que le Guerrier Divin
+l'arc de Hanon, le Miurgre ou le 'Arc[A]
+des Vents' est gard> ici.[A]
+[OpenMidRight]Hanon...[A]
+Elle et Sainte Elimine >taient les seules
+deux femmes parmi les Huit H>ros.[A]
+[OpenMidLeft]Il semble que oui.[A]
+[OpenMidLeft]...Surveille ton dos.[A]
+Les Djute nous donneront tout ce qu'ils
+ont pour venger leurs clansmen.[A]
+[OpenMidRight]D'accord, nous devons ^tre prudents.
+Allons-y![A]
+[0BFA]
+[OpenMidRight][LoadFace][0x102][ToggleSmile]L'Arme Divine est ici...[A]
+[OpenMidLeft][LoadFace][0x12B][OpenMidRight]Elphin, sais-tu quelque chose sur cet
+endroit?[A]
+[OpenMidLeft]Tout ce que je sais, c'est que le Guerrier Divin
+l'arc de Hanon, le Miurgre ou le 'Arc[A]
+des Vents' est gard> ici.[A]
+[OpenMidRight]Hanon...[A]
+Elle et Sainte Elimine >taient les seules
+deux femmes parmi les Huit H>ros.[A]
+[OpenMidLeft]Il semble que oui.[A]
+[OpenMidLeft]...Surveille ton dos.[A]
+Les Djute nous donneront tout ce qu'ils
+ont pour venger leurs clansmen.[A]
+[OpenMidRight]D'accord, nous devons ^tre prudents.
+Allons-y![A]
+[0BFB]
+[0BFC]
+[OpenMidRight][LoadFace][0x1CE]Ils sont tomb>s dans le pi{ge!
+Attrapez-les maintenant![A]
+[0BFD]
+[LoadFace][0x1CE]Ressentez la col{re du
+lien des Djute![A]
+[0BFE]
+[LoadFace][0x1CE]Mes frAres vont
+sAûrement venger ma mort...[A]
+[0BFF]
+[OpenMidLeft][LoadFace][0x152][ToggleSmile]C'est ici![A]
+L'arc est cachA dans l'autel![A]
+[ClearFace]
+[OpenMidRight][LoadFace][0x102][ToggleMouthMove]......[A][Clear]
+[ToggleMouthMove]C'est le Miurgre...[A]
+On dirait un arc ordinaire,
+mais il doit avoir une force incroyable.[A]
+[OpenMidLeft][LoadFace][0x154]MaAtre Roy, les troupes de Biran
+se retirent.[A]
+[OpenMidRight]Oh.[A]
+D'accord.[A]
+[OpenMidLeft]D'accord?
+Nous devons les attaquer maintenant.[A]
+[OpenMidRight]Non, n'y va pas.[A][Clear]
+[OpenMidRight]Ils fuient.
+Ils n'ont plus de volont> de se battre.[A]
+[OpenMidLeft]Mais...[A]
+[OpenMidRight]Ils ont aussi des familles.[A]
+Il n'est pas nAcessaire de se battre
+plus que nAcessaire.[A]
+[0C00]
+[OpenMidRight][LoadFace][0x1C7][OpenMidLeft][LoadFace][0x1D7][OpenMidRight]Donc la bataille en surface a
+>t> perdue...[A]
+[OpenMidLeft]Oui.[A]
+[OpenMidRight]J'aurais aimAtre Avoir A cOtA de Lord
+Murdock quand il est tombA.[A]
+[OpenMidLeft]...Nous partageons vos sentiments.[A]
+[OpenMidRight]Cependant, nous avons une mission
+importante donnAe par Lord Murdock.[A]
+Nous devons dAfenre cette Arme Divine.[A]
+L'Obscurit> Silencieuse, Apocalypse,
+ne doit pas tomber entre les mains de l'ennemi![A]
+[0C01]
+[OpenMidLeft][LoadFace][0x12E][OpenMidRight][LoadFace][0x102][ToggleSmile]Il y a une Arme Divine ici?[A]
+[OpenMidLeft]Oui, je pense.[A]
+J'ai seulement entendU des rumeurs dans l'arm>e,
+mais apparemment il y a un grimoire ici[A]
+qui a >t> placA pour protAger le Temple des
+Sceaux des intrus.[A]
+[OpenMidLeft][ClearFace][OpenFarLeft][LoadFace][0x12B]Cet endroit est gardA par les troupes de Biran
+aussi.[A]
+Il est trA{s probable que le grimoire
+dont elle parle soit une Arme Divine.[A]
+[OpenMidRight]Oui.[A]
+Nous allons affronter Zephiel bientOt.[A]
+...Je veux avoir le plus d'armes
+possible avant d'entrer dans le ch[teau.[A]
+Nous devons obtenir ce grimoire.[A]
+[OpenFarLeft][ClearFace][OpenMidLeft][LoadFace][0x12E]J'ai aussi entendu des rumeurs qu'il y a
+des pi{ges partout dans le niveau souterrain.[A]
+[OpenMidRight]Des pi{ges?[A]
+[OpenMidLeft]Oui.[A]
+Apparemment, ils sont si bien conçus
+que nous ne pourrions pas trouver un[A]
+pi{ge avant qu'il ne se d>clenche.[A]
+Peut-Être que des voleurs seraient meilleurs
+pour trouver des pi{ges...[A]
+Quoi qu'il en soit, soyez prudents.[A]
+[OpenMidRight]D'accord.
+Restons vigilants.[A]
+[0C02]
+[OpenMidLeft][LoadFace][0x12A][OpenMidRight][LoadFace][0x102][ToggleSmile]Il y a une Arme Divine ici?[A]
+[OpenMidLeft]Oui, je pense.[A]
+J'ai seulement entendu des rumeurs dans l'arm>e,
+mais apparemment il y a un grimoire ici[A]
+qui a >t> placA pour protAger le Temple des
+Sceaux des intrus.[A]
+[OpenMidLeft][ClearFace][OpenFarLeft][LoadFace][0x12B]Cet endroit est gardA par les troupes de Biran
+aussi.[A]
+Il est trA{s probable que le grimoire
+dont elle parle soit une Arme Divine.[A]
+[OpenMidRight]Oui.[A]
+Nous allons affronter Zephiel bientOt.[A]
+...Je veux avoir le plus d'armes
+possible avant d'entrer dans le ch[teau.[A]
+Nous devons obtenir ce grimoire.[A]
+[OpenFarLeft][ClearFace][OpenMidLeft][LoadFace][0x12A]J'ai aussi entendu des rumeurs qu'il y a
+des pi{ges partout dans le niveau souterrain.[A]
+[OpenMidRight]Des pi{ges?[A]
+[OpenMidLeft]Oui.[A]
+Apparemment, ils sont si bien conçus
+que nous ne pourrions pas trouver un[A]
+pi{ge avant qu'il ne se d>clenche.[A]
+Peut-Être que des voleurs seraient meilleurs
+pour trouver des pi{ges...[A]
+Quoi qu'il en soit, soyez prudents.[A]
+[OpenMidRight]D'accord.
+Restons vigilants.[A]
+[0C03]
+[OpenMidLeft][LoadFace][0x157][OpenMidRight][LoadFace][0x102][ToggleSmile]Princesse Guinevere,
+est-ce ici que se trouve l'Arme Divine?[A]
+[OpenMidLeft]Probablement...[A]
+J'ai seulement entendu des rumeurs qu'un grimoire
+ici a >t> placA pour protAger le[A]
+Temple des Sceaux des intrus.[A]
+[OpenMidLeft][ClearFace][OpenFarLeft][LoadFace][0x12B]Cet endroit est gardA par
+les troupes de Biran aussi.[A]
+Il est trA{s probable que le grimoire
+dont elle parle soit une Arme Divine.[A]
+[OpenMidRight]Oui.[A]
+Nous allons affronter Zephiel bientOt.[A]
+Je veux avoir le plus d'armes
+possible avant d'entrer dans le ch[teau.[A]
+Nous devons obtenir ce grimoire.[A]
+[OpenFarLeft][ClearFace][OpenMidLeft][LoadFace][0x157]Je comprends aussi qu'il y a de nombreux
+pi{ges plac>s dans le niveau souterrain.[A]
+[OpenMidRight]Des pi{ges?[A]
+[OpenMidLeft]Oui.[A]
+Ils sont si bien conçus qu'il serait
+impossible pour nous de les trouver.[A]
+Peut-Être que des voleurs seraient meilleurs
+pour les trouver...[A]
+Veuillez ^tre prudents.[A]
+[OpenMidRight]Oui, Princesse.
+Nous ferons attention.[A]
+[0C04]
+[LoadFace][0x1C7]
+T>n{bres d'un [ge
+longtemps oubli>...[A][Clear]
+Je vais te montrer son pouvoir.[A]
+[0C05]
+[LoadFace][0x1C7]
+[ToggleSmile]Sombre...[A]
+Il fait si sombre...[A]
+[0C06]
+[OpenMidRight][LoadFace][0x102][OpenMidLeft][LoadFace][0x12B][OpenMidRight][ToggleSmile]Elphin, sais-tu ce que ce
+grimoire est?[A]
+[OpenMidLeft]...C'est probablement le grimoire
+de l'Apocalypse.[A]
+[OpenMidRight]Apocalypse?[A]
+[OpenMidLeft]Oui, il est aussi connu comme le
+Silence des T>n{bres.[A]
+Bramimond... le plus myst>rieux
+des Huit H>ros, l'a utilis>.[A]
+[OpenMidRight]Brammimond...[A]
+Je ne connais que son nom.[A]
+[OpenMidLeft]Nous ne savons m^me pas si Bramimond
+est masculin ou f>minin, vieux ou jeune.[A]
+Aucun des vieux rouleaux ne dit
+quoi que ce soit de pr>cis sur Bramimond.[A]
+[OpenMidRight]Je vois...[A]
+[OpenMidLeft][ToggleMouthMove].....[A]
+[OpenMidLeft][ClearFace][OpenLeft][LoadFace][0x157][ToggleMouthMove]Roy, y a-t-il un probl{me?[A]
+[OpenMidRight]Non, je pensais juste.[A]
+[OpenLeft]A propos de quoi?[A]
+[OpenMidRight]Je me demandais pourquoi il y a toujours
+une sorte de pi{ge l< o} se trouve une Arme Divine.[A][OpenLeft]...Peut-^tre est-ce pour avertir les gens que leur
+pouvoir est trop grand pour ^tre pris < la l>g{re.[A]
+[OpenMidRight]Mais quand m^me...
+Les pi{ges sont si soigneusement plac>s.[A][Clear]
+Il doit y avoir d'autres raisons.[A]
+[OpenLeft][ToggleMouthMove].....[ToggleMouthMove][A]
+[OpenLeft][ClearFace][OpenMidLeft][LoadFace][0x12B]
+...Je me suis pos> la m^me question.[A]
+Peut-^tre que je vais m'y int>resser.[A]
+[OpenMidRight]Oui...
+S'il te pla|t.[A]
+[0C07]
+^ンバートYPh[A]
+[0C08]
+[0C09]
+[0C0A]
+[0C0B]
+[0C0C]
+[0C0D]
+[0C0E]
+[0C0F]
+２００２
+Ｎｉｎｔｅｎｄｏ　Ｐｒｅｓｅｎｔｓ・・・
+[0C10]
+Force augment>e
+[0C11]
+Magie augment>e
+[0C12]
+Comp>tence augment>e
+[0C13]
+Vitesse augment>e
+[0C14]
+Chance augment>e
+[0C15]
+D>fense augment>e
+[0C16]
+R>sistance augment>e
+[0C17]
+Mouvement augment>
+[0C18]
+Constitution augment>e
+[0C19]
+PV max augment>s
+[0C1A]
+Pi{ge d>sactiv>
+[0C1B]
+S>lectionne une unit> < sauver.
+[0C1C]
+S>lectionne l'espace o} d>poser l'unit>.
+[0C1D]
+S>lectionne une unit> pour recevoir le voyageur.
+[0C1E]
+S>lectionne une unit> pour donner au voyageur.
+[0C1F]
+S>lectionne quelle unit> >changer.
+[0C20]
+S>lectionne quelle unit> voler.
+[0C21]
+S>lectionne quelle unit> utiliser le b[ton.
+[0C22]
+S>lectionne quelle unit> parler.
+[0C23]
+S>lectionne l'unit> < rafra|chir.
+[0C24]
+S>lectionne le point de t>l>portation.
+[0C25]
+R>organise tes unit>s.
+[0C26]
+Ton inventaire est plein. Envoie un objet < Merlinus.
+[0C27]
+S>lectionne une arme pour attaquer.
+[0C28]
+S>lectionne un personnage pour restaurer des PV.
+[0C29]
+S>lectionne le personnage < t>l>porter.
+[0C2A]
+S>lectionne quel personnage amener pr{s de toi.
+[0C2B]
+S>lectionne un personnage < restaurer.
+[0C2C]
+S>lectionne le personnage dont l'arme a besoin de r>paration.
+[0C2D]
+S>lectionne quelle r>sistance du personnage renforcer.
+[0C2E]
+S>lectionne une porte < ouvrir.
+[0C2F]
+S>lectionne un ennemi < d>former.
+[0C30]
+Les unit>s r>duites au silence ne peuvent pas visiter les villages.
+[0C31]
+Tu ne peux pas >quiper
+cette arme.
+[0C32]
+Votre niveau d'arme
+est trop bas.
+[0C33]
+Le tr>sor ne peut pas ^tre l[ch>.
+[0C34]
+Les unit>s r>duites au silence ne peuvent
+pas utiliser de b[tons.
+[0C35]
+Les unit>s r>duites au silence ne peuvent
+pas parler.
+[0C36]
+Vous ne pouvez pas entrer
+dans l'ar{ne en >tant r>duit.
+[0C37]
+Vous ne pouvez pas combattre, donc
+vous ne pouvez pas entrer dans l'ar{ne.
+[0C38]
+Les armes, la magie et
+les b[tons ne peuvent pas ^tre vol>s.
+[0C39]
+Pas besoin de r>parer cet objet.
+[0C3A]
+Seules les armes, sorts et
+b[tons peuvent ^tre r>par>s.
+[0C3B]
+Plus de fl{ches dans cette baliste.
+[0C3C]
+Pas besoin d'utiliser cet objet.
+[0C3D]
+Impossible d'utiliser cet objet.
+[0C3E]
+Niveau 10 ou plus requis.
+[0C3F]
+Il n'y a pas de portes < ouvrir.
+[0C40]
+Il n'y a pas de coffres < ouvrir.
+[0C41]
+Pour les voleurs uniquement.
+[0C42]
+Il n'y a pas de coffres ou de portes
+< ouvrir.
+[0C44]
+Inventaire plein.
+[0C45]
+Ne peut pas ^tre r>par>.
+[0C46]
+Impossible de mettre en pause pendant
+le tutoriel.
+[0C47]
+L'inventaire du transporteur est plein.
+S>lectionnez un objet < jeter.
+[0C48]
+Connexion >chou>e.
+Veuillez >teindre la console,
+v>rifier votre connexion de c[ble,
+et r>essayer.
+[0C49]
+Thria
+[0C4A]
+Ostia
+[0C4B]
+Ostia
+[0C4C]
+Fibirania
+[0C4D]
+Almar
+[0C4E]
+Mt. Ebrakhm
+[0C4F]
+Djuto
+[0C50]
+Misul
+[0C51]
+Nabata
+[0C52]
+Fronti{re Etruria
+[0C53]
+Aquleia
+[0C54]
+Raemy
+[0C55]
+For^t d'Ilia
+[0C56]
+Karlae
+[0C57]
+Edessa
+[0C58]
+Temple Sceau
+[0C59]
+Biran
+[0C5A]
+Foyer du Temple
+[0C5B]
+Temple du Dragon
+[0C5C]
+Petit Village
+[0C5D]
+Idina
+[0C5E]
+Talas
+[0C5F]
+Djute
+[0C60]
+Bulgar
+[0C61]
+Bulgar
+[0C62]
+Ostia
+[0C63]
+Grotte de Djuto
+[0C64]
+Temple de Nabata
+[0C65]
+Tour Saint
+[0C66]
+Ruines d'Edessa
+[0C67]
+Ruines Saca>ennes
+[0C69]
+Lycia
+[0C6A]
+Etruria
+[0C6B]
+Isles Occidentales
+[0C6C]
+P>ninsule de Misul
+[0C6D]
+For^ts d'Ilia
+[0C6E]
+Sacae
+[0C6F]
+Niveau d'Arme
+[0C70]
+[0C71]
+Niveau d'arme augment>.
+[0C72]
+cass>!
+[0C73]
+cass>!
+[0C74]
+reçu!
+[0C75]
+reçu!
+[0C76]
+vol>!
+[0C77]
+reçu.
+[0C78]
+vol>!
+[0C79]
+a >t> vol>.
+[0C7A]
+Niveau de soutien augment>!
+[0C7B]
+Vall>e de la Mort
+[0C7C]
+Capturer la porte du ch[teau
+[0C7D]
+Un groupe puissant de
+Berserkers occupe un ch[teau.
+R>cup>rez-le!
+[0C7E]
+Guerre de Brouillard
+[0C7F]
+Survivez 20 tours
+[0C80]
+Combattez de nombreux
+ennemis tout en maintenant
+l'effet redout> de
+Brouillard de Guerre.
+[0C81]
+D>fense du Ch[teau
+[0C82]
+Survivez 20 tours
+[0C83]
+Les ennemis essaient de prendre
+votre ch[teau!
+D>fendez avec toutes vos unit>s!
+[0C84]
+Attaque en Pincer
+[0C85]
+Tuez le leader!
+[0C86]
+C'est une bataille et vous ^tes
+encercl> de tous c_t>s! Renforcez
+votre d>fense et vos unit>s volantes
+vous aideront < attaquer les unit>s en mer!
+[0C87]
+Une Mission Solo
+[0C88]
+Vaincre tous les ennemis
+[0C89]
+Roy doit combattre tous ces puissants
+bandits seul! Le fils d'Eliwood
+peut-il les affronter tous en m^me temps?
+[0C8A]
+Embl{me de Feu
+[0C8B]
+Cerf des Plaines
+[0C8C]
+La Fronti{re
+[0C8D]
+R>gion Polaire
+[0C8E]
+Monde des Dragons
+[0C8F]
+Sanctuaire du Dragon
+[0C90]
+H>ritage L>gendaire
+[0C91]
+Carte CP de FE Gaiden
+[0C92]
+Messagers des T>n{bres
+[0C93]
+Au-del< du Ciel
+[0C94]
+Pour les Commandants
+[0C95]
+Dans la Nature Magnifique
+[0C96]
+Sous une Nouvelle Lumi{re
+[0C97]
+Le Chemin vers la Grandeur
+[0C98]
+Cicatrices de la D>vastation
+[0C99]
+Carte Joueur de FE Gaiden
+[0C9A]
+L'Ombre Approche
+[0C9B]
+Liens Liants
+[0C9C]
+Route de la Victoire
+[0C9D]
+Po{me du Vent Doux
+[0C9E]
+Au Dernier "Dragon"
+[0C9F]
+[0CA0]
+Au Nom de Biran
+[0CA1]
+Bataille pour Qui?
+[0CA2]
+Chaman dans l'Ombre
+[0CA3]
+Gu>rison
+[0CA4]
+Soins
+[0CA5]
+Vers les Sommets
+[0CA6]
+I - Campagne
+[0CA7]
+II - Reprendre la Capitale Royale
+[0CA8]
+III - Ennemi Invisible
+[0CA9]
+IV - Chapitre Final
+[0CAA]
+Pr>parez-vous < Charger
+[0CAB]
+Un Appel Inattendu
+[0CAC]
+Quand la Ru>e Arrive
+[0CAD]
+Rouages du Destin
+[0CAE]
+Utopie Lointaine
+[0CAF]
+Triomphe
+[0CB0]
+Dans l'Ombre du Triomphe
+[0CB1]
+Sorci{re des T>n{bres
+[0CB2]
+Le Roi de Biran
+[0CB3]
+Princesse du Destin
+[0CB4]
+Suspicion
+[0CB5]
+Dignit>
+[0CB6]
+M>lancolie
+[0CB7]
+Dernier Adieu
+[0CB8]
+Suis Mon Chemin
+[0CB9]
+Rejoignez-nous!
+[0CBA]
+Epilogue
+[0CBB]
+R>sultats de la Bataille
+[0CBC]
+Apr{s la Guerre
+[0CBD]
+Fin du Jeu
+[0CBE]
+Boutique
+[0CBF]
+Ar{ne ~ Entr>e
+[0CC0]
+Ar{ne ~ Bataille
+[0CC1]
+Bonheur Abondant
+[0CC2]
+Motif du Th{me Principal
+[0CC3]
+V>rit> Choquante I
+[0CC4]
+V>rit> Choquante II
+[0CC5]
+Parler
+[0CC6]
+Danse de Captivation
+[0CC7]
+Pr>lude ~ Raconter une L>gende
+[0CC8]
+Vent Eternel
+[0CC9]
+Ce Qui S'est Pass> Avant
+[0CCA]
+Attaque!
+[0CCB]
+Vengeance!
+[0CCC]
+[0CCD]
+Carte Ennemi 1
+[0CCE]
+Carte Ennemi 2
+[0CCF]
+Carte Ennemi 3
+[0CD0]
+Carte Ennemi 4
+[0CD1]
+Carte Ennemi 5
+[0CD2]
+Carte Ennemi 6
+[0CD3]
+Carte Ennemi 7
+[0CD4]
+Carte Ennemi 8
+[0CD5]
+Carte Joueur 1
+[0CD6]
+Carte Joueur 2
+[0CD7]
+Carte Joueur 3
+[0CD8]
+Carte Joueur 4
+[0CD9]
+Carte Joueur 5
+[0CDA]
+Carte Joueur 6
+[0CDB]
+Carte Joueur 7
+[0CDC]
+Carte Joueur 8
+[0CDD]
+Carte Joueur 9
+[0CDE]
+Carte Joueur (Pr{s de la Victoire)
+[0CDF]
+Ecran de Bataille (Elphin)
+[0CE0]
+Ecran de Bataille (Yan)
+[0CE1]
+Ecran de Bataille (Boss)
+[0CE2]
+Ecran de Bataille (3 G>n>raux)
+[0CE3]
+Ecran de Bataille (Zephiel)
+[0CE4]
+Ecran de Bataille (Idoun)
+[0CE5]
+Ecran de Bataille (Statut)
+[0CE6]
+Ecran de Bataille (Soin)
+[0CE7]
+Changement de Classe
+[0CE8]
+Carte Totale 1
+[0CE9]
+Carte Totale 2
+[0CEA]
+Carte Totale 3
+[0CEB]
+Carte Totale 4
+[0CEC]
+Pr>parations de Bataille
+[0CED]
+Ouverture, Ev>nement Final
+[0CEE]
+Ouverture, Ev>nement Final
+[0CEF]
+Ouverture, Ev>nement Final
+[0CF0]
+Ouverture, Ev>nement Final
+[0CF1]
+Ouverture, Ev>nement Final
+[0CF2]
+Ouverture, Ev>nement Final
+[0CF3]
+Th{me d'Idoun
+[0CF4]
+Th{me de Zephiel
+[0CF5]
+Th{me de Guinevere
+[0CF6]
+Th{me de Narshen
+[0CF7]
+Th{me de Murdock
+[0CF8]
+Th{me de Brenya
+[0CF9]
+Ev>nement
+[0CFA]
+Ev>nement
+[0CFB]
+R>union
+[0CFC]
+Epilogue
+[0CFD]
+Ecran de Score
+[0CFE]
+Fin
+[0CFF]
+Game Over
+[0D00]
+Boutique
+[0D01]
+Ar{ne 1 (Entr>e)
+[0D02]
+Ar{ne 2 (Bataille)
+[0D03]
+Ev>nement
+[0D04]
+Ev>nement
+[0D05]
+Ev>nement
+[0D06]
+Ev>nement
+[0D07]
+Ev>nement
+[0D08]
+Ecran de Bataille (Danses de Lalum)
+[0D09]
+Ouverture
+[0D0A]
+[0D0B]
+[0D0C]
+Ecran de Bataille (Joueur)
+[0D0D]
+Ecran de Bataille (CP)
